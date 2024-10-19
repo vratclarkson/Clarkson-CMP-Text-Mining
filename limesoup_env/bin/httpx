@@ -1,0 +1,10 @@
+#!/bin/sh
+'''exec' "/Users/school/Library/CloudStorage/GoogleDrive-vr@clarkson.edu/.shortcut-targets-by-id/16C9K8uzEq3--C1IN_GpWfxeCYlzdD-Bj/7. Micron Project/F2/Text Mining/LimeSoup/limesoup_env/bin/python3.12" "$0" "$@"
+' '''
+# -*- coding: utf-8 -*-
+import re
+import sys
+from httpx import main
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(main())
