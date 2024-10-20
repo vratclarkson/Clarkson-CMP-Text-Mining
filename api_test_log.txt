@@ -1,0 +1,6 @@
+Starting API test
+Response status: 200
+Response headers: {"Date": "Sun, 20 Oct 2024 19:46:51 GMT", "Content-Type": "text/xml;charset=UTF-8", "Content-Length": "238893", "Connection": "close", "allow": "GET", "Content-Disposition": "inline;filename=f.txt", "Last-Modified": "Fri, 15 May 2015 03:24:04 GMT", "Vary": "Origin", "X-ELS-APIKey": "b2b74324bf927a84a18b896f5e67a978", "X-ELS-ReqId": "592b68e6462dab1e", "X-ELS-ResourceVersion": "default", "X-ELS-Status": "OK", "X-ELS-TransId": "4646f6e75fde2993", "CF-Cache-Status": "DYNAMIC", "Set-Cookie": "__cf_bm=FzEelMyO9CpPyimSW8agUD_.hJI88h9D4l9MJ9N9khU-1729453611-1.0.1.1-oVgktD3eGPZDFE4ZeV080Iioaptk6Yd6lZjEnsfDVNsnTw0EH6m18rTAs4wA02t2tsog.jy6aX76z9AXSIHOdA; path=/; expires=Sun, 20-Oct-24 20:16:51 GMT; domain=.elsevier.com; HttpOnly; Secure; SameSite=None", "Server": "cloudflare", "CF-RAY": "8d5b842a48bf42a6-EWR"}
+XML content for DOI 10.1016/j.colsurfa.2011.07.039 has been saved to test_output.xml
+First 100 characters of XML content: <full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http:/
+Script execution completed.

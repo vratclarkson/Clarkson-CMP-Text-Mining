@@ -1,0 +1,25 @@
+Starting DOI processing
+Processing DOI: 10.1016/j.colsurfa.2011.07.039
+Successfully processed DOI: 10.1016/j.colsurfa.2011.07.039
+Processing DOI: 10.1016/j.apsusc.2015.03.170
+Successfully processed DOI: 10.1016/j.apsusc.2015.03.170
+Processing DOI: 10.1016/j.mssp.2022.107043
+Successfully processed DOI: 10.1016/j.mssp.2022.107043
+Processing DOI: 10.1016/8978-0-12-821791-7.00002-2
+An error occurred while fetching XML for DOI 10.1016/8978-0-12-821791-7.00002-2: HTTP Error 404: Not Found
+Failed to fetch XML for DOI: 10.1016/8978-0-12-821791-7.00002-2
+Processing DOI: 10.1016/j.apsusc.2015.09.149
+Successfully processed DOI: 10.1016/j.apsusc.2015.09.149
+Processing DOI: 10.1016/j.solidstatesciences.2009.08.014
+Successfully processed DOI: 10.1016/j.solidstatesciences.2009.08.014
+Processing DOI: 10.1016/j.jcrysgro.2013.03.011
+Successfully processed DOI: 10.1016/j.jcrysgro.2013.03.011
+Processing DOI: 10.1016/j.mssp.2021.106280
+Successfully processed DOI: 10.1016/j.mssp.2021.106280
+Processing DOI: 10.1016/j.ijheatmasstransfer.2014.07.020
+Successfully processed DOI: 10.1016/j.ijheatmasstransfer.2014.07.020
+Processing DOI: 10.1016/j.ceramint.2022.10.037
+Successfully processed DOI: 10.1016/j.ceramint.2022.10.037
+An error occurred while writing to CSV: [Errno 13] Permission denied: 'processed_papers.csv'
+DOI processing completed
+Processing completed. Results written to 'processed_papers.csv'. Please check 'process_log.txt' for details.

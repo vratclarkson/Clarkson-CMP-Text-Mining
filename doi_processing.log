@@ -1,0 +1,78 @@
+2024-10-20 15:40:52,611 - INFO - Starting DOI processing
+2024-10-20 15:40:52,612 - INFO - Processing DOI: 10.1016/j.colsurfa.2011.07.039
+2024-10-20 15:40:53,401 - INFO - HTTP Request: GET https://api.elsevier.com/content/article/doi/10.1016/j.colsurfa.2011.07.039?httpAccept=text/xml "HTTP/1.1 401 Unauthorized"
+2024-10-20 15:40:53,402 - ERROR - API Key error. Please check your Elsevier API key.
+2024-10-20 15:40:53,402 - WARNING - Failed to fetch XML for DOI: 10.1016/j.colsurfa.2011.07.039
+2024-10-20 15:40:53,402 - INFO - Processing DOI: 10.1016/j.apsusc.2015.03.170
+2024-10-20 15:40:54,201 - INFO - HTTP Request: GET https://api.elsevier.com/content/article/doi/10.1016/j.apsusc.2015.03.170?httpAccept=text/xml "HTTP/1.1 401 Unauthorized"
+2024-10-20 15:40:54,202 - ERROR - API Key error. Please check your Elsevier API key.
+2024-10-20 15:40:54,203 - WARNING - Failed to fetch XML for DOI: 10.1016/j.apsusc.2015.03.170
+2024-10-20 15:40:54,203 - INFO - Processing DOI: 10.1016/j.mssp.2022.107043
+2024-10-20 15:40:55,012 - INFO - HTTP Request: GET https://api.elsevier.com/content/article/doi/10.1016/j.mssp.2022.107043?httpAccept=text/xml "HTTP/1.1 401 Unauthorized"
+2024-10-20 15:40:55,013 - ERROR - API Key error. Please check your Elsevier API key.
+2024-10-20 15:40:55,013 - WARNING - Failed to fetch XML for DOI: 10.1016/j.mssp.2022.107043
+2024-10-20 15:40:55,013 - INFO - Processing DOI: 10.1016/8978-0-12-821791-7.00002-2
+2024-10-20 15:40:55,808 - INFO - HTTP Request: GET https://api.elsevier.com/content/article/doi/10.1016/8978-0-12-821791-7.00002-2?httpAccept=text/xml "HTTP/1.1 401 Unauthorized"
+2024-10-20 15:40:55,809 - ERROR - API Key error. Please check your Elsevier API key.
+2024-10-20 15:40:55,809 - WARNING - Failed to fetch XML for DOI: 10.1016/8978-0-12-821791-7.00002-2
+2024-10-20 15:40:55,809 - INFO - Processing DOI: 10.1016/j.apsusc.2015.09.149
+2024-10-20 15:40:56,573 - INFO - HTTP Request: GET https://api.elsevier.com/content/article/doi/10.1016/j.apsusc.2015.09.149?httpAccept=text/xml "HTTP/1.1 401 Unauthorized"
+2024-10-20 15:40:56,573 - ERROR - API Key error. Please check your Elsevier API key.
+2024-10-20 15:40:56,573 - WARNING - Failed to fetch XML for DOI: 10.1016/j.apsusc.2015.09.149
+2024-10-20 15:40:56,573 - INFO - Processing DOI: 10.1016/j.solidstatesciences.2009.08.014
+2024-10-20 15:40:57,362 - INFO - HTTP Request: GET https://api.elsevier.com/content/article/doi/10.1016/j.solidstatesciences.2009.08.014?httpAccept=text/xml "HTTP/1.1 401 Unauthorized"
+2024-10-20 15:40:57,363 - ERROR - API Key error. Please check your Elsevier API key.
+2024-10-20 15:40:57,363 - WARNING - Failed to fetch XML for DOI: 10.1016/j.solidstatesciences.2009.08.014
+2024-10-20 15:40:57,363 - INFO - Processing DOI: 10.1016/j.jcrysgro.2013.03.011
+2024-10-20 15:40:58,150 - INFO - HTTP Request: GET https://api.elsevier.com/content/article/doi/10.1016/j.jcrysgro.2013.03.011?httpAccept=text/xml "HTTP/1.1 401 Unauthorized"
+2024-10-20 15:40:58,151 - ERROR - API Key error. Please check your Elsevier API key.
+2024-10-20 15:40:58,151 - WARNING - Failed to fetch XML for DOI: 10.1016/j.jcrysgro.2013.03.011
+2024-10-20 15:40:58,151 - INFO - Processing DOI: 10.1016/j.mssp.2021.106280
+2024-10-20 15:40:58,987 - INFO - HTTP Request: GET https://api.elsevier.com/content/article/doi/10.1016/j.mssp.2021.106280?httpAccept=text/xml "HTTP/1.1 401 Unauthorized"
+2024-10-20 15:40:58,987 - ERROR - API Key error. Please check your Elsevier API key.
+2024-10-20 15:40:58,987 - WARNING - Failed to fetch XML for DOI: 10.1016/j.mssp.2021.106280
+2024-10-20 15:40:58,987 - INFO - Processing DOI: 10.1016/j.ijheatmasstransfer.2014.07.020
+2024-10-20 15:40:59,907 - INFO - HTTP Request: GET https://api.elsevier.com/content/article/doi/10.1016/j.ijheatmasstransfer.2014.07.020?httpAccept=text/xml "HTTP/1.1 401 Unauthorized"
+2024-10-20 15:40:59,907 - ERROR - API Key error. Please check your Elsevier API key.
+2024-10-20 15:40:59,907 - WARNING - Failed to fetch XML for DOI: 10.1016/j.ijheatmasstransfer.2014.07.020
+2024-10-20 15:40:59,907 - INFO - Processing DOI: 10.1016/j.ceramint.2022.10.037
+2024-10-20 15:41:00,745 - INFO - HTTP Request: GET https://api.elsevier.com/content/article/doi/10.1016/j.ceramint.2022.10.037?httpAccept=text/xml "HTTP/1.1 401 Unauthorized"
+2024-10-20 15:41:00,746 - ERROR - API Key error. Please check your Elsevier API key.
+2024-10-20 15:41:00,746 - WARNING - Failed to fetch XML for DOI: 10.1016/j.ceramint.2022.10.037
+2024-10-20 15:41:00,746 - ERROR - An error occurred while writing to CSV: [Errno 13] Permission denied: 'processed_papers.csv'
+2024-10-20 15:41:00,746 - INFO - DOI processing completed
+2024-10-20 15:42:48,882 - INFO - Starting DOI processing
+2024-10-20 15:42:48,883 - INFO - Processing DOI: 10.1016/j.colsurfa.2011.07.039
+2024-10-20 15:42:50,123 - INFO - HTTP Request: GET https://api.elsevier.com/content/article/doi/10.1016/j.colsurfa.2011.07.039?httpAccept=text/xml "HTTP/1.1 200 OK"
+2024-10-20 15:42:50,174 - INFO - Successfully processed DOI: 10.1016/j.colsurfa.2011.07.039
+2024-10-20 15:42:50,174 - INFO - Processing DOI: 10.1016/j.apsusc.2015.03.170
+2024-10-20 15:42:51,337 - INFO - HTTP Request: GET https://api.elsevier.com/content/article/doi/10.1016/j.apsusc.2015.03.170?httpAccept=text/xml "HTTP/1.1 200 OK"
+2024-10-20 15:42:51,366 - INFO - Successfully processed DOI: 10.1016/j.apsusc.2015.03.170
+2024-10-20 15:42:51,367 - INFO - Processing DOI: 10.1016/j.mssp.2022.107043
+2024-10-20 15:42:52,461 - INFO - HTTP Request: GET https://api.elsevier.com/content/article/doi/10.1016/j.mssp.2022.107043?httpAccept=text/xml "HTTP/1.1 200 OK"
+2024-10-20 15:42:52,494 - INFO - Successfully processed DOI: 10.1016/j.mssp.2022.107043
+2024-10-20 15:42:52,494 - INFO - Processing DOI: 10.1016/8978-0-12-821791-7.00002-2
+2024-10-20 15:42:53,365 - INFO - HTTP Request: GET https://api.elsevier.com/content/article/doi/10.1016/8978-0-12-821791-7.00002-2?httpAccept=text/xml "HTTP/1.1 404 Not Found"
+2024-10-20 15:42:53,365 - ERROR - HTTP error occurred while fetching XML for DOI 10.1016/8978-0-12-821791-7.00002-2: Client error '404 Not Found' for url 'https://api.elsevier.com/content/article/doi/10.1016/8978-0-12-821791-7.00002-2?httpAccept=text/xml'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2024-10-20 15:42:53,367 - WARNING - Failed to fetch XML for DOI: 10.1016/8978-0-12-821791-7.00002-2
+2024-10-20 15:42:53,367 - INFO - Processing DOI: 10.1016/j.apsusc.2015.09.149
+2024-10-20 15:42:54,516 - INFO - HTTP Request: GET https://api.elsevier.com/content/article/doi/10.1016/j.apsusc.2015.09.149?httpAccept=text/xml "HTTP/1.1 200 OK"
+2024-10-20 15:42:54,545 - INFO - Successfully processed DOI: 10.1016/j.apsusc.2015.09.149
+2024-10-20 15:42:54,545 - INFO - Processing DOI: 10.1016/j.solidstatesciences.2009.08.014
+2024-10-20 15:42:55,604 - INFO - HTTP Request: GET https://api.elsevier.com/content/article/doi/10.1016/j.solidstatesciences.2009.08.014?httpAccept=text/xml "HTTP/1.1 200 OK"
+2024-10-20 15:42:55,632 - INFO - Successfully processed DOI: 10.1016/j.solidstatesciences.2009.08.014
+2024-10-20 15:42:55,633 - INFO - Processing DOI: 10.1016/j.jcrysgro.2013.03.011
+2024-10-20 15:42:56,749 - INFO - HTTP Request: GET https://api.elsevier.com/content/article/doi/10.1016/j.jcrysgro.2013.03.011?httpAccept=text/xml "HTTP/1.1 200 OK"
+2024-10-20 15:42:56,768 - INFO - Successfully processed DOI: 10.1016/j.jcrysgro.2013.03.011
+2024-10-20 15:42:56,769 - INFO - Processing DOI: 10.1016/j.mssp.2021.106280
+2024-10-20 15:42:58,037 - INFO - HTTP Request: GET https://api.elsevier.com/content/article/doi/10.1016/j.mssp.2021.106280?httpAccept=text/xml "HTTP/1.1 200 OK"
+2024-10-20 15:42:58,091 - INFO - Successfully processed DOI: 10.1016/j.mssp.2021.106280
+2024-10-20 15:42:58,092 - INFO - Processing DOI: 10.1016/j.ijheatmasstransfer.2014.07.020
+2024-10-20 15:42:59,239 - INFO - HTTP Request: GET https://api.elsevier.com/content/article/doi/10.1016/j.ijheatmasstransfer.2014.07.020?httpAccept=text/xml "HTTP/1.1 200 OK"
+2024-10-20 15:42:59,295 - INFO - Successfully processed DOI: 10.1016/j.ijheatmasstransfer.2014.07.020
+2024-10-20 15:42:59,296 - INFO - Processing DOI: 10.1016/j.ceramint.2022.10.037
+2024-10-20 15:43:00,494 - INFO - HTTP Request: GET https://api.elsevier.com/content/article/doi/10.1016/j.ceramint.2022.10.037?httpAccept=text/xml "HTTP/1.1 200 OK"
+2024-10-20 15:43:00,531 - INFO - Successfully processed DOI: 10.1016/j.ceramint.2022.10.037
+2024-10-20 15:43:00,532 - ERROR - An error occurred while writing to CSV: [Errno 13] Permission denied: 'processed_papers.csv'
+2024-10-20 15:43:00,533 - INFO - DOI processing completed
