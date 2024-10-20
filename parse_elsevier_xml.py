@@ -1,32 +1,50 @@
-import sys
-from LimeSoup.ElsevierSoup_XML import ElsevierXMLSoup
+import xml.etree.ElementTree as ET
+import csv
 
-def parse_elsevier_xml(xml_file_path):
-    # Read the XML file
-    with open(xml_file_path, 'r', encoding='utf-8') as file:
-        xml_content = file.read()
+def parse_xml(xml_file):
+    tree = ET.parse(xml_file)
+    root = tree.getroot()
 
-    # Parse the XML content using ElsevierXMLSoup
-    parsed_data = ElsevierXMLSoup.parse(xml_content)
+    # Define the namespace
+    ns = {'ja': 'http://www.elsevier.com/xml/ja/dtd'}
 
-    # Print the extracted information
-    print("Journal:", parsed_data.get('Journal'))
-    print("DOI:", parsed_data.get('DOI'))
-    print("Title:", parsed_data.get('Title'))
-    print("Keywords:", ', '.join(parsed_data.get('Keywords', [])))
-    
-    print("\nSections:")
-    for section in parsed_data.get('Sections', []):
-        if isinstance(section, dict):
-            print(f"\n{section['name']}:")
-            print(section['content'])
-        else:
-            print(section)
+    # Extract sections
+    sections = {}
+    for section in root.findall('.//ja:ce:sections/ja:ce:section', ns):
+        title = section.find('ja:ce:section-title', ns).text
+        content = ' '.join([p.text for p in section.findall('.//ja:ce:para', ns) if p.text])
+        sections[title] = content
+
+    # Extract title and abstract
+    title = root.find('.//ja:ce:title', ns).text
+    abstract = ' '.join([p.text for p in root.findall('.//ja:ce:abstract//ja:ce:simple-para', ns) if p.text])
+
+    # Add title and abstract to sections
+    sections['Title'] = title
+    sections['Abstract'] = abstract
+
+    return sections
+
+def write_to_csv(data, output_file):
+    with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
+        writer = csv.writer(csvfile)
+        writer.writerow(['Section', 'Content'])  # Header
+        for section, content in data.items():
+            writer.writerow([section, content])
+
+def write_output(data, output_file):
+    with open(output_file, 'w', encoding='utf-8') as f:
+        f.write("Parsed XML Data:\n\n")
+        for section, content in data.items():
+            f.write(f"{section}:\n{content}\n\n")
 
 if __name__ == "__main__":
-    if len(sys.argv) != 2:
-        print("Usage: python parse_elsevier_xml.py <path_to_full_paper.xml>")
-        sys.exit(1)
-
-    xml_file_path = sys.argv[1]
-    parse_elsevier_xml(xml_file_path)
+    input_file = "full_paper.xml"
+    csv_file = "Cerium_Oxide_01.csv"
+    output_file = "parsed_output.txt"
+    
+    sections = parse_xml(input_file)
+    write_to_csv(sections, csv_file)
+    write_output(sections, output_file)
+    
+    print(f"CSV file '{csv_file}' and output file '{output_file}' have been created successfully.")

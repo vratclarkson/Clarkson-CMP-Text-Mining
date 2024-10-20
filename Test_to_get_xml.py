@@ -3,7 +3,7 @@ import time
 import xml.dom.minidom
 
 # Define constants
-PAPER_DOI = "10.1016/j.surfin.2024.104682"
+PAPER_DOI = "10.1016/j.colsurfa.2011.07.039"
 API_KEY = "890a2c153b09210cea2748119fe33b58"
 
 def get_full_xml(paper_doi, apikey):
