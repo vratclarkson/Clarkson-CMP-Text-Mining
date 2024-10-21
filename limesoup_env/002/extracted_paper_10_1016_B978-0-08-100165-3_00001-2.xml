@@ -1,0 +1,1816 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/B9780081001653000012</prism:url><dc:identifier>doi:10.1016/B978-0-08-100165-3.00001-2</dc:identifier><eid>3-s2.0-B9780081001653000012</eid><prism:doi>10.1016/B978-0-08-100165-3.00001-2</prism:doi><pii>B978-0-08-100165-3.00001-2</pii><dc:title>1 Chemical and physical mechanisms of dielectric chemical mechanical polishing (CMP) </dc:title><prism:publicationName>Advances in Chemical Mechanical Planarization (CMP)</prism:publicationName><prism:aggregationType>EBook</prism:aggregationType><pubType>chp</pubType><prism:isbn>9780081001653</prism:isbn><prism:startingPage>3</prism:startingPage><prism:endingPage>26</prism:endingPage><prism:pageRange>3-26</prism:pageRange><dcterms:isPartOf>urn:isbn:978-0-08-100165-3</dcterms:isPartOf><dc:format>application/xml</dc:format><prism:coverDate>2016-12-31</prism:coverDate><prism:coverDisplayDate>2016</prism:coverDisplayDate><prism:copyright>Copyright © 2016 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Moon, Y.</dc:creator><dc:description>
+               Dielectric chemical mechanical polishing (CMP) was implemented in semiconductor fabrication as a simple alternative planarization process for the interlevel dielectrics surface instead of the reactive ion etching process of the 1980s. Since then, there have been a growing number of applications of the dielectric CMP process in advanced semiconductor fabrication because of multiple “new” integration schemes (such as replacement metal gate (RMG), or self-aligned contact), which require advanced planarization technology. It is important to understand its history, material removal mechanism, defect formation, and present and future applications to comprehend why dielectric CMP has to be used, how the material is removed, and how the defect is created. By understanding what has been studied on the current dielectric CMP process, future applications of dielectric CMP can be further improved for better process performance and, therefore, for better device performance and yield.
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Chemical mechanical planarization</dcterms:subject><dcterms:subject>Chemical mechanical polishing (CMP)</dcterms:subject><dcterms:subject>Interlevel dielectrics (ILD)</dcterms:subject><dcterms:subject>Oxide CMP</dcterms:subject><dcterms:subject>Semiconductor fabrication</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/B9780081001653000012" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/B9780081001653000012" rel="scidir"/></coredata><objects><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="450" height="15" size="1425">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-si1.gif?httpAccept=%2A%2F%2A</object><object ref="f01-24-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="319" height="200" size="36017">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-24-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f01-24-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="138" size="20963">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-24-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f01-05-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="316" height="286" size="45539">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-05-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f01-05-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="181" height="164" size="15675">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-05-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f01-18-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="471" height="209" size="34052">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-18-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f01-18-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="97" size="10275">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-18-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f01-06-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="329" height="324" size="71879">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-06-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f01-06-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="166" height="164" size="17929">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-06-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f01-27-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="419" height="199" size="46621">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-27-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f01-27-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="104" size="13546">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-27-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f01-13-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="530" height="320" size="84076">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-13-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f01-13-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="132" size="23163">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-13-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f01-07-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="525" height="386" size="67476">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-07-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f01-07-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="161" size="16733">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-07-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f01-19-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="527" height="322" size="76690">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-19-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f01-19-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="134" size="17550">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-19-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f01-21-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="525" height="440" size="56166">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-21-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f01-21-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="196" height="164" size="14096">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-21-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f01-22-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="353" height="140" size="37870">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-22-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f01-22-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="87" size="15189">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-22-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f01-03-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="526" height="250" size="77717">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-03-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f01-03-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="104" size="14715">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-03-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f01-30-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="407" height="304" size="69528">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-30-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f01-30-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="164" size="23984">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-30-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f01-12-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="791" height="156" size="33439">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-12-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f01-12-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="43" size="6989">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-12-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f01-15-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="445" height="206" size="53827">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-15-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f01-15-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="101" size="12584">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-15-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f01-29-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="335" height="201" size="38874">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-29-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f01-29-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="131" size="21958">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-29-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f01-16-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="372" height="237" size="34713">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-16-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f01-16-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="140" size="11407">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-16-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f01-10-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="532" height="283" size="63089">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-10-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f01-10-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="116" size="17098">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-10-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f01-20-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="447" height="347" size="78430">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-20-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f01-20-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="211" height="164" size="21785">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-20-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f01-14-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="412" height="166" size="56028">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-14-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f01-14-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="88" size="23458">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-14-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f01-02-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="516" height="443" size="63547">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-02-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f01-02-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="191" height="164" size="12674">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-02-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f01-25-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="450" height="426" size="53217">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-25-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f01-25-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="173" height="164" size="13124">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-25-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f01-09-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="366" height="358" size="69901">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-09-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f01-09-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="168" height="164" size="17482">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-09-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f01-28-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="515" height="407" size="64809">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-28-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f01-28-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="208" height="164" size="13894">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-28-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f01-01-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="515" height="254" size="88454">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-01-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f01-01-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="108" size="21076">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-01-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f01-11-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="531" height="248" size="75585">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-11-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f01-11-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="102" size="23872">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-11-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f01-26-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="513" height="205" size="59217">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-26-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f01-26-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="88" size="13978">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-26-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f01-04-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="278" height="288" size="52404">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-04-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f01-04-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="158" height="164" size="14308">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-04-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f01-08-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="416" height="287" size="46880">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-08-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f01-08-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="151" size="15982">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-08-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f01-23-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="472" height="468" size="80931">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-23-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f01-23-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="165" height="164" size="17909">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-23-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f01-17-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="375" height="181" size="57043">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-17-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f01-17-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="106" size="19842">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000012-f01-17-9780081001653.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>84967012331</scopus-id><scopus-eid>2-s2.0-84967012331</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84967012331" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>nonserial</xocs:content-family>
+      <xocs:content-type>BK</xocs:content-type>
+      <xocs:cid>314408</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291892</xocs:ssid>
+         <xocs:ssid type="content">35</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Advances in Chemical Mechanical Planarization (CMP)</xocs:srctitle>
+      <xocs:normalized-srctitle>ADVANCESINCHEMICALMECHANICALPLANARIZATIONCMP</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20160217">2016-02-17</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20160219">2016-02-19</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20160217">2016-02-17</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20160219">2016-02-19</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2016-02-17T09:22:38</xocs:ew-transaction-id>
+      <xocs:eid>3-s2.0-B9780081001653000012</xocs:eid>
+      <xocs:pii-formatted>B978-0-08-100165-3.00001-2</xocs:pii-formatted>
+      <xocs:pii-unformatted>B9780081001653000012</xocs:pii-unformatted>
+      <xocs:doi>10.1016/B978-0-08-100165-3.00001-2</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>3-s2.0-C20140014451</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160223">2016-02-23T01:05:24.710815-05:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20160101</xocs:date-search-begin>
+      <xocs:date-search-end>20161231</xocs:date-search-end>
+      <xocs:year-nav>2016</xocs:year-nav>
+      <xocs:indexeddate epoch="1455705396">2016-02-17T10:36:36.980767Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confeditor contenttype copyright dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate isbn isbns isbnnorm isbnsnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids content subj subheadings tomb webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authkeywords authlast primabst ref figure body mmlmath</xocs:articleinfo>
+      <xocs:isbns>
+         <xocs:isbn-primary-formatted purpose="HARDBOUND">978-0-08-100165-3</xocs:isbn-primary-formatted>
+         <xocs:isbn-primary-unformatted purpose="HARDBOUND">9780081001653</xocs:isbn-primary-unformatted>
+         <xocs:isbn-formatted purpose="ONLINE">978-0-08-100218-6</xocs:isbn-formatted>
+         <xocs:isbn-unformatted purpose="ONLINE">9780081002186</xocs:isbn-unformatted>
+      </xocs:isbns>
+      <xocs:display-name>Advances in Chemical Mechanical Planarization (CMP)</xocs:display-name>
+      <xocs:sort-order>7</xocs:sort-order>
+      <xocs:first-fp>3</xocs:first-fp>
+      <xocs:last-lp>26</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>3</xocs:first-page>
+         <xocs:last-page>26</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-text>2016</xocs:cover-date-text>
+      <xocs:cover-date-start>2016-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2016-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2016</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:editors>
+               <ce:author-group id="augrp0010">
+                  <ce:author id="au1">
+                     <ce:given-name>Suryadevara</ce:given-name>
+                     <ce:surname>Babu</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:hub-sec>
+         <xocs:hub-sec-label>Part One</xocs:hub-sec-label>
+         <xocs:hub-sec-title>CMP of dielectric and metal films</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>chapter</xocs:document-type>
+      <xocs:document-subtype>chp</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2016 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>CHEMICALPHYSICALMECHANISMSDIELECTRICCHEMICALMECHANICALPOLISHINGCMP</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>MOON</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>Y</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1.1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1.2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>History of dielectric CMP</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1.3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Material removal mechanism of dielectric CMP</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1.4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Defectivity of dielectric CMP</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1.5</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Major applications of dielectric CMP</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>1.5.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>STI CMP</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>1.5.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Oxide ILD CMP</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>1.5.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Poly open CMP (POC) process</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>1.5.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>SiN CMP</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1.6</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Future of dielectric CMP</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="ref0010">
+            <xocs:ref-normalized-surname>BONORA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>55</xocs:ref-first-fp>
+            <xocs:ref-last-lp>62</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="ref0015">
+            <xocs:ref-normalized-surname>WOLF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROCESSTECHNOLOGY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="ref0020">
+            <xocs:ref-normalized-surname>BURGGRAAF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>74</xocs:ref-first-fp>
+            <xocs:ref-last-lp>82</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="ref0025">
+            <xocs:ref-normalized-surname>DAVARI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>341</xocs:ref-first-fp>
+            <xocs:ref-last-lp>344</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>IEEEIEDMTECHNICALDIGEST89</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>ANEWPLANARIZATIONTECHNIQUEUSINGACOMBINATIONRIECHEMICALMECHANICALPOLISHCMP</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="ref0030">
+            <xocs:ref-normalized-surname>MOON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CSTIC2015SHANGHAICHINA</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>TECHNICALCHALLENGESINCHEMICALMECHANICALPOLISHINGCMPFORSUB10NMLOGICTECHNOLOGY</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="ref0035">
+            <xocs:ref-normalized-surname>PRESTON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1927</xocs:ref-pub-year>
+            <xocs:ref-first-fp>214</xocs:ref-first-fp>
+            <xocs:ref-last-lp>256</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="ref0040">
+            <xocs:ref-normalized-surname>COOK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>152</xocs:ref-first-fp>
+            <xocs:ref-last-lp>171</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="ref0045">
+            <xocs:ref-normalized-surname>MOON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MECHANICALASPECTSMATERIALREMOVALMECHANISMINCHEMICALMECHANICALPOLISHINGCMP</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="ref0050">
+            <xocs:ref-normalized-surname>WILLIAMS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ENGINEERINGTRIBOLOGY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="ref0055">
+            <xocs:ref-normalized-surname>MOON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CAMP2008LAKEPLACIDNY</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>DEFECTREDUCTIONFIXEDABRASIVESTICMP</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="ref0060">
+            <xocs:ref-normalized-surname>GOLINI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="ref0065">
+            <xocs:ref-normalized-surname>SUH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>TRIBOPHYSICS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="ref0070">
+            <xocs:ref-normalized-surname>CHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MONITORINGCHARACTERIZATIONGRINDINGLAPPINGPROCESSES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="ref0075">
+            <xocs:ref-normalized-surname>MOON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ADMETA2008TOKYO</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>CHALLENGESINPLANARIZATIONFORSUB32NMLOGICTECHNOLOGY</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>MOONX2016X3</xocs:refkey3>
+         <xocs:refkey4lp>MOONX2016X3X26</xocs:refkey4lp>
+         <xocs:refkey4ai>MOONX2016X3XY</xocs:refkey4ai>
+         <xocs:refkey5>MOONX2016X3X26XY</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>B978-0-08-100165-3.00001-2</xocs:pii-formatted>
+         <xocs:pii-unformatted>B9780081001653000012</xocs:pii-unformatted>
+         <xocs:eid>3-s2.0-B9780081001653000012</xocs:eid>
+         <xocs:doi>10.1016/B978-0-08-100165-3.00001-2</xocs:doi>
+         <xocs:cid>314408</xocs:cid>
+         <xocs:timestamp>2016-02-19T09:06:01.284922-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2016-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2016-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/MAIN/application/pdf/56aa89ed1c63f79c4861878e3e968626/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/MAIN/application/pdf/56aa89ed1c63f79c4861878e3e968626/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>4705587</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>24</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>3-s2.0-B9780081001653000012-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/PREVIEW/image/png/83053ad30f68aee6cb19185e7c4f6b55/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/PREVIEW/image/png/83053ad30f68aee6cb19185e7c4f6b55/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>55289</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/STRIPIN/image/gif/82ee250de1437d28fda113699c98b2a7/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/STRIPIN/image/gif/82ee250de1437d28fda113699c98b2a7/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1425</xocs:filesize>
+               <xocs:pixel-height>15</xocs:pixel-height>
+               <xocs:pixel-width>450</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-24-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-24-9780081001653/DOWNSAMPLED/image/jpeg/4147085aed65f6479216168eb5717fc4/f01-24-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-24-9780081001653/DOWNSAMPLED/image/jpeg/4147085aed65f6479216168eb5717fc4/f01-24-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f01-24-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-24-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>36017</xocs:filesize>
+               <xocs:pixel-height>200</xocs:pixel-height>
+               <xocs:pixel-width>319</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-24-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-24-9780081001653/THUMBNAIL/image/gif/1c8aa0bdf281ba315bbc6d2b74734fc8/f01-24-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-24-9780081001653/THUMBNAIL/image/gif/1c8aa0bdf281ba315bbc6d2b74734fc8/f01-24-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f01-24-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-24-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>20963</xocs:filesize>
+               <xocs:pixel-height>138</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-05-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-05-9780081001653/DOWNSAMPLED/image/jpeg/69fcf8e3339ba29585224ac96e34a5dc/f01-05-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-05-9780081001653/DOWNSAMPLED/image/jpeg/69fcf8e3339ba29585224ac96e34a5dc/f01-05-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f01-05-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-05-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>45539</xocs:filesize>
+               <xocs:pixel-height>286</xocs:pixel-height>
+               <xocs:pixel-width>316</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-05-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-05-9780081001653/THUMBNAIL/image/gif/71d82f4fbd80d2d2f70d4f8297c8c4f9/f01-05-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-05-9780081001653/THUMBNAIL/image/gif/71d82f4fbd80d2d2f70d4f8297c8c4f9/f01-05-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f01-05-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-05-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>15675</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>181</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-18-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-18-9780081001653/DOWNSAMPLED/image/jpeg/9511c117dfa815e7fc82092c54d4ebf3/f01-18-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-18-9780081001653/DOWNSAMPLED/image/jpeg/9511c117dfa815e7fc82092c54d4ebf3/f01-18-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f01-18-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-18-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>34052</xocs:filesize>
+               <xocs:pixel-height>209</xocs:pixel-height>
+               <xocs:pixel-width>471</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-18-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-18-9780081001653/THUMBNAIL/image/gif/d9a2f0b9fc007bd45e1484c0bf1d2320/f01-18-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-18-9780081001653/THUMBNAIL/image/gif/d9a2f0b9fc007bd45e1484c0bf1d2320/f01-18-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f01-18-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-18-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10275</xocs:filesize>
+               <xocs:pixel-height>97</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-06-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-06-9780081001653/DOWNSAMPLED/image/jpeg/7c3a13a51e31b7b8e4548d8f3918c7ab/f01-06-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-06-9780081001653/DOWNSAMPLED/image/jpeg/7c3a13a51e31b7b8e4548d8f3918c7ab/f01-06-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f01-06-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-06-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>71879</xocs:filesize>
+               <xocs:pixel-height>324</xocs:pixel-height>
+               <xocs:pixel-width>329</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-06-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-06-9780081001653/THUMBNAIL/image/gif/b776db81cdc57a6222af94ef8e1117ae/f01-06-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-06-9780081001653/THUMBNAIL/image/gif/b776db81cdc57a6222af94ef8e1117ae/f01-06-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f01-06-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-06-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>17929</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>166</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-27-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-27-9780081001653/DOWNSAMPLED/image/jpeg/c6261725830c5108de2a20db868c1237/f01-27-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-27-9780081001653/DOWNSAMPLED/image/jpeg/c6261725830c5108de2a20db868c1237/f01-27-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f01-27-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-27-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>46621</xocs:filesize>
+               <xocs:pixel-height>199</xocs:pixel-height>
+               <xocs:pixel-width>419</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-27-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-27-9780081001653/THUMBNAIL/image/gif/5b4cc6ccd3ac7223a9d1c377635fd7e1/f01-27-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-27-9780081001653/THUMBNAIL/image/gif/5b4cc6ccd3ac7223a9d1c377635fd7e1/f01-27-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f01-27-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-27-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>13546</xocs:filesize>
+               <xocs:pixel-height>104</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-13-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-13-9780081001653/DOWNSAMPLED/image/jpeg/64e120a90eaf9fb151221fc3bf62e367/f01-13-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-13-9780081001653/DOWNSAMPLED/image/jpeg/64e120a90eaf9fb151221fc3bf62e367/f01-13-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f01-13-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-13-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>84076</xocs:filesize>
+               <xocs:pixel-height>320</xocs:pixel-height>
+               <xocs:pixel-width>530</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-13-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-13-9780081001653/THUMBNAIL/image/gif/9703ab97328567b734f2ec7036425512/f01-13-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-13-9780081001653/THUMBNAIL/image/gif/9703ab97328567b734f2ec7036425512/f01-13-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f01-13-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-13-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>23163</xocs:filesize>
+               <xocs:pixel-height>132</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-07-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-07-9780081001653/DOWNSAMPLED/image/jpeg/a0cf184d950b274c420423bb6e18be18/f01-07-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-07-9780081001653/DOWNSAMPLED/image/jpeg/a0cf184d950b274c420423bb6e18be18/f01-07-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f01-07-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-07-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>67476</xocs:filesize>
+               <xocs:pixel-height>386</xocs:pixel-height>
+               <xocs:pixel-width>525</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-07-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-07-9780081001653/THUMBNAIL/image/gif/bc4ef4d65f7bfcbabac2f835c25b92a6/f01-07-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-07-9780081001653/THUMBNAIL/image/gif/bc4ef4d65f7bfcbabac2f835c25b92a6/f01-07-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f01-07-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-07-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>16733</xocs:filesize>
+               <xocs:pixel-height>161</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-19-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-19-9780081001653/DOWNSAMPLED/image/jpeg/628be49bdf27385b9611f71090be4a85/f01-19-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-19-9780081001653/DOWNSAMPLED/image/jpeg/628be49bdf27385b9611f71090be4a85/f01-19-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f01-19-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-19-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>76690</xocs:filesize>
+               <xocs:pixel-height>322</xocs:pixel-height>
+               <xocs:pixel-width>527</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-19-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-19-9780081001653/THUMBNAIL/image/gif/65868f714cd17d08a8bb35776b7bf793/f01-19-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-19-9780081001653/THUMBNAIL/image/gif/65868f714cd17d08a8bb35776b7bf793/f01-19-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f01-19-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-19-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>17550</xocs:filesize>
+               <xocs:pixel-height>134</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-21-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-21-9780081001653/DOWNSAMPLED/image/jpeg/47cd67ec3926f08baa9516f109922df8/f01-21-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-21-9780081001653/DOWNSAMPLED/image/jpeg/47cd67ec3926f08baa9516f109922df8/f01-21-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f01-21-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-21-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>56166</xocs:filesize>
+               <xocs:pixel-height>440</xocs:pixel-height>
+               <xocs:pixel-width>525</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-21-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-21-9780081001653/THUMBNAIL/image/gif/ac428aac54b5aa929d623bdc6270122c/f01-21-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-21-9780081001653/THUMBNAIL/image/gif/ac428aac54b5aa929d623bdc6270122c/f01-21-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f01-21-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-21-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>14096</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>196</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-22-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-22-9780081001653/DOWNSAMPLED/image/jpeg/807a93c54d570d0a48b40ece776532ca/f01-22-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-22-9780081001653/DOWNSAMPLED/image/jpeg/807a93c54d570d0a48b40ece776532ca/f01-22-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f01-22-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-22-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>37870</xocs:filesize>
+               <xocs:pixel-height>140</xocs:pixel-height>
+               <xocs:pixel-width>353</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-22-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-22-9780081001653/THUMBNAIL/image/gif/db9777b5a2edbd387e5e1a4bff54a9c5/f01-22-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-22-9780081001653/THUMBNAIL/image/gif/db9777b5a2edbd387e5e1a4bff54a9c5/f01-22-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f01-22-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-22-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>15189</xocs:filesize>
+               <xocs:pixel-height>87</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-03-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-03-9780081001653/DOWNSAMPLED/image/jpeg/20845b145fd8bb1b137131faa9895d2e/f01-03-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-03-9780081001653/DOWNSAMPLED/image/jpeg/20845b145fd8bb1b137131faa9895d2e/f01-03-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f01-03-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-03-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>77717</xocs:filesize>
+               <xocs:pixel-height>250</xocs:pixel-height>
+               <xocs:pixel-width>526</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-03-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-03-9780081001653/THUMBNAIL/image/gif/c947ae75fe92de169e24c0e366e41edf/f01-03-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-03-9780081001653/THUMBNAIL/image/gif/c947ae75fe92de169e24c0e366e41edf/f01-03-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f01-03-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-03-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>14715</xocs:filesize>
+               <xocs:pixel-height>104</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-30-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-30-9780081001653/DOWNSAMPLED/image/jpeg/d2d0845cc53cb4a50a98f1f4ea8f2f82/f01-30-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-30-9780081001653/DOWNSAMPLED/image/jpeg/d2d0845cc53cb4a50a98f1f4ea8f2f82/f01-30-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f01-30-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-30-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>69528</xocs:filesize>
+               <xocs:pixel-height>304</xocs:pixel-height>
+               <xocs:pixel-width>407</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-30-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-30-9780081001653/THUMBNAIL/image/gif/c254ef12c861498ed014fdccb372778d/f01-30-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-30-9780081001653/THUMBNAIL/image/gif/c254ef12c861498ed014fdccb372778d/f01-30-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f01-30-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-30-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>23984</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-12-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-12-9780081001653/DOWNSAMPLED/image/jpeg/4f42a3f2f3d69a3721f8d26d05fa338f/f01-12-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-12-9780081001653/DOWNSAMPLED/image/jpeg/4f42a3f2f3d69a3721f8d26d05fa338f/f01-12-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f01-12-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-12-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>33439</xocs:filesize>
+               <xocs:pixel-height>156</xocs:pixel-height>
+               <xocs:pixel-width>791</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-12-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-12-9780081001653/THUMBNAIL/image/gif/ff1eb50972fed7c434e4263c3fb0fefa/f01-12-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-12-9780081001653/THUMBNAIL/image/gif/ff1eb50972fed7c434e4263c3fb0fefa/f01-12-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f01-12-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-12-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6989</xocs:filesize>
+               <xocs:pixel-height>43</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-15-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-15-9780081001653/DOWNSAMPLED/image/jpeg/c1fad32ddc33140d9402a957945ada48/f01-15-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-15-9780081001653/DOWNSAMPLED/image/jpeg/c1fad32ddc33140d9402a957945ada48/f01-15-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f01-15-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-15-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>53827</xocs:filesize>
+               <xocs:pixel-height>206</xocs:pixel-height>
+               <xocs:pixel-width>445</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-15-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-15-9780081001653/THUMBNAIL/image/gif/6bb025a8213fb27968d9c2218cd27aca/f01-15-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-15-9780081001653/THUMBNAIL/image/gif/6bb025a8213fb27968d9c2218cd27aca/f01-15-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f01-15-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-15-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12584</xocs:filesize>
+               <xocs:pixel-height>101</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-29-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-29-9780081001653/DOWNSAMPLED/image/jpeg/95c3e1b05422507de9bd31afb95bf4bb/f01-29-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-29-9780081001653/DOWNSAMPLED/image/jpeg/95c3e1b05422507de9bd31afb95bf4bb/f01-29-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f01-29-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-29-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>38874</xocs:filesize>
+               <xocs:pixel-height>201</xocs:pixel-height>
+               <xocs:pixel-width>335</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-29-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-29-9780081001653/THUMBNAIL/image/gif/43f5dfe92aa4894e81a74929d2c31a5b/f01-29-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-29-9780081001653/THUMBNAIL/image/gif/43f5dfe92aa4894e81a74929d2c31a5b/f01-29-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f01-29-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-29-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>21958</xocs:filesize>
+               <xocs:pixel-height>131</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-16-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-16-9780081001653/DOWNSAMPLED/image/jpeg/ddf21c8b5d88e2590b91dc14310c167b/f01-16-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-16-9780081001653/DOWNSAMPLED/image/jpeg/ddf21c8b5d88e2590b91dc14310c167b/f01-16-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f01-16-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-16-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>34713</xocs:filesize>
+               <xocs:pixel-height>237</xocs:pixel-height>
+               <xocs:pixel-width>372</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-16-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-16-9780081001653/THUMBNAIL/image/gif/c0e22a2eed378faf432203e9c81856a6/f01-16-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-16-9780081001653/THUMBNAIL/image/gif/c0e22a2eed378faf432203e9c81856a6/f01-16-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f01-16-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-16-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11407</xocs:filesize>
+               <xocs:pixel-height>140</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-10-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-10-9780081001653/DOWNSAMPLED/image/jpeg/f12fba5caaf4e4324cdf36d3104c8c01/f01-10-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-10-9780081001653/DOWNSAMPLED/image/jpeg/f12fba5caaf4e4324cdf36d3104c8c01/f01-10-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f01-10-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-10-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>63089</xocs:filesize>
+               <xocs:pixel-height>283</xocs:pixel-height>
+               <xocs:pixel-width>532</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-10-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-10-9780081001653/THUMBNAIL/image/gif/d2ddd5e16418f9fa1113a0e98252b2b2/f01-10-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-10-9780081001653/THUMBNAIL/image/gif/d2ddd5e16418f9fa1113a0e98252b2b2/f01-10-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f01-10-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-10-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>17098</xocs:filesize>
+               <xocs:pixel-height>116</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-20-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-20-9780081001653/DOWNSAMPLED/image/jpeg/5c2671776bf51f1926d95ad4428dcb6a/f01-20-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-20-9780081001653/DOWNSAMPLED/image/jpeg/5c2671776bf51f1926d95ad4428dcb6a/f01-20-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f01-20-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-20-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>78430</xocs:filesize>
+               <xocs:pixel-height>347</xocs:pixel-height>
+               <xocs:pixel-width>447</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-20-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-20-9780081001653/THUMBNAIL/image/gif/ad44a2d874e7e7ec145e5187481999c6/f01-20-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-20-9780081001653/THUMBNAIL/image/gif/ad44a2d874e7e7ec145e5187481999c6/f01-20-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f01-20-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-20-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>21785</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>211</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-14-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-14-9780081001653/DOWNSAMPLED/image/jpeg/c08f90ebfb8793677f29b4d05bfba81c/f01-14-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-14-9780081001653/DOWNSAMPLED/image/jpeg/c08f90ebfb8793677f29b4d05bfba81c/f01-14-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f01-14-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-14-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>56028</xocs:filesize>
+               <xocs:pixel-height>166</xocs:pixel-height>
+               <xocs:pixel-width>412</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-14-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-14-9780081001653/THUMBNAIL/image/gif/c23e64581406f1e281c0cf6ec8136057/f01-14-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-14-9780081001653/THUMBNAIL/image/gif/c23e64581406f1e281c0cf6ec8136057/f01-14-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f01-14-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-14-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>23458</xocs:filesize>
+               <xocs:pixel-height>88</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-02-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-02-9780081001653/DOWNSAMPLED/image/jpeg/4a54ecc573f0649cff671a246e3ca07f/f01-02-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-02-9780081001653/DOWNSAMPLED/image/jpeg/4a54ecc573f0649cff671a246e3ca07f/f01-02-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f01-02-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-02-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>63547</xocs:filesize>
+               <xocs:pixel-height>443</xocs:pixel-height>
+               <xocs:pixel-width>516</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-02-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-02-9780081001653/THUMBNAIL/image/gif/13c7ae279adcb0253b5da0ebbe66e4d8/f01-02-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-02-9780081001653/THUMBNAIL/image/gif/13c7ae279adcb0253b5da0ebbe66e4d8/f01-02-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f01-02-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-02-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12674</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>191</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-25-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-25-9780081001653/DOWNSAMPLED/image/jpeg/c9832282c25a122bb5600f3a6d960006/f01-25-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-25-9780081001653/DOWNSAMPLED/image/jpeg/c9832282c25a122bb5600f3a6d960006/f01-25-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f01-25-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-25-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>53217</xocs:filesize>
+               <xocs:pixel-height>426</xocs:pixel-height>
+               <xocs:pixel-width>450</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-25-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-25-9780081001653/THUMBNAIL/image/gif/25ba637add6f997f3df28706a13e7954/f01-25-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-25-9780081001653/THUMBNAIL/image/gif/25ba637add6f997f3df28706a13e7954/f01-25-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f01-25-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-25-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>13124</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>173</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-09-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-09-9780081001653/DOWNSAMPLED/image/jpeg/28e595a8b48558a5136e6f8e036e5659/f01-09-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-09-9780081001653/DOWNSAMPLED/image/jpeg/28e595a8b48558a5136e6f8e036e5659/f01-09-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f01-09-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-09-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>69901</xocs:filesize>
+               <xocs:pixel-height>358</xocs:pixel-height>
+               <xocs:pixel-width>366</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-09-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-09-9780081001653/THUMBNAIL/image/gif/0246b8202b7ded908fc2321c9edbdbf8/f01-09-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-09-9780081001653/THUMBNAIL/image/gif/0246b8202b7ded908fc2321c9edbdbf8/f01-09-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f01-09-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-09-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>17482</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>168</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-28-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-28-9780081001653/DOWNSAMPLED/image/jpeg/4bd16ae83daebc5ac4b83f572b55ed7b/f01-28-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-28-9780081001653/DOWNSAMPLED/image/jpeg/4bd16ae83daebc5ac4b83f572b55ed7b/f01-28-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f01-28-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-28-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>64809</xocs:filesize>
+               <xocs:pixel-height>407</xocs:pixel-height>
+               <xocs:pixel-width>515</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-28-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-28-9780081001653/THUMBNAIL/image/gif/7162733eddc91cac22e9df753a09ea69/f01-28-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-28-9780081001653/THUMBNAIL/image/gif/7162733eddc91cac22e9df753a09ea69/f01-28-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f01-28-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-28-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>13894</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>208</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-01-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-01-9780081001653/DOWNSAMPLED/image/jpeg/00f303fc294e1e0fe988dea1ac9678e2/f01-01-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-01-9780081001653/DOWNSAMPLED/image/jpeg/00f303fc294e1e0fe988dea1ac9678e2/f01-01-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f01-01-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-01-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>88454</xocs:filesize>
+               <xocs:pixel-height>254</xocs:pixel-height>
+               <xocs:pixel-width>515</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-01-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-01-9780081001653/THUMBNAIL/image/gif/e43e33c0d432d664ef1d34d290a01dcf/f01-01-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-01-9780081001653/THUMBNAIL/image/gif/e43e33c0d432d664ef1d34d290a01dcf/f01-01-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f01-01-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-01-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>21076</xocs:filesize>
+               <xocs:pixel-height>108</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-11-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-11-9780081001653/DOWNSAMPLED/image/jpeg/a272c9dc1bb19a38a14c6d35a5072c8d/f01-11-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-11-9780081001653/DOWNSAMPLED/image/jpeg/a272c9dc1bb19a38a14c6d35a5072c8d/f01-11-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f01-11-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-11-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>75585</xocs:filesize>
+               <xocs:pixel-height>248</xocs:pixel-height>
+               <xocs:pixel-width>531</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-11-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-11-9780081001653/THUMBNAIL/image/gif/a8b2bb5f376b6cbf0bbd0b7a8e954fda/f01-11-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-11-9780081001653/THUMBNAIL/image/gif/a8b2bb5f376b6cbf0bbd0b7a8e954fda/f01-11-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f01-11-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-11-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>23872</xocs:filesize>
+               <xocs:pixel-height>102</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-26-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-26-9780081001653/DOWNSAMPLED/image/jpeg/f28a4c433b086c443d8eda1118b0948c/f01-26-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-26-9780081001653/DOWNSAMPLED/image/jpeg/f28a4c433b086c443d8eda1118b0948c/f01-26-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f01-26-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-26-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>59217</xocs:filesize>
+               <xocs:pixel-height>205</xocs:pixel-height>
+               <xocs:pixel-width>513</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-26-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-26-9780081001653/THUMBNAIL/image/gif/05c5a9c21e3700e61036963fca78c1f7/f01-26-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-26-9780081001653/THUMBNAIL/image/gif/05c5a9c21e3700e61036963fca78c1f7/f01-26-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f01-26-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-26-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>13978</xocs:filesize>
+               <xocs:pixel-height>88</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-04-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-04-9780081001653/DOWNSAMPLED/image/jpeg/ec4a8aff0a02f3ea04e6633022205410/f01-04-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-04-9780081001653/DOWNSAMPLED/image/jpeg/ec4a8aff0a02f3ea04e6633022205410/f01-04-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f01-04-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-04-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>52404</xocs:filesize>
+               <xocs:pixel-height>288</xocs:pixel-height>
+               <xocs:pixel-width>278</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-04-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-04-9780081001653/THUMBNAIL/image/gif/0a87775e0446f0e1f9a814b14ff81587/f01-04-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-04-9780081001653/THUMBNAIL/image/gif/0a87775e0446f0e1f9a814b14ff81587/f01-04-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f01-04-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-04-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>14308</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>158</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-08-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-08-9780081001653/DOWNSAMPLED/image/jpeg/e8e4b2b6e4b1a9dbcbb97415e33500af/f01-08-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-08-9780081001653/DOWNSAMPLED/image/jpeg/e8e4b2b6e4b1a9dbcbb97415e33500af/f01-08-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f01-08-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-08-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>46880</xocs:filesize>
+               <xocs:pixel-height>287</xocs:pixel-height>
+               <xocs:pixel-width>416</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-08-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-08-9780081001653/THUMBNAIL/image/gif/d4830e51c5dad0d8a1cee416831e2a5e/f01-08-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-08-9780081001653/THUMBNAIL/image/gif/d4830e51c5dad0d8a1cee416831e2a5e/f01-08-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f01-08-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-08-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>15982</xocs:filesize>
+               <xocs:pixel-height>151</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-23-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-23-9780081001653/DOWNSAMPLED/image/jpeg/3d8c0455ea1ea7b29921680bc00b1dc9/f01-23-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-23-9780081001653/DOWNSAMPLED/image/jpeg/3d8c0455ea1ea7b29921680bc00b1dc9/f01-23-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f01-23-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-23-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>80931</xocs:filesize>
+               <xocs:pixel-height>468</xocs:pixel-height>
+               <xocs:pixel-width>472</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-23-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-23-9780081001653/THUMBNAIL/image/gif/5e6d45116305d1773bb387909b97de6a/f01-23-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-23-9780081001653/THUMBNAIL/image/gif/5e6d45116305d1773bb387909b97de6a/f01-23-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f01-23-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-23-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>17909</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>165</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-17-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-17-9780081001653/DOWNSAMPLED/image/jpeg/55663de2ce2a2ac5be149e78406a880e/f01-17-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-17-9780081001653/DOWNSAMPLED/image/jpeg/55663de2ce2a2ac5be149e78406a880e/f01-17-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f01-17-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-17-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>57043</xocs:filesize>
+               <xocs:pixel-height>181</xocs:pixel-height>
+               <xocs:pixel-width>375</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000012-f01-17-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000012/f01-17-9780081001653/THUMBNAIL/image/gif/9358cd8c0538176f88ddefb5edd5068d/f01-17-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000012/f01-17-9780081001653/THUMBNAIL/image/gif/9358cd8c0538176f88ddefb5edd5068d/f01-17-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f01-17-9780081001653</xocs:file-basename>
+               <xocs:filename>f01-17-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>19842</xocs:filesize>
+               <xocs:pixel-height>106</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:nonserial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <chapter xmlns="http://www.elsevier.com/xml/bk/dtd" version="5.4" id="c0001" docsubtype="chp" xml:lang="en">
+         <info>
+            <ce:pii>B978-0-08-100165-3.00001-2</ce:pii>
+            <ce:doi>10.1016/B978-0-08-100165-3.00001-2</ce:doi>
+            <ce:isbn>978-0-08-100165-3</ce:isbn>
+            <ce:copyright type="full-transfer" year="2016">Elsevier Ltd</ce:copyright>
+         </info>
+         <ce:floats>
+            <ce:figure id="f0010">
+               <ce:label>Figure 1.1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="fspara0010" view="all">CMP applications in advanced logic technology <ce:cross-refs refid="bib5 bib13" id="crossref0010">[5,13]</ce:cross-refs>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f01-01-9780081001653" id="link1"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Figure 1.2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="fspara0015" view="all">Friction force measurement during the CMP process <ce:cross-ref refid="bib8" id="crossref0015">[8]</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f01-02-9780081001653" id="link2"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Figure 1.3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="fspara0020" view="all">Friction force measurement during the CMP process <ce:cross-ref refid="bib8" id="crossref0020">[8]</ce:cross-ref>. (a) Without polishing slurry and (b) with polishing slurry.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f01-03-9780081001653" id="link3"/>
+            </ce:figure>
+            <ce:figure id="f0025">
+               <ce:label>Figure 1.4</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="fspara0025" view="all">Stribeck curve <ce:cross-refs refid="bib8 bib9" id="crossrefs0010">[8,9]</ce:cross-refs>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f01-04-9780081001653" id="link4"/>
+            </ce:figure>
+            <ce:figure id="f0030">
+               <ce:label>Figure 1.5</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="fspara0030" view="all">Illustration of CMP with different slurry film thickness <ce:cross-ref refid="bib8" id="crossref0025">[8]</ce:cross-ref>. (a) CMP with thinner slurry film and (b) CMP with thicker slurry film.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f01-05-9780081001653" id="link5"/>
+            </ce:figure>
+            <ce:figure id="f0035">
+               <ce:label>Figure 1.6</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="fspara0035" view="all">Amount of material removal per sliding distance during CMP <ce:cross-ref refid="bib8" id="crossref0030">[8]</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f01-06-9780081001653" id="link6"/>
+            </ce:figure>
+            <ce:figure id="f0040">
+               <ce:label>Figure 1.7</ce:label>
+               <ce:caption id="cap0040">
+                  <ce:simple-para id="fspara0040" view="all">Illustration of the material removal per sliding distance with two different slurry films during CMP <ce:cross-ref refid="bib8" id="crossref0035">[8]</ce:cross-ref>. (a) CMP with thinner slurry film and (b) CMP with thicker slurry film.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f01-07-9780081001653" id="link7"/>
+            </ce:figure>
+            <ce:figure id="f0045">
+               <ce:label>Figure 1.8</ce:label>
+               <ce:caption id="cap0045">
+                  <ce:simple-para id="fspara0045" view="all">Illustration of preparation of chemical-less and abrasive-less polishing slurry <ce:cross-ref refid="bib8" id="crossref0040">[8]</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f01-08-9780081001653" id="link8"/>
+            </ce:figure>
+            <ce:figure id="f0050">
+               <ce:label>Figure 1.9</ce:label>
+               <ce:caption id="cap0050">
+                  <ce:simple-para id="fspara0050" view="all">Material removal per sliding distance from mechanical polishing and chemical polishing <ce:cross-ref refid="bib8" id="crossref0045">[8]</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f01-09-9780081001653" id="link9"/>
+            </ce:figure>
+            <ce:figure id="f0055">
+               <ce:label>Figure 1.10</ce:label>
+               <ce:caption id="cap0055">
+                  <ce:simple-para id="fspara0055" view="all">Material removal mechanism in the CMP process <ce:cross-ref refid="bib8" id="crossref0050">[8]</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f01-10-9780081001653" id="link10"/>
+            </ce:figure>
+            <ce:figure id="f0060">
+               <ce:label>Figure 1.11</ce:label>
+               <ce:caption id="cap0060">
+                  <ce:simple-para id="fspara0060" view="all">SEM images of micro-scratch at post-STI CMP process <ce:cross-ref refid="bib10" id="crossref0055">[10]</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f01-11-9780081001653" id="link11"/>
+            </ce:figure>
+            <ce:figure id="f0065">
+               <ce:label>Figure 1.12</ce:label>
+               <ce:caption id="cap0065">
+                  <ce:simple-para id="fspara0065" view="all">STI CMP process <ce:cross-ref refid="bib10" id="crossref0060">[10]</ce:cross-ref>. (a) Pre-CMP, (b) STI CMP, (c) oxide deglazing, and (d) nitride strip.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f01-12-9780081001653" id="link12"/>
+            </ce:figure>
+            <ce:figure id="f0070">
+               <ce:label>Figure 1.13</ce:label>
+               <ce:caption id="cap0070">
+                  <ce:simple-para id="fspara0070" view="all">SEM images of micro-scratch at post-STI CMP process <ce:cross-ref refid="bib10" id="crossref0065">[10]</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f01-13-9780081001653" id="link13"/>
+            </ce:figure>
+            <ce:figure id="f0075">
+               <ce:label>Figure 1.14</ce:label>
+               <ce:caption id="cap0075">
+                  <ce:simple-para id="fspara0075" view="all">Images of polished glass surface after polishing (before etch) and after etching.</ce:simple-para>
+               </ce:caption>
+               <ce:source>Reproduced with permission Ref. <ce:cross-ref refid="bib11" id="crossref0070">[11]</ce:cross-ref>, © 1991 Optical Society of America.</ce:source>
+               <ce:link locator="f01-14-9780081001653" id="link14"/>
+            </ce:figure>
+            <ce:figure id="f0080">
+               <ce:label>Figure 1.15</ce:label>
+               <ce:caption id="cap0080">
+                  <ce:simple-para id="fspara0080" view="all">Stress created in glass surface due to bonding between polishing particle and glass surface.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f01-15-9780081001653" id="link15"/>
+            </ce:figure>
+            <ce:figure id="f0085">
+               <ce:label>Figure 1.16</ce:label>
+               <ce:caption id="cap0085">
+                  <ce:simple-para id="fspara0085" view="all">Resultant stress field due to inclined loading of a surface <ce:cross-ref refid="bib12" id="crossref0080">[12]</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f01-16-9780081001653" id="link16"/>
+            </ce:figure>
+            <ce:figure id="f0090">
+               <ce:label>Figure 1.17</ce:label>
+               <ce:caption id="cap0090">
+                  <ce:simple-para id="fspara0090" view="all">Circular-shape lateral crack under normal pressure indentation on a brittle surface <ce:cross-ref refid="bib13" id="crossref0085">[13]</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f01-17-9780081001653" id="link17"/>
+            </ce:figure>
+            <ce:figure id="f0095">
+               <ce:label>Figure 1.18</ce:label>
+               <ce:caption id="cap0095">
+                  <ce:simple-para id="fspara0095" view="all">Polishing scratch mechanism in dielectric CMP <ce:cross-ref refid="bib10" id="crossref0090">[10]</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f01-18-9780081001653" id="link18"/>
+            </ce:figure>
+            <ce:figure id="f0100">
+               <ce:label>Figure 1.19</ce:label>
+               <ce:caption id="cap0100">
+                  <ce:simple-para id="fspara0100" view="all">Side view of polishing scratch after oxide deglazing step at post-STI CMP <ce:cross-ref refid="bib10" id="crossref0095">[10]</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f01-19-9780081001653" id="link19"/>
+            </ce:figure>
+            <ce:figure id="f0105">
+               <ce:label>Figure 1.20</ce:label>
+               <ce:caption id="cap0105">
+                  <ce:simple-para id="fspara0105" view="all">The number of CMP steps with technology nodes.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f01-20-9780081001653" id="link20"/>
+            </ce:figure>
+            <ce:figure id="f0110">
+               <ce:label>Figure 1.21</ce:label>
+               <ce:caption id="cap0110">
+                  <ce:simple-para id="fspara0110" view="all">STI CMP process <ce:cross-ref refid="bib5" id="crossref0100">[5]</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f01-21-9780081001653" id="link21"/>
+            </ce:figure>
+            <ce:figure id="f0115">
+               <ce:label>Figure 1.22</ce:label>
+               <ce:caption id="cap0115">
+                  <ce:simple-para id="fspara0115" view="all">SEM images of STI CMP wafer <ce:cross-ref refid="bib5" id="crossref0105">[5]</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f01-22-9780081001653" id="link22"/>
+            </ce:figure>
+            <ce:figure id="f0120">
+               <ce:label>Figure 1.23</ce:label>
+               <ce:caption id="cap0120">
+                  <ce:simple-para id="fspara0120" view="all">Oxide ILD CMP process.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f01-23-9780081001653" id="link23"/>
+            </ce:figure>
+            <ce:figure id="f0125">
+               <ce:label>Figure 1.24</ce:label>
+               <ce:caption id="cap0125">
+                  <ce:simple-para id="fspara0125" view="all">SEM image after oxide ILD CMP process <ce:cross-ref refid="bib14" id="crossref0110">[14]</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f01-24-9780081001653" id="link24"/>
+            </ce:figure>
+            <ce:figure id="f0130">
+               <ce:label>Figure 1.25</ce:label>
+               <ce:caption id="cap0130">
+                  <ce:simple-para id="fspara0130" view="all">Poly open CMP (POC) process <ce:cross-ref refid="bib5" id="crossref0115">[5]</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f01-25-9780081001653" id="link25"/>
+            </ce:figure>
+            <ce:figure id="f0135">
+               <ce:label>Figure 1.26</ce:label>
+               <ce:caption id="cap0135">
+                  <ce:simple-para id="fspara0135" view="all">SEM image after the poly open CMP (POC) process <ce:cross-ref refid="bib5" id="crossref0120">[5]</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f01-26-9780081001653" id="link26"/>
+            </ce:figure>
+            <ce:figure id="f0140">
+               <ce:label>Figure 1.27</ce:label>
+               <ce:caption id="cap0140">
+                  <ce:simple-para id="fspara0140" view="all">Misalignment of contact metal on source/drain.</ce:simple-para>
+               </ce:caption>
+               <ce:source>Ref. <ce:cross-ref refid="bib5" id="crossref0125">[5]</ce:cross-ref>.</ce:source>
+               <ce:link locator="f01-27-9780081001653" id="link27"/>
+            </ce:figure>
+            <ce:figure id="f0145">
+               <ce:label>Figure 1.28</ce:label>
+               <ce:caption id="cap0145">
+                  <ce:simple-para id="fspara0145" view="all">Silicon nitride (SiN) CMP process <ce:cross-ref refid="bib5" id="crossref0130">[5]</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f01-28-9780081001653" id="link28"/>
+            </ce:figure>
+            <ce:figure id="f0150">
+               <ce:label>Figure 1.29</ce:label>
+               <ce:caption id="cap0150">
+                  <ce:simple-para id="fspara0150" view="all">SEM image at post-SiN CMP <ce:cross-ref refid="bib5" id="crossref0135">[5]</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f01-29-9780081001653" id="link29"/>
+            </ce:figure>
+            <ce:figure id="f0155">
+               <ce:label>Figure 1.30</ce:label>
+               <ce:caption id="cap0155">
+                  <ce:simple-para id="fspara0155" view="all">Future direction of CMP technology <ce:cross-ref refid="bib5" id="crossref0140">[5]</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f01-30-9780081001653" id="link30"/>
+            </ce:figure>
+         </ce:floats>
+         <ce:label>1</ce:label>
+         <ce:title id="title0010">Chemical and physical mechanisms of dielectric chemical mechanical polishing (CMP)</ce:title>
+         <ce:author-group id="augrp0010">
+            <ce:author id="au1">
+               <ce:given-name>Y.</ce:given-name>
+               <ce:surname>Moon</ce:surname>
+            </ce:author>
+            <ce:affiliation id="aff1">
+               <ce:textfn id="textf0010">Advanced Technology Development (ATD), GLOBALFOUNDRIES, Malta, NY, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Advanced Technology Development (ATD)</sa:organization>
+                  <sa:organization>GLOBALFOUNDRIES</sa:organization>
+                  <sa:city>Malta</sa:city>
+                  <sa:state>NY</sa:state>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+            </ce:affiliation>
+         </ce:author-group>
+         <ce:abstract xml:lang="en" view="extended" id="abs0010" class="author"><ce:abstract-sec id="abssec0010" view="all">
+               <ce:simple-para id="abspara0010" view="all">Dielectric chemical mechanical polishing (CMP) was implemented in semiconductor fabrication as a simple alternative planarization process for the interlevel dielectrics surface instead of the reactive ion etching process of the 1980s. Since then, there have been a growing number of applications of the dielectric CMP process in advanced semiconductor fabrication because of multiple “new” integration schemes (such as replacement metal gate (RMG), or self-aligned contact), which require advanced planarization technology. It is important to understand its history, material removal mechanism, defect formation, and present and future applications to comprehend why dielectric CMP has to be used, how the material is removed, and how the defect is created. By understanding what has been studied on the current dielectric CMP process, future applications of dielectric CMP can be further improved for better process performance and, therefore, for better device performance and yield.</ce:simple-para>
+            </ce:abstract-sec></ce:abstract>
+         <ce:keywords xml:lang="en" view="extended" id="kwrds0010" class="keyword">
+            <ce:section-title id="cesectitle0015">Keywords</ce:section-title>
+            <ce:keyword id="kwrd0010">
+               <ce:text>Chemical mechanical planarization</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0015">
+               <ce:text>Chemical mechanical polishing (CMP)</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0025">
+               <ce:text>Interlevel dielectrics (ILD)</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0030">
+               <ce:text>Oxide CMP</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0035">
+               <ce:text>Semiconductor fabrication</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+         <ce:sections>
+            <ce:section id="s0010" view="all">
+               <ce:label>1.1</ce:label>
+               <ce:section-title id="cesectitle0020">Introduction</ce:section-title>
+               <ce:para id="p0010" view="all">A dielectric material is an electrical insulator (such as silicon dioxide), which is widely used in semiconductor fabrication. In shallow trench isolation (STI), dielectric material separates the two transistors by being located between two devices. In the interlevel dielectric (ILD) layer, a dielectric separates the whole device region from the metallization layer as an independent layer located between the front-end-of-line (FEOL) and back-end-of-line (BEOL). Dielectric chemical mechanical polishing (CMP) is the CMP process that will polish and planarize dielectrics. Dielectric CMP is the first CMP process used in modern microdevice fabrication and the most widely used among all the CMP processes in memory devices as well as in logic devices in semiconductor manufacturing. In this chapter, the dielectric CMP is reviewed from its material removal mechanisms to its applications in semiconductor fabrication. It is important to understand its history, its motivation to use, and its future application in advanced semiconductor technology.</ce:para>
+            </ce:section>
+            <ce:section id="s0015" view="all">
+               <ce:label>1.2</ce:label>
+               <ce:section-title id="cesectitle0025">History of dielectric CMP</ce:section-title>
+               <ce:para id="p0015" view="all">CMP or planarization is a relatively new fabrication technology in semiconductor manufacturing, compared to lithography, etching, or thin film deposition technology. The concept of polishing has been used for centuries for optics fabrication. In the early 1950s, polishing was implemented in preparing silicon wafer substrate to minimize any surface damage <ce:cross-refs refid="bib1 bib2" id="crossrefs0015">[1,2]</ce:cross-refs>. In the 1980s, polishing was used as part of the integrated circuit fabrication process to planarize the ILD surface instead of reactive ion etching (RIE) technology <ce:cross-ref refid="bib3" id="crossref0145">[3]</ce:cross-ref>, and the first technical paper on CMP was published in the late 1980s <ce:cross-ref refid="bib4" id="crossref0150">[4]</ce:cross-ref>. Since then, ILD CMP has become the process of choice for ILD planarization and the role of the CMP process has expanded to other applications such as STI, tungsten contact formation, or copper metallization by damascene technology.</ce:para>
+               <ce:para id="p0020" view="all">In the advanced semiconductor technology node, dielectric CMP is no longer a simple dielectric planarization process. The applications of dielectric CMP technology<ce:anchor id="p4"/> further extended to multiple modules to enable critical integration schemes such as replacement metal gate (RMG), multigate transistor, or self-aligned contact (SAC) modules. In particular, since CMP's use in gate formation, the technological requirement from the dielectric CMP process went beyond what the conventional dielectric CMP process was able to deliver. The number of CMP processes in advanced semiconductor manufacturing has also expanded up to 20–30 steps because of RMG and fin formation (<ce:cross-ref refid="f0010" id="crossref0155">Figure 1.1</ce:cross-ref>
+                  <ce:float-anchor refid="f0010"/>).</ce:para>
+               <ce:para id="p0025" view="all">In order to meet this stringent process requirement, technological innovation is needed in various CMP consumables, process parameters, or process control, such as extreme selectivity slurry, self-stopping-on-planarization slurry, solid polishing pad with extended planarization length capability, or real-time automatic process/profile control.</ce:para>
+            </ce:section>
+            <ce:section id="s0020" view="all">
+               <ce:label>1.3</ce:label>
+               <ce:section-title id="cesectitle0030">Material removal mechanism of dielectric CMP</ce:section-title>
+               <ce:para id="p0030" view="all">The material removal rate (MRR) of CMP is explained by the Preston equation, which was developed in the glass polishing application <ce:cross-ref refid="bib6" id="crossref0160">[6]</ce:cross-ref>. It simply indicates that the MRR is proportional to the pressure applied on the wafer and the relative velocity of the wafer.<ce:display>
+                     <ce:formula id="fd1">
+                        <mml:math altimg="si1.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:mtable>
+                                 <mml:mtr>
+                                    <mml:mtd>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">MRR</mml:mi>
+                                          <mml:mo>=</mml:mo>
+                                          <mml:mi mathvariant="normal">C</mml:mi>
+                                          <mml:mo>×</mml:mo>
+                                          <mml:mi mathvariant="normal">P</mml:mi>
+                                          <mml:mo>×</mml:mo>
+                                          <mml:mi mathvariant="normal">V</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mtd>
+                                    <mml:mtd>
+                                       <mml:mrow>
+                                          <mml:mo>(</mml:mo>
+                                          <mml:mtext>C</mml:mtext>
+                                          <mml:mtext>:</mml:mtext>
+                                          <mml:mi mathvariant="normal">Preston's</mml:mi>
+                                          <mml:mspace width="0.5em"/>
+                                          <mml:mi mathvariant="normal">coefficient</mml:mi>
+                                          <mml:mo>,</mml:mo>
+                                          <mml:mspace width="0.5em"/>
+                                          <mml:mtext>P</mml:mtext>
+                                          <mml:mtext>:</mml:mtext>
+                                          <mml:mi mathvariant="normal">Pressure</mml:mi>
+                                          <mml:mtext>,</mml:mtext>
+                                          <mml:mspace width="0.5em"/>
+                                          <mml:mtext>V</mml:mtext>
+                                          <mml:mtext>:</mml:mtext>
+                                          <mml:mi mathvariant="normal">Velocity</mml:mi>
+                                          <mml:mo>)</mml:mo>
+                                       </mml:mrow>
+                                    </mml:mtd>
+                                 </mml:mtr>
+                              </mml:mtable>
+                           </mml:mrow>
+                        </mml:math>
+                     </ce:formula>
+                  </ce:display>
+               </ce:para>
+               <ce:para id="p0035" view="all">The Preston equation is a very simple equation to explain the major process parameters in predicting the MRR of glass polishing. In the modern CMP process, which is used in advanced semiconductor fabrication, it is almost impossible to predict the accurate MRR from a certain process condition by knowing only pressure and velocity of the wafer being polished. This is because there are quite a few process parameters in<ce:anchor id="p5"/> addition to pressure and velocity, which can greatly impact on the MRR and mechanism. There are numerous process models that can predict the MRR at given process conditions, but none of them is able to provide a precise MRR because of the complexity of the process.</ce:para>
+               <ce:para id="p0040" view="all">The material removal mechanism of the CMP process was relatively well explained by the previous scientists. The material removal mechanism of dielectric CMP is further well explained by Cook in his paper published in 1990 <ce:cross-ref refid="bib7" id="crossref0165">[7]</ce:cross-ref>. It was explained that the rate of mass transportation during glass polishing is determined by five factors: the rate of water diffusion into the glass surface, the dissolution of the glass under the applied load, the adsorption rate of the dissolved material onto the abrasive surface, the redeposition of the dissolved material onto the surface of the work piece, and the aqueous corrosion between particle impacts. Water diffuses into siloxane bonding (Si<ce:glyph name="sbnd"/>O<ce:glyph name="sbnd"/>Si) and the diffusion rate is controlled by multiple process conditions such as pressure or temperature. This hydrated oxide surface is removed by an abrasion process. The indentation process by each abrasive was modeled by Hertzian contact and their contact stress was calculated from the theory of elasticity.</ce:para>
+               <ce:para id="p0045" view="all">The mechanical component of the material removal mechanism in the CMP process has been explained from previous literature <ce:cross-refs refid="bib7 bib8" id="crossrefs0020">[7,8]</ce:cross-refs>.</ce:para>
+               <ce:para id="p0050" view="all">First of all, the mechanical behavior of the CMP process needs to be understood in order to explain the mechanical component of the material removal mechanism. At the experimental set-up to measure the friction force on the wafer surface, the polishing platen was connected to a load cell while it is at a fixed position (<ce:cross-ref refid="f0015" id="crossref0170">Figure 1.2</ce:cross-ref>
+                  <ce:float-anchor refid="f0015"/>). The load cell enabled the measurement of the friction between the wafer and the polishing pad. The friction signal from the load cell was amplified and collected using a PC-based data collection system.</ce:para>
+               <ce:para id="p0055" view="all">The wafer did not rotate to its own center, but made a rotation against the center of the polishing pad with or without the presence of the polishing slurry. The downforce on the wafer and the rotational speed of the wafer were changed and the friction applied on the wafer surface was monitored.</ce:para>
+               <ce:para id="p0060" view="all">It was shown that the friction force applied on the wafer was directly proportional to the downforce. In a dry pad condition without any slurry, the friction on the wafer was relatively constant with the wafer velocity. However, in the presence of polishing slurry on the pad, the friction force decreased with the wafer velocity (<ce:cross-ref refid="f0020" id="crossref0175">Figure 1.3</ce:cross-ref>
+                  <ce:float-anchor refid="f0020"/>). This phenomenon can be well explained by the Stribeck curve from tribology (<ce:cross-ref refid="f0025" id="crossref0180">Figure 1.4</ce:cross-ref>
+                  <ce:float-anchor refid="f0025"/>).</ce:para>
+               <ce:para id="p0065" view="all">The Stribeck curve explains the relationship between the coefficient of friction and the lubrication thickness with a certain constant called Hersey number. Hersey number is the multiplication of the viscosity of the lubricant and the velocity of the moving object divided by the pressure applied on the object.</ce:para>
+               <ce:para id="p0070" view="all">The Stribeck curve shows that the friction force applied on the moving surface decreases with the relative velocity of the moving object in the presence of lubrication. This is because the thickness of the lubrication film between two objects increases with the relative velocity. In the presence of the abrasive slurry, the friction between the wafer and the pad decreased with the wafer velocity. It is believed that this is caused by increased slurry thickness between the wafer and the pad from higher wafer velocity.<ce:anchor id="p7"/> In the dry pad condition, however, the friction force remained constant with the wafer velocity since there is no lubrication film under the wafer surface. This can be illustrated in terms of interaction with pad and abrasives (<ce:cross-ref refid="f0030" id="crossref0185">Figure 1.5</ce:cross-ref>
+                  <ce:float-anchor refid="f0030"/>). In the condition of high downforce or low wafer velocity, the wafer moves on the pad with thinner slurry film. This can cause increased interaction between the wafer surface and the abrasives supported by the polishing pad. In the condition of low downforce or high wafer velocity, wafer behavior can be the opposite. Wafer can slide on the pad with thicker slurry film. This can result in less interaction between the wafer and the abrasives.<ce:anchor id="p8"/>
+               </ce:para>
+               <ce:para id="p0075" view="all">In order to understand the kinetics of the material removal mechanism in CMP, the amount of material removal per sliding distance needs to be measured and understood (<ce:cross-ref refid="f0035" id="crossref0190">Figure 1.6</ce:cross-ref>
+                  <ce:float-anchor refid="f0035"/>). By using the same test set-up shown previously, the amount of oxide removal per sliding distance was measured with different wafer velocity and downforce. The amount of oxide removal per sliding distance was at the maximum at the lower wafer velocity. As the wafer velocity increased, material removal per sliding distance decreased. This phenomenon can explain how material removal is made in different vertical positions of the wafer.</ce:para>
+               <ce:para id="p0080" view="all">At the higher wafer velocity, the slurry film between the wafer surface and the polishing pad becomes thicker and there is less chance of the polishing pad asperity being in contact with the wafer surface. This means there will be fewer abrasives in contact with the wafer surface and, thus, the material removal per sliding distance is minimized. At the lower wafer velocity, the slurry film becomes thinner and more pad asperity is in contact with the wafer surface. In this case, material removal per sliding distance is maximized.</ce:para>
+               <ce:para id="p0085" view="all">Abrasives in the polishing slurry are trapped between the wafer surface and the polishing pad asperity during the polishing process. This phenomenon enables the abrasion action on the wafer surface caused by the relative motion between the pad and the wafer. Therefore, the more pad asperity in contact with the wafer surface, the more material removal per sliding distance can be expected. In both cases, the wafer traveled the same distance. However, material removal during the identical distance changes depending on how fast the wafer travels the distance. As indicated in the Stribeck curve, the wafer with high velocity will interact less with the pad and the abrasive due to thicker slurry film. This results in lower material removal. The wafer with<ce:anchor id="p9"/> low velocity, however, will interact more with the pad and the abrasive due to thinner slurry film. This results in higher material removal. This phenomenon is very important to understand the material removal mechanism in dielectric CMP and is illustrated in <ce:cross-ref refid="f0040" id="crossref0195">Figure 1.7</ce:cross-ref>
+                  <ce:float-anchor refid="f0040"/>.</ce:para>
+               <ce:para id="p0090" view="all">From a simple experiment, the mechanical portion and the chemical portion in the MRR can be explained. The abrasives in the polishing slurry were separated by using a centrifuge process and were mixed with deionized (DI) water to create a chemical-less polishing slurry (<ce:cross-ref refid="f0045" id="crossref0200">Figure 1.8</ce:cross-ref>
+                  <ce:float-anchor refid="f0045"/>). The abrasives in DI water are dispersed using an agitator to remove any abrasive agglomeration. The chemical that was separated from the original polishing slurry became the abrasive-less polishing slurry. Both slurries were used in the polishing test using the oxide wafer and material removal per sliding distance was measured (<ce:cross-ref refid="f0050" id="crossref0205">Figure 1.9</ce:cross-ref>
+                  <ce:float-anchor refid="f0050"/>). The polishing process with chemical-less slurry is called mechanical polishing and the one with abrasive-less slurry is called chemical polishing. Material removal per sliding distance using the regular polishing slurry was corrected for comparison.</ce:para>
+               <ce:para id="p0095" view="all">Material removal per sliding distance in chemical polishing was simply zero. This indicates the material cannot be removed without abrasives since they activate the abrasion action in the oxide CMP. Previous literature also showed that the MRR is simply zero without abrasive particles inside the slurry <ce:cross-ref refid="bib7" id="crossref0210">[7]</ce:cross-ref>. This indicates that material<ce:anchor id="p10"/> removal cannot be made only by the chemical reaction between the dielectric surface and the chemicals in the polishing slurry. The mechanical portion of the material removal mechanism is crucial in obtaining the MRR in the CMP process.<ce:anchor id="p11"/>
+               </ce:para>
+               <ce:para id="p0100" view="all">In the case of the mechanical polishing that uses chemical-less slurry, the material removal per sliding distance was relatively consistent with velocity and only 40–60% of material removal from the regular CMP process. The material removal per sliding distance from mechanical polishing is suppressed because of insufficient chemically activated layers, which assist in the molecular-scale abrasion action. These phenomena indicate that material removal from the polishing process can be maximized only when there is a synergy effect between the mechanical and the chemical action during the polishing process.</ce:para>
+               <ce:para id="p0105" view="all">In summary, the material removal mechanism during dielectric CMP can be defined as the abrasives that are trapped between the wafer surface and the polishing pad asperity make an abrasion action against the wafer surface that was chemically modified. The key mechanism to determine overall MRR from the wafer surface is how many abrasives are engaged with the wafer surface in the presence of force applied on the abrasives. The number of the active abrasives depends on the actual gap, or the slurry film thickness between the polishing pad and the wafer surface. The slurry film thickness can be controlled by the downforce applied on the wafer, the relative velocity between the wafer and the polishing pad, and the viscosity of the polishing slurry. The slurry film thickness or gap can determine the contact area of the pad asperity where the active abrasives are trapped and engaged for the abrasion process. This material removal mechanism is illustrated in <ce:cross-ref refid="f0055" id="crossref0215">Figure 1.10</ce:cross-ref>
+                  <ce:float-anchor refid="f0055"/>.</ce:para>
+            </ce:section>
+            <ce:section id="s0025" view="all">
+               <ce:label>1.4</ce:label>
+               <ce:section-title id="cesectitle0035">Defectivity of dielectric CMP</ce:section-title>
+               <ce:para id="p0110" view="all">The major defectivity mode from the dielectric CMP process is polishing scratches (<ce:cross-ref refid="f0060" id="crossref0220">Figure 1.11</ce:cross-ref>
+                  <ce:float-anchor refid="f0060"/>). A polishing scratch at the STI CMP process is used as an example in this chapter since a scratch can be more visible at the STI CMP due to additional<ce:anchor id="p12"/> chemical etching process steps. At the STI CMP, oxide is polished away until silicon nitride (SiN) is fully exposed. After STI CMP, additional oxide is chemically etched out to eliminate any residual oxide on the top of SiN. The nitride is etched out to expose the active silicon surface (<ce:cross-ref refid="f0065" id="crossref0225">Figure 1.12</ce:cross-ref>
+                  <ce:float-anchor refid="f0065"/>).</ce:para>
+               <ce:para id="p0115" view="all">As observed in the scanning electron microscope (SEM) image, any macro-scratch can be observed right after the STI CMP step, but most of the polishing scratches can be seen after the oxide deglazing step since the wet etch step can make any tiny micro-scratch more visible by isotropic etching (<ce:cross-ref refid="f0070" id="crossref0230">Figure 1.13</ce:cross-ref>
+                  <ce:float-anchor refid="f0070"/>). A very tiny micro-scratch can be observed on the nitride surface, but the scratch on the oxide surface is expanded due to the additional wet etch step.</ce:para>
+               <ce:para id="p0120" view="all">This phenomenon has been shown in the optics polishing study <ce:cross-ref refid="bib11" id="crossref0235">[11]</ce:cross-ref> (<ce:cross-ref refid="f0075" id="crossref0240">Figure 1.14</ce:cross-ref>
+                  <ce:float-anchor refid="f0075"/>). In the case of loose abrasive grinding/polishing using diamond abrasives, only the straight line of a micro-scratch can be observed right after the polishing process. After oxide etching by 20% hydrogen fluoride for 60<ce:hsp sp="0.25"/>s, the circular shape chatter-mark polishing scratch can be clearly seen.</ce:para>
+               <ce:para id="p0125" view="all">The mechanism of the chatter-mark scratch has been explained from optics polishing <ce:cross-ref refid="bib7" id="crossref0245">[7]</ce:cross-ref> (<ce:cross-ref refid="f0080" id="crossref0250">Figure 1.15</ce:cross-ref>
+                  <ce:float-anchor refid="f0080"/>). It was shown that as a grinding particle travels across a glass surface, the tensile stress from the frictional pull of the particle results in chatter-mark flaws. The area in front of the abrasive particle will be under compressive stress and the area after abrasives have passed will be under tensile stress. The reason for the round shape chatter-mark was explained using maximum shear stress formation <ce:cross-ref refid="bib12" id="crossref0255">[12]</ce:cross-ref> (<ce:cross-ref refid="f0085" id="crossref0260">Figure 1.16</ce:cross-ref>
+                  <ce:float-anchor refid="f0085"/>). When an object is under normal stress and shear stress at the same time, the resultant stress field due to the inclined loading on a surface will show both compressive and tensile stresses. Because of the circular shape maximum shear stress in the tensile region from the side view, the round shape chatter-mark is created behind the point of contact body. From a study of the grinding and lapping process, it was shown that the circular shape lateral crack can be created under normal pressure indentation on a brittle surface because of the maximum shear stress around the indented spot <ce:cross-ref refid="bib13" id="crossref0265">[13]</ce:cross-ref> (<ce:cross-ref refid="f0090" id="crossref0270">Figure 1.17</ce:cross-ref>
+                  <ce:float-anchor refid="f0090"/>).<ce:anchor id="p15"/>
+               </ce:para>
+               <ce:para id="p0130" view="all">The polishing scratch mechanism in dielectric CMP is illustrated in <ce:cross-ref refid="f0095" id="crossref0275">Figure 1.18</ce:cross-ref>
+                  <ce:float-anchor refid="f0095"/>. From the top view, an arc shaped chatter-mark is created behind the abrasive contact region because of the maximum shear stress in the tensile region. In this case, the concave side of the arc shape of the micro-scratch will face the direction of travel<ce:anchor id="p16"/> of the abrasive against the wafer surface. From the side view, the bottom end of chatter-mark will lean toward the direction of travel of the abrasive against the wafer surface. This mechanism was observed from the SEM image of the polishing scratch at the STI CMP (<ce:cross-ref refid="f0100" id="crossref0280">Figure 1.19</ce:cross-ref>
+                  <ce:float-anchor refid="f0100"/>). The polishing scratch observed at the post-deglazing step after STI CMP was cross-sectioned and inspected. An arc-shaped polishing scratch was observed and the direction of the polishing scratch can be predicted.</ce:para>
+            </ce:section>
+            <ce:section id="s0030" view="all">
+               <ce:label>1.5</ce:label>
+               <ce:section-title id="cesectitle0040">Major applications of dielectric CMP</ce:section-title>
+               <ce:para id="p0135" view="all">The conventional applications of dielectric CMP used for STI and for ILD planarization. As we move to the advanced technology node, the number of CMP steps increased dramatically due to the enablement of the new integration schemes such as RMG and SAC modules (<ce:cross-ref refid="f0105" id="crossref0285">Figure 1.20</ce:cross-ref>
+                  <ce:float-anchor refid="f0105"/>). Especially, the number of CMP steps in FEOL and middle-of-line (MOL) areas increased four times when the move was made from 28 to 14<ce:hsp sp="0.25"/>nm node. The main reason for this dramatic increase was that CMP became one of the processes that directly fabricated the transistor gate and controlled the gate height. The transistor gate height can determine the device performance and the die yield.</ce:para>
+               <ce:section id="s0035" view="all">
+                  <ce:label>1.5.1</ce:label>
+                  <ce:section-title id="cesectitle0045">STI CMP</ce:section-title>
+                  <ce:para id="p0140" view="all">STI CMP is the first CMP process used in semiconductor fabrication. The goal of the STI CMP process is to remove the excess amount of dielectric filled in the shallow<ce:anchor id="p17"/> trench and to separate two adjacent active device regions by creating dielectric isolation between transistors. With the move to the advanced technology node, the performance requirement for STI CMP becomes stringent because of the smaller proximity between transistor regions.</ce:para>
+                  <ce:para id="p0145" view="all">The first step at the STI CMP is to planarize the bulk dielectric before the oxide clearing step (<ce:cross-ref refid="f0110" id="crossref0290">Figure 1.21</ce:cross-ref>
+                     <ce:float-anchor refid="f0110"/>). Typically, high-density plasma oxide film is used as dielectric in the STI because of the superior material strength of the film. However, recently, chemical vapor deposition (CVD) oxide has been used more often because of its good trench fill capability in the smaller technology node. Because of the large amount of incoming oxide, the bulk of oxide is typically planarized down to a 500–1000<ce:hsp sp="0.25"/>Å thickness. In the first dielectric planarization step, a relatively higher downforce (2–4<ce:hsp sp="0.25"/>psi) is used to maximize the oxide removal rate. Silica-type slurry is typically used to maximize the oxide removal rate because of the low cost of consumables, even though ceria slurry is becoming the process of choice as the first CMP step because of higher MRR and improved material removal selectivity against the nitride surface. The most important process performance from the first step of STI CMP is to maintain good wafer uniformity of the remaining oxide film with the minimum polishing scratch. Any oxide nonuniformity after the first step can be translated to high nonuniformity of the remaining active nitride after the second STI CMP step. Insufficient planarization of the bulk oxide film can also cause residual oxide on the active region after the second STI CMP step. Any residual oxide on the active nitride will cause incomplete nitride strip and, therefore, inability to create a transistor on the silicon area.<ce:anchor id="p18"/>
+                  </ce:para>
+                  <ce:para id="p0150" view="all">The second STI CMP step is to remove the remaining oxide and expose active nitride with minimum dishing on the oxide in the trench. Since the second CMP step contacts with the active nitride region, any polishing scratch can be detrimental to device quality and, eventually, to the wafer yield. At the second STI CMP step, the selectivity of the MRR against active nitride is also very important in order to control the process without overpolishing or nitride erosion. The nitride removal rate needs to be minimized while high oxide removal rate is maintained at the second STI CMP step. High active nitride loss due to insufficient removal rate selectivity can cause nonuniform nitride loss, which can be transferred to a nonuniform step height between STI oxide and the active silicon region within die or within wafer. Any nonuniform step height at the STI region can cause a nonuniform transistor gate level, which can result in incomplete contact on the gate at the MOL module. At the STI CMP process, the second stop-on-nitride step is extremely important since it can directly impact on device yield because of step height or polishing scratch. Typically, after the second step CMP, additional oxide is etched away to eliminate any residual oxide on the top of the active nitride. This step is called an oxide deglazing step. A typical oxide deglazing step is a simple wet etch process and, therefore, any shallow micro-scratch can be expanded because of the isotropic behavior of the wet etch<ce:anchor id="p19"/> process. After the deglazing step, active nitride is stripped out and the active silicon region is exposed for transistor gate formation. SEM images of the STI wafer at different stages are shown in <ce:cross-ref refid="f0115" id="crossref0295">Figure 1.22</ce:cross-ref>
+                     <ce:float-anchor refid="f0115"/>.</ce:para>
+               </ce:section>
+               <ce:section id="s0040" view="all">
+                  <ce:label>1.5.2</ce:label>
+                  <ce:section-title id="cesectitle0050">Oxide ILD CMP</ce:section-title>
+                  <ce:para id="p0155" view="all">Oxide ILD CMP is one of the conventional CMP processes that was implemented in semiconductor fabrication when the CMP process was first introduced as the process of choice for ILD planarization. The major goal of oxide CMP is to planarize ILD, which was deposited on the top of the transistor to insulate the FEOL transistor region from BEOL metallization (<ce:cross-ref refid="f0120" id="crossref0300">Figure 1.23</ce:cross-ref>
+                     <ce:float-anchor refid="f0120"/>). The planarized ILD oxide also provides the location for metal contact, which enables communication between FEOL and BEOL areas (<ce:cross-ref refid="f0125" id="crossref0305">Figure 1.24</ce:cross-ref>
+                     <ce:float-anchor refid="f0125"/>). After ILD CMP, the planarized ILD oxide is etched out to create the metal contact hole. Once the contact hole is made, this hole is filled by the metal liner and the contact metal, which is planarized by the subsequent metal CMP. CVD tungsten is typically used as the contact metal.</ce:para>
+                  <ce:para id="p0160" view="all">Oxide CMP is typically a two-step process. At the first polishing step, the majority of the bulk oxide is polished away. Typically, silica slurry and hard pad are used to maximize oxide removal rate and planarization efficiency. The main goal of the first polishing step is to remove any initial oxide topography that was created by the gate module underneath and also to maintain good within-wafer uniformity. At the second polishing step, the remaining oxide is buffed away using gentle process conditions such as low downforce, soft pad, and colloidal silica slurry. The main goal of the second polishing step is to remove any defectivity, mainly polishing scratches, created from the first polishing step. Also, the second polishing step is needed to ensure the accurate final oxide target thickness. Any defectivity remaining after the oxide CMP step can cause an incomplete contact open and contact short due to tungsten residue that is trapped inside the polishing scratch caused by oxide CMP. Also, any within-die or within-wafer nonuniformity will cause incomplete contact etch, which eventually will cause contact open or no connection between FEOL and BEOL regions. One of the main reasons for within-wafer nonuniformity at the remaining oxide film is that the oxide CMP process stops within the oxide film and does not stop on the top of another dielectric film such as SiN in the STI CMP. If there is another type of film such as SiN or polysilicon, the removal rate selectivity for different materials can be used to ensure accurate process stopping capability. In the case of STI CMP, oxide<ce:anchor id="p20"/> removal rate needs to be maximized, but nitride removal rate must be minimized in order to stop on the active nitride with minimum nitride loss for better process control and better within-wafer uniformity. In the oxide CMP, the within-wafer uniformity of the remaining oxide film solely relies on the process conditions such as pressure<ce:anchor id="p21"/> controllability by the polishing head, uniform pad conditioning, or uniform relative velocity between the wafer and the polishing pad. The typical value of within-wafer nonuniformity ranges from 100 to 300<ce:hsp sp="0.25"/>Å. Major development work in oxide CMP is being devoted to the improvement of within-wafer-nonuniformity, wafer-to-wafer-nonuniformity, and in-chip planarity.</ce:para>
+               </ce:section>
+               <ce:section id="s0045" view="all">
+                  <ce:label>1.5.3</ce:label>
+                  <ce:section-title id="cesectitle0055">Poly open CMP (POC) process</ce:section-title>
+                  <ce:para id="p0165" view="all">The POC process is a new CMP step, which started to be used as a process of choice for the gate formation technique in the RMG integration scheme. In the RMG, a poly dummy gate needs to be created before the actual metal gate can be fabricated. After a poly blanket film is cut into the poly dummy gate, the nitride spacer and contact etch stop layer are deposited. The sacrificial oxide is deposited on the top of the nitride film and removed by CMP until the nitride cap on the top of poly dummy gate is exposed (<ce:cross-ref refid="f0130" id="crossref0310">Figure 1.25</ce:cross-ref>
+                     <ce:float-anchor refid="f0130"/>). After the nitride is exposed, nonselective RIE removes nitride and oxide equally until the dummy poly gate is exposed. The dummy poly gate is then etched out and a transistor gate trench is created. Multiple work function metals are deposited followed by the deposition of the electrode metal film, which is typically either aluminum<ce:anchor id="p22"/> or tungsten. After the electrode metal deposition, the metal gate CMP process, which is similar to conventional metal CMP such as Cu CMP, is used to create a metal gate.</ce:para>
+                  <ce:para id="p0170" view="all">The goal of the POC process is to remove this sacrificial oxide and expose the nitride spacer and cap nitride. In POC, within-die/within-wafer oxide, nitride thickness control, and defect control are keys for successful implementation of a RMG. The key process performance that must be met in POC is to minimize both polishing scratches and nitride loss by maximizing MRR selectivity between oxide and nitride. The remaining nitride thickness after POC can directly impact on the final gate height. Therefore, it is critical to achieve the maximum removal rate selectivity between oxide and nitride and, therefore, to minimize any nitride erosion after the POC process. The typical removal rate selectivity required in the POC process is more than a 50:1 (oxide:nitride) ratio.</ce:para>
+                  <ce:para id="p0175" view="all">The process condition of the POC process is almost identical to the STI CMP process condition. Therefore, for most of the cases, STI CMP and POC are processed on the same CMP equipment. As explained in STI CMP, POC removes most of the oxide at the first oxide CMP step. At the second CMP step, the process removes the remaining oxide and stops on the nitride with minimum nitride loss. Silica slurry with hard pad is typically used as the first oxide step, but ceria slurry is also used at the first oxide step to minimize any polishing scratches. The ceria slurry is used as the second step CMP slurry to maximize the selectivity between the oxide and the nitride as well. SEM images of the POC wafer at different stages are shown in <ce:cross-ref refid="f0135" id="crossref0315">Figure 1.26</ce:cross-ref>
+                     <ce:float-anchor refid="f0135"/>.</ce:para>
+               </ce:section>
+               <ce:section id="s0050" view="all">
+                  <ce:label>1.5.4</ce:label>
+                  <ce:section-title id="cesectitle0060">SiN CMP</ce:section-title>
+                  <ce:para id="p0180" view="all">SiN CMP is a new dielectric CMP process that is implemented as part of the SAC module. One of the biggest technical challenges in an advanced semiconductor fabrication process is misalignment between metal contact and source/drain caused by narrow proximity (<ce:cross-ref refid="f0140" id="crossref0320">Figure 1.27</ce:cross-ref>
+                     <ce:float-anchor refid="f0140"/>). Any misalignment in a metal contact can cause device malfunctioning. In order to provide a wider process margin in contact alignment, an SiN cap needs to be placed on top of the metal gate. Even though the contact hole is slightly misaligned, the metal gate can be protected from undesired<ce:anchor id="p23"/> damage by the contact etch. Like the POC process, the SiN CMP process is a new CMP step, which was implemented in the RMG integration scheme.</ce:para>
+                  <ce:para id="p0185" view="all">After the metal gate is created, the gate receives the recess etch and SiN film is deposited on top. The main purpose of the SiN CMP process is to polish SiN and create an SiN cap on top of the metal gate (<ce:cross-ref refid="f0145" id="crossref0325">Figure 1.28</ce:cross-ref>
+                     <ce:float-anchor refid="f0145"/>). In the SiN CMP process, SiN is<ce:anchor id="p24"/> removed at the first CMP step by using highly selective nitride slurry. The highly selective SiN slurry with extremely low oxide removal rate is required to minimize oxide loss and wafer-scale nonuniformity. The removal rate selectivity requirement in SiN CMP is opposite to that from STI CMP. At the first polishing step, typically a hard polishing pad is used to maximize the planarization efficiency and maintain a good within-die/within-wafer uniformity. The second polishing step is used to reduce any particles on the surface by DI water or chemical buffing. In general, slurry buffing is not used as the second process step because of the concern of additional oxide and SiN loss. An SEM image of the SiN CMP wafer is shown in <ce:cross-ref refid="f0150" id="crossref0330">Figure 1.29</ce:cross-ref>
+                     <ce:float-anchor refid="f0150"/>.</ce:para>
+               </ce:section>
+            </ce:section>
+            <ce:section id="s0055" view="all">
+               <ce:label>1.6</ce:label>
+               <ce:section-title id="cesectitle0065">Future of dielectric CMP</ce:section-title>
+               <ce:para id="p0190" view="all">In modern semiconductor fabrication technology, CMP was used to fabricate the transistor gate and can make a direct impact on gate height control. Gate height is one of the critical parameters to control in semiconductor manufacturing because it can determine device performance and wafer die yield. Fabrication processes in gate formation need molecular-scale profile control and defect-free process capability.</ce:para>
+               <ce:para id="p0195" view="all">From a process control point of view, a within-film stop CMP process like a conventional oxide ILD CMP process may face difficulties in maintaining good within-wafer uniformity. The final thickness can be missed because of the inaccuracy of endpoint technology and the variable oxide removal rate. In addition, within-wafer oxide profile can be degraded because of noncalibrated pressure zone control at the polishing head, or bad quality of the polishing pad.</ce:para>
+               <ce:para id="p0200" view="all">Because of these reasons, a within-film stop CMP process is not considered to be an ideal option as a planarization process and a stop-on-film CMP process is increasingly preferred in order to ensure a wide process margin in maintaining the remaining oxide profile uniformity and its thickness. After RMG technology was used as a fabrication technology for the transistor gate, usage of conventional stop-within-film oxide CMP discontinued.</ce:para>
+               <ce:para id="p0205" view="all">For STI CMP in advanced technology node, extremely high selectivity between oxide and SiN will be needed to achieve stop-on-nitride process control and maintain<ce:anchor id="p25"/> good within-die/within-wafer uniformity (both less than 50<ce:hsp sp="0.25"/>Å). SiN loss needs to be less than 50<ce:hsp sp="0.25"/>Å due to thin incoming nitride thickness. Cerium oxide slurry is now the preferred choice as STI CMP slurry because of its superiority in achieving a high oxide removal rate, its defect controllability, and extremely high removal rate selectivity between oxide and nitride.</ce:para>
+               <ce:para id="p0210" view="all">In POC, extremely high selectivity against SiN is also needed to stop on thin cap nitride and to preserve gate stack height. Post-CMP cleaning can be more challenging because of stringent requirements in defectivity control. “Aggressive” chemistry is becoming the cleaning process of choice to undercut and lift the particles for defect minimization. For uniformity control, an improved multizone polishing head with real-time profile tuning capability is implemented. For wafer-to-wafer or lot-to-lot control, advanced automatic process control with on-board metrology is utilized widely as the process control of choice.</ce:para>
+               <ce:para id="p0215" view="all">Because of the tighter process controllability and molecular-scale profile control requirement, the wide range of new technical options is being implemented in the modern CMP processes. In order to continue a successful implementation of CMP processes for advanced semiconductor fabrication, the entire CMP community needs every effort to innovate the next generation of CMP technology (<ce:cross-ref refid="f0155" id="crossref0335">Figure 1.30</ce:cross-ref>
+                  <ce:float-anchor refid="f0155"/>).</ce:para>
+            </ce:section>
+         </ce:sections>
+         <ce:bibliography id="cebib0010" view="all">
+            <ce:section-title id="s0060">References</ce:section-title>
+            <ce:bibliography-sec id="cebibsec0010" view="all">
+               <ce:bib-reference id="bib1">
+                  <ce:label>[1]</ce:label>
+                  <sb:reference id="ref0010">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>A.C.</ce:given-name>
+                              <ce:surname>Bonora</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Flex-mount polishing of silicon wafers</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Solid State Technol.</sb:maintitle>
+                              </sb:title>
+                           </sb:series>
+                           <sb:date>October 1977</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>55</sb:first-page>
+                           <sb:last-page>62</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib2">
+                  <ce:label>[2]</ce:label>
+                  <sb:reference id="ref0015">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>S.</ce:given-name>
+                              <ce:surname>Wolf</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>R.N.</ce:given-name>
+                              <ce:surname>Tauber</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Silicon Processing for the VLSI Era</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:book>
+                           <sb:book-series>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Process Technology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>vol. 1</sb:volume-nr>
+                              </sb:series>
+                           </sb:book-series>
+                           <sb:date>1986</sb:date>
+                           <sb:publisher>
+                              <sb:name>Lattice Press</sb:name>
+                           </sb:publisher>
+                        </sb:book>
+                     </sb:host>
+                  </sb:reference>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib3">
+                  <ce:label>[3]</ce:label>
+                  <sb:reference id="ref0020">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>P.</ce:given-name>
+                              <ce:surname>Burggraaf</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>CMP: suppliers integrating, applications spreading</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Semicond. Int.</sb:maintitle>
+                              </sb:title>
+                           </sb:series>
+                           <sb:date>November 1995</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>74</sb:first-page>
+                           <sb:last-page>82</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib4">
+                  <ce:label>[4]</ce:label>
+                  <sb:reference id="ref0025">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>B.</ce:given-name>
+                              <ce:surname>Davari</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>A new planarization technique, using a combination of RIE and chemical mechanical polish (CMP)</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:edited-book>
+                           <sb:title>
+                              <sb:maintitle>IEEE, IEDM Technical Digest 89</sb:maintitle>
+                           </sb:title>
+                           <sb:date>1989</sb:date>
+                        </sb:edited-book>
+                        <sb:pages>
+                           <sb:first-page>341</sb:first-page>
+                           <sb:last-page>344</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib5">
+                  <ce:label>[5]</ce:label>
+                  <sb:reference id="ref0030">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>Y.</ce:given-name>
+                              <ce:surname>Moon</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Technical challenges in chemical mechanical polishing (CMP) for sub-10<ce:hsp sp="0.25"/>nm logic technology</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:edited-book>
+                           <sb:title>
+                              <sb:maintitle>CSTIC 2015, Shanghai, China</sb:maintitle>
+                           </sb:title>
+                           <sb:date>March 2015</sb:date>
+                        </sb:edited-book>
+                     </sb:host>
+                  </sb:reference>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib6">
+                  <ce:label>[6]</ce:label>
+                  <sb:reference id="ref0035">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>F.W.</ce:given-name>
+                              <ce:surname>Preston</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>The theory and design of plate glass polishing machine</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>J. Soc. Glass Technol.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>11</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>1927</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>214</sb:first-page>
+                           <sb:last-page>256</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib7">
+                  <ce:label>[7]</ce:label>
+                  <sb:reference id="ref0040">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>L.</ce:given-name>
+                              <ce:surname>Cook</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Chemical processes in glass polishing</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>J. Non-Cryst. Solids</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>120</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>1990</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>152</sb:first-page>
+                           <sb:last-page>171</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib8">
+                  <ce:label>[8]</ce:label>
+                  <sb:reference id="ref0045">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>Y.</ce:given-name>
+                              <ce:surname>Moon</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Mechanical Aspects of the Material Removal Mechanism in Chemical Mechanical Polishing (CMP)</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:comment>(Dissertation)</sb:comment>
+                     <sb:host>
+                        <sb:book class="report">
+                           <sb:date>1999</sb:date>
+                           <sb:publisher>
+                              <sb:name>Dept. of Mechanical Engineering, University of California</sb:name>
+                              <sb:location>Berkeley</sb:location>
+                           </sb:publisher>
+                        </sb:book>
+                     </sb:host>
+                  </sb:reference>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib9">
+                  <ce:label>[9]</ce:label>
+                  <sb:reference id="ref0050">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>J.A.</ce:given-name>
+                              <ce:surname>Williams</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Engineering Tribology</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:book>
+                           <sb:date>1994</sb:date>
+                           <sb:publisher>
+                              <sb:name>Oxford University Press</sb:name>
+                              <sb:location>Oxford</sb:location>
+                           </sb:publisher>
+                        </sb:book>
+                     </sb:host>
+                  </sb:reference>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib10">
+                  <ce:label>[10]</ce:label>
+                  <sb:reference id="ref0055">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>Y.</ce:given-name>
+                              <ce:surname>Moon</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Defect reduction at fixed abrasive STI CMP</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:edited-book>
+                           <sb:title>
+                              <sb:maintitle>CAMP 2008, Lake Placid, NY</sb:maintitle>
+                           </sb:title>
+                           <sb:date>February 2008</sb:date>
+                        </sb:edited-book>
+                     </sb:host>
+                  </sb:reference>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib11">
+                  <ce:label>[11]</ce:label>
+                  <sb:reference id="ref0060">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>D.</ce:given-name>
+                              <ce:surname>Golini</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>S.D.</ce:given-name>
+                              <ce:surname>Jacobs</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Physics of loose abrasive microgrinding</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Appl. Opt.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>30</sb:volume-nr>
+                           </sb:series>
+                           <sb:issue-nr>19</sb:issue-nr>
+                           <sb:date>July 1991</sb:date>
+                        </sb:issue>
+                     </sb:host>
+                  </sb:reference>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib12">
+                  <ce:label>[12]</ce:label>
+                  <sb:reference id="ref0065">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>N.P.</ce:given-name>
+                              <ce:surname>Suh</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Tribophysics</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:book>
+                           <sb:date>1986</sb:date>
+                           <sb:publisher>
+                              <sb:name>Prentice-Hall</sb:name>
+                              <sb:location>Englewood Cliffs, NJ</sb:location>
+                           </sb:publisher>
+                        </sb:book>
+                     </sb:host>
+                  </sb:reference>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib13">
+                  <ce:label>[13]</ce:label>
+                  <sb:reference id="ref0070">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>Y.-E.P.</ce:given-name>
+                              <ce:surname>Chang</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Monitoring and Characterization of Grinding and Lapping Processes</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:comment>(Ph.D. Dissertation)</sb:comment>
+                     <sb:host>
+                        <sb:book class="report">
+                           <sb:date>1995</sb:date>
+                           <sb:publisher>
+                              <sb:name>University of California</sb:name>
+                              <sb:location>Berkeley</sb:location>
+                           </sb:publisher>
+                        </sb:book>
+                     </sb:host>
+                  </sb:reference>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib14">
+                  <ce:label>[14]</ce:label>
+                  <sb:reference id="ref0075">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>Y.</ce:given-name>
+                              <ce:surname>Moon</ce:surname>
+                           </sb:author>
+                           <sb:et-al/>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Challenges in planarization for sub-32nm logic technology</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:edited-book>
+                           <sb:title>
+                              <sb:maintitle>ADMETA 2008, Tokyo</sb:maintitle>
+                           </sb:title>
+                           <sb:date>October 2008</sb:date>
+                        </sb:edited-book>
+                     </sb:host>
+                  </sb:reference>
+               </ce:bib-reference>
+            </ce:bibliography-sec>
+         </ce:bibliography>
+      </chapter>
+   </xocs:nonserial-item></xocs:doc></originalText></full-text-retrieval-response>

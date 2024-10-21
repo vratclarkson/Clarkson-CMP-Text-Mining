@@ -1,0 +1,2381 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1226086X2400279X</prism:url><dc:identifier>doi:10.1016/j.jiec.2024.04.040</dc:identifier><eid>1-s2.0-S1226086X2400279X</eid><prism:doi>10.1016/j.jiec.2024.04.040</prism:doi><pii>S1226-086X(24)00279-X</pii><dc:title>Enhancing dispersion stability and recyclability of ceria slurry with polyacrylic acid for improved glass polishing performance </dc:title><prism:publicationName>Journal of Industrial and Engineering Chemistry</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>1226086X</prism:issn><prism:volume>138</prism:volume><prism:startingPage>623</prism:startingPage><prism:endingPage>631</prism:endingPage><prism:pageRange>623-631</prism:pageRange><dc:format>application/xml</dc:format><prism:coverDate>2024-10-25</prism:coverDate><prism:coverDisplayDate>25 October 2024</prism:coverDisplayDate><prism:copyright>© 2024 The Korean Society of Industrial and Engineering Chemistry. Published by Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>The Korean Society of Industrial and Engineering Chemistry. Published by Elsevier B.V.</prism:publisher><dc:creator>Venkataronappa, Arunkumar</dc:creator><dc:creator>Bankaitis, Jonas</dc:creator><dc:creator>Seo, Jihoon</dc:creator><dc:description>
+                  This study aimed to enhance both the dispersion stability and recyclability of micron-sized ceria slurry in glass polishing by incorporating polyacrylic acid (PAA). PAA with a molecular weight of 240 k was very effective as a dispersant for ceria slurry due to its unique surface adsorption and its characteristics as an anionic polyelectrolyte. Using a 240 k-PAA concentration of 1.0 wt% led to significant improvements in polishing performances, as demonstrated by consistent glass removal rates across recycling cycles. Additionally, the study investigated the physico-chemical properties of polishing slurries, such as specific gravity, particle size, zeta potential, and pH. These properties were effectively maintained with the use of PAA as the dispersant, particularly when KOH was used as a pH adjuster. A 100 µm bag-type filtration system was also introduced for handling the micron-sized ceria slurry, highlighting its practical benefits in slurry management. In conclusion, employing 240 k-PAA as a dispersant in micron-sized ceria slurries for Gorilla glass polishing not only maintains quality and stability across recycling cycles but also provides notable economic advantages by enabling the recycling of the slurry.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Glass</dcterms:subject><dcterms:subject>Ceria slurry</dcterms:subject><dcterms:subject>PAA</dcterms:subject><dcterms:subject>Recycling</dcterms:subject><dcterms:subject>Physicochemical properties</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1226086X2400279X" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1226086X2400279X" rel="scidir"/></coredata><objects><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="678" height="530" size="48105">https://api.elsevier.com/content/object/eid/1-s2.0-S1226086X2400279X-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="727" height="246" size="54175">https://api.elsevier.com/content/object/eid/1-s2.0-S1226086X2400279X-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="734" height="447" size="119295">https://api.elsevier.com/content/object/eid/1-s2.0-S1226086X2400279X-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="ga1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="340" height="200" size="25815">https://api.elsevier.com/content/object/eid/1-s2.0-S1226086X2400279X-ga1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="719" height="376" size="55445">https://api.elsevier.com/content/object/eid/1-s2.0-S1226086X2400279X-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="732" height="510" size="98471">https://api.elsevier.com/content/object/eid/1-s2.0-S1226086X2400279X-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="673" height="335" size="66321">https://api.elsevier.com/content/object/eid/1-s2.0-S1226086X2400279X-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="554" height="270" size="32056">https://api.elsevier.com/content/object/eid/1-s2.0-S1226086X2400279X-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="210" height="164" size="8333">https://api.elsevier.com/content/object/eid/1-s2.0-S1226086X2400279X-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="74" size="5949">https://api.elsevier.com/content/object/eid/1-s2.0-S1226086X2400279X-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="133" size="23222">https://api.elsevier.com/content/object/eid/1-s2.0-S1226086X2400279X-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="ga1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="129" size="11819">https://api.elsevier.com/content/object/eid/1-s2.0-S1226086X2400279X-ga1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="114" size="12119">https://api.elsevier.com/content/object/eid/1-s2.0-S1226086X2400279X-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="152" size="11941">https://api.elsevier.com/content/object/eid/1-s2.0-S1226086X2400279X-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="109" size="7914">https://api.elsevier.com/content/object/eid/1-s2.0-S1226086X2400279X-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="107" size="7812">https://api.elsevier.com/content/object/eid/1-s2.0-S1226086X2400279X-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3000" height="2344" size="262931">https://api.elsevier.com/content/object/eid/1-s2.0-S1226086X2400279X-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3221" height="1089" size="296159">https://api.elsevier.com/content/object/eid/1-s2.0-S1226086X2400279X-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3248" height="1977" size="787203">https://api.elsevier.com/content/object/eid/1-s2.0-S1226086X2400279X-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="ga1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1507" height="886" size="153060">https://api.elsevier.com/content/object/eid/1-s2.0-S1226086X2400279X-ga1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3183" height="1664" size="362957">https://api.elsevier.com/content/object/eid/1-s2.0-S1226086X2400279X-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3241" height="2256" size="588466">https://api.elsevier.com/content/object/eid/1-s2.0-S1226086X2400279X-gr7_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2981" height="1484" size="331863">https://api.elsevier.com/content/object/eid/1-s2.0-S1226086X2400279X-gr6_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2454" height="1198" size="175747">https://api.elsevier.com/content/object/eid/1-s2.0-S1226086X2400279X-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="29156">https://api.elsevier.com/content/object/eid/1-s2.0-S1226086X2400279X-si1.svg?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="1666536">https://api.elsevier.com/content/object/eid/1-s2.0-S1226086X2400279X-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85191778433</scopus-id><scopus-eid>2-s2.0-85191778433</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85191778433" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>276828</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291744</xocs:ssid>
+         <xocs:ssid type="subj">291786</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Journal of Industrial and Engineering Chemistry</xocs:srctitle>
+      <xocs:normalized-srctitle>JOURNALINDUSTRIALENGINEERINGCHEMISTRY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20240427">2024-04-27</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20240427">2024-04-27</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20240805">2024-08-05</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20240805">2024-08-05</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2024-08-14T11:00:02</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1226086X2400279X</xocs:eid>
+      <xocs:pii-formatted>S1226-086X(24)00279-X</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1226086X2400279X</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.jiec.2024.04.040</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1226086X24X00076</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20240925">2024-09-25T13:03:58.650749Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20241025</xocs:date-search-begin>
+      <xocs:year-nav>2024</xocs:year-nav>
+      <xocs:indexeddate epoch="1714232399">2024-04-27T15:39:59.783124Z</xocs:indexeddate>
+      <xocs:articleinfo>absattachment articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast orcid primabst ref specialabst</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1226-086X</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>1226086X</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>138</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>138</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 138</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>50</xocs:sort-order>
+      <xocs:first-fp>623</xocs:first-fp>
+      <xocs:last-lp>631</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>623</xocs:first-page>
+         <xocs:last-page>631</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20241025</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>25 October 2024</xocs:cover-date-text>
+      <xocs:cover-date-start>2024-10-25</xocs:cover-date-start>
+      <xocs:cover-date-year>2024</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>RESEARCH ARTICLES</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2024 The Korean Society of Industrial and Engineering Chemistry. Published by Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>ENHANCINGDISPERSIONSTABILITYRECYCLABILITYCERIASLURRYPOLYACRYLICACIDFORIMPROVEDGLASSPOLISHINGPERFORMANCE</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>VENKATARONAPPA</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>A</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Experimental sections</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Materials</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Slurry preparation and its characterization</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Design of home-made glass polishing tool and polishing process</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Results and discussions.</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Influence of PAA and its concentration on micron-sized ceria slurry stability</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Glass removal rates and physicochemical properties of ceria slurries during recycling</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Improving slurry management for high-quality product manufacturing</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>CRediT authorship contribution statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgment</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="h0005">
+            <xocs:ref-normalized-surname>KOHLI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-first-fp>292</xocs:ref-first-fp>
+            <xocs:ref-last-lp>307</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0010">
+            <xocs:ref-normalized-surname>JIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>376</xocs:ref-first-fp>
+            <xocs:ref-last-lp>381</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0015">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>126</xocs:ref-first-fp>
+            <xocs:ref-last-lp>134</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0020">
+            <xocs:ref-normalized-surname>ITO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>498</xocs:ref-first-fp>
+            <xocs:ref-last-lp>507</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0025">
+            <xocs:ref-normalized-surname>XIA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>116828</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0030">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4951</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4954</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0035">
+            <xocs:ref-normalized-surname>WAKAMATSU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>458</xocs:ref-first-fp>
+            <xocs:ref-last-lp>464</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0040">
+            <xocs:ref-normalized-surname>COOK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>152</xocs:ref-first-fp>
+            <xocs:ref-last-lp>171</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0045">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>19</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0050"/>
+         <xocs:ref-info refid="h0055">
+            <xocs:ref-normalized-surname>RENITA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2024</xocs:ref-pub-year>
+            <xocs:ref-article-number>130635</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0060">
+            <xocs:ref-normalized-surname>KUMAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-article-number>138680</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0065">
+            <xocs:ref-normalized-surname>ZHOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>044002</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0070">
+            <xocs:ref-normalized-surname>KANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9350</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9356</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0075">
+            <xocs:ref-normalized-surname>BORRA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>278</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0080">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4662</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0085">
+            <xocs:ref-normalized-surname>PARK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>100003</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0090">
+            <xocs:ref-normalized-surname>VERWEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1947</xocs:ref-pub-year>
+            <xocs:ref-first-fp>631</xocs:ref-first-fp>
+            <xocs:ref-last-lp>636</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0095">
+            <xocs:ref-normalized-surname>SEHGAL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9359</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9364</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0100"/>
+         <xocs:ref-info refid="h0105">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>H72</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0110">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4997</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5010</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0115">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2024</xocs:ref-pub-year>
+            <xocs:ref-article-number>108411</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0120">
+            <xocs:ref-normalized-surname>YE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-article-number>044004</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0125">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>247</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0130">
+            <xocs:ref-normalized-surname>PARK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1030</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1036</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0135">
+            <xocs:ref-normalized-surname>SEO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7388</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7394</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0140">
+            <xocs:ref-normalized-surname>SEO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>235</xocs:ref-first-fp>
+            <xocs:ref-last-lp>257</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0145">
+            <xocs:ref-normalized-surname>BUNKER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>295</xocs:ref-first-fp>
+            <xocs:ref-last-lp>322</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0150">
+            <xocs:ref-normalized-surname>SHELBY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0155">
+            <xocs:ref-normalized-surname>DIBIASE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2024</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0160">
+            <xocs:ref-normalized-surname>BRUGNOLI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5527</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5541</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>VENKATARONAPPAX2024X623</xocs:refkey3>
+         <xocs:refkey4lp>VENKATARONAPPAX2024X623X631</xocs:refkey4lp>
+         <xocs:refkey4ai>VENKATARONAPPAX2024X623XA</xocs:refkey4ai>
+         <xocs:refkey5>VENKATARONAPPAX2024X623X631XA</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2026-08-05T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2026-08-05T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2024 The Korean Society of Industrial and Engineering Chemistry. Published by Elsevier B.V. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2024-05-08T16:11:25.376Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Corning Inc.</xocs:funding-agency-matched-string>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>State of New York</xocs:funding-agency-matched-string>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Clarkson University</xocs:funding-agency-matched-string>
+            <xocs:funding-agency>Clarkson University</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/100009217</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/6252001/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding-text>We gratefully acknowledge Corning Inc. for providing financial support. We also acknowledge the support of the State of New York through the Center of Advanced Materials Processing, a NY State Center for Advanced Technology, at Clarkson University. The authors thank Murali Ramu for his assistance in the preparation of Figure 7 .</xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:article-sharing-framework/>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1226-086X(24)00279-X</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1226086X2400279X</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1226086X2400279X</xocs:eid>
+         <xocs:doi>10.1016/j.jiec.2024.04.040</xocs:doi>
+         <xocs:cid>276828</xocs:cid>
+         <xocs:timestamp>2024-09-25T13:03:58.650749Z</xocs:timestamp>
+         <xocs:cover-date-start>2024-10-25</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1226086X2400279X-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1226086X2400279X/MAIN/application/pdf/379bed8e00cf2078d1cdc5b84744b099/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>6305137</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>9</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1226086X2400279X-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1226086X2400279X/PREVIEW/image/png/b25a84c4183e3b4dff68db723174e0da/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>59888</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1226086X2400279X-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1226086X2400279X/gr4/DOWNSAMPLED/image/jpeg/a92a8ca5f4e17bd61d78f3a02ea2d76d/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>48105</xocs:filesize>
+               <xocs:pixel-height>530</xocs:pixel-height>
+               <xocs:pixel-width>678</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1226086X2400279X-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1226086X2400279X/gr3/DOWNSAMPLED/image/jpeg/85aea530bef5671dfdd9a78d0ec63c52/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>54175</xocs:filesize>
+               <xocs:pixel-height>246</xocs:pixel-height>
+               <xocs:pixel-width>727</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1226086X2400279X-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1226086X2400279X/gr2/DOWNSAMPLED/image/jpeg/1cbbdf486677bfdf3812abd25edad32c/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>119295</xocs:filesize>
+               <xocs:pixel-height>447</xocs:pixel-height>
+               <xocs:pixel-width>734</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1226086X2400279X-ga1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1226086X2400279X/ga1/DOWNSAMPLED/image/jpeg/417aafc3f3ef85325856e8d4cd20be3a/ga1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>25815</xocs:filesize>
+               <xocs:pixel-height>200</xocs:pixel-height>
+               <xocs:pixel-width>340</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1226086X2400279X-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1226086X2400279X/gr1/DOWNSAMPLED/image/jpeg/22f207ff4bfcad324c8633b16cd29318/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>55445</xocs:filesize>
+               <xocs:pixel-height>376</xocs:pixel-height>
+               <xocs:pixel-width>719</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1226086X2400279X-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1226086X2400279X/gr7/DOWNSAMPLED/image/jpeg/e50ca78b178157319b619478eb97ca90/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>98471</xocs:filesize>
+               <xocs:pixel-height>510</xocs:pixel-height>
+               <xocs:pixel-width>732</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1226086X2400279X-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1226086X2400279X/gr6/DOWNSAMPLED/image/jpeg/78855be7df5cda7bafdf5d7783a9c899/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>66321</xocs:filesize>
+               <xocs:pixel-height>335</xocs:pixel-height>
+               <xocs:pixel-width>673</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1226086X2400279X-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1226086X2400279X/gr5/DOWNSAMPLED/image/jpeg/e2cf4edb79ac4c2b8acc521d8d3b5cb5/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>32056</xocs:filesize>
+               <xocs:pixel-height>270</xocs:pixel-height>
+               <xocs:pixel-width>554</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1226086X2400279X-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1226086X2400279X/gr4/THUMBNAIL/image/gif/8ec444f1c79e081a6d1e8ea1657834e4/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8333</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>210</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1226086X2400279X-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1226086X2400279X/gr3/THUMBNAIL/image/gif/1a75e00a99d4f7735b65104cc5dd5c97/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5949</xocs:filesize>
+               <xocs:pixel-height>74</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1226086X2400279X-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1226086X2400279X/gr2/THUMBNAIL/image/gif/395683af281f726147ba015e30f9e064/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>23222</xocs:filesize>
+               <xocs:pixel-height>133</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1226086X2400279X-ga1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1226086X2400279X/ga1/THUMBNAIL/image/gif/b4b23507513fdb23b9733308db32e0f1/ga1.sml</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11819</xocs:filesize>
+               <xocs:pixel-height>129</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1226086X2400279X-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1226086X2400279X/gr1/THUMBNAIL/image/gif/b7bff6720af142198db4a1b999c32803/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12119</xocs:filesize>
+               <xocs:pixel-height>114</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1226086X2400279X-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1226086X2400279X/gr7/THUMBNAIL/image/gif/abb6fee1dd43c35f7a5f13a9f40f5225/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11941</xocs:filesize>
+               <xocs:pixel-height>152</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1226086X2400279X-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1226086X2400279X/gr6/THUMBNAIL/image/gif/1ced22f4e99dbb2175beda0fec0c2256/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7914</xocs:filesize>
+               <xocs:pixel-height>109</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1226086X2400279X-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1226086X2400279X/gr5/THUMBNAIL/image/gif/ffa0e88d2ffa2b018bd9f3230acbd2f7/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7812</xocs:filesize>
+               <xocs:pixel-height>107</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1226086X2400279X-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1226086X2400279X/HIGHRES/image/jpeg/6e5488de6fcd9a80e6811355aa3bd7fe/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>262931</xocs:filesize>
+               <xocs:pixel-height>2344</xocs:pixel-height>
+               <xocs:pixel-width>3000</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1226086X2400279X-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1226086X2400279X/HIGHRES/image/jpeg/455ffc2656c7ded851074384e0109e80/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>296159</xocs:filesize>
+               <xocs:pixel-height>1089</xocs:pixel-height>
+               <xocs:pixel-width>3221</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1226086X2400279X-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1226086X2400279X/HIGHRES/image/jpeg/a398c6cc8d6e2dc0494741937a423d53/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>787203</xocs:filesize>
+               <xocs:pixel-height>1977</xocs:pixel-height>
+               <xocs:pixel-width>3248</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1226086X2400279X-ga1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1226086X2400279X/HIGHRES/image/jpeg/3fc5abb4e192cd131b85807ad9642553/ga1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>153060</xocs:filesize>
+               <xocs:pixel-height>886</xocs:pixel-height>
+               <xocs:pixel-width>1507</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1226086X2400279X-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1226086X2400279X/HIGHRES/image/jpeg/4893fc8392b67cc4e4bb9c2d6e04d550/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>362957</xocs:filesize>
+               <xocs:pixel-height>1664</xocs:pixel-height>
+               <xocs:pixel-width>3183</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1226086X2400279X-gr7_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1226086X24002727/HIGHRES/image/jpeg/288e3182b1d8fd1a958a191342e655af/gr7_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>588466</xocs:filesize>
+               <xocs:pixel-height>2256</xocs:pixel-height>
+               <xocs:pixel-width>3241</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1226086X2400279X-gr6_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1226086X24002727/HIGHRES/image/jpeg/6f383af3848fdf5a2b7d1eaf64e28c82/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>331863</xocs:filesize>
+               <xocs:pixel-height>1484</xocs:pixel-height>
+               <xocs:pixel-width>2981</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1226086X2400279X-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1226086X24002727/HIGHRES/image/jpeg/c4ac0325080d409af68eb30ef26e28db/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>175747</xocs:filesize>
+               <xocs:pixel-height>1198</xocs:pixel-height>
+               <xocs:pixel-width>2454</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1226086X2400279X-si1.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1226086X2400279X/image/svg+xml/2a7ae089d93fd3341d79fb26a87a9f37/si1.svg</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>29156</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1226086X2400279X-am.pdf</xocs:attachment-eid>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:filesize>1666536</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10X4LKNK9CZ/MAIN/application/pdf/cc3089f4bd2a16e5f460f1235800dba8/am.pdf</xocs:ucs-locator>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.6">
+         <item-info>
+            <jid>JIEC</jid>
+            <aid>7400</aid>
+            <ce:pii>S1226-086X(24)00279-X</ce:pii>
+            <ce:doi>10.1016/j.jiec.2024.04.040</ce:doi>
+            <ce:copyright type="society" year="2024">The Korean Society of Industrial and Engineering Chemistry</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cn0005">
+                  <ce:simple-para id="sp0015" view="all">(a) Schematic of the home-made glass polishing tool comprising a brush and sample holder situated within a Teflon-coated container box; the adjacent slurry tank, mixed via an overhead stirrer, connected with the glass polisher. (b) Photos of particle sedimentation within the container box and slurry tank after the polishing process.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1226086X2400279X/gr1" id="lk00005"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cn0010">
+                  <ce:simple-para id="sp0020" view="all">Photographs of 10 wt% ceria slurry dispersed with (a) PAA 100 k and (b) 240 k at pH 9.0, initially adjusted using NH₄OH, were taken immediately after preparation, after one day, and after three days.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1226086X2400279X/gr2" id="lk00010"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cn0015">
+                  <ce:simple-para id="sp0025" view="all">(a) The glass removal rates of 30 wt% ceria slurries without the use of a dispersant, with 1 wt% PAA-100 k, and with 1 wt% PAA-200 k throughout the recycling process. The physicochemical properties of polishing slurries such as (b) specific density, (c) particle size, (d) zeta potential, and (e) pH examined for three types of ceria slurries.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1226086X2400279X/gr3" id="lk00015"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cn0020">
+                  <ce:simple-para id="sp0030" view="all">Glass polishing process using micron-sized ceria particles in the presence of PAA.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1226086X2400279X/gr4" id="lk00020"/>
+            </ce:figure>
+            <ce:figure id="f0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cn0025">
+                  <ce:simple-para id="sp0035" view="all">A schematic representation of the homemade glass polishing tool includes a brush and a sample holder positioned inside a Teflon-coated container box. This container box is connected to a slurry tank, a pump, and a filtration system.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1226086X2400279X/gr5" id="lk00025"/>
+            </ce:figure>
+            <ce:figure id="f0030">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cn0030">
+                  <ce:simple-para id="sp0040" view="all">The physicochemical properties of polishing slurries of 10 wt% ceria slurries with and without the use of PAA-240 k were adjusted to pH 9 using NH<ce:inf loc="post">4</ce:inf>OH and KOH throughout the filtration process; (a) Specific density, (b) particle size, (c) zeta potential, and (d) pH variations.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1226086X2400279X/gr6" id="lk00030"/>
+            </ce:figure>
+            <ce:figure id="f0035">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption id="cn0035">
+                  <ce:simple-para id="sp0045" view="all">(a) The glass removal rates of 30 wt% ceria slurries with and without the use of PAA-240 k adjusted to pH 9 using NH<ce:inf loc="post">4</ce:inf>OH and KOH throughout the recycling process. SEM images of the glass samples (b) before and (c) after polishing with ceria slurries dispersed with PAA-240 k and KOH after five recycling cycles. The insets show their AFM images across a measurement area of 20 × 20 µm<ce:sup loc="post">2</ce:sup>. (d-g) The physicochemical properties of polishing slurries such as (d) specific density, (e) particle size, (f) zeta potential, and (g) pH examined for three types of ceria slurries.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr7" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1226086X2400279X/gr7" id="lk00035"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title id="tm005">Enhancing dispersion stability and recyclability of ceria slurry with polyacrylic acid for improved glass polishing performance</ce:title>
+            <ce:author-group id="ag005">
+               <ce:author id="au005" author-id="S1226086X2400279X-2157401a086536c655ee82ea3272ef5c">
+                  <ce:given-name>Arunkumar</ce:given-name>
+                  <ce:surname>Venkataronappa</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+                  <ce:cross-ref refid="af005" id="c0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au010" author-id="S1226086X2400279X-df71e8c3af4b4b6da0b76723f6484bbe">
+                  <ce:given-name>Jonas</ce:given-name>
+                  <ce:surname>Bankaitis</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+                  <ce:cross-ref refid="af010" id="c0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author orcid="0000-0003-3946-6476" id="au015" author-id="S1226086X2400279X-3f094d6b51cd83a54230f4ac29ccd4ef">
+                  <ce:given-name>Jihoon</ce:given-name>
+                  <ce:surname>Seo</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+                  <ce:cross-ref refid="af005" id="c0015">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="c0020">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="af005" affiliation-id="S1226086X2400279X-68996f8e2af58be321e2c7856ba25cfc">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Department of Chemical and Biomolecular Engineering, Clarkson University, Potsdam, NY, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Chemical and Biomolecular Engineering</sa:organization>
+                     <sa:organization>Clarkson University</sa:organization>
+                     <sa:city>Potsdam</sa:city>
+                     <sa:state>NY</sa:state>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx005">Department of Chemical and Biomolecular Engineering, Clarkson University, Potsdam, NY, USA</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af010" affiliation-id="S1226086X2400279X-298de9413a1764c6aa784f0dd9365e25">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Surface Finishing Team, Corning Incorporated, Painted Post, NY, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Surface Finishing Team</sa:organization>
+                     <sa:organization>Corning Incorporated</sa:organization>
+                     <sa:city>Painted Post</sa:city>
+                     <sa:state>NY</sa:state>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="stx010">Surface Finishing Team, Corning Incorporated, Painted Post, NY, USA</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="19" month="3" year="2024"/>
+            <ce:date-revised day="16" month="4" year="2024"/>
+            <ce:date-accepted day="24" month="4" year="2024"/>
+            <ce:abstract class="graphical" xml:lang="en" id="ab005" view="all">
+               <ce:section-title id="st005">Graphical abstract</ce:section-title>
+               <ce:abstract-sec id="as005" view="all">
+                  <ce:simple-para id="sp0005" view="all">
+                     <ce:display>
+                        <ce:figure id="f0040">
+                           <ce:link locator="ga1" id="lk00040" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1226086X2400279X/ga1"/>
+                        </ce:figure>
+                     </ce:display>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:abstract class="author" id="ab010" view="all"><ce:abstract-sec id="as010" view="all">
+                  <ce:simple-para id="sp0010" view="all">This study aimed to enhance both the dispersion stability and recyclability of micron-sized ceria slurry in glass polishing by incorporating polyacrylic acid (PAA). PAA with a molecular weight of 240 k was very effective as a dispersant for ceria slurry due to its unique surface adsorption and its characteristics as an anionic polyelectrolyte. Using a 240 k-PAA concentration of 1.0 wt% led to significant improvements in polishing performances, as demonstrated by consistent glass removal rates across recycling cycles. Additionally, the study investigated the physico-chemical properties of polishing slurries, such as specific gravity, particle size, zeta potential, and pH. These properties were effectively maintained with the use of PAA as the dispersant, particularly when KOH was used as a pH adjuster. A 100 µm bag-type filtration system was also introduced for handling the micron-sized ceria slurry, highlighting its practical benefits in slurry management. In conclusion, employing 240 k-PAA as a dispersant in micron-sized ceria slurries for Gorilla glass polishing not only maintains quality and stability across recycling cycles but also provides notable economic advantages by enabling the recycling of the slurry.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword" id="kg005" view="all">
+               <ce:section-title id="st015">Keywords</ce:section-title>
+               <ce:keyword id="k0005">
+                  <ce:text>Glass</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0010">
+                  <ce:text>Ceria slurry</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0015">
+                  <ce:text>PAA</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0020">
+                  <ce:text>Recycling</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0025">
+                  <ce:text>Physicochemical properties</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:section-title id="st020">Introduction</ce:section-title>
+                  <ce:para id="p0005" view="all">Corning Incorporated, a global leader in glass innovation, applies its cutting-edge technology across various sectors, including consumer electronics, telecommunications, and automotive <ce:cross-refs refid="b0005 b0010 b0015" id="r0005">[1–3]</ce:cross-refs>. Their expertise continues to drive innovation, playing the future of glass applications across various industries. As the demand for high-quality glass products increases, the importance of advanced glass polishing techniques has become more pronounced.</ce:para>
+                  <ce:para id="p0010" view="all">To achieve precise dimensions, glass samples are often shaped using laser-cutting techniques <ce:cross-ref refid="b0020" id="c0025">[4]</ce:cross-ref>. However, this can result in minor imperfections like surface roughness and microcracks, which require removal through subsequent polishing processes. As the demand for high-quality cut edges continues to grow, the importance of polishing has become more important than ever <ce:cross-ref refid="b0025" id="c0030">[5]</ce:cross-ref>. In glass polishing, the production of high-quality ceria-based slurry has gained increasing importance due to its effectiveness in polishing a wide range of glass surfaces through the formation of Ce-O-Si bonds <ce:cross-refs refid="b0030 b0035 b0040" id="r0010">[6–8]</ce:cross-refs>. Given that ceria is harder than glass, it can effectively remove scratches and imperfections without damaging the glass itself.</ce:para>
+                  <ce:para id="p0015" view="all">Glass polishing typically requires a high concentration of micron-sized ceria abrasive (&gt;10 wt%) and extended polishing durations compared to wafer polishing. This leads to significant consumption of ceria particles in each polishing cycle. Current polishing techniques aim to find sustainable, innovative, and cost-effective solutions for ceria slurry in the glass industry <ce:cross-refs refid="b0045 b0050" id="r0015">[9,10]</ce:cross-refs>. There is a focused effect on recycling and enhancing the use of resources <ce:cross-refs refid="b0055 b0060" id="r0020">[11,12]</ce:cross-refs>, particularly through the recovery of cerium from polishing waste <ce:cross-refs refid="b0065 b0070 b0075 b0080" id="r0025">[13–16]</ce:cross-refs>. Methods such as low-temperature sulfatizing roasting, alkali roasting, and solvent extraction have shown potential in extracting cerium from waste <ce:cross-ref refid="b0075" id="c0035">[15]</ce:cross-ref>, facilitating its purification and reuse. These methods have demonstrated high cerium recovery rates, emphasizing their effectiveness in sustainable resource management.</ce:para>
+                  <ce:para id="p0020" view="all">Recycling ceria abrasives in glass polishing not only helps mitigate environmental impacts but also offers economic benefits by reducing the demand for raw materials and energy. Several methods have been suggested to facilitate ceria reuse, including chemical methods to separate ceria for redispersion <ce:cross-refs refid="b0065 b0070" id="r0030">[13,14]</ce:cross-refs> or liquid–liquid-powder extraction <ce:cross-ref refid="b0080" id="c0040">[16]</ce:cross-ref>. Recycling ceria-based slurry proves to be a more cost-effective strategy than extracting cerium from polishing waste. This is because it involves simpler processes that do not require specialized equipment or chemicals. Park et al. <ce:cross-ref refid="b0085" id="c0045">[17]</ce:cross-ref> reported how centrifugation and microfiltration processes enhanced the recovery of used ceria by allowing it to be sent back to the slurry supplier for reclamation and reuse. Their full-scale implementation featured a high-speed centrifuge that operates continuously, coupled with a microfiltration system. This setup allows for recirculation within a single process tank, streamlining the recovery and reuse of ceria abrasives in a highly efficient manner, leading to cost savings of up to 48 % in glass polishing operations.</ce:para>
+                  <ce:para id="p0025" view="all">Nevertheless, the use of high concentrations of micron-sized ceria abrasives in glass manufacturing poses a challenge to maintaining dispersion stability. Due to gravity and poor dispersion, particles tend to settle even in circulation systems, resulting in the entrapment of ceria particles within polishing machines. This leads to a decrease in the concentration of ceria particles, which requires the addition of fresh particles during the manufacturing process. Adding dispersants to micron-sized ceria slurries used in glass polishing can markedly enhance their dispersion stability. The DLVO theory explains that in aqueous media, particles may agglomerate when the force of van der Waals attraction surpasses that of electrostatic repulsion <ce:cross-ref refid="b0090" id="c0050">[18]</ce:cross-ref>. By incorporating appropriate dispersants, both steric hindrance and electrostatic stabilization among the abrasive particles are achieved. This effectively prevents the particles from clustering together, leading to an increase in the recyclability of ceria slurries. While several studies have documented the physicochemical properties of ceria slurries used in glass polishing and how these properties change during recycling <ce:cross-refs refid="b0065 b0070" id="r0035">[13,14]</ce:cross-refs>, there has been a lack of focus on enhancing the recyclability of ceria slurries by improving their dispersion stability.</ce:para>
+                  <ce:para id="p0030" view="all">This paper focuses on strategies for enhancing the dispersion stability of micron-sized ceria particles in glass manufacturing by employing polyacrylic acid (PAA) as a dispersant. PAA serves as an effective dispersant in glass polishing slurries, stabilizing the abrasive ceria particles to prevent them from clustering together <ce:cross-refs refid="b0095 b0100" id="r0040">[19,20]</ce:cross-refs>. This stabilization ensures the particles are evenly distributed across the glass surface during polishing, which is necessary for producing a smooth, defect-free finish required for high-precision glass components. As an anionic surfactant, PAA can adhere to the ceria surface, which is positively charged, through attractive electrostatic forces <ce:cross-ref refid="b0095" id="c0055">[19]</ce:cross-ref>. The carboxylic (–COOH) groups in PAA, once adsorbed onto the ceria surface, become negatively charged carboxylate (–COO<ce:sup loc="post">–</ce:sup>) groups when deprotonated above its pKa of 4.5. This transformation enhances dispersion stability by increasing the repulsive force between the abrasive particles.</ce:para>
+                  <ce:para id="p0035" view="all">Previous studies indicated that similar to polyacrylic acids, poly methyl methacrylate (PMMA) also stabilized ceria particles in slurries by providing a steric barrier to prevent agglomeration <ce:cross-ref refid="b0105" id="c0060">[21]</ce:cross-ref>, resulting in a stable slurry and an efficient polishing process. Additionally, non-ionic surfactants such as polyvinylpyrrolidone (PVP) and polyethylene glycol (PEG) are recognized for their dispersing abilities due to their compatibility with a wide range of materials and effectiveness in preventing particle clumping <ce:cross-ref refid="b0110" id="c0065">[22]</ce:cross-ref>. Organic acids are employed as pH-adjusting agents to further enhance slurry stability. Acetic acid, propionic acid, lactic acid, and phytic acid are some of the candidates explored for this purpose <ce:cross-refs refid="b0115 b0120" id="r0045">[23,24]</ce:cross-refs>. Among the various dispersants we considered, PAA stands out because (1) PAA offers excellent electrostatic stabilization to the micron-sized ceria particles in the slurry, (2) the molecular weight of PAA can be tailored to adjust its viscosity and the degree of steric stabilization provided, enabling the optimization of molecular weight for micron-sized ceria particles, and (3) PAA is relatively non-toxic and biodegradable, making it a safer and more environmentally friendly choice for industrial applications. Ceria abrasives chemically interact with the glass surface through active sites. Therefore, the presence of PAA on the abrasive surface does not lead to a significant reduction in the glass removal rate, maintaining the effectiveness of the polishing process. The improved dispersion stability not only mitigates environmental impact and reduces costs for glass manufacturers but also highlights the importance of recycling in today’s glass industry.</ce:para>
+                  <ce:para id="p0040" view="all">Also, the introduction of a bag-type filtration system for managing micron-sized ceria slurry highlights its practical advantages in slurry management. Unlike traditional in-depth filtration systems, which trap particles throughout the filter media and may become clogged, leading to decreased efficiency, the bag-type system is based on surface filtration <ce:cross-refs refid="b0125 b0130" id="r0050">[25,26]</ce:cross-refs>. This design ensures particles are captured on the surface of the filter media. Bag-type filtration was adopted for our system as it was very effective in maintaining a consistent flow rate for glass manufacturing and simplifies maintenance for high concentrations of micron-sized ceria slurries, as the filter can be easily cleaned or replaced without the need to overhaul the entire system. This represents a significant improvement in handling and recycling polishing slurries, enhancing overall productivity and sustainability.</ce:para>
+                  <ce:para id="p0045" view="all">Our assessment includes physicochemical properties of the ceria slurry such as specific density, pH, particle size, zeta potential, and glass removal rates during slurry recycling to assess their stability. Ultimately, this approach to recycling ceria slurries while enhancing their dispersion stability aligns with both cost-effectiveness and sustainability goals.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:section-title id="st025">Experimental sections</ce:section-title>
+                  <ce:section id="s0015" view="all">
+                     <ce:section-title id="st030">Materials</ce:section-title>
+                     <ce:para id="p0050" view="all">Specimens of Corning® Gorilla® Glass were diced to dimensions of 100 mm × 50 mm × 1.3 mm. Corning Incorporated provided the micron-sized ceria abrasive and the brush required for glass polishing. Polyacrylic acid (PAA) with molecular weights of 100 k and 240 k was purchased from Sigma Aldrich and tested in this study. The molecular weight of PAA plays a critical role in its adsorption behavior on the ceria surface, which influences the quality of dispersion and the resulting polishing performance. Higher molecular weights, such as 240 k, can create a denser brush layer on the surface of the particles. This layer enhances steric stabilization, which helps prevent the particles from agglomerating. On the other hand, lower molecular weights, like 100 k, might provide adequate surface coverage, facilitating better particle distribution within the slurry. One of our goals was to select between these molecular weights which involves striking a balance to achieve the best possible dispersion while also preserving the desired slurry properties.</ce:para>
+                     <ce:para id="p0055" view="all">Additionally, 100 µm nylon and polypropylene bag filters were obtained from SpiroPure.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0020" view="all">
+                     <ce:section-title id="st035">Slurry preparation and its characterization</ce:section-title>
+                     <ce:para id="p0060" view="all">Ceria abrasives were dispersed in deionized water (DIW) and mixed at 3500 rpm for one hour, resulting in a mixed slurry with a specific gravity of 1.3 (∼30 wt%). Subsequently, we added 1.0 wt% of PAA to the ceria slurry. We adjusted the pH of these slurries using either ammonium hydroxide (NH<ce:inf loc="post">4</ce:inf>OH) or potassium hydroxide (KOH). Physicochemical properties of polishing slurry, including specific density, pH, average particle size, and zeta potential, were continuously monitored and analyzed during the recycling process. The average particle size and zeta potential of the ceria slurry were determined using an Accusizer 770A (Particle Sizing Systems, USA) and Nano ZS (Malvern Instruments, UK), respectively. The average values from three different measurements are reported in this paper.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0025" view="all">
+                     <ce:section-title id="st040">Design of home-made glass polishing tool and polishing process</ce:section-title>
+                     <ce:para id="p0065" view="all">The home-made glass polishing tool consists of several key components that work together to achieve and optimize the glass polishing (<ce:cross-ref refid="f0005" id="c0070">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="f0005"/>a). One notable component is the spindle attached to the polishing brush, enabling essential rotational movement at a variable speed range of 90 to 1180 rpm. This is complemented by the x-axis power feed, allowing lateral movement along the x-axis during operation at speeds ranging from 0 to 140 rpm.</ce:para>
+                     <ce:para id="p0070" view="all">During the polishing process, the glass sample is securely placed within a Teflon-coated container box, while the sample holder provides a platform for stable positioning of the glass sample throughout the process (<ce:cross-ref refid="f0005" id="c0075">Fig. 1</ce:cross-ref>a). To monitor the applied pressure accurately, a force gauge is attached to the sample holder, with a measurement range of 50 N and an accuracy of 0.5 %.</ce:para>
+                     <ce:para id="p0075" view="all">In slurry preparation, the overhead stirrer is used to consistently mix the slurry at a speed of 3,500 rpm in the tank. The slurry injection system is specifically designed to transport the slurry directly from the tank to the interface between the rotated brush and the glass surface in the polisher during the polishing process, thereby facilitating the polishing action. The removal rates of the glass were determined by measuring the weight loss before and after each polishing, with each batch running for 30 min. To calculate the rate of material removal over 30 min (1 cycle), we used the following equation to convert weight change (in grams) to the corresponding change in length (ΔLength):<ce:display>
+                           <ce:formula id="e0005">
+                              <mml:math altimg="si1.svg">
+                                 <mml:mrow>
+                                    <mml:mi mathvariant="normal">Δ</mml:mi>
+                                    <mml:mi>L</mml:mi>
+                                    <mml:mi>e</mml:mi>
+                                    <mml:mi>n</mml:mi>
+                                    <mml:mi>g</mml:mi>
+                                    <mml:mi>t</mml:mi>
+                                    <mml:mi>h</mml:mi>
+                                    <mml:mo linebreak="goodbreak">=</mml:mo>
+                                    <mml:mfrac>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">Δ</mml:mi>
+                                          <mml:mi>M</mml:mi>
+                                          <mml:mi>a</mml:mi>
+                                          <mml:mi>s</mml:mi>
+                                          <mml:mi>s</mml:mi>
+                                          <mml:mo>×</mml:mo>
+                                          <mml:mrow>
+                                             <mml:mn>10</mml:mn>
+                                             <mml:mo>,</mml:mo>
+                                             <mml:mn>000</mml:mn>
+                                          </mml:mrow>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="italic">Width</mml:mi>
+                                          <mml:mo>×</mml:mo>
+                                          <mml:mi>T</mml:mi>
+                                          <mml:mi>h</mml:mi>
+                                          <mml:mi>i</mml:mi>
+                                          <mml:mi>c</mml:mi>
+                                          <mml:mi>k</mml:mi>
+                                          <mml:mi>n</mml:mi>
+                                          <mml:mi>e</mml:mi>
+                                          <mml:mi>s</mml:mi>
+                                          <mml:mi>s</mml:mi>
+                                          <mml:mo>×</mml:mo>
+                                          <mml:mi>D</mml:mi>
+                                          <mml:mi>e</mml:mi>
+                                          <mml:mi>n</mml:mi>
+                                          <mml:mi>s</mml:mi>
+                                          <mml:mi>i</mml:mi>
+                                          <mml:mi>t</mml:mi>
+                                          <mml:mi>y</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mfrac>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>In this equation, the width is 100 mm, the initial length is 50 mm, the thickness is 1.3 mm, and the density is 2.45 g/cm<ce:sup loc="post">3</ce:sup>. The average removal rates from three different polishing experiments are reported in this paper.</ce:para>
+                     <ce:para id="p0080" view="all">In our experiments, we polished glass films for 30 min in a single cycle using a custom-made polisher. The polisher featured a brush rotating at 345 rpm, with an applied pressure of 1 N, and a consistent slurry flow rate of 120 ml/min. The sample holder was moved along the x-axis at a feed rate of 0.8 cm/sec. The topography of the glass films was analyzed before and after polishing using atomic force microscopy (AFM, Multimode 8, Bruker) and scanning electron microscopy (SEM, JSM 7900-LV, JEOL). AFM measurements covered areas of 20 µm × 20 µm, performed at a rate of 0.5 Hz in tapping mode with a Bruker NCHV-A probe.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0030" view="all">
+                  <ce:section-title id="st045">Results and discussions.</ce:section-title>
+                  <ce:section id="s0035" view="all">
+                     <ce:section-title id="st050">Influence of PAA and its concentration on micron-sized ceria slurry stability</ce:section-title>
+                     <ce:para id="p0085" view="all">Particle settling is a common occurrence caused by gravity and poor dispersion as shown in <ce:cross-ref refid="f0005" id="c0080">Fig. 1</ce:cross-ref>b, leading to the ceria particles becoming trapped within the glass polishing system. To address this challenge and enhance the dispersion stability of micron-sized ceria slurry, we explored various potential dispersants and conducted experiments to identify the most effective one, though the specific data are not shown here. Among the dispersants tested, PAA stood out for its high efficiency under the specific conditions of our interest <ce:cross-refs refid="b0100 b0135" id="r0055">[20,27]</ce:cross-refs>. The remarkable ability of PAA to disperse ceria particles is attributed to its unique surface adsorption properties on ceria, its nature as an anionic polyelectrolyte <ce:cross-ref refid="b0140" id="c0085">[28]</ce:cross-ref>, and its capacity to enhance colloidal stability.</ce:para>
+                     <ce:para id="p0090" view="all">To study the impact of varying PAA concentrations on the stability of ceria slurries, we conducted experiments using both PAA-100 k and PAA-240 k (<ce:cross-ref refid="f0010" id="c0090">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="f0010"/>), testing concentrations ranging from 0 % to 2.0 % The slurry pH was adjusted to 9.0 using NH<ce:inf loc="post">4</ce:inf>OH. Initially, we observed noticeable sedimentation in slurries without PAA after just 1 day. However, as the PAA concentration increased, sedimentation significantly decreased, indicating improved stability and dispersion of ceria particles within the slurry. This trend became even clearer after extending the observation to 3 days. Notably, the PAA-240 k at a 1.0 wt% concentration displayed the least sedimentation (<ce:cross-ref refid="f0010" id="c0095">Fig. 2</ce:cross-ref>b), suggesting its potential as the potentially optimal concentration for our ceria slurry system. Although PAA-240 k at a 2.0 wt% concentration also exhibited excellent performance, it was not chosen as the final concentration due to the higher costs associated with its use in large-scale manufacturing.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0040" view="all">
+                     <ce:section-title id="st055">Glass removal rates and physicochemical properties of ceria slurries during recycling</ce:section-title>
+                     <ce:para id="p0095" view="all">In our study on the performance of ceria-based slurries dispersed with PAA-100 k and PAA-240 k across recycling cycles in glass polishing, notable differences were observed. Without a dispersant (black line) in <ce:cross-ref refid="f0015" id="c0100">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="f0015"/>a, the glass removal rate started at 20 μm/cycle and dropped to 5 μm/cycle after 5 recycling cycles. However, with PAA-100 k (red line) and PAA-240 k (blue line), the rates were significantly higher at 25 μm/cycle and 35 μm/cycle, respectively, and remained consistent throughout the recycling process. This highlights the effectiveness of PAA in maintaining stable removal rates and extending slurry usability.</ce:para>
+                     <ce:para id="p0100" view="all">
+                        <ce:cross-ref refid="f0015" id="c0105">Fig. 3</ce:cross-ref>b-e present the physicochemical properties of these slurries, highlighting that the specific density for ceria slurries dispersed with PAA remained largely stable at 1.3 (<ce:cross-ref refid="f0015" id="c0110">Fig. 3</ce:cross-ref>b), despite minor variations between 1.27 and 1.3. It is worth noting that a change of 0.03 in specific gravity corresponds to approximately a 3 % variation in solid concentration over five recycling cycles. This decrease in specific density might have contributed to a reduction in glass film removal rates during recycling, which requires the addition of fresh ceria abrasive to ensure consistent polishing performance. In high-volume manufacturing, this could lead to a significant increase in the consumption of ceria particles to maintain glass polishing performances.</ce:para>
+                     <ce:para id="p0105" view="all">When micron-sized ceria particles were dispersed in DIW at pH 9, they consistently showed an average size of 15 μm across all recycling cycles, as shown by the black line in <ce:cross-ref refid="f0015" id="c0115">Fig. 3</ce:cross-ref>c. However, with the addition of PAA, this average size decreased to 10 μm. This reduction is attributed to PAA’s effectiveness as a dispersant, which prevents the ceria particles from agglomerating together. The decrease in particle size is a result of the strong electrostatic repulsion and steric hindrance at pH 9. A smaller average particle size is beneficial in minimizing the risk of surface scratches and imperfections on the glass during polishing. Additionally, the enhanced dispersion of abrasive particles ensures a higher number of active particles are engaged in the polishing process, contributing to the observed higher glass removal rates and maintaining the stability of the ceria slurry with PAA.</ce:para>
+                     <ce:para id="p0110" view="all">Consistent zeta potential trends among different slurry compositions were observed as shown in <ce:cross-ref refid="f0015" id="c0120">Fig. 3</ce:cross-ref>d. Slurries without a dispersant showed a zeta potential of about −43 mV throughout the recycling process. Conversely, the addition of PAA-100 k and PAA-240 k to ceria slurries resulted in an increased zeta potential. This increase is likely due to the dispersant properties of PAA, contributing to a more stable slurry.</ce:para>
+                     <ce:para id="p0115" view="all">An interesting observation across slurry types was a common trend of decreasing pH during the recycling cycles as shown in <ce:cross-ref refid="f0015" id="c0125">Fig. 3</ce:cross-ref>e. The pH values notably shifted from an initial pH of 9 to a range of 8.3–8.5. This observation indicates that the recycling process significantly affects the pH characteristics of slurry, suggesting adjustments or considerations may be necessary to maintain optimal slurry conditions for glass polishing.</ce:para>
+                     <ce:para id="p0120" view="all">During glass polishing and its subsequent recycling, the dissolution of glass in an alkaline medium <ce:cross-ref refid="b0145" id="c0130">[29]</ce:cross-ref> involves the breakdown of the glass’s silicate structure <ce:cross-ref refid="b0150" id="c0135">[30]</ce:cross-ref>, resulting in the release of ions such as Si, O, and sometimes other metallic elements into the slurry, changing its slurry pH. Specifically, when glass contains alkaline-earth metals, these can react with hydroxide ions in the alkaline medium, which may decrease the slurry’s alkalinity and lower its pH. Furthermore, the dissolution of the silicate structure in glass can lead to the formation of silicic acid or its salts <ce:cross-ref refid="b0150" id="c0140">[30]</ce:cross-ref>, ultimately impacting the pH of the slurry. This dynamic emphasizes the intricate chemical interactions at play during glass polishing, highlighting the importance of managing slurry composition and pH to maintain optimal polishing conditions.</ce:para>
+                     <ce:para id="p0125" view="all">Given our objective of achieving glass film removal rates during polishing, it is inevitable that glass byproducts may be present in the slurry during recycling. Therefore, our primary focus has been on maintaining the slurry pH while considering the slurry composition and implementing an effective filtration system. This system was designed to eliminate large particles during the recycling process, ensuring the slurry remains effective for reuse. This approach underscores our commitment to achieving high-quality polishing outcomes while also addressing the challenges posed by the recycling of polishing slurries.</ce:para>
+                     <ce:para id="p0130" view="all">
+                        <ce:cross-ref refid="f0020" id="c0145">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="f0020"/> illustrates the glass polishing process using micron-sized ceria particles in the presence of PAA. When the glass is exposed to water, a hydrated layer forms on its surface, creating silanol (Si-OH) groups <ce:cross-ref refid="b0040" id="c0150">[8]</ce:cross-ref>. This layer is softer and more chemically reactive compared to the bulk glass beneath, thereby facilitating the polishing action. As pressure is applied to the glass, PAA adsorbed on the ceria particles detaches, exposing the active sites of the abrasive. These ceria particles exhibit a strong affinity for the silanol groups, forming robust Ce-O-Si bonds <ce:cross-refs refid="b0155 b0160" id="r0060">[31,32]</ce:cross-refs>. This interaction enhances the abrasion as the ceria particles effectively bind and exert force on the hydrated layer, leading to the detachment of small glass fragments and the effective removal of the glass film. This process not only smooths the glass but also improves the efficiency and quality of the polishing.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0045" view="all">
+                     <ce:section-title id="st060">Improving slurry management for high-quality product manufacturing</ce:section-title>
+                     <ce:para id="p0135" view="all">For high-quality products in high-volume manufacturing, managing slurry effectively and reliably is essential. We implemented a filtration system to eliminate large and agglomerated particles to achieve this. Two types of filtration systems (in-depth and bag-type filters) were tested. The slurry filtration system is connected to a tank, a single pump circulates the slurry from the bottom of the tank to the top. This circulation prevents solid particles from settling at the bottom of the tank.</ce:para>
+                     <ce:para id="p0140" view="all">One major challenge we faced with the in-depth filter was the lack of driving forces to induce particle mass flow through the filter, often resulting in clogs from poor slurry mixing in the absence of a dispersant. To overcome this, a bag-type filtration system was implemented, which proved highly effective, especially with micron-sized ceria slurry. This type of filter prevented clogs and ensured a smoother flow of slurry, addressing the issues we encountered with the in-depth filter. <ce:cross-ref refid="f0025" id="c0155">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="f0025"/> shows our revised slurry mixing system with bag-type filtration and a hand-made polisher for glass.</ce:para>
+                     <ce:para id="p0145" view="all">In our filtration test, we prepared the ceria slurry with a specific density of 1.05 at pH 9 (to minimize particle consumption). We closely monitored the physicochemical properties of the polishing slurries during filtration as shown in <ce:cross-ref refid="f0030" id="c0160">Fig. 6</ce:cross-ref>
+                        <ce:float-anchor refid="f0030"/>. It was crucial to introduce additives such as PAA 240 k, along with two different pH adjusters, NH<ce:inf loc="post">4</ce:inf>OH and KOH, to ensure a stable slurry pH throughout the process.</ce:para>
+                     <ce:para id="p0150" view="all">The ceria slurry without PAA experienced a significant decrease in specific density, dropping from 1.05 to 1.0 at the start of filtration (<ce:cross-ref refid="f0030" id="c0165">Fig. 6</ce:cross-ref>a). This decrease led to particles clogging within the filtration system. However, ceria slurries with PAA-240 k maintained relatively stable specific densities throughout the filtration, regardless of the pH adjuster used (NH₄OH or KOH). The addition of PAA did not significantly affect the apparent specific density when compared to the slurry without PAA.</ce:para>
+                     <ce:para id="p0155" view="all">Over time, a slight reduction in the average particle size from 10 μm to 9 μm was observed as the larger or agglomerated particles were filtered out (<ce:cross-ref refid="f0030" id="c0170">Fig. 6</ce:cross-ref>b). This size reduction stabilized after a 5-hour filtration. The zeta potential remained negative for all slurries (<ce:cross-ref refid="f0030" id="c0175">Fig. 6</ce:cross-ref>c). Notably, the slurry with PAA adjusted with KOH exhibited a more negative zeta potential than the one adjusted with NH<ce:inf loc="post">4</ce:inf>OH, suggesting better dispersion stability.</ce:para>
+                     <ce:para id="p0160" view="all">Both KOH and NH<ce:inf loc="post">4</ce:inf>OH serve as bases, but KOH is a stronger base than NH<ce:inf loc="post">4</ce:inf>OH and fully dissociates in water, leading to a higher concentration of OH<ce:sup loc="post">–</ce:sup> ions in solutions where it is used. Consequently, adjusting the pH of ceria slurries with PAA to 9 requires a higher molar concentration of NH<ce:inf loc="post">4</ce:inf>OH, which could impact the zeta potential. The presence of a higher concentration of NH<ce:inf loc="post">4</ce:inf>
+                        <ce:sup loc="post">+</ce:sup> ions at pH 9 might lead to charge screening, thereby potentially reducing the zeta potential in slurries adjusted with NH<ce:inf loc="post">4</ce:inf>OH compared to those adjusted with KOH.</ce:para>
+                     <ce:para id="p0165" view="all">The pH of the slurry indeed varied depending on the type of pH adjuster used (<ce:cross-ref refid="f0030" id="c0180">Fig. 6</ce:cross-ref>d). The ceria slurry dispersed with PAA-240 K and adjusted using KOH proved to be more effective at maintaining a stable slurry pH during the filtration process compared to the slurry adjusted with NH<ce:inf loc="post">4</ce:inf>OH. This difference is attributed to the properties of the pH adjusters. KOH forms a stable solution without volatile components when dissolved in water, making it less prone to evaporation during the filtration and circulation processes. In contrast, the ceria slurry without PAA showed a slight decline in pH within one hour, likely due to the lack of pH buffer in the slurry.</ce:para>
+                     <ce:para id="p0170" view="all">Additionally, a ceria slurry with a specific density of 1.3 using PAA-240 K was prepared and adjusted to pH 9 with KOH (data not shown). Throughout the filtration, we monitored the physicochemical properties of these polishing slurries. We found that the slurry prepared according to the optimized mixing procedure remained very stable in our filtration system, indicating the effectiveness of our adjustments for enhancing slurry stability.</ce:para>
+                     <ce:para id="p0175" view="all">In <ce:cross-ref refid="f0035" id="c0185">Fig. 7</ce:cross-ref>
+                        <ce:float-anchor refid="f0035"/>a, ceria slurries dispersed with PAA-240 k and adjusted to pH 9 using either NH<ce:inf loc="post">4</ce:inf>OH or KOH consistently demonstrated higher glass removal rates, achieving 30 μm/cycle and 35 μm/cycle, respectively. Interestingly, these removal rates remained consistent throughout the recycling process. highlighting the remarkable effectiveness of PAA in ensuring stable removal rates during recycling. This stability has significant implications for extending the usability of the slurry.</ce:para>
+                     <ce:para id="p0180" view="all">
+                        <ce:cross-ref refid="f0035" id="c0190">Fig. 7</ce:cross-ref>b presents the SEM images of the rough surface of the glass samples after laser cutting, while <ce:cross-ref refid="f0035" id="c0195">Fig. 7</ce:cross-ref>c illustrates the SEM images of the samples following polishing with ceria slurries dispersed with PAA-240 k and KOH after five recycling cycles. The insets in <ce:cross-ref refid="f0035" id="c0200">Fig. 7</ce:cross-ref>b and 7c show the AFM images, which illustrate a notable decrease in surface roughness Rms from 256 nm to 5 nm across a measurement area of 20 × 20 µm<ce:sup loc="post">2</ce:sup>. This demonstrated that our ceria slurry and polishing/recycling conditions effectively enhanced the surface smoothness of the glass.</ce:para>
+                     <ce:para id="p0185" view="all">The use of PAA-240 k in the ceria slurry not only stabilized the specific density of 1.3 through five recycling cycles as shown in <ce:cross-ref refid="f0035" id="c0205">Fig. 7</ce:cross-ref>d, but also ensured average size of the micron-sized ceria particles with PAA remained at 10 μm throughout all recycling cycles (<ce:cross-ref refid="f0035" id="c0210">Fig. 7</ce:cross-ref>e). The reduction in particle size is attributed to the effective dispersant properties of PAA, which prevented particle agglomeration through strong electrostatic repulsion and steric hindrance at pH 9. The presence of smaller particle sizes reduces the risk of surface scratches and imperfections on the glass during polishing, enhancing the polishing process by increasing the number of active particles.</ce:para>
+                     <ce:para id="p0190" view="all">Further observations showed consistent trends in zeta potential across different slurry compositions (<ce:cross-ref refid="f0035" id="c0215">Fig. 7</ce:cross-ref>f). Slurries without additives showed a stable zeta potential of approximately −43 mV, a consistency maintained throughout the recycling process. In contrast, slurries containing PAA-240 k exhibited an increased zeta potential, due to their dispersant properties. Even when adjusted with KOH, slurries with PAA-240 k demonstrated a high zeta potential, contributing to the stability of the slurry system. This highlights the effectiveness of PAA-240 k in enhancing the performance of the slurries and their durability.</ce:para>
+                     <ce:para id="p0195" view="all">The ceria slurry that was dispersed using PAA-240 K and pH-adjusted with KOH (<ce:cross-ref refid="f0035" id="c0220">Fig. 7</ce:cross-ref>g), demonstrated superior effectiveness in maintaining a consistent slurry pH during the recycling process when compared to the slurry adjusted with NH<ce:inf loc="post">4</ce:inf>OH. This highlights the outstanding performance of PAA dispersants in slurry dispersion, ensuring not only stable material removal but also maximizing the slurry’s lifespan and recyclability.</ce:para>
+                     <ce:para id="p0200" view="all">Recycling the ceria slurry proves to be considerably more economical over several cycles than producing new batches. While there are costs associated with the recycling process, including the use of dispersants and other operational expenses, the overall savings achieved through recycling are significant. This demonstrates the significant economic benefits of recycling ceria slurry in glass polishing operations, highlighting the importance of efficient slurry management strategies that include recycling to reduce costs and enhance sustainability in manufacturing processes.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0050" view="all">
+                  <ce:section-title id="st065">Conclusion</ce:section-title>
+                  <ce:para id="p0205" view="all">Our study focused on how PAA affects the performance of micron-sized ceria slurry in glass polishing. We discovered that PAA serves as an effective dispersant, improving the stability of the dispersion and reducing the rate of sedimentation. Specifically, at a concentration of 1.0 wt%, PAA with a molecular weight of 240 k markedly enhanced the dispersion of micron-sized ceria particles. This improvement led to consistent and better rates of glass removal throughout both the initial polishing phase and subsequent recycling processes. Additionally, ceria slurries dispersed with PAA maintained stable removal rates across several recycling cycles, thereby extending their lifespan. The selection of a pH adjuster was found to be important, with KOH outperforming NH<ce:inf loc="post">4</ce:inf>OH. KOH was more effective in maintaining a stable zeta potential and pH level, which is particularly beneficial in high-volume manufacturing environments.</ce:para>
+                  <ce:para id="p0210" view="all">In summary, the implementation of PAA, combined with an efficient filtration system and the right pH adjusters, significantly improves ceria slurry systems. This strategy not only stabilizes the dispersion and ensures uniform glass removal rates but also enhances the recycling process. Consequently, it yields considerable economic advantages and achieves high-quality glass polishing. These findings provide valuable insights for industries aiming to improve their polishing operations and advance sustainability through effective recycling methods.</ce:para>
+                  <ce:para id="p0215" view="all">However, expanding the application of PAA in larger industrial contexts poses several challenges, particularly in scaling up to accommodate increasing workloads or to support growth, which includes the feasibility of scaling up PAA production, its distribution, and application processes within the slurry, as well as understanding its interaction with other components at larger scales. Overcoming these challenges is essential to fully incorporate PAA as a dispersant for the slurry into the glass polishing industry in a manner that is both sustainable and economically feasible.</ce:para>
+               </ce:section>
+               <ce:section id="s0055" view="all">
+                  <ce:section-title id="st070">CRediT authorship contribution statement</ce:section-title>
+                  <ce:para id="p0220" view="all">
+                     <ce:bold>Arunkumar Venkataronappa:</ce:bold> Writing – original draft, Visualization, Validation, Methodology, Investigation, Formal analysis, Data curation. <ce:bold>Jonas Bankaitis:</ce:bold> Writing – review &amp; editing, Resources, Methodology, Investigation, Conceptualization. <ce:bold>Jihoon Seo:</ce:bold> Writing – review &amp; editing, Writing – original draft, Visualization, Validation, Supervision, Resources, Project administration, Methodology, Investigation, Funding acquisition, Formal analysis, Data curation, Conceptualization.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi005" view="all">
+               <ce:section-title id="st075">Declaration of competing interest</ce:section-title>
+               <ce:para id="p0225" view="all">The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</ce:para>
+            </ce:conflict-of-interest>
+            <ce:acknowledgment id="ak005" view="all">
+               <ce:section-title id="st080">Acknowledgment</ce:section-title>
+               <ce:para id="p0230" view="all">We gratefully acknowledge Corning Inc. for providing financial support. We also acknowledge the support of the State of New York through the Center of Advanced Materials Processing, a NY State Center for Advanced Technology, at Clarkson University. The authors thank Murali Ramu for his assistance in the preparation of <ce:cross-ref refid="f0035" id="c0225">Figure 7</ce:cross-ref> and thank Hanup Vegi for the initial tool set-up.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi005" view="all">
+               <ce:section-title id="st085">References</ce:section-title>
+               <ce:bibliography-sec id="bs005" view="all">
+                  <ce:bib-reference id="b0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="h0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.T.</ce:given-name>
+                                 <ce:surname>Kohli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Hubert</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.E.</ce:given-name>
+                                 <ce:surname>Youngman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.L.</ce:given-name>
+                                 <ce:surname>Morse</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A Corning perspective on the future of technical glass in our evolving world</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Appl. Glas. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>292</sb:first-page>
+                              <sb:last-page>307</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx015">J.T. Kohli, M. Hubert, R.E. Youngman, D.L. Morse, A Corning perspective on the future of technical glass in our evolving world, International Journal of Applied Glass Science, 13 (2022) 292-307.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="h0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Jin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yoon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Jo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Moon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Seok</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.H.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The effects of polyvinylpyrrolidone molecular weight on defect-free filling of through-glass vias (TGVs)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Ind. Eng. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>96</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>376</sb:first-page>
+                              <sb:last-page>381</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx020">S.H. Jin, Y. Yoon, Y. Jo, S. Lee, H. Moon, S. Seok, M.J. Kim, J.J. Kim, M.H. Lee, The effects of polyvinylpyrrolidone molecular weight on defect-free filling of through-glass vias (TGVs), Journal of Industrial and Engineering Chemistry, 96 (2021) 376-381.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="h0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.-H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Sung</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A Gut-Brain Axis-on-a-Chip for studying transport across epithelial and endothelial barriers</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Ind. Eng. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>101</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>126</sb:first-page>
+                              <sb:last-page>134</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx025">M.-H. Kim, D. Kim, J.H. Sung, A Gut-Brain Axis-on-a-Chip for studying transport across epithelial and endothelial barriers, Journal of Industrial and Engineering Chemistry, 101 (2021) 126-134.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="h0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Ito</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kizaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Shinomoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Ueki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Sugita</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mitsuishi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High-efficiency and precision cutting of glass by selective laser-assisted milling</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Precis. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>498</sb:first-page>
+                              <sb:last-page>507</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx030">Y. Ito, T. Kizaki, R. Shinomoto, M. Ueki, N. Sugita, M. Mitsuishi, High-efficiency and precision cutting of glass by selective laser-assisted milling, Precision Engineering, 47 (2017) 498-507.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="h0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Xia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Fang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Ahearne</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Tao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Advances in polishing of optical freeform surfaces: A review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Process. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>286</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>116828</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx035">Z. Xia, F. Fang, E. Ahearne, M. Tao, Advances in polishing of optical freeform surfaces: A review, Journal of Materials Processing Technology, 286 (2020) 116828.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="h0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Feng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ceria concentration effect on chemical mechanical polishing of optical glass</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Surf. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>253</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4951</sb:first-page>
+                              <sb:last-page>4954</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx040">L. Wang, K. Zhang, Z. Song, S. Feng, Ceria concentration effect on chemical mechanical polishing of optical glass, Applied surface science, 253 (2007) 4951-4954.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="h0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Wakamatsu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Kurokawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Toyama</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Hayashi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>CMP characteristics of quartz glass substrate by aggregated colloidal ceria slurry</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Precis. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>60</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>458</sb:first-page>
+                              <sb:last-page>464</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx045">K. Wakamatsu, S. Kurokawa, T. Toyama, T. Hayashi, CMP characteristics of quartz glass substrate by aggregated colloidal ceria slurry, Precision Engineering, 60 (2019) 458-464.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="h0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.M.</ce:given-name>
+                                 <ce:surname>Cook</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical processes in glass polishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Non Cryst. Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>120</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>152</sb:first-page>
+                              <sb:last-page>171</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx050">L.M. Cook, Chemical processes in glass polishing, Journal of non-crystalline solids, 120 (1990) 152-171.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="h0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Jeong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Approaches to sustainability in chemical mechanical polishing (CMP): A review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Precision Eng. Manuf.-Green Technol.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>19</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx055">H. Lee, H. Kim, H. Jeong, Approaches to sustainability in chemical mechanical polishing (CMP): a review, International Journal of Precision Engineering and Manufacturing-Green Technology, (2022) 1-19.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0050">
+                     <ce:label>[10]</ce:label>
+                     <ce:other-ref id="h0050">
+                        <ce:textref>M. Achintha, Sustainability of glass in construction, Sustainability of construction materials, Elsevier2016, pp. 79-104.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="h0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.A.</ce:given-name>
+                                 <ce:surname>Renita</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.S.</ce:given-name>
+                                 <ce:surname>Lakshmi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Maheswari</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Saxena</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Vigneswaran</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Energy recovery and clean water remediation using antibiofouling polysaccharide coated PAN hollow fiber membrane obtained via green route synthesis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2024</sb:date>
+                           </sb:issue>
+                           <sb:article-number>130635</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx060">A.A. Renita, D.S. Lakshmi, P. Maheswari, M. Saxena, J.A. Kumar, V. Vigneswaran, Energy recovery and clean water remediation using antibiofouling polysaccharide coated PAN hollow fiber membrane obtained via green route synthesis, Energy, (2024) 130635.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="h0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sathish</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Prabu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.A.</ce:given-name>
+                                 <ce:surname>Renita</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Saravanan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Deivayanai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Anish</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Jayaprabakar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Baigenzhenov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Hosseini-Bandegharaei</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Agricultural waste biomass for sustainable bioenergy production: Feedstock, characterization and pre-treatment methodologies</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chemosphere</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>331</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:article-number>138680</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx065">J.A. Kumar, S. Sathish, D. Prabu, A.A. Renita, A. Saravanan, V. Deivayanai, M. Anish, J. Jayaprabakar, O. Baigenzhenov, A. Hosseini-Bandegharaei, Agricultural waste biomass for sustainable bioenergy production: Feedstock, characterization and pre-treatment methodologies, Chemosphere, 331 (2023) 138680.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="h0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Kang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Pan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical mechanical polishing (CMP) of fused silica (FS) using ceria slurry recycling</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ECS J. Solid State Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>044002</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx070">Y. Zhou, H. Luo, G. Luo, G. Chen, C. Kang, G. Pan, Chemical mechanical polishing (CMP) of fused silica (FS) using ceria slurry recycling, ECS Journal of Solid State Science and Technology, 9 (2020) 044002.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="h0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Kang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Gao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Pan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The cycle characteristics of slurries in chemical mechanical polishing (CMP) of fused silica</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ChemistrySelect</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9350</sb:first-page>
+                              <sb:last-page>9356</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx075">C. Kang, B. Gao, D. Guo, H. Luo, G. Pan, The cycle characteristics of slurries in chemical mechanical polishing (CMP) of fused silica, Chemistryselect, 5 (2020) 9350-9356.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="h0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.R.</ce:given-name>
+                                 <ce:surname>Borra</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.J.</ce:given-name>
+                                 <ce:surname>Vlugt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Spooren</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Nielsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.E.</ce:given-name>
+                                 <ce:surname>Offerman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Characterization and feasibility studies on complete recovery of rare earths from glass polishing waste</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Metals</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>278</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx080">C.R. Borra, T.J. Vlugt, J. Spooren, P. Nielsen, Y. Yang, S.E. Offerman, Characterization and feasibility studies on complete recovery of rare earths from glass polishing waste, Metals, 9 (2019) 278.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="h0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.-P.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.-J.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.-C.</ce:given-name>
+                                 <ce:surname>Tso</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.-F.</ce:given-name>
+                                 <ce:surname>Sheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Ponou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.-S.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Separation of cerium oxide abrasive and glass powder in an abrasive-glass polishing waste by means of liquid–liquid–powder extraction method for recovery: A comparison of using a cationic and an anionic surfactant collector</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sustainability</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4662</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx085">L.-P. Wang, Y.-J. Chen, Y.-C. Tso, C.-F. Sheng, J. Ponou, M. Kou, H. Zhou, W.-S. Chen, Separation of Cerium Oxide Abrasive and Glass Powder in an Abrasive-Glass Polishing Waste by Means of Liquid–Liquid–Powder Extraction Method for Recovery: A Comparison of Using a Cationic and an Anionic Surfactant Collector, Sustainability, 12 (2020) 4662.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="h0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Gallagher</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Hobbs</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mayton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Pollution prevention via recovery of cerium (IV) oxide in optics company</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Case Stud. Chem. Environ. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>100003</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx090">E. Park, W. Gallagher, Z. Hobbs, M. Mayton, Pollution prevention via recovery of cerium (IV) oxide in optics company, Case Studies in Chemical and Environmental Engineering, 1 (2020) 100003.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="h0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.J.W.</ce:given-name>
+                                 <ce:surname>Verwey</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Theory of the stability of lyophobic colloids</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1947</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>631</sb:first-page>
+                              <sb:last-page>636</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx095">E.J.W. Verwey, Theory of the stability of lyophobic colloids, The Journal of Physical Chemistry, 51 (1947) 631-636.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="h0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Sehgal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Lalatonne</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-F.</ce:given-name>
+                                 <ce:surname>Berret</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Morvan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Precipitation− redispersion of cerium oxide nanoparticles with poly (acrylic acid): Toward stable dispersions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Langmuir</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9359</sb:first-page>
+                              <sb:last-page>9364</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx100">A. Sehgal, Y. Lalatonne, J.-F. Berret, M. Morvan, Precipitation− redispersion of cerium oxide nanoparticles with poly (acrylic acid): Toward stable dispersions, Langmuir, 21 (2005) 9359-9364.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0100">
+                     <ce:label>[20]</ce:label>
+                     <ce:other-ref id="h0100">
+                        <ce:textref>K. Lee, J. Seo, U. Paik, Preparation and characterization of slurry for CMP, Advances in Chemical Mechanical Planarization (CMP), Elsevier2022, pp. 323-354.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="h0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.-H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-K.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-G.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Paik</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Increase in the adsorption density of anionic molecules on ceria for defect-free STI CMP</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>157</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>H72</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx105">Y.-H. Kim, S.-K. Kim, J.-G. Park, U. Paik, Increase in the adsorption density of anionic molecules on ceria for defect-free STI CMP, Journal of The Electrochemical Society, 157 (2009) H72.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0110">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="h0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Xie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Enhancing ceria slurry performance for shallow trench isolation chemical mechanical polishing through non-ionic surfactant addition</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Adv. Manuf. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>128</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4997</sb:first-page>
+                              <sb:last-page>5010</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx110">L. Zhang, L. Xie, X. Lu, Enhancing ceria slurry performance for shallow trench isolation chemical mechanical polishing through non-ionic surfactant addition, The International Journal of Advanced Manufacturing Technology, 128 (2023) 4997-5010.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0115">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="h0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Seo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Xian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Cui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Qin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Development of Highly stable ceria slurry in acetic acid-ammonium acetate buffer Media for effective chemical mechanical polishing of silicon dioxide</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Semicond. Process.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>177</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2024</sb:date>
+                           </sb:issue>
+                           <sb:article-number>108411</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx115">M. Liu, B. Zhang, J. Seo, W. Xian, D. Cui, S. Liu, Y. Wang, S. Qin, Y. Liu, Development of Highly stable ceria slurry in acetic acid-ammonium acetate buffer Media for effective chemical mechanical polishing of silicon dioxide, Materials Science in Semiconductor Processing, 177 (2024) 108411.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0120">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="h0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Ye</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Baoguo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Pengfei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Min</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Dexing</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wenhao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Improving the dispersion stability and chemical mechanical polishing performance of CeO<ce:inf loc="post">2</ce:inf> slurries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ECS J. Solid State Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:article-number>044004</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx120">W. Ye, Z. Baoguo, W. Pengfei, L. Min, C. Dexing, X. Wenhao, Improving the Dispersion Stability and Chemical Mechanical Polishing Performance of CeO2 Slurries, ECS Journal of Solid State Science and Technology, 12 (2023) 044004.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0125">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="h0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Nie</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Study on the filtration performance of the baghouse filters for ultra-low emission as a function of filter pore size and fiber diameter</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Environ. Res. Public Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>247</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx125">X. Liu, H. Shen, X. Nie, Study on the filtration performance of the baghouse filters for ultra-low emission as a function of filter pore size and fiber diameter, International Journal of Environmental research and public health, 16 (2019) 247.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0130">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="h0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.H.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.B.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.M.</ce:given-name>
+                                 <ce:surname>Jo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.-H.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Filtration characteristics of fine particulate matters in a PTFE/glass composite bag filter</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Aerosol Air Qual. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1030</sb:first-page>
+                              <sb:last-page>1036</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx130">B.H. Park, S.B. Kim, Y.M. Jo, M.-H. Lee, Filtration characteristics of fine particulate matters in a PTFE/glass composite bag filter, Aerosol and Air Quality Research, 12 (2012) 1030-1036.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0135">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="h0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Seo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Moon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Sigmund</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Paik</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Role of the surface chemistry of ceria surfaces on silicate adsorption</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Appl. Mater. Interfaces</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7388</sb:first-page>
+                              <sb:last-page>7394</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx135">J. Seo, J.W. Lee, J. Moon, W. Sigmund, U. Paik, Role of the surface chemistry of ceria surfaces on silicate adsorption, ACS applied materials &amp; interfaces, 6 (2014) 7388-7394.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0140">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="h0140">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Seo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A review on chemical and mechanical phenomena at the wafer interface during chemical mechanical planarization</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>235</sb:first-page>
+                              <sb:last-page>257</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx140">J. Seo, A review on chemical and mechanical phenomena at the wafer interface during chemical mechanical planarization, Journal of Materials Research, 36 (2021) 235-257.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0145">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="h0145">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.C.</ce:given-name>
+                                 <ce:surname>Bunker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.W.</ce:given-name>
+                                 <ce:surname>Arnold</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.K.</ce:given-name>
+                                 <ce:surname>Beauchamp</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Day</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mechanisms for alkali leaching in mized-Na K silicate glasses</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Non Cryst. Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>58</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>295</sb:first-page>
+                              <sb:last-page>322</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx145">B.C. Bunker, G.W. Arnold, E.K. Beauchamp, D. Day, Mechanisms for alkali leaching in mized-Na K silicate glasses, Journal of Non-Crystalline Solids, 58 (1983) 295-322Please check the article title for Ref. [29] and correct if necessary..</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0150">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference id="h0150">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Shelby</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Introduction to glass science and technology</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Royal Soc. Chem.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx150">J.E. Shelby, Introduction to glass science and technology, Royal society of chemistry2020.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0155">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference id="h0155">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Di Biase</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Brugnoli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Miyatani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Akaji</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Yoshida</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Urata</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Pedone</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Impact of atomic defects on ceria surfaces on chemical mechanical polishing of silica glass surfaces</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Langmuir</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2024</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx155">M. Di Biase, L. Brugnoli, K. Miyatani, M. Akaji, T. Yoshida, S. Urata, A. Pedone, Impact of Atomic Defects on Ceria Surfaces on Chemical Mechanical Polishing of Silica Glass Surfaces, Langmuir, (2024).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0160">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference id="h0160">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Brugnoli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Miyatani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Akaji</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Urata</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Pedone</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>New atomistic insights on the chemical mechanical polishing of silica glass with ceria nanoparticles</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Langmuir</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5527</sb:first-page>
+                              <sb:last-page>5541</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="stx160">L. Brugnoli, K. Miyatani, M. Akaji, S. Urata, A. Pedone, New Atomistic Insights on the Chemical Mechanical Polishing of Silica Glass with Ceria Nanoparticles, Langmuir, 39 (2023) 5527-5541.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

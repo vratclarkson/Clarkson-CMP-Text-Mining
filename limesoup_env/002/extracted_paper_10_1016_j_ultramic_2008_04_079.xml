@@ -1,0 +1,1397 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0304399108001253</prism:url><dc:identifier>doi:10.1016/j.ultramic.2008.04.079</dc:identifier><eid>1-s2.0-S0304399108001253</eid><prism:doi>10.1016/j.ultramic.2008.04.079</prism:doi><pii>S0304-3991(08)00125-3</pii><dc:title>Crystalline structure of ceria particles controlled by the oxygen partial pressure and STI CMP performances </dc:title><prism:publicationName>Ultramicroscopy</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>03043991</prism:issn><prism:volume>108</prism:volume><prism:issueIdentifier>10</prism:issueIdentifier><prism:startingPage>1292</prism:startingPage><prism:endingPage>1296</prism:endingPage><prism:pageRange>1292-1296</prism:pageRange><prism:number>10</prism:number><dc:format>application/xml</dc:format><prism:coverDate>2008-09-30</prism:coverDate><prism:coverDisplayDate>September 2008</prism:coverDisplayDate><prism:copyright>Copyright © 2008 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Kim, Ye-Hwan</dc:creator><dc:creator>Kim, Sang-Kyun</dc:creator><dc:creator>Kim, Namsoo</dc:creator><dc:creator>Park, Jea-Gun</dc:creator><dc:creator>Paik, Ungyu</dc:creator><dc:description>
+                  The effect of the crystalline structures of nano-sized ceria particles on shallow trench isolation (STI) chemical mechanical planarization (CMP) performance was investigated. The ceria particles were synthesized via a solid-state displacement reaction method, and their crystalline structure was controlled by regulating the oxygen partial pressure at the reaction site on the precursor. The crystalline structures of ceria particles were analyzed by the high-resolution TEM nano-beam diffraction pattern. In a calcination process with a high oxygen concentration, the synthesized ceria particles had a cubic fluorite structure (CeO2), because of the decarbonation of the cerium precursor. However, a low oxygen concentration results in a hexagonal phase cerium oxide (Ce2O3) rather than the cubic phase due to the insufficient oxidation of Ce3+ to Ce4+. In the STI CMP evaluation, the ceria slurry prepared with the cubic CeO2 shows enhanced performances of the oxide-to-nitride removal selectivity.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Chemical mechanical planarization</dcterms:subject><dcterms:subject>Ceria</dcterms:subject><dcterms:subject>Crystalline structure</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0304399108001253" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0304399108001253" rel="scidir"/></coredata><objects><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="391" height="710" size="74627">https://api.elsevier.com/content/object/eid/1-s2.0-S0304399108001253-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="51" height="93" size="2243">https://api.elsevier.com/content/object/eid/1-s2.0-S0304399108001253-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1040" height="1889" size="345607">https://api.elsevier.com/content/object/eid/1-s2.0-S0304399108001253-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="542" height="385" size="34680">https://api.elsevier.com/content/object/eid/1-s2.0-S0304399108001253-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="89" size="2631">https://api.elsevier.com/content/object/eid/1-s2.0-S0304399108001253-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2400" height="1704" size="246635">https://api.elsevier.com/content/object/eid/1-s2.0-S0304399108001253-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="391" height="633" size="39256">https://api.elsevier.com/content/object/eid/1-s2.0-S0304399108001253-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="57" height="92" size="1460">https://api.elsevier.com/content/object/eid/1-s2.0-S0304399108001253-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1733" height="2807" size="397163">https://api.elsevier.com/content/object/eid/1-s2.0-S0304399108001253-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="388" height="329" size="22102">https://api.elsevier.com/content/object/eid/1-s2.0-S0304399108001253-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="110" height="93" size="1278">https://api.elsevier.com/content/object/eid/1-s2.0-S0304399108001253-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1721" height="1459" size="139444">https://api.elsevier.com/content/object/eid/1-s2.0-S0304399108001253-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object></objects><scopus-id>49949096164</scopus-id><scopus-eid>2-s2.0-49949096164</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/49949096164" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271581</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291827</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Ultramicroscopy</xocs:srctitle>
+      <xocs:normalized-srctitle>ULTRAMICROSCOPY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20080515">2008-05-15</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20080515">2008-05-15</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-03-27T18:49:40</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0304399108001253</xocs:eid>
+      <xocs:pii-formatted>S0304-3991(08)00125-3</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0304399108001253</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.ultramic.2008.04.079</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0304399108X00099</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T06:54:30.401931-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20080901</xocs:date-search-begin>
+      <xocs:date-search-end>20080930</xocs:date-search-end>
+      <xocs:year-nav>2008</xocs:year-nav>
+      <xocs:indexeddate epoch="1210809600">2008-05-15T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confabbr confdate confeditor confloc contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings vol volfirst volissue webpdf webpdfpagecount figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast footnotes otherkwds primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0304-3991</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>03043991</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>108</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>108</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>10</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>10</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 108, Issue 10</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>66</xocs:sort-order>
+      <xocs:first-fp>1292</xocs:first-fp>
+      <xocs:last-lp>1296</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>1292</xocs:first-page>
+         <xocs:last-page>1296</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>200809</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>September 2008</xocs:cover-date-text>
+      <xocs:cover-date-start>2008-09-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2008-09-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2008</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <xocs:conference-info>
+               <xocs:full-name>Proceedings of the Ninth International Conference on Scanning Probe Micrososcopy, Sensors and Nanostructures</xocs:full-name>
+               <xocs:abbr-name>SPM-9</xocs:abbr-name>
+               <xocs:venue>Jeju, South Korea</xocs:venue>
+               <xocs:conference-date-text>10–14 June 2007</xocs:conference-date-text>
+               <xocs:date-range>
+                  <xocs:start-date>20070610</xocs:start-date>
+                  <xocs:end-date>20070614</xocs:end-date>
+               </xocs:date-range>
+            </xocs:conference-info>
+            <ce:editors>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:given-name>Haiwon</ce:given-name>
+                     <ce:surname>Lee</ce:surname>
+                     <ce:cross-ref refid="aff1">
+                        <ce:sup loc="post">a</ce:sup>
+                     </ce:cross-ref>
+                  </ce:author>
+                  <ce:author>
+                     <ce:given-name>Jeong-Woo</ce:given-name>
+                     <ce:surname>Choi</ce:surname>
+                     <ce:cross-ref refid="aff2">
+                        <ce:sup loc="post">b</ce:sup>
+                     </ce:cross-ref>
+                  </ce:author>
+                  <ce:author>
+                     <ce:given-name>Se Young</ce:given-name>
+                     <ce:surname>Oh</ce:surname>
+                     <ce:cross-ref refid="aff3">
+                        <ce:sup loc="post">c</ce:sup>
+                     </ce:cross-ref>
+                  </ce:author>
+                  <ce:affiliation id="aff1">
+                     <ce:label>a</ce:label>
+                     <ce:textfn>Department of Chemistry, Hanyang University, Seoul, South Korea</ce:textfn>
+                  </ce:affiliation>
+                  <ce:affiliation id="aff2">
+                     <ce:label>b</ce:label>
+                     <ce:textfn>Department of Chemical and Biomlecular Engineering, Songan University, Seoul, South Korea</ce:textfn>
+                  </ce:affiliation>
+                  <ce:affiliation id="aff3">
+                     <ce:label>c</ce:label>
+                     <ce:textfn>Department of Chemical and Biomlecular Engineering, Songan University, Seoul, South Korea</ce:textfn>
+                  </ce:affiliation>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>NANOSTRUCTURES</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2008 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>CRYSTALLINESTRUCTURECERIAPARTICLESCONTROLLEDBYOXYGENPARTIALPRESSURESTICMPPERFORMANCES</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>KIM</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>Y</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experiment</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Ceria particle preparation</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Nano-beam diffraction pattern using high-resolution TEM</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Particle size distribution</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>CMP field evaluation</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgment</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="bib1">
+            <xocs:ref-normalized-surname>TADOKORO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1723</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib2">
+            <xocs:ref-normalized-surname>FENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1504</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3">
+            <xocs:ref-normalized-surname>KATOH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1150</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib4">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>S197</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib5">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7427</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib6">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1227</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib7">
+            <xocs:ref-normalized-surname>BASIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3523</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib8">
+            <xocs:ref-normalized-surname>SINGH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>743</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib9">
+            <xocs:ref-normalized-surname>LEVENSPIEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CHEMICALREACTIONENGINEERING</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib10">
+            <xocs:ref-normalized-surname>SADI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>226</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib11">
+            <xocs:ref-normalized-surname>TERRIBILE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1897</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib12">
+            <xocs:ref-normalized-surname>TSENEKAWA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1897</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib13">
+            <xocs:ref-normalized-surname>HOMMA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1005</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib14">
+            <xocs:ref-normalized-surname>KANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1060</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>KIMX2008X1292</xocs:refkey3>
+         <xocs:refkey4lp>KIMX2008X1292X1296</xocs:refkey4lp>
+         <xocs:refkey4ai>KIMX2008X1292XY</xocs:refkey4ai>
+         <xocs:refkey5>KIMX2008X1292X1296XY</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0304-3991(08)00125-3</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0304399108001253</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0304399108001253</xocs:eid>
+         <xocs:doi>10.1016/j.ultramic.2008.04.079</xocs:doi>
+         <xocs:cid>271581</xocs:cid>
+         <xocs:timestamp>2010-09-17T02:59:28.074333-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2008-09-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2008-09-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0304399108001253-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304399108001253/MAIN/application/pdf/119cc44561aa1f2dc8546620a8e25db7/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304399108001253/MAIN/application/pdf/119cc44561aa1f2dc8546620a8e25db7/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>570082</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0304399108001253-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304399108001253/PREVIEW/image/png/33a194c33e16209b3159d975555a617a/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304399108001253/PREVIEW/image/png/33a194c33e16209b3159d975555a617a/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>82633</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304399108001253-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304399108001253/gr1/DOWNSAMPLED/image/jpeg/9c82a408515191b3944a8022a9bf3ebd/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304399108001253/gr1/DOWNSAMPLED/image/jpeg/9c82a408515191b3944a8022a9bf3ebd/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>74627</xocs:filesize>
+               <xocs:pixel-height>710</xocs:pixel-height>
+               <xocs:pixel-width>391</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304399108001253-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304399108001253/gr1/THUMBNAIL/image/gif/3f4601a1d0a1d3d6fcd69e384404bc9a/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304399108001253/gr1/THUMBNAIL/image/gif/3f4601a1d0a1d3d6fcd69e384404bc9a/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2243</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>51</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304399108001253-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304399108001253/gr1/HIGHRES/image/jpeg/2b9a5bd4bde57a33af46cdde4ef6a066/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304399108001253/gr1/HIGHRES/image/jpeg/2b9a5bd4bde57a33af46cdde4ef6a066/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>345607</xocs:filesize>
+               <xocs:pixel-height>1889</xocs:pixel-height>
+               <xocs:pixel-width>1040</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304399108001253-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304399108001253/gr2/DOWNSAMPLED/image/jpeg/3e402c9b1e0ac8b4d14485b00115d22d/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304399108001253/gr2/DOWNSAMPLED/image/jpeg/3e402c9b1e0ac8b4d14485b00115d22d/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>34680</xocs:filesize>
+               <xocs:pixel-height>385</xocs:pixel-height>
+               <xocs:pixel-width>542</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304399108001253-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304399108001253/gr2/THUMBNAIL/image/gif/53437678785b97f8a1cbc066bdd73f09/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304399108001253/gr2/THUMBNAIL/image/gif/53437678785b97f8a1cbc066bdd73f09/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2631</xocs:filesize>
+               <xocs:pixel-height>89</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304399108001253-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304399108001253/gr2/HIGHRES/image/jpeg/786c8c1189798de64ede70c6cf110553/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304399108001253/gr2/HIGHRES/image/jpeg/786c8c1189798de64ede70c6cf110553/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>246635</xocs:filesize>
+               <xocs:pixel-height>1704</xocs:pixel-height>
+               <xocs:pixel-width>2400</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304399108001253-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304399108001253/gr3/DOWNSAMPLED/image/jpeg/e9b4d6858c68443d8f7aacc5b7e095f6/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304399108001253/gr3/DOWNSAMPLED/image/jpeg/e9b4d6858c68443d8f7aacc5b7e095f6/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>39256</xocs:filesize>
+               <xocs:pixel-height>633</xocs:pixel-height>
+               <xocs:pixel-width>391</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304399108001253-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304399108001253/gr3/THUMBNAIL/image/gif/bbbd02a07ddcfc1c6cba9bb85785817e/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304399108001253/gr3/THUMBNAIL/image/gif/bbbd02a07ddcfc1c6cba9bb85785817e/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1460</xocs:filesize>
+               <xocs:pixel-height>92</xocs:pixel-height>
+               <xocs:pixel-width>57</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304399108001253-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304399108001253/gr3/HIGHRES/image/jpeg/58c854da439254bc01ddf92413c41b8f/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304399108001253/gr3/HIGHRES/image/jpeg/58c854da439254bc01ddf92413c41b8f/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>397163</xocs:filesize>
+               <xocs:pixel-height>2807</xocs:pixel-height>
+               <xocs:pixel-width>1733</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304399108001253-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304399108001253/gr4/DOWNSAMPLED/image/jpeg/140396891bf1dc7fc2a241f20c6c17a9/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304399108001253/gr4/DOWNSAMPLED/image/jpeg/140396891bf1dc7fc2a241f20c6c17a9/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>22102</xocs:filesize>
+               <xocs:pixel-height>329</xocs:pixel-height>
+               <xocs:pixel-width>388</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304399108001253-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304399108001253/gr4/THUMBNAIL/image/gif/b3cca18bff6b07ee0f666c924c17fa57/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304399108001253/gr4/THUMBNAIL/image/gif/b3cca18bff6b07ee0f666c924c17fa57/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1278</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>110</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0304399108001253-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0304399108001253/gr4/HIGHRES/image/jpeg/bdd0ba720d83289e145ed04841732a0b/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0304399108001253/gr4/HIGHRES/image/jpeg/bdd0ba720d83289e145ed04841732a0b/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>139444</xocs:filesize>
+               <xocs:pixel-height>1459</xocs:pixel-height>
+               <xocs:pixel-width>1721</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.0">
+         <item-info>
+            <jid>ULTRAM</jid>
+            <aid>10615</aid>
+            <ce:pii>S0304-3991(08)00125-3</ce:pii>
+            <ce:doi>10.1016/j.ultramic.2008.04.079</ce:doi>
+            <ce:copyright type="unknown" year="2008"/>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">TEM images of the ceria particles: (a) Sample A and (b) Sample B.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">X-ray diffraction pattern of the ceria powders.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Nano-beam diffraction pattern of the ceria particles: (a) Sample A and (b) Sample B.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">A particle size distribution of Sample A and B.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl1" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Sample characteristics</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="3">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Sample</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Crystallite size<cross-ref refid="tblfn1a">
+                              <sup loc="post">a</sup>
+                           </cross-ref> (nm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Surface area<cross-ref refid="tblfn1b">
+                              <sup loc="post">b</sup>
+                           </cross-ref> (m<sup loc="post">2</sup>/g)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col3">
+                           <italic>After calcination</italic>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Particle A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">26.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.2</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Particle B</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">25.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">12.7<vsp sp="0.5"/>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col3">
+                           <italic>After mechanical milling</italic>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Particle A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.5</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Particle B</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">20.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">15.4</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:table-footnote id="tblfn1a">
+                  <ce:label>a</ce:label>
+                  <ce:note-para>Measured by the X-ray diffraction method (RINT/DMAX-2500, Rigaku, Japan), calculated from the Debye–Scherer equation.</ce:note-para>
+               </ce:table-footnote>
+               <ce:table-footnote id="tblfn1b">
+                  <ce:label>b</ce:label>
+                  <ce:note-para>Estimated through the BET method (ASAP 2010, Micromeritics, USA).</ce:note-para>
+               </ce:table-footnote>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl2" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">CMP conditions</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="2">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Machine model</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Strasbaugh 6EC</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Slurry</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ceria slurry</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Solid concentration of slurry</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1<hsp sp="0.16"/>wt%</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Pad</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">IC1000/Suba IV k-groove</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Table speed</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">70<hsp sp="0.16"/>rpm</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Spindle speed</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">70<hsp sp="0.16"/>rpm</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Down force</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4<hsp sp="0.16"/>psi</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Back pressure</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0<hsp sp="0.16"/>psi</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Time</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">30<hsp sp="0.16"/>s</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Flow rate</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">100<hsp sp="0.16"/>ml/min</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl3" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">The results of the CMP evaluation</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="5">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Oxide R/R (Å/min)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Nitride R/R (Å/min)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Selectivity</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">WIWNU of oxide film (%)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Sample A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2400</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">53</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">45:1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">5.6</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Sample B</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2060</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">75</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">27:1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">13.2</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title>Crystalline structure of ceria particles controlled by the oxygen partial pressure and STI CMP performances</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:initials>Y.-H.</ce:initials>
+                  <ce:given-name>Ye-Hwan</ce:given-name>
+                  <ce:surname>Kim</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:initials>S.-K.</ce:initials>
+                  <ce:given-name>Sang-Kyun</ce:given-name>
+                  <ce:surname>Kim</ce:surname>
+                  <ce:cross-ref refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Namsoo</ce:given-name>
+                  <ce:surname>Kim</ce:surname>
+                  <ce:cross-ref refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:initials>J.-G.</ce:initials>
+                  <ce:given-name>Jea-Gun</ce:given-name>
+                  <ce:surname>Park</ce:surname>
+                  <ce:cross-ref refid="aff3">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="fn1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:initials>U.</ce:initials>
+                  <ce:given-name>Ungyu</ce:given-name>
+                  <ce:surname>Paik</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Division of Advanced Materials Science Engineering, Hanyang University, Seoul 133-791, Republic of Korea</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Manufacturing Technology Team, Memory Division, Semiconductor Business, Samsung Electronics, Taean-Eup, Hwasung-City, Gyeinggi-Do 445-701, Republic of Korea</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff3">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Nano-SOI Process Laboratory, Hanyang University, Seoul 133-791, Republic of Korea</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author. Tel.: +82<ce:hsp sp="0.16"/>2<ce:hsp sp="0.16"/>2220<ce:hsp sp="0.16"/>0502; fax: +82<ce:hsp sp="0.16"/>2<ce:hsp sp="0.16"/>2281<ce:hsp sp="0.16"/>0502.</ce:text>
+               </ce:correspondence>
+               <ce:footnote id="fn1">
+                  <ce:label>1</ce:label>
+                  <ce:note-para>Also for correspondence. Tel.: +82<ce:hsp sp="0.16"/>2<ce:hsp sp="0.16"/>2220<ce:hsp sp="0.16"/>0234; fax: +82<ce:hsp sp="0.16"/>2<ce:hsp sp="0.16"/>2296<ce:hsp sp="0.16"/>1179.</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">The effect of the crystalline structures of nano-sized ceria particles on shallow trench isolation (STI) chemical mechanical planarization (CMP) performance was investigated. The ceria particles were synthesized via a solid-state displacement reaction method, and their crystalline structure was controlled by regulating the oxygen partial pressure at the reaction site on the precursor. The crystalline structures of ceria particles were analyzed by the high-resolution TEM nano-beam diffraction pattern. In a calcination process with a high oxygen concentration, the synthesized ceria particles had a cubic fluorite structure (CeO<ce:inf loc="post">2</ce:inf>), because of the decarbonation of the cerium precursor. However, a low oxygen concentration results in a hexagonal phase cerium oxide (Ce<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>) rather than the cubic phase due to the insufficient oxidation of Ce<ce:sup loc="post">3+</ce:sup> to Ce<ce:sup loc="post">4+</ce:sup>. In the STI CMP evaluation, the ceria slurry prepared with the cubic CeO<ce:inf loc="post">2</ce:inf> shows enhanced performances of the oxide-to-nitride removal selectivity.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="pacs">
+               <ce:section-title>PACS</ce:section-title>
+               <ce:keyword>
+                  <ce:text>11.55.Fv</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>61.82.Rx</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>61.43.Gt</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Chemical mechanical planarization</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Ceria</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Crystalline structure</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para view="all">Ceria particle as an abrasive has become very important in shallow trench isolation (STI) chemical mechanical planarization (CMP) as well as interlayer dielectric (ILD) CMP for the manufacture of dynamic random access memory (DRAM) and flash memory devices, due to the good removal selectivity, chip uniformity, global planarity and the high polishing efficiency of the oxide film. The mechanical process of CMP technology is influenced by the physical properties of ceria particles, which are dependent on the synthesis method. The ceria particle has been synthesized by many different methods including wet precipitation, sol–gel, hydrothermal, mechanochemical, and solid-state displacement reactions (calcinations) <ce:cross-refs refid="bib1 bib2">[1,2]</ce:cross-refs>. In our previous works, it was shown that ceria particles, which were synthesized by the solid-state displacement reaction and wet chemical precipitation, lead to the different CMP performance <ce:cross-refs refid="bib3 bib4">[3,4]</ce:cross-refs> and the removal rate was influenced by the size of ceria particles, which is dependent on the calcination conditions such as temperature, time and oxygen vapor pressure in the solid-state displacement reaction <ce:cross-refs refid="bib5 bib6">[5,6]</ce:cross-refs>. Especially, the removal rate of the oxide film is proportional to the crystallite size of the ceria particle <ce:cross-ref refid="bib6">[6]</ce:cross-ref>.</ce:para>
+                  <ce:para view="all">However, as the feature sizes of transistors are decreasing to below 50<ce:hsp sp="0.16"/>nm, the abrasive size should be reduced to prevent surface scratches induced by the large crystallite size of the particle resulting from a high calcination temperature which easily induces many scratches on the wafer surface <ce:cross-refs refid="bib7 bib8">[7,8]</ce:cross-refs>. Thus, the synthesis of ceria particles at low temperature is favorable to the CMP process. During the calcination, the by-product carbon dioxide is occupied around the precursor powder and results in the diffusion resistance of oxygen at the reaction site. It induces oxygen vacancy within the ceria crystal lattice, which can result in variations of crystal structure. Therefore, in the low-temperature calcination process, the oxygen concentration in the furnace plays an important role in the synthesis reaction because of the acceleration of the decarbonation of the cerium precursor.</ce:para>
+                  <ce:para view="all">In this study, we considered the intrinsic properties of the particle itself as a critical factor to prevent agglomeration and adhesion on the wafer, and thus an attempt to control the intrinsic properties of the ceria powder was made. The crystal structure of the ceria particles was controlled by varying the oxygen concentration. The influence of the crystalline structure of the ceria particle on particle agglomeration in the slurry and CMP performances was investigated.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Experiment</ce:section-title>
+                  <ce:section view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title>Ceria particle preparation</ce:section-title>
+                     <ce:para view="all">High-purity cerium carbonate hydrate (Ce(CO<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">3</ce:inf>, Juntai, China) was calcined under air at 650<ce:hsp sp="0.16"/>°C for 4<ce:hsp sp="0.16"/>h, which resulted in a white-yellowish ceria powder. In order to prepare two different crystal structures, the oxygen concentration was controlled by adjusting the air inflow. The particles of Sample A were synthesized with an air flow of 35<ce:hsp sp="0.16"/>m<ce:sup loc="post">3</ce:sup>/h, respectively, and the particles of Sample B were synthesized without an air flow by using a sealed reactor. Each calcined ceria powder underwent a wet-mechanical milling process for several hours to reduce the particle size to the target size (240–260<ce:hsp sp="0.16"/>nm, determined by the conventional light-scattering method) and to disperse the particles in an aqueous medium after mixing the powder with deionized water and a dispersant composed of commercially available anionic acrylic polymers (PMAA). For each sample, the crystallite size and surface area are listed in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="tbl1"/>.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title>Nano-beam diffraction pattern using high-resolution TEM</ce:section-title>
+                     <ce:para view="all">The diffraction pattern of the particles was investigated using high-resolution TEM (JEOL2010, Jeol, Japan) to certify the crystalline structure and morphology of the ceria particles. Using the nano-beam aperture (nano-beam size=3<ce:hsp sp="0.16"/>nm), the diffraction pattern (spot pattern) of the individual particle was obtained.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title>Particle size distribution</ce:section-title>
+                     <ce:para view="all">The particle size distribution and particle agglomeration were analyzed using the electroacoustic attenuation method particle size analyzer (APS, Matec, USA) to compare the particle size distribution and agglomerated particles of each sample.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title>CMP field evaluation</ce:section-title>
+                     <ce:para view="all">Field evaluation of CMP was done using two kinds of slurries. For the CMP evaluation, an 8-in wafer CMP tool (6EC, Strasbaugh, USA) was used. The polishing pad was a grooved IC1000/SubaIV (Rodel, USA). The film thickness was measured using a Nanospec 180 (Nano-metrics, CA., USA.) to calculate removal rates. For this experiment, the within-wafer non-uniformity (hereinafter denoted WIWNU) was defined as the standard deviation of remaining thickness divided by the average of the remaining thickness after CMP. After CMP, the wafers were cleaned using an ammonium hydroxide hydrogen peroxide mixture (APM) solution (NH<ce:inf loc="post">4</ce:inf>OH:H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>:H<ce:inf loc="post">2</ce:inf>O=1:1:10) at 80<ce:hsp sp="0.16"/>°C to eliminate residual particles. The polishing test conditions are shown in <ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>
+                        <ce:float-anchor refid="tbl2"/>.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results and discussion</ce:section-title>
+                  <ce:para view="all">
+                     <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="fig1"/> shows the morphology and primary particle size of the ceria particles after mechanical milling. The particle size distribution was found to be noticeably different between samples based on the TEM images. The portion of small-size particles (&lt;20<ce:hsp sp="0.16"/>nm) in Sample B was larger than that in Sample A. The initial crystallite size of all as-calcined samples calculated by the Debye–Scherer equation was about 26<ce:hsp sp="0.16"/>nm. However, the crystallite sizes of the particles after mechanical milling became 25.0 and 20.3<ce:hsp sp="0.16"/>nm for Samples A and B, respectively, which leads to a significantly different specific surface area for each particle group. After mechanical milling, the particles in all samples had a similar size of 240–260<ce:hsp sp="0.16"/>nm. Therefore, the particles (Sample B) which were calcined at low oxygen concentration can be considered to be composed of a large number of small crystallites (20.3 and 21.5<ce:hsp sp="0.16"/>nm), while the particle (Sample A) which was calcined at a higher oxygen concentration is composed of relatively larger crystallite (25<ce:hsp sp="0.16"/>nm).</ce:para>
+                  <ce:para view="all">Using the low scan XRD analysis and nano-beam diffraction pattern of the high-resolution TEM, the crystalline structure of the ceria particles were investigated. The XRD line profile was obtained using the low scan speed method using Cu Kα radiation at a scan rate of 0.1°/min from 20° to 80°. The X-ray diffraction (XRD) profiles of powders in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="fig2"/> show conclusive evidence for the different crystalline structures of the particles. From the XRD profile, Sample A showed the cubic phase (identified using JCPDS card and ICDD-PDF2 (powder diffraction pattern database, cubic phase; <ce:italic>a</ce:italic>=<ce:italic>b</ce:italic>=<ce:italic>c</ce:italic>=0.5411<ce:hsp sp="0.16"/>nm)), while Sample B showed the hexagonal phase (hexagonal phase; <ce:italic>a</ce:italic>=<ce:italic>b</ce:italic>=0.3891<ce:hsp sp="0.16"/>nm and <ce:italic>c</ce:italic>=0.6063<ce:hsp sp="0.16"/>nm). Generally, the cerium is very easily oxidized by the heat treatment. However, the lack of oxygen atoms caused the incomplete calcination of the ceria particles, which have hexagonal phased cerium oxide (Ce<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>), because of the diffusion resistance of oxygen at the reaction site. Thus, the ceria particle calcined under a low air inflow had the hexagonal phase profile, which can be ascribed to the presence of Ce<ce:sup loc="post">3+</ce:sup> and oxygen vacancies in the ceria network.</ce:para>
+                  <ce:para view="all">The nano-beam diffraction patterns of the particles (<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="fig3"/>) indicate that for Sample A all particles had the cubic fluorite phase of cerium oxide, while for Sample B, which was calcined at low oxygen concentration, hexagonally structured particles were included, especially in the smaller particles. The calcination process from cerium carbonate to cerium oxide consists of a five-step mechanism, including the mass transfer of the reacting agent (oxygen) from the bulk atmosphere to the periphery of the carbonate, its diffusion through the pore channels of the carbonate, adsorption, reaction with the cerium carbonate and the desorption of the reaction by-product (carbon dioxide) <ce:cross-ref refid="bib9">[9]</ce:cross-ref>. In this reaction mechanism, several factors influence the physical properties of the synthesized particles during the calcination process. According to previous reports, a low oxygen concentration results in a hexagonal phase cerium oxide rather than the cubic phase due to the insufficient oxidation of Ce<ce:sup loc="post">3+</ce:sup> to Ce<ce:sup loc="post">4+</ce:sup> 
+                     <ce:cross-ref refid="bib10">[10]</ce:cross-ref>. In the absence of external oxygen supply, the hexagonal CeO<ce:italic>
+                        <ce:inf loc="post">x</ce:inf>
+                     </ce:italic> phase is reported to be observed between 400 and 500<ce:hsp sp="0.16"/>°C and the oxidation of CeO<ce:italic>
+                        <ce:inf loc="post">x</ce:inf>
+                     </ce:italic> is completed above 800<ce:hsp sp="0.16"/>°C, which results in the transformation from hexagonal Ce<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> to cubic CeO<ce:inf loc="post">2</ce:inf> 
+                     <ce:cross-ref refid="bib11">[11]</ce:cross-ref>. Therefore, it can be considered that hexagonal phase (Ce<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>) in Sample B was formed due to the insufficient oxidation of Ce<ce:sup loc="post">3+</ce:sup> to Ce<ce:sup loc="post">4+</ce:sup>, while cubic phase (CeO<ce:inf loc="post">2</ce:inf>) in Sample A was obtained by sufficient oxygen supply.</ce:para>
+                  <ce:para view="all">Additionally, the particle size distribution of each sample was investigated to compare the agglomeration behavior of the particles. <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+                     <ce:float-anchor refid="fig4"/> compares the particle size distribution for each sample. The mean particle size of sample A and B was measured to be 172 and 90<ce:hsp sp="0.16"/>nm, respectively. However, Sample B with a hexagonal crystalline structure has agglomerated particles. Since the Ce<ce:sup loc="post">3+</ce:sup> and oxygen vacancies in the surface of the hexagonal ceria particle are linked to anionic vacancies with hydroxyl groups, chemisorption and agglomeration easily occurred with the neighboring cation species and bared ceria surface <ce:cross-refs refid="bib11 bib12">[11,12]</ce:cross-refs>. Moreover, Sample B has a lot of small particles, which were confirmed to be mainly hexagonal crystalline structure. The van der Waals attractive force is well-known to be increased with decreasing particle size, therefore, it can be considered that large agglomerated particles in Sample B is attributed to the presence of small-sized particles.</ce:para>
+                  <ce:para view="all">CMP was performed with the ceria slurry which was prepared by adding an adequate amount of commercially available anionic acrylic polymers (PMAA). Cubic CeO<ce:inf loc="post">2</ce:inf> (Sample A) and CeO<ce:inf loc="post">2</ce:inf> contained with included hexagonal Ce<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> particles (Sample B) were used as abrasive particles. The results of the CMP evaluation are shown in <ce:cross-ref refid="tbl3">Table 3</ce:cross-ref>
+                     <ce:float-anchor refid="tbl3"/>. The removal rate of oxide film shows a remarkable difference between Samples A and B. The removal rate of the oxide film was dependent on the crystallinity of the ceria particle <ce:cross-ref refid="bib13">[13]</ce:cross-ref>. The polishing of the oxide film was mainly affected by its chemical interaction between the ceria particles and the oxide (SiO<ce:inf loc="post">2</ce:inf>) film, which were reacted with the hydrated surface to form covalent bonds such as Ce–O–Si, and then pull off the oxide lumps. As shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>, the particles of Sample A have a larger crystallinity and narrower particle size distribution than the particles of Sample B. Since the hexagonal structured ceria particles and the agglomerated particles of Sample B were easily broken apart during the CMP process, these particles do not penetrate the viscous layer on the oxide film. On the contrary, the nitride removal rate was decreased with an increase in the crystallinity. This result is totally contrary to the Preston's equation and the previous reports of the CMP process <ce:cross-ref refid="bib14">[14]</ce:cross-ref>. Generally, the surface of the nitride film during STI CMP is thought to be passivated with the adsorptive polymer in the slurry, which prevents abrasion from direct contact with the film surface. Hence, the nitride removal rate is manly affected by the adsorption amount of additive PAA on the film. Small particles having mainly hexagonal crystalline structure can excessively consume the additive PAA from the bulk solution, due to the high surface activity and specific surface area, and thus the adsorbed polymer layer on the nitride film is insufficiently formed. Consequently, the nitride removal rate of Sample B with a hexagonal structure is higher than that of Sample A, which resulted in poor oxide-to-nitride removal selectivity from 45:1 to 27:1. Additionally, Sample B has higher within-wafer non-uniformity (WIWNU) of the oxide film than Sample A. As shown in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>, sample B has large agglomerated particles. These agglomerates in the slurry can hardly spread on the whole wafer surface during the CMP. This caused a different removal rate between the center and the edges of the wafer surface, and hence the surface uniformity worsened after the CMP process. Thus, it was concluded that the ceria slurry with a hexagonal crystalline structure was disqualified for the STI CMP processing margin. Therefore, the ceria particles should be calcined to a cubic structure through control of the oxygen concentration.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusion</ce:section-title>
+                  <ce:para view="all">We have investigated the effects of the crystalline structure of nano-sized ceria particles on the physicochemical properties of the ceria slurry and the residual particles and micro-scratches during STI CMP. The crystalline structure of the particles was remarkably different as a function of air inflow conditions. The particles calcined at higher oxygen concentration were of a cubic structure (CeO<ce:inf loc="post">2</ce:inf>), but the particles calcined at low oxygen concentration included the hexagonal structure (Ce<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>). The hexagonal structured particles have a smaller particle size than cubic structured particles. These smaller particles had a high surface area, which resulted in large attractive forces between particles. These results caused a low oxide removal rate and a high nitride removal rate in STI CMP. Consequently, we concluded that the differences in the crystalline structure of the ceria particles have a profound effect on the dispersion stability and STI CMP performances.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgment</ce:section-title>
+               <ce:para view="all">This work was supported by the Korea Foundation for International Cooperation of Science &amp; Technology (KICOS) through a grant Global Research Laboratory (GRL) Program provided by the Korean Ministry of Science &amp; Technology (MOST) in 2007.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Tadokoro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.N.S.</ce:given-name>
+                                 <ce:surname>Muccillo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Eur. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1723</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Xiangdong</ce:given-name>
+                                 <ce:surname>Feng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Dean C.</ce:given-name>
+                                 <ce:surname>Sayle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Zhong Lin</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Sharon M.</ce:given-name>
+                                 <ce:surname>Paras</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Brian</ce:given-name>
+                                 <ce:surname>Santora</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Anthony C.</ce:given-name>
+                                 <ce:surname>Sutorik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Thi X.T.</ce:given-name>
+                                 <ce:surname>Sayle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Yi</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Yong</ce:given-name>
+                                 <ce:surname>Ding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Xudong</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Yie-Shein</ce:given-name>
+                                 <ce:surname>Her</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>312</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1504</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Takeo</ce:given-name>
+                                 <ce:surname>Katoh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Hyun-Goo</ce:given-name>
+                                 <ce:surname>Kang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Ungyu</ce:given-name>
+                                 <ce:surname>Paik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Jea-Gun</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Jpn. J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1150</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Yeo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Paik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.G.</ce:given-name>
+                                 <ce:surname>Jung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.A.</ce:given-name>
+                                 <ce:surname>Hackley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Korean Phys. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>S197</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.W.</ce:given-name>
+                                 <ce:surname>Yoon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Paik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Katoh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Jpn. J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>43</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7427</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Sang-Kyun</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Ungyu</ce:given-name>
+                                 <ce:surname>Paik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Seong-Geun</ce:given-name>
+                                 <ce:surname>Oh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Yong-Kook</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Takeo</ce:given-name>
+                                 <ce:surname>Katoh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Jea-Gun</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Jpn. J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1227</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.B.</ce:given-name>
+                                 <ce:surname>Basim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Adler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Mahajan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.K.</ce:given-name>
+                                 <ce:surname>Singh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.M.</ce:given-name>
+                                 <ce:surname>Moudgil</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>147</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3523</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Rajiv K.</ce:given-name>
+                                 <ce:surname>Singh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Rajeev</ce:given-name>
+                                 <ce:surname>Bajaj</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>MRS Bull.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>743</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Levenspiel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical Reaction Engineering</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>third ed.</sb:edition>
+                              <sb:date>1999</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Wiely</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>p. 378</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Sadi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Duprez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Gerard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Miloudi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Catal.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>213</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>226</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Terribile</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Llorca</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Boaro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>de Leitenburg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Dolcetti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Trovarelli</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1897</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Tsenekawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Sivamohan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ito</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Kasuya</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Fukuda</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nanostructured Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1897</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Homma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Furusawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Morishima</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Sato</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid-State Electron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1005</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.G.</ce:given-name>
+                                 <ce:surname>Kang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Katoh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.Y.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.S.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Paik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Jpn. J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>43</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1060</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

@@ -1,0 +1,1409 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0141635919304301</prism:url><dc:identifier>doi:10.1016/j.precisioneng.2019.06.014</dc:identifier><eid>1-s2.0-S0141635919304301</eid><prism:doi>10.1016/j.precisioneng.2019.06.014</prism:doi><pii>S0141-6359(19)30430-1</pii><dc:title>CMP characteristics of quartz glass substrate by aggregated colloidal ceria slurry </dc:title><prism:publicationName>Precision Engineering</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>01416359</prism:issn><prism:volume>60</prism:volume><prism:startingPage>458</prism:startingPage><prism:endingPage>464</prism:endingPage><prism:pageRange>458-464</prism:pageRange><dc:format>application/xml</dc:format><prism:coverDate>2019-11-30</prism:coverDate><prism:coverDisplayDate>November 2019</prism:coverDisplayDate><prism:copyright>© 2019 Elsevier Inc. All rights reserved.</prism:copyright><prism:publisher>Elsevier Inc.</prism:publisher><dc:creator>Wakamatsu, Kaito</dc:creator><dc:creator>Kurokawa, Syuhei</dc:creator><dc:creator>Toyama, Takaaki</dc:creator><dc:creator>Hayashi, Terutake</dc:creator><dc:description>
+                  Colloidal ceria is expected to be a candidate of alternative slurry for glass substrate CMP because the slurry particles are small and have a regular shape comparing to conventional calcined ceria particles. Thanks to the characteristics, the colloidal ceria can generate a high quality surface in glass substrate CMP, but removal rate (RR) is smaller than that of calcined ceria. In order to improve the RR, KOH was added to the colloidal ceria. KOH additives make colloidal ceria particles aggregate and improve RR close to that of calcined ceria. By evaluating the extent of aggregation with and without ultrasonic dispersion, it was found there was a strong correlation with KOH concentration to aggregation strength and RR. To obtain further RR and to reduce the consumption of slurry, influence of polishing pressure and slurry concentration on polishing characteristics was investigated. As the polishing pressure increased, the RR improved, while slurry residue occurred partly on the edge of the substrate surface. The slurry residue was restrained by decreasing slurry concentration. Furthermore, although scratches in the nanometer order increase slightly under high polishing pressure, they are smaller than those by calcined ceria slurry. By controlling the degree of aggregation of colloidal ceria, we have achieved both high RR and high quality surface.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Polishing</dcterms:subject><dcterms:subject>CMP</dcterms:subject><dcterms:subject>Colloidal ceria</dcterms:subject><dcterms:subject>Calcined ceria</dcterms:subject><dcterms:subject>Aggregation</dcterms:subject><dcterms:subject>Quartz glass</dcterms:subject><dcterms:subject>Scratch</dcterms:subject><dcterms:subject>Slurry concentration</dcterms:subject><dcterms:subject>Polishing pressure</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0141635919304301" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0141635919304301" rel="scidir"/></coredata><objects><object ref="egi10D76W661WH" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="163" size="23655">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi10D76W661WH.sml?httpAccept=%2A%2F%2A</object><object ref="egi10C2BKQQKH3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="89" size="11338">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi10C2BKQQKH3.sml?httpAccept=%2A%2F%2A</object><object ref="egi10GF2XCNSJP" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="80" size="11989">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi10GF2XCNSJP.sml?httpAccept=%2A%2F%2A</object><object ref="egi10CGH6TF6DF" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="214" height="164" size="10530">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi10CGH6TF6DF.sml?httpAccept=%2A%2F%2A</object><object ref="egi100P34G0577" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="144" height="164" size="7296">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi100P34G0577.sml?httpAccept=%2A%2F%2A</object><object ref="egi108RFDNNHQV" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="95" size="16103">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi108RFDNNHQV.sml?httpAccept=%2A%2F%2A</object><object ref="egi1016VK78KNM" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="170" height="164" size="7861">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi1016VK78KNM.sml?httpAccept=%2A%2F%2A</object><object ref="egi10FXXGJFB7Q" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="65" size="7531">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi10FXXGJFB7Q.sml?httpAccept=%2A%2F%2A</object><object ref="egi106ZR3C7FJM" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="176" height="163" size="20024">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi106ZR3C7FJM.sml?httpAccept=%2A%2F%2A</object><object ref="egi10ZGJ81RBZ5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="65" size="10936">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi10ZGJ81RBZ5.sml?httpAccept=%2A%2F%2A</object><object ref="egi10MB2D6JKN1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="163" size="11090">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi10MB2D6JKN1.sml?httpAccept=%2A%2F%2A</object><object ref="egi1061NBW617F" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="80" size="15036">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi1061NBW617F.sml?httpAccept=%2A%2F%2A</object><object ref="egi109SXZZVK2P" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="122" size="13705">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi109SXZZVK2P.sml?httpAccept=%2A%2F%2A</object><object ref="egi10324NXRTGS" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="163" size="30076">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi10324NXRTGS.sml?httpAccept=%2A%2F%2A</object><object ref="egi10B2V6M1WSG" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="157" height="164" size="12798">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi10B2V6M1WSG.sml?httpAccept=%2A%2F%2A</object><object ref="egi10XWFNM5F77" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="205" height="164" size="29376">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi10XWFNM5F77.sml?httpAccept=%2A%2F%2A</object><object ref="egi10D76W661WH" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="382" height="285" size="29127">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi10D76W661WH.jpg?httpAccept=%2A%2F%2A</object><object ref="egi10C2BKQQKH3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="383" height="155" size="15242">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi10C2BKQQKH3.jpg?httpAccept=%2A%2F%2A</object><object ref="egi10GF2XCNSJP" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="382" height="140" size="20759">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi10GF2XCNSJP.jpg?httpAccept=%2A%2F%2A</object><object ref="egi10CGH6TF6DF" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="382" height="292" size="27290">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi10CGH6TF6DF.jpg?httpAccept=%2A%2F%2A</object><object ref="egi100P34G0577" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="382" height="435" size="35667">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi100P34G0577.jpg?httpAccept=%2A%2F%2A</object><object ref="egi108RFDNNHQV" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="382" height="165" size="29932">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi108RFDNNHQV.jpg?httpAccept=%2A%2F%2A</object><object ref="egi1016VK78KNM" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="382" height="368" size="34501">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi1016VK78KNM.jpg?httpAccept=%2A%2F%2A</object><object ref="egi10FXXGJFB7Q" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="666" height="198" size="30650">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi10FXXGJFB7Q.jpg?httpAccept=%2A%2F%2A</object><object ref="egi106ZR3C7FJM" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="382" height="355" size="31993">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi106ZR3C7FJM.jpg?httpAccept=%2A%2F%2A</object><object ref="egi10ZGJ81RBZ5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="382" height="114" size="17200">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi10ZGJ81RBZ5.jpg?httpAccept=%2A%2F%2A</object><object ref="egi10MB2D6JKN1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="382" height="284" size="25757">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi10MB2D6JKN1.jpg?httpAccept=%2A%2F%2A</object><object ref="egi1061NBW617F" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="382" height="140" size="25447">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi1061NBW617F.jpg?httpAccept=%2A%2F%2A</object><object ref="egi109SXZZVK2P" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="382" height="213" size="23892">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi109SXZZVK2P.jpg?httpAccept=%2A%2F%2A</object><object ref="egi10324NXRTGS" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="382" height="285" size="44292">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi10324NXRTGS.jpg?httpAccept=%2A%2F%2A</object><object ref="egi10B2V6M1WSG" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="382" height="400" size="42361">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi10B2V6M1WSG.jpg?httpAccept=%2A%2F%2A</object><object ref="egi10XWFNM5F77" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="534" height="426" size="59803">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi10XWFNM5F77.jpg?httpAccept=%2A%2F%2A</object><object ref="egi10D76W661WH" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1016" height="758" size="129580">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi10D76W661WH_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="egi10C2BKQQKH3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1695" height="687" size="122392">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi10C2BKQQKH3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="egi10GF2XCNSJP" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1351" height="494" size="165013">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi10GF2XCNSJP_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="egi10CGH6TF6DF" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1693" height="1294" size="142280">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi10CGH6TF6DF_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="egi100P34G0577" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1693" height="1927" size="187992">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi100P34G0577_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="egi108RFDNNHQV" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1693" height="731" size="276371">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi108RFDNNHQV_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="egi1016VK78KNM" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1693" height="1629" size="172049">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi1016VK78KNM_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="egi10FXXGJFB7Q" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2950" height="876" size="312046">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi10FXXGJFB7Q_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="egi106ZR3C7FJM" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1693" height="1572" size="304208">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi106ZR3C7FJM_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="egi10ZGJ81RBZ5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1693" height="505" size="147171">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi10ZGJ81RBZ5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="egi10MB2D6JKN1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1693" height="1260" size="133528">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi10MB2D6JKN1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="egi1061NBW617F" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1287" height="473" size="163232">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi1061NBW617F_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="egi109SXZZVK2P" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1693" height="942" size="160167">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi109SXZZVK2P_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="egi10324NXRTGS" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1016" height="758" size="213304">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi10324NXRTGS_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="egi10B2V6M1WSG" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1693" height="1771" size="251545">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi10B2V6M1WSG_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="egi10XWFNM5F77" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2365" height="1887" size="519411">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-egi10XWFNM5F77_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="3537068">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635919304301-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85072195755</scopus-id><scopus-eid>2-s2.0-85072195755</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85072195755" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271963</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291787</xocs:ssid>
+         <xocs:ssid type="subj">291885</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Precision Engineering</xocs:srctitle>
+      <xocs:normalized-srctitle>PRECISIONENGINEERING</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20190909">2019-09-09</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20190909">2019-09-09</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20190917">2019-09-17</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20190917">2019-09-17</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2019-12-03T16:43:47</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0141635919304301</xocs:eid>
+      <xocs:pii-formatted>S0141-6359(19)30430-1</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0141635919304301</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.precisioneng.2019.06.014</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0141635919X00057</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20201030">2020-10-30T15:14:06.132077Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20191101</xocs:date-search-begin>
+      <xocs:date-search-end>20191130</xocs:date-search-end>
+      <xocs:year-nav>2019</xocs:year-nav>
+      <xocs:indexeddate epoch="1568046089">2019-09-09T16:21:29.252913Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body mmlmath affil articletitle auth authfirstini authfull authkeywords authlast highlightsabst primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0141-6359</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>01416359</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>60</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>60</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 60</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>49</xocs:sort-order>
+      <xocs:first-fp>458</xocs:first-fp>
+      <xocs:last-lp>464</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>458</xocs:first-page>
+         <xocs:last-page>464</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201911</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>November 2019</xocs:cover-date-text>
+      <xocs:cover-date-start>2019-11-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2019-11-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2019</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Research articles</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2019 Elsevier Inc. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>CMPCHARACTERISTICSQUARTZGLASSSUBSTRATEBYAGGREGATEDCOLLOIDALCERIASLURRY</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>WAKAMATSU</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>K</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental setup</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Comparison of fundamental CMP characteristics between calcined and colloidal ceria</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Influence of the difference in aggregation state on CMP characteristics</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>5</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Mechanisms of the difference in RR by different aggregation states</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>6</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Observation of the polished surfaces from the viewpoint of scratches</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>7</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Toward achieving both further high RR and high surface quality</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>8</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Inhibition of slurry residues by slurry concentration adjustment</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>9</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Funding</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-normalized-surname>PRESTON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1927</xocs:ref-pub-year>
+            <xocs:ref-first-fp>214</xocs:ref-first-fp>
+            <xocs:ref-last-lp>256</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>CHEMICALMECHANICALPLANARIZATIONSEMICONDUCTORMATERIALS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-normalized-surname>TANAKA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>22</xocs:ref-first-fp>
+            <xocs:ref-last-lp>24</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROCINTERNATIONALCONFERENCEPLANARIZATIONCMPTECHNOLOGY2014</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>NANOSIZECERIUMHYDROXIDESLURRYFORSCRATCHFREECMPPROCESS</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-normalized-surname>DOI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>194</xocs:ref-first-fp>
+            <xocs:ref-last-lp>198</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROCINTERNATIONALCONFERENCEPLANARIZATIONCMPTECHNOLOGY2014</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>EFFECTSCE3REMOVALRATECERIASLURRIESINCHEMICALMECHANICALPOLISHINGFORSIO2</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-normalized-surname>COOK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>152</xocs:ref-first-fp>
+            <xocs:ref-last-lp>171</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref6">
+            <xocs:ref-normalized-surname>TAMAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>296</xocs:ref-first-fp>
+            <xocs:ref-last-lp>300</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROCINTERNATIONALCONFERENCEPLANARIZATIONCMPTECHNOLOGY2009</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>IMPACTSIO2AGGLOMERATIONSURFACEDEFECTIVITYDURINGCMPPROCESS</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>WAKAMATSUX2019X458</xocs:refkey3>
+         <xocs:refkey4lp>WAKAMATSUX2019X458X464</xocs:refkey4lp>
+         <xocs:refkey4ai>WAKAMATSUX2019X458XK</xocs:refkey4ai>
+         <xocs:refkey5>WAKAMATSUX2019X458X464XK</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2021-09-17T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2021-09-17T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2019 Elsevier Inc. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2019-09-09T12:19:51.538Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/nlp</xocs:funding-addon-type>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0141-6359(19)30430-1</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0141635919304301</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0141635919304301</xocs:eid>
+         <xocs:doi>10.1016/j.precisioneng.2019.06.014</xocs:doi>
+         <xocs:cid>271963</xocs:cid>
+         <xocs:timestamp>2020-10-30T15:14:06.132077Z</xocs:timestamp>
+         <xocs:cover-date-start>2019-11-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2019-11-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141635919304301/MAIN/application/pdf/9f153a005d1b87d0dc59889211ddcfb4/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>9915241</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0141635919304301-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141635919304301/PREVIEW/image/png/de0ca43f82706d1ede306a90a9f4d737/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>50477</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi10D76W661WH.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10D76W661WH/THUMBNAIL/image/gif/dc70feb754b328d7188dcd63ed5b1229/egi10D76W661WH.sml</xocs:ucs-locator>
+               <xocs:file-basename>egi10D76W661WH</xocs:file-basename>
+               <xocs:filename>egi10D76W661WH.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>23655</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi10C2BKQQKH3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10C2BKQQKH3/THUMBNAIL/image/gif/f3c446e0b26824c91465da795e45297c/egi10C2BKQQKH3.sml</xocs:ucs-locator>
+               <xocs:file-basename>egi10C2BKQQKH3</xocs:file-basename>
+               <xocs:filename>egi10C2BKQQKH3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11338</xocs:filesize>
+               <xocs:pixel-height>89</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi10GF2XCNSJP.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10GF2XCNSJP/THUMBNAIL/image/gif/6d096709db58239d63edc4310ccadffc/egi10GF2XCNSJP.sml</xocs:ucs-locator>
+               <xocs:file-basename>egi10GF2XCNSJP</xocs:file-basename>
+               <xocs:filename>egi10GF2XCNSJP.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11989</xocs:filesize>
+               <xocs:pixel-height>80</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi10CGH6TF6DF.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10CGH6TF6DF/THUMBNAIL/image/gif/a6ca2e56a171388603dea2fa27a713b1/egi10CGH6TF6DF.sml</xocs:ucs-locator>
+               <xocs:file-basename>egi10CGH6TF6DF</xocs:file-basename>
+               <xocs:filename>egi10CGH6TF6DF.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10530</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>214</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi100P34G0577.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:100P34G0577/THUMBNAIL/image/gif/1bc0180c67cd2277eb8255850f81e584/egi100P34G0577.sml</xocs:ucs-locator>
+               <xocs:file-basename>egi100P34G0577</xocs:file-basename>
+               <xocs:filename>egi100P34G0577.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7296</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>144</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi108RFDNNHQV.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:108RFDNNHQV/THUMBNAIL/image/gif/4c4b789018dd809b9887653f0139f42a/egi108RFDNNHQV.sml</xocs:ucs-locator>
+               <xocs:file-basename>egi108RFDNNHQV</xocs:file-basename>
+               <xocs:filename>egi108RFDNNHQV.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>16103</xocs:filesize>
+               <xocs:pixel-height>95</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi1016VK78KNM.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:1016VK78KNM/THUMBNAIL/image/gif/bc0cf81eca6bc049f9e21017d177b000/egi1016VK78KNM.sml</xocs:ucs-locator>
+               <xocs:file-basename>egi1016VK78KNM</xocs:file-basename>
+               <xocs:filename>egi1016VK78KNM.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7861</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>170</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi10FXXGJFB7Q.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10FXXGJFB7Q/THUMBNAIL/image/gif/626339ee425d0d76a25e3e1d61a1919f/egi10FXXGJFB7Q.sml</xocs:ucs-locator>
+               <xocs:file-basename>egi10FXXGJFB7Q</xocs:file-basename>
+               <xocs:filename>egi10FXXGJFB7Q.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7531</xocs:filesize>
+               <xocs:pixel-height>65</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi106ZR3C7FJM.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:106ZR3C7FJM/THUMBNAIL/image/gif/df9d8cd500bb12fe64fe9cd13aa01c9c/egi106ZR3C7FJM.sml</xocs:ucs-locator>
+               <xocs:file-basename>egi106ZR3C7FJM</xocs:file-basename>
+               <xocs:filename>egi106ZR3C7FJM.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>20024</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>176</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi10ZGJ81RBZ5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10ZGJ81RBZ5/THUMBNAIL/image/gif/dbd3259d5ba0469c40e9a2ada6562a18/egi10ZGJ81RBZ5.sml</xocs:ucs-locator>
+               <xocs:file-basename>egi10ZGJ81RBZ5</xocs:file-basename>
+               <xocs:filename>egi10ZGJ81RBZ5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10936</xocs:filesize>
+               <xocs:pixel-height>65</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi10MB2D6JKN1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10MB2D6JKN1/THUMBNAIL/image/gif/0309e509c4e8ed3d8a910518950f31ce/egi10MB2D6JKN1.sml</xocs:ucs-locator>
+               <xocs:file-basename>egi10MB2D6JKN1</xocs:file-basename>
+               <xocs:filename>egi10MB2D6JKN1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11090</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi1061NBW617F.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:1061NBW617F/THUMBNAIL/image/gif/4d88aa732705fb25b68975dab402cc79/egi1061NBW617F.sml</xocs:ucs-locator>
+               <xocs:file-basename>egi1061NBW617F</xocs:file-basename>
+               <xocs:filename>egi1061NBW617F.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>15036</xocs:filesize>
+               <xocs:pixel-height>80</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi109SXZZVK2P.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:109SXZZVK2P/THUMBNAIL/image/gif/6ac90ea18b3310dad760962cc8b91580/egi109SXZZVK2P.sml</xocs:ucs-locator>
+               <xocs:file-basename>egi109SXZZVK2P</xocs:file-basename>
+               <xocs:filename>egi109SXZZVK2P.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>13705</xocs:filesize>
+               <xocs:pixel-height>122</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi10324NXRTGS.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10324NXRTGS/THUMBNAIL/image/gif/1e4b45550c97f7c80283685ba990ce61/egi10324NXRTGS.sml</xocs:ucs-locator>
+               <xocs:file-basename>egi10324NXRTGS</xocs:file-basename>
+               <xocs:filename>egi10324NXRTGS.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>30076</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi10B2V6M1WSG.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10B2V6M1WSG/THUMBNAIL/image/gif/5c49525fc121c8421b5066c01268c8da/egi10B2V6M1WSG.sml</xocs:ucs-locator>
+               <xocs:file-basename>egi10B2V6M1WSG</xocs:file-basename>
+               <xocs:filename>egi10B2V6M1WSG.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12798</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>157</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi10XWFNM5F77.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10XWFNM5F77/THUMBNAIL/image/gif/8a0c0e55917bb45d434a3f26fe07715d/egi10XWFNM5F77.sml</xocs:ucs-locator>
+               <xocs:file-basename>egi10XWFNM5F77</xocs:file-basename>
+               <xocs:filename>egi10XWFNM5F77.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>29376</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>205</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi10D76W661WH.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10D76W661WH/DOWNSAMPLED/image/jpeg/53feb838d804e5f35dd65089e0aa7bf4/egi10D76W661WH.jpg</xocs:ucs-locator>
+               <xocs:file-basename>egi10D76W661WH</xocs:file-basename>
+               <xocs:filename>egi10D76W661WH.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>29127</xocs:filesize>
+               <xocs:pixel-height>285</xocs:pixel-height>
+               <xocs:pixel-width>382</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi10C2BKQQKH3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10C2BKQQKH3/DOWNSAMPLED/image/jpeg/c78608f2ce0ffa47bcbe6bdb6be07a52/egi10C2BKQQKH3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>egi10C2BKQQKH3</xocs:file-basename>
+               <xocs:filename>egi10C2BKQQKH3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>15242</xocs:filesize>
+               <xocs:pixel-height>155</xocs:pixel-height>
+               <xocs:pixel-width>383</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi10GF2XCNSJP.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10GF2XCNSJP/DOWNSAMPLED/image/jpeg/948c06e8c387e9414f3ea5dcc1b47af7/egi10GF2XCNSJP.jpg</xocs:ucs-locator>
+               <xocs:file-basename>egi10GF2XCNSJP</xocs:file-basename>
+               <xocs:filename>egi10GF2XCNSJP.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>20759</xocs:filesize>
+               <xocs:pixel-height>140</xocs:pixel-height>
+               <xocs:pixel-width>382</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi10CGH6TF6DF.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10CGH6TF6DF/DOWNSAMPLED/image/jpeg/49fcfb8faa4f8172e3c18fa9f001370f/egi10CGH6TF6DF.jpg</xocs:ucs-locator>
+               <xocs:file-basename>egi10CGH6TF6DF</xocs:file-basename>
+               <xocs:filename>egi10CGH6TF6DF.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>27290</xocs:filesize>
+               <xocs:pixel-height>292</xocs:pixel-height>
+               <xocs:pixel-width>382</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi100P34G0577.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:100P34G0577/DOWNSAMPLED/image/jpeg/142daef5cd8ccfbc4e6c098d2442bda0/egi100P34G0577.jpg</xocs:ucs-locator>
+               <xocs:file-basename>egi100P34G0577</xocs:file-basename>
+               <xocs:filename>egi100P34G0577.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>35667</xocs:filesize>
+               <xocs:pixel-height>435</xocs:pixel-height>
+               <xocs:pixel-width>382</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi108RFDNNHQV.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:108RFDNNHQV/DOWNSAMPLED/image/jpeg/fb6dadb90ad9b94643e45ce5f137134d/egi108RFDNNHQV.jpg</xocs:ucs-locator>
+               <xocs:file-basename>egi108RFDNNHQV</xocs:file-basename>
+               <xocs:filename>egi108RFDNNHQV.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>29932</xocs:filesize>
+               <xocs:pixel-height>165</xocs:pixel-height>
+               <xocs:pixel-width>382</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi1016VK78KNM.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:1016VK78KNM/DOWNSAMPLED/image/jpeg/232821d75693dfd2b1d609403a410787/egi1016VK78KNM.jpg</xocs:ucs-locator>
+               <xocs:file-basename>egi1016VK78KNM</xocs:file-basename>
+               <xocs:filename>egi1016VK78KNM.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>34501</xocs:filesize>
+               <xocs:pixel-height>368</xocs:pixel-height>
+               <xocs:pixel-width>382</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi10FXXGJFB7Q.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10FXXGJFB7Q/DOWNSAMPLED/image/jpeg/e8c79e9b84c86c3860df6b01fdc29091/egi10FXXGJFB7Q.jpg</xocs:ucs-locator>
+               <xocs:file-basename>egi10FXXGJFB7Q</xocs:file-basename>
+               <xocs:filename>egi10FXXGJFB7Q.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>30650</xocs:filesize>
+               <xocs:pixel-height>198</xocs:pixel-height>
+               <xocs:pixel-width>666</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi106ZR3C7FJM.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:106ZR3C7FJM/DOWNSAMPLED/image/jpeg/e56192135c38049e4f45e35dd18e09da/egi106ZR3C7FJM.jpg</xocs:ucs-locator>
+               <xocs:file-basename>egi106ZR3C7FJM</xocs:file-basename>
+               <xocs:filename>egi106ZR3C7FJM.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>31993</xocs:filesize>
+               <xocs:pixel-height>355</xocs:pixel-height>
+               <xocs:pixel-width>382</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi10ZGJ81RBZ5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10ZGJ81RBZ5/DOWNSAMPLED/image/jpeg/287e0e76437ed670be8630d815f7434b/egi10ZGJ81RBZ5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>egi10ZGJ81RBZ5</xocs:file-basename>
+               <xocs:filename>egi10ZGJ81RBZ5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>17200</xocs:filesize>
+               <xocs:pixel-height>114</xocs:pixel-height>
+               <xocs:pixel-width>382</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi10MB2D6JKN1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10MB2D6JKN1/DOWNSAMPLED/image/jpeg/19afa582db72f9361c4e5365e6c4697d/egi10MB2D6JKN1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>egi10MB2D6JKN1</xocs:file-basename>
+               <xocs:filename>egi10MB2D6JKN1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>25757</xocs:filesize>
+               <xocs:pixel-height>284</xocs:pixel-height>
+               <xocs:pixel-width>382</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi1061NBW617F.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:1061NBW617F/DOWNSAMPLED/image/jpeg/50a4761abb5d1be65e417280b3f49da0/egi1061NBW617F.jpg</xocs:ucs-locator>
+               <xocs:file-basename>egi1061NBW617F</xocs:file-basename>
+               <xocs:filename>egi1061NBW617F.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>25447</xocs:filesize>
+               <xocs:pixel-height>140</xocs:pixel-height>
+               <xocs:pixel-width>382</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi109SXZZVK2P.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:109SXZZVK2P/DOWNSAMPLED/image/jpeg/1ec540eea91ef092855bc5533e744ee6/egi109SXZZVK2P.jpg</xocs:ucs-locator>
+               <xocs:file-basename>egi109SXZZVK2P</xocs:file-basename>
+               <xocs:filename>egi109SXZZVK2P.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>23892</xocs:filesize>
+               <xocs:pixel-height>213</xocs:pixel-height>
+               <xocs:pixel-width>382</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi10324NXRTGS.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10324NXRTGS/DOWNSAMPLED/image/jpeg/c11721c01135ae59b5b40a530af4b5c2/egi10324NXRTGS.jpg</xocs:ucs-locator>
+               <xocs:file-basename>egi10324NXRTGS</xocs:file-basename>
+               <xocs:filename>egi10324NXRTGS.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>44292</xocs:filesize>
+               <xocs:pixel-height>285</xocs:pixel-height>
+               <xocs:pixel-width>382</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi10B2V6M1WSG.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10B2V6M1WSG/DOWNSAMPLED/image/jpeg/ed7f0a602765ba36e10efa8d79a44a99/egi10B2V6M1WSG.jpg</xocs:ucs-locator>
+               <xocs:file-basename>egi10B2V6M1WSG</xocs:file-basename>
+               <xocs:filename>egi10B2V6M1WSG.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>42361</xocs:filesize>
+               <xocs:pixel-height>400</xocs:pixel-height>
+               <xocs:pixel-width>382</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi10XWFNM5F77.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10XWFNM5F77/DOWNSAMPLED/image/jpeg/ec828935ab48b11f6ea6a863584e1a5c/egi10XWFNM5F77.jpg</xocs:ucs-locator>
+               <xocs:file-basename>egi10XWFNM5F77</xocs:file-basename>
+               <xocs:filename>egi10XWFNM5F77.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>59803</xocs:filesize>
+               <xocs:pixel-height>426</xocs:pixel-height>
+               <xocs:pixel-width>534</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi10D76W661WH_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10D76W661WH/HIGHRES/image/jpeg/b1897fcdd00546aedaa3b40a321c7f5a/egi10D76W661WH_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>egi10D76W661WH</xocs:file-basename>
+               <xocs:filename>egi10D76W661WH_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>129580</xocs:filesize>
+               <xocs:pixel-height>758</xocs:pixel-height>
+               <xocs:pixel-width>1016</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi10C2BKQQKH3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10C2BKQQKH3/HIGHRES/image/jpeg/52e8da3c0f694ef7dc640778c53eaf90/egi10C2BKQQKH3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>egi10C2BKQQKH3</xocs:file-basename>
+               <xocs:filename>egi10C2BKQQKH3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>122392</xocs:filesize>
+               <xocs:pixel-height>687</xocs:pixel-height>
+               <xocs:pixel-width>1695</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi10GF2XCNSJP_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10GF2XCNSJP/HIGHRES/image/jpeg/1f0005ea18ab6c02913a357c73d4b468/egi10GF2XCNSJP_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>egi10GF2XCNSJP</xocs:file-basename>
+               <xocs:filename>egi10GF2XCNSJP_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>165013</xocs:filesize>
+               <xocs:pixel-height>494</xocs:pixel-height>
+               <xocs:pixel-width>1351</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi10CGH6TF6DF_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10CGH6TF6DF/HIGHRES/image/jpeg/0378ed1a41e5d73a0d2d984386d5607f/egi10CGH6TF6DF_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>egi10CGH6TF6DF</xocs:file-basename>
+               <xocs:filename>egi10CGH6TF6DF_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>142280</xocs:filesize>
+               <xocs:pixel-height>1294</xocs:pixel-height>
+               <xocs:pixel-width>1693</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi100P34G0577_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:100P34G0577/HIGHRES/image/jpeg/6712f7827ca4d5fe306db18939d8b6d1/egi100P34G0577_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>egi100P34G0577</xocs:file-basename>
+               <xocs:filename>egi100P34G0577_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>187992</xocs:filesize>
+               <xocs:pixel-height>1927</xocs:pixel-height>
+               <xocs:pixel-width>1693</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi108RFDNNHQV_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:108RFDNNHQV/HIGHRES/image/jpeg/ce530dea481a58c1bade298a48c66bc9/egi108RFDNNHQV_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>egi108RFDNNHQV</xocs:file-basename>
+               <xocs:filename>egi108RFDNNHQV_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>276371</xocs:filesize>
+               <xocs:pixel-height>731</xocs:pixel-height>
+               <xocs:pixel-width>1693</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi1016VK78KNM_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:1016VK78KNM/HIGHRES/image/jpeg/570fefc2e961936b757ce399f0c21168/egi1016VK78KNM_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>egi1016VK78KNM</xocs:file-basename>
+               <xocs:filename>egi1016VK78KNM_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>172049</xocs:filesize>
+               <xocs:pixel-height>1629</xocs:pixel-height>
+               <xocs:pixel-width>1693</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi10FXXGJFB7Q_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10FXXGJFB7Q/HIGHRES/image/jpeg/47491af62a599a48c8e5fc2ca16c36de/egi10FXXGJFB7Q_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>egi10FXXGJFB7Q</xocs:file-basename>
+               <xocs:filename>egi10FXXGJFB7Q_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>312046</xocs:filesize>
+               <xocs:pixel-height>876</xocs:pixel-height>
+               <xocs:pixel-width>2950</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi106ZR3C7FJM_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:106ZR3C7FJM/HIGHRES/image/jpeg/d76f70fa2526ef8e14ce5fb269b2a6b0/egi106ZR3C7FJM_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>egi106ZR3C7FJM</xocs:file-basename>
+               <xocs:filename>egi106ZR3C7FJM_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>304208</xocs:filesize>
+               <xocs:pixel-height>1572</xocs:pixel-height>
+               <xocs:pixel-width>1693</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi10ZGJ81RBZ5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10ZGJ81RBZ5/HIGHRES/image/jpeg/f628e3d5b825141e0a0a534a15d91d33/egi10ZGJ81RBZ5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>egi10ZGJ81RBZ5</xocs:file-basename>
+               <xocs:filename>egi10ZGJ81RBZ5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>147171</xocs:filesize>
+               <xocs:pixel-height>505</xocs:pixel-height>
+               <xocs:pixel-width>1693</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi10MB2D6JKN1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10MB2D6JKN1/HIGHRES/image/jpeg/43181ce7e6955f39fdee8c13f5b1579c/egi10MB2D6JKN1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>egi10MB2D6JKN1</xocs:file-basename>
+               <xocs:filename>egi10MB2D6JKN1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>133528</xocs:filesize>
+               <xocs:pixel-height>1260</xocs:pixel-height>
+               <xocs:pixel-width>1693</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi1061NBW617F_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:1061NBW617F/HIGHRES/image/jpeg/4feb8c0be6d556bb3291a1917236469e/egi1061NBW617F_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>egi1061NBW617F</xocs:file-basename>
+               <xocs:filename>egi1061NBW617F_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>163232</xocs:filesize>
+               <xocs:pixel-height>473</xocs:pixel-height>
+               <xocs:pixel-width>1287</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi109SXZZVK2P_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:109SXZZVK2P/HIGHRES/image/jpeg/94d4841d68a8d7eb0fe3f3eb685b2853/egi109SXZZVK2P_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>egi109SXZZVK2P</xocs:file-basename>
+               <xocs:filename>egi109SXZZVK2P_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>160167</xocs:filesize>
+               <xocs:pixel-height>942</xocs:pixel-height>
+               <xocs:pixel-width>1693</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi10324NXRTGS_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10324NXRTGS/HIGHRES/image/jpeg/c2efe6848d5a5cb27a16aa10749aeed4/egi10324NXRTGS_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>egi10324NXRTGS</xocs:file-basename>
+               <xocs:filename>egi10324NXRTGS_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>213304</xocs:filesize>
+               <xocs:pixel-height>758</xocs:pixel-height>
+               <xocs:pixel-width>1016</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi10B2V6M1WSG_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10B2V6M1WSG/HIGHRES/image/jpeg/cd6f337de34258caa35aeb1e79d0f9c7/egi10B2V6M1WSG_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>egi10B2V6M1WSG</xocs:file-basename>
+               <xocs:filename>egi10B2V6M1WSG_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>251545</xocs:filesize>
+               <xocs:pixel-height>1771</xocs:pixel-height>
+               <xocs:pixel-width>1693</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-egi10XWFNM5F77_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10XWFNM5F77/HIGHRES/image/jpeg/3a1081b7fde57b3dce1677ab7aa09f5e/egi10XWFNM5F77_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>egi10XWFNM5F77</xocs:file-basename>
+               <xocs:filename>egi10XWFNM5F77_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>519411</xocs:filesize>
+               <xocs:pixel-height>1887</xocs:pixel-height>
+               <xocs:pixel-width>2365</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635919304301-am.pdf</xocs:attachment-eid>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:filesize>3537068</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10VRTCMDLM4/MAIN/application/pdf/86fec80fb9c18b4bbe213ed114d7fa5d/am.pdf</xocs:ucs-locator>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>PRE</jid>
+            <aid>7022</aid>
+            <ce:pii>S0141-6359(19)30430-1</ce:pii>
+            <ce:doi>10.1016/j.precisioneng.2019.06.014</ce:doi>
+            <ce:copyright type="full-transfer" year="2019">Elsevier Inc.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="fspara0010" view="all">SEM image of calcined ceria particles.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0010" role="short">Fig. 1</ce:alt-text>
+               <ce:link locator="egi10D76W661WH" xlink:href="egi:10D76W661WH" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="fspara0015" view="all">SEM image of colloidal ceria particles.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0015" role="short">Fig. 2</ce:alt-text>
+               <ce:link locator="egi10324NXRTGS" xlink:href="egi:10324NXRTGS" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="fspara0020" view="all">Relationship between abrasive concentration <ce:italic>C</ce:italic>
+                     <ce:inf loc="post">A</ce:inf> and <ce:italic>RR</ce:italic>, and <ce:italic>Ra</ce:italic> by calcined ceria.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0020" role="short">Fig. 3</ce:alt-text>
+               <ce:link locator="egi10CGH6TF6DF" xlink:href="egi:10CGH6TF6DF" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="fspara0025" view="all">Relationship between abrasive concentration <ce:italic>C</ce:italic>
+                     <ce:inf loc="post">A</ce:inf> and <ce:italic>RR</ce:italic>, and <ce:italic>Ra</ce:italic> by original colloidal ceria.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0025" role="short">Fig. 4</ce:alt-text>
+               <ce:link locator="egi10MB2D6JKN1" xlink:href="egi:10MB2D6JKN1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="fspara0030" view="all">Schematic diagram of CMP apparatus.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0030" role="short">Fig. 5</ce:alt-text>
+               <ce:link locator="egi109SXZZVK2P" xlink:href="egi:109SXZZVK2P" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig6">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="fspara0035" view="all">Relationship between KOH concentration <ce:italic>C</ce:italic>
+                     <ce:inf loc="post">KOH</ce:inf>, <ce:italic>RR</ce:italic>, <ce:italic>R</ce:italic>a and precipitation states by aggregated colloidal ceria.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0035" role="short">Fig. 6</ce:alt-text>
+               <ce:link locator="egi10B2V6M1WSG" xlink:href="egi:10B2V6M1WSG" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig7">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption id="cap0040">
+                  <ce:simple-para id="fspara0040" view="all">Precipitation states of colloidal ceria by changing KOH concentration.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0040" role="short">Fig. 7</ce:alt-text>
+               <ce:link locator="egi10XWFNM5F77" xlink:href="egi:10XWFNM5F77" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig8">
+               <ce:label>Fig. 8</ce:label>
+               <ce:caption id="cap0045">
+                  <ce:simple-para id="fspara0045" view="all">Precipitation states of colloidal ceria in different KOH concentration after ultrasonic dispersion.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0045" role="short">Fig. 8</ce:alt-text>
+               <ce:link locator="egi106ZR3C7FJM" xlink:href="egi:106ZR3C7FJM" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig9">
+               <ce:label>Fig. 9</ce:label>
+               <ce:caption id="cap0050">
+                  <ce:simple-para id="fspara0050" view="all">Relationship between <ce:italic>RR</ce:italic> and precipitation states after ultrasonic dispersion.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0050" role="short">Fig. 9</ce:alt-text>
+               <ce:link locator="egi100P34G0577" xlink:href="egi:100P34G0577" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig10">
+               <ce:label>Fig. 10</ce:label>
+               <ce:caption id="cap0055">
+                  <ce:simple-para id="fspara0055" view="all">SEM images of aggregated colloidal ceria particles having a KOH concentration of 0.01 mol/L before and after ultrasonic dispersion.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0055" role="short">Fig. 10</ce:alt-text>
+               <ce:link locator="egi10GF2XCNSJP" xlink:href="egi:10GF2XCNSJP" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig11">
+               <ce:label>Fig. 11</ce:label>
+               <ce:caption id="cap0060">
+                  <ce:simple-para id="fspara0060" view="all">SEM images of aggregated colloidal ceria particles having a KOH concentration of 0.1 mol/L before and after ultrasonic dispersion.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0060" role="short">Fig. 11</ce:alt-text>
+               <ce:link locator="egi1061NBW617F" xlink:href="egi:1061NBW617F" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig12">
+               <ce:label>Fig. 12</ce:label>
+               <ce:caption id="cap0065">
+                  <ce:simple-para id="fspara0065" view="all">CLSM images of quartz glass surface polished at 8 kPa.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0065" role="short">Fig. 12</ce:alt-text>
+               <ce:link locator="egi10FXXGJFB7Q" xlink:href="egi:10FXXGJFB7Q" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig13">
+               <ce:label>Fig. 13</ce:label>
+               <ce:caption id="cap0070">
+                  <ce:simple-para id="fspara0070" view="all">Relationship between polishing pressure <ce:italic>P</ce:italic>, slurry concentration and RR by aggregated colloidal ceria.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0070" role="short">Fig. 13</ce:alt-text>
+               <ce:link locator="egi1016VK78KNM" xlink:href="egi:1016VK78KNM" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig14">
+               <ce:label>Fig. 14</ce:label>
+               <ce:caption id="cap0075">
+                  <ce:simple-para id="fspara0075" view="all">CLSM images around the edge of quartz glass surface polished by aggregated colloidal ceria with a mass fraction of 5%.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0075" role="short">Fig. 14</ce:alt-text>
+               <ce:link locator="egi10ZGJ81RBZ5" xlink:href="egi:10ZGJ81RBZ5" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig15">
+               <ce:label>Fig. 15</ce:label>
+               <ce:caption id="cap0080">
+                  <ce:simple-para id="fspara0080" view="all">CLSM images around the edge of quartz glass surface polished at 31.4 kPa.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0080" role="short">Fig. 15</ce:alt-text>
+               <ce:link locator="egi10C2BKQQKH3" xlink:href="egi:10C2BKQQKH3" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig16">
+               <ce:label>Fig. 16</ce:label>
+               <ce:caption id="cap0085">
+                  <ce:simple-para id="fspara0085" view="all">AFM images around the center of quartz glass surface polished with a mass fraction of 2% aggregated colloidal ceria.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0085" role="short">Fig. 16</ce:alt-text>
+               <ce:link locator="egi108RFDNNHQV" xlink:href="egi:108RFDNNHQV" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" colsep="0" frame="topbot" id="tbl1" rowsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0090">
+                  <ce:simple-para id="tspara0010" view="all">Experimental conditions for CMP.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0090" role="short">Table 1</ce:alt-text>
+               <tgroup cols="2">
+                  <colspec colname="col1" colnum="1"/>
+                  <colspec colname="col2" colnum="2"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Workpiece</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Quartz glass 76.2 mm (3 inch)<br/>Thickness 0.5 mm</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Polishing machine</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">NF-300(Nano Factor Co, Ltd)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Slurry</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Calcined CeO<inf loc="post">2</inf>(SHOROX-A20) Colloidal CeO<inf loc="post">2</inf>(Zenus®HC60)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Polishing pad</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">IC1000(Nitta-Haas:XY-groove)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Rotational speed of platen</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">60 min<sup loc="post">−1</sup>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Polishing pressure</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">8 kPa</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Slurry flow rate</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">20 mL/min</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" colsep="0" frame="topbot" id="tbl2" rowsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="cap0095">
+                  <ce:simple-para id="tspara0015" view="all">Experimental conditions for CMP.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0095" role="short">Table 2</ce:alt-text>
+               <tgroup cols="2">
+                  <colspec colname="col1" colnum="1"/>
+                  <colspec colname="col2" colnum="2"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Workpiece</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Quartz glass 76.2 mm (3 inch)<br/>Thickness 0.5 mm</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Polishing machine</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">NF-300(Nano Factor Co, Ltd)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Slurry</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Colloidal CeO<inf loc="post">2</inf> + KOH</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Polishing pad</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">IC1400 (Nitta-Haas:XY-groove)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Rotational speed of platen</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">60 min<sup loc="post">−1</sup>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Slurry flow rate</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Colloidal CeO<inf loc="post">2</inf>: 10 mL/min<br/>KOH: 10 mL/min</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="title0010">CMP characteristics of quartz glass substrate by aggregated colloidal ceria slurry</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author author-id="S0141635919304301-bf4d3ab253aad707d4d876f1ef7be870" id="au1">
+                  <ce:given-name>Kaito</ce:given-name>
+                  <ce:surname>Wakamatsu</ce:surname>
+               </ce:author>
+               <ce:author author-id="S0141635919304301-9825bf93d8a835cadf94e72f5fa850aa" id="au2">
+                  <ce:given-name>Syuhei</ce:given-name>
+                  <ce:surname>Kurokawa</ce:surname>
+                  <ce:cross-ref id="crosref0010" refid="cor1">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author author-id="S0141635919304301-8f689fc19161260a5bfbd511dad60f18" id="au3">
+                  <ce:given-name>Takaaki</ce:given-name>
+                  <ce:surname>Toyama</ce:surname>
+               </ce:author>
+               <ce:author author-id="S0141635919304301-985ffa0c1a3081c6ee9a5e542daf1c4c" id="au4">
+                  <ce:given-name>Terutake</ce:given-name>
+                  <ce:surname>Hayashi</ce:surname>
+               </ce:author>
+               <ce:affiliation affiliation-id="S0141635919304301-27eaf544356af64c22931aa39e2064dc" id="aff1">
+                  <ce:textfn>Department of Mechanical Engineering, Kyushu University, 819-0395, Fukuoka, Japan</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Mechanical Engineering</sa:organization>
+                     <sa:organization>Kyushu University</sa:organization>
+                     <sa:city>Fukuoka</sa:city>
+                     <sa:postal-code>819-0395</sa:postal-code>
+                     <sa:country>Japan</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0010">Department of Mechanical Engineering, Kyushu University, 819-0395, Fukuoka, Japan</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="28" month="2" year="2019"/>
+            <ce:date-revised day="21" month="5" year="2019"/>
+            <ce:date-accepted day="31" month="5" year="2019"/>
+            <ce:abstract class="author" id="abs0010" xml:lang="en" view="all"><ce:abstract-sec id="abssec0010" view="all">
+                  <ce:simple-para id="abspara0010" view="all">Colloidal ceria is expected to be a candidate of alternative slurry for glass substrate CMP because the slurry particles are small and have a regular shape comparing to conventional calcined ceria particles. Thanks to the characteristics, the colloidal ceria can generate a high quality surface in glass substrate CMP, but removal rate (RR) is smaller than that of calcined ceria. In order to improve the RR, KOH was added to the colloidal ceria. KOH additives make colloidal ceria particles aggregate and improve RR close to that of calcined ceria. By evaluating the extent of aggregation with and without ultrasonic dispersion, it was found there was a strong correlation with KOH concentration to aggregation strength and RR. To obtain further RR and to reduce the consumption of slurry, influence of polishing pressure and slurry concentration on polishing characteristics was investigated. As the polishing pressure increased, the RR improved, while slurry residue occurred partly on the edge of the substrate surface. The slurry residue was restrained by decreasing slurry concentration. Furthermore, although scratches in the nanometer order increase slightly under high polishing pressure, they are smaller than those by calcined ceria slurry. By controlling the degree of aggregation of colloidal ceria, we have achieved both high RR and high quality surface.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            
+            <ce:keywords class="keyword" id="kwrds0010" xml:lang="en" view="all">
+               <ce:section-title id="sectitle0020">Keywords</ce:section-title>
+               <ce:keyword id="kwrd0010">
+                  <ce:text>Polishing</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0015">
+                  <ce:text>CMP</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0020">
+                  <ce:text>Colloidal ceria</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0025">
+                  <ce:text>Calcined ceria</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0030">
+                  <ce:text>Aggregation</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0035">
+                  <ce:text>Quartz glass</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0040">
+                  <ce:text>Scratch</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0045">
+                  <ce:text>Slurry concentration</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0050">
+                  <ce:text>Polishing pressure</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sectitle0025">Introduction</ce:section-title>
+                  <ce:para id="p0030" view="all">Quartz glass is used as a material of flat panel displays and hard disk drives because of its optical transparency, heat resistance, dimension stability, high hardness and high surface smoothness. Planarization of the glass substrate surface is demanded because electronic devices require high performance and high recording density. Chemical mechanical polishing/planarization (CMP) is used as a finishing process for quartz glass substrate polishing. In the CMP process for glass polishing, the removal rate (RR) is often described by experience formula called Preston's Law [<ce:cross-ref id="crosref0015" refid="bib1">1</ce:cross-ref>,<ce:cross-ref id="crosref0020" refid="bib2">2</ce:cross-ref>]: RR is proportional to polishing pressure and relative velocity.</ce:para>
+                  <ce:para id="p0035" view="all">Ceria slurry is extensively used in glass substrate CMP because of its specific chemical characteristics of having extreme high RR comparing to other types of slurry. There are several kinds of ceria slurry, and calcined ceria is commonly used as slurry particles. Calcined ceria slurry actually has steady RR, but scratch issue is remaining. Colloidal ceria slurry is expected to be a candidate of alternative slurry because the slurry particles are small and have a regular shape comparing to conventional calcined ceria particles [<ce:cross-ref id="crosref0025" refid="bib3">3</ce:cross-ref>,<ce:cross-ref id="crosref0030" refid="bib4">4</ce:cross-ref>]. Thanks to the advantages, the colloidal ceria slurry is believed to avoid scratch defects. However, due to the small diameter of the particles, RR of colloidal ceria slurry tends to be smaller than that of calcined ceria slurry [<ce:cross-ref id="crosref0035" refid="bib5">5</ce:cross-ref>].</ce:para>
+                  <ce:para id="p0040" view="all">The objective of this research is to improve both of substrate surface quality and RR by using aggregated colloidal ceria particles. In this paper, the result of fundamental investigation of the basic performance of aggregated colloidal ceria is reported with respect to RR and surface quality. The superiority of aggregated colloidal ceria is shown by comparing RR and surface quality between calcined and aggregated colloidal ceria. Generally, aggregation should be avoided because it tends to cause scratches [<ce:cross-ref id="crosref0040" refid="bib6">6</ce:cross-ref>]. In this paper, however, we aim to control CMP by actively aggregating colloidal ceria.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sectitle0030">Experimental setup</ce:section-title>
+                  <ce:para id="p0045" view="all">A quartz glass substrate with a diameter of 76.2 mm (3 inch) and a thickness of 0.5 mm was used as a sample, and the RR was examined with a desktop CMP apparatus, NF-300 manufactured by Nano Factor. The RR was calculated from the density of glass substrate, the substrate area, and the polishing time by measuring the difference in mass of the substrate before and after polishing using a digital weighing scale, AUW220D by Shimadzu Corporation. The surface roughness and the presence or absence of scratches was observed using a confocal laser scanning microscope (CLSM), OLS3500 by Olympus Corporation, and an atomic force microscope (AFM), Dimension Icon by Bruker Corporation. The images of ceria particles were captured with an ultrahigh resolution scanning electron microscope (SEM), SU8000 by Hitachi High-Technologies Corporation.</ce:para>
+               </ce:section>
+               <ce:section id="sec3" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sectitle0035">Comparison of fundamental CMP characteristics between calcined and colloidal ceria</ce:section-title>
+                  <ce:para id="p0050" view="all">The fundamental CMP characteristics were investigated for widely used calcined ceria and original colloidal ceria, Zenus® HC60 by Solvay Special Chem Japan, Ltd. The CMP conditions are shown in <ce:cross-ref id="crosref0045" refid="tbl1">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="tbl1"/>. <ce:cross-ref id="crosref0050" refid="fig1">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="fig1"/> shows an SEM image of calcined ceria particles and <ce:cross-ref id="crosref0055" refid="fig2">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="fig2"/> shows that of original colloidal ceria. The calcined ceria particles tend to aggregate and their particle diameters are in the range from 200 nm to 5 μm, indicating that the particle shape has considerable irregularities. On the other hand, the original colloidal ceria particle used here has an average particle size of about 80 nm in diameter. It is found that the abrasive grain sizes are very uniform, and the shape is regular and close to a spherical shape.</ce:para>
+                  <ce:para id="p0055" view="all">
+                     <ce:cross-ref id="crosref0060" refid="fig3">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="fig3"/> shows the relationship between abrasive concentration and RR, and arithmetic average surface roughness Ra by calcined ceria. Looking at the surface roughness, when the abrasive concentration is a mass fraction of 2.5% or more, the surface roughness is large and about 1.5 nmRa. The RR of the calcined ceria increases as the abrasive concentration increases, and the rate of increase tends to be saturated at a concentration of a mass fraction of 2.5%–5%.</ce:para>
+                  <ce:para id="p0060" view="all">
+                     <ce:cross-ref id="crosref0065" refid="fig4">Fig. 4</ce:cross-ref>
+                     <ce:float-anchor refid="fig4"/> shows the relationship between abrasive concentration and RR, and Ra by original colloidal ceria. When comparing calcined ceria and original colloidal ceria, original colloidal ceria can obtain better surface roughness when abrasive concentration is a mass fraction of 2.5% or more, and surface roughness improves to 1.0 nmRa, which is 2/3 of that of calcined ceria. From the viewpoint of RR, however, the RR was not as high as that of the calcined ceria, and it remained at about a quarter of the RR of calcined ceria which was the most efficient at the concentration of a mass fraction of 2.5%.</ce:para>
+               </ce:section>
+               <ce:section id="sec4" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sectitle0040">Influence of the difference in aggregation state on CMP characteristics</ce:section-title>
+                  <ce:para id="p0065" view="all">One of the factors for improvement of the substrate surface quality by original colloidal ceria is considered that the particle size is small and that the grain sizes are uniform and the shape is close to a spherical shape. On the other hand, the low RR may be due to the small particle size. Therefore, in order to obtain a high RR, it is advisable to increase the particle diameter itself or aggregate original particles resulting in apparently large diameter. To aggregate particles, we used a method to add KOH to the original colloidal ceria slurry.</ce:para>
+                  <ce:para id="p0070" view="all">Experiments were carried out by adding KOH to original colloidal ceria and changing the pH. When KOH was added to the original colloidal ceria slurry in a slurry tank, aggregation occurred immediately. Since the degree of aggregation was large, it was not possible to effectively pump the slurry up with pumping and accurate experiment could not be performed. Therefore, as a method of effectively supplying the slurry to the working area, KOH was mixed with the original colloidal ceria on the polishing pad directly using two supplying tubes independently as shown in <ce:cross-ref id="crosref0070" refid="fig5">Fig. 5</ce:cross-ref>
+                     <ce:float-anchor refid="fig5"/>.</ce:para>
+                  <ce:para id="p0075" view="all">
+                     <ce:cross-ref id="crosref0075" refid="fig6">Fig. 6</ce:cross-ref>
+                     <ce:float-anchor refid="fig6"/> shows the RR and the surface roughness when the KOH concentration was changed by this method. The RR was nearly constant at about 25 nm/min up to the KOH concentration of 0–0.01 mol/L, but the RR rapidly increased after the KOH concentration of 0.01 mol/L. Further above the KOH concentration of 0.1 mol/L, the RR comparable to the calcined ceria was obtained. On the other hand, the surface roughness had been remained in the range between 1 nmRa and 1.2 nmRa, and it is concluded that the great improvement in RR was achieved while maintaining a good surface quality.</ce:para>
+               </ce:section>
+               <ce:section id="sec5" view="all">
+                  <ce:label>5</ce:label>
+                  <ce:section-title id="sectitle0045">Mechanisms of the difference in RR by different aggregation states</ce:section-title>
+                  <ce:para id="p0080" view="all">It is recognized that ceria particles were visibly aggregated by the addition of KOH to the original colloidal ceria slurry during experiment. In order to investigate the factor of improvement in the RR, the state of precipitation of the colloidal ceria slurry due to the change in the molar concentration of KOH was observed. <ce:cross-ref id="crosref0080" refid="fig7">Fig. 7</ce:cross-ref>
+                     <ce:float-anchor refid="fig7"/> shows the time course of precipitation states from immediately after the addition of KOH of different molar concentration to the original colloidal ceria slurry. Survey was conducted on addition of KOH in the range of no addition (0 mol/L) to 0.1 mol/L. The molar concentration in <ce:cross-ref id="crosref0085" refid="fig7">Fig. 7</ce:cross-ref> indicates the molarity of KOH.</ce:para>
+                  <ce:para id="p0085" view="all">At KOH concentration of 0.005 mol/L or more, precipitation was confirmed at about 10 s immediately after dispersion. In contrast, at a KOH concentration of 0.001 mol/L or more, slurry completely precipitated after 3 days. Focusing on the slurry having a KOH concentration of 0.1 mol/L after 10 s and 60 min from the addition of KOH, it is understood that the amount of slurry in the dispersed state was larger than 0.01, 0.005 mol/L. It is considered that the dispersed state was maintained to some extent because the size of the aggregate in the slurry of 0.1 mol/L was less than that of the other two.</ce:para>
+                  <ce:para id="p0090" view="all">Looking at <ce:cross-ref id="crosref0090" refid="fig6">Fig. 6</ce:cross-ref>, it can be seen that among the KOH concentrations in which precipitation is occurring, the difference in RR is very large depending on the difference of KOH concentration although all were in the precipitation state. Just only aggregating cannot clearly explain the reason for the abrupt increase in RR after 0.01 mol/L.</ce:para>
+                  <ce:para id="p0095" view="all">To make this reason clear, three KOH mixed slurries of 0.005 mol/L, 0.01 mol/L and 0.1 mol/L were ultrasonically dispersed for 2 h. <ce:cross-ref id="crosref0095" refid="fig8">Fig. 8</ce:cross-ref>
+                     <ce:float-anchor refid="fig8"/> shows the time course from just after ultrasonic dispersion. It can be seen that the slurry having KOH concentration of 0.1 mol/L gradually precipitated and finally precipitated completely. However, the slurries having KOH concentration of 0.01 and 0.005 mol/L were still dispersed after the passage of 3 days. It is thought that this is because the bond between the aggregated ceria particles disintegrated and particles redispersed by ultrasonic dispersion.</ce:para>
+                  <ce:para id="p0100" view="all">When comparing the relationship between the RR in <ce:cross-ref id="crosref0100" refid="fig6">Fig. 6</ce:cross-ref> and the precipitation state in <ce:cross-ref id="crosref0105" refid="fig8">Fig. 8</ce:cross-ref> as shown in <ce:cross-ref id="crosref0110" refid="fig9">Fig. 9</ce:cross-ref>
+                     <ce:float-anchor refid="fig9"/>, it is understood that the difference between the redispersion and the precipitation slurry remarkably corresponds to the difference in polishing rate. This is because when the KOH concentration is 0.01 or 0.005 mol/L, since the bonding strength among the ceria particles is weaker than the force applied by ultrasonic dispersion, the aggregate easily collapses by the force applied during polishing and the increase of RR does not occur. On the other hand, it can be said that the slurry having the KOH concentration of 0.1 mol/L aggregates with large bonding strength so as not to be dispersed by ultrasonic dispersion, so that aggregates were not dispersed even during polishing, and a high RR was obtained.</ce:para>
+                  <ce:para id="p0105" view="all">To make the mechanism of the RR improvement more clear, SEM images of particles in different KOH concentration before and after ultrasonic dispersion were captured as shown in <ce:cross-ref id="crosref0115" refid="fig10">Fig. 10</ce:cross-ref>
+                     <ce:float-anchor refid="fig10"/> and <ce:cross-ref id="crosref0120" refid="fig11">Fig. 11</ce:cross-ref>
+                     <ce:float-anchor refid="fig11"/>. Original HC60 ceria particles have a polyhedral shape close to spherical one. With the addition of KOH, ceria particles aggregated but the strength of aggregation and aggregated size was apparently different in different KOH concentrations. The aggregate collapses under 0.01 mol/L concentration of KOH after ultrasonic dispersion as shown in <ce:cross-ref id="crosref0125" refid="fig10">Fig. 10</ce:cross-ref>. On the other hand, the aggregate does not collapse and remains the large size as shown in <ce:cross-ref id="crosref0130" refid="fig11">Fig. 11</ce:cross-ref>. The aggregation was quite strong over 0.1 mol/L concentration of KOH, and the RR improvement strongly relates to the aggregation state. Generally, in free abrasive polishing, it is known that the larger the abrasive particle size, the higher the polishing rate, and the tendency does not change in CMP. The main reason is also considered that the increase in grain size improved the RR. Although the aggregated particle size having a KOH concentration of 0.1 mol/L was comparable to the calcined ceria particle size compared with <ce:cross-ref id="crosref0135" refid="fig1">Fig. 1</ce:cross-ref>, the surface roughness was better than that of calcined ceria slurry. This will be one of the advantageous natures of colloidal ceria particles. As for surface quality, detailed consideration is given in the next chapter.</ce:para>
+               </ce:section>
+               <ce:section id="sec6" view="all">
+                  <ce:label>6</ce:label>
+                  <ce:section-title id="sectitle0050">Observation of the polished surfaces from the viewpoint of scratches</ce:section-title>
+                  <ce:para id="p0110" view="all">The substrate surface quality and the RR were both improved by aggregated colloidal ceria. With respect to the surface quality, it is necessary to evaluate defects such as scratches in the actual process as well as surface roughness. <ce:cross-ref id="crosref0140" refid="fig12">Fig. 12</ce:cross-ref>
+                     <ce:float-anchor refid="fig12"/> shows CLSM images of quartz glass surface polished with calcined ceria, original colloidal ceria and aggregated colloidal ceria. There are many large and small scratches on the substrate surface polished with calcined ceria. On the other hand, the substrate surfaces polished with original colloidal ceria and aggregated colloidal ceria have almost no scratch and they are finished in high-quality. This is because the shape of the calcined ceria particles is angular, whereas that of the colloidal ceria particles is rounded. The aggregated colloidal ceria particles are also formed by rounded colloidal ceria particles. In addition, the particle sizes of aggregated colloidal ceria and calcined ceria are comparable as shown in <ce:cross-ref id="crosref0145" refid="fig1">Figs. 1</ce:cross-ref> and <ce:cross-ref id="crosref0150" refid="fig11">11</ce:cross-ref>, while it is speculated that the aggregate may be crushed and deformed during polishing under pressure. With regard to scratches, it is thought that scratches have reduced due to the reduction of intensive force on the substrate. This corresponds to the difference in hardness even if the particle size is the same. These may be the reasons why no scratch was observed in <ce:cross-ref id="crosref0155" refid="fig12">Fig. 12</ce:cross-ref> (c). However, since measurement of hardness of aggregates and calcined ceria particles is difficult because hardness measurement of fine particles itself is difficult, the detailed mechanism is an important issue in the future work.</ce:para>
+               </ce:section>
+               <ce:section id="sec7" view="all">
+                  <ce:label>7</ce:label>
+                  <ce:section-title id="sectitle0055">Toward achieving both further high RR and high surface quality</ce:section-title>
+                  <ce:para id="p0115" view="all">By using aggregated colloidal ceria, it is expected that RR may be further improved while maintaining high quality substrate surface even at high polishing pressure. As mentioned in the introduction, Preston ‘s Law often holds in glass polishing. In the case of aggregated colloidal ceria, however, there is a possibility that Preston's Law may not be satisfied due to changes in the aggregation state by collapsing under high pressure. Polishing experiments were carried out by increasing the polishing pressure using aggregated colloidal ceria. The CMP conditions are shown in <ce:cross-ref id="crosref0160" refid="tbl2">Table 2</ce:cross-ref>
+                     <ce:float-anchor refid="tbl2"/>. The concentration of original colloidal ceria slurry is a mass fraction of 5% and the concentration of KOH is 0.1 mol/L.</ce:para>
+                  <ce:para id="p0120" view="all">
+                     <ce:cross-ref id="crosref0165" refid="fig13">Fig. 13</ce:cross-ref>
+                     <ce:float-anchor refid="fig13"/> shows the relationship between polishing pressure and RR polished by aggregated colloidal ceria. As the polishing pressure increases, it can be seen that the RR increases. The RR was indeed improved by strengthening the mechanical action, but it was saturated above the pressure around 20 kPa in a mass fraction of 5%. This result indicates the Preston's Law was not satisfied. If the cause of saturation is the collapse of aggregates, a considerable reduction in the RR should be occurred. Actually, the RR continues to increase, but its rate of increase becomes slow. Therefore, the collapse of aggregates should not be the main reason.</ce:para>
+                  <ce:para id="p0125" view="all">When the substrate was polished with a high polishing pressure, adhesion of slurry residues on the substrate surface was visually observed. Detailed observation of the substrate surface was conducted by CLSM.</ce:para>
+                  <ce:para id="p0130" view="all">
+                     <ce:cross-ref id="crosref0170" refid="fig14">Fig. 14</ce:cross-ref>
+                     <ce:float-anchor refid="fig14"/> shows the CLSM images around the edge of the substrate surface polished by aggregated colloidal ceria with a mass fraction of 5% under different polishing pressure. <ce:cross-ref id="crosref0175" refid="fig14">Fig. 14</ce:cross-ref> (a) shows a high quality substrate surface with almost no scratch. <ce:cross-ref id="crosref0180" refid="fig14">Fig. 14</ce:cross-ref> (b) also shows no scratches on the substrate surface, but slight amount of slurry residues is observed at the edge of the substrate. <ce:cross-ref id="crosref0185" refid="fig14">Fig. 14</ce:cross-ref> (c) shows obviously different appearance. The large amount of slurry residue stacks at the edge as well as on the substrate surface. It is known that ceria abrasives are susceptible to chemical reaction with glass components and have a high RR and thus, ceria abrasives themselves tend to adhere as they react with glass substrate [<ce:cross-ref id="crosref0190" refid="bib3">3</ce:cross-ref>,<ce:cross-ref id="crosref0195" refid="bib4">4</ce:cross-ref>]. Furthermore, due to the characteristics of the simple desktop CMP apparatus, the pressure near the substrate edge becomes large. Under high polishing pressure, the pressure near the edge is considered to be larger, and as a result, it is thought that the aggregated colloidal ceria may be crushed and deformed, and the contact area of the abrasive grains increases and it becomes easy to adhere as a residue. When the glass substrate is polished with calcined ceria abrasives, almost no residue is generated. This indicates that colloidal ceria is particularly susceptible to adhesion to the glass substrate. This consideration is consistent with the above consideration that the occurrence of scratches is reduced because the hardness of the aggregated colloidal ceria particles may be lower than that of the calcined ceria particles.</ce:para>
+                  <ce:para id="p0135" view="all">As shown in <ce:cross-ref id="crosref0200" refid="fig13">Fig. 13</ce:cross-ref>, the approximate straight line is obtained from the result of 4.00 kPa–20.3 kPa using the least squares method. Assuming that the polishing pressure and the RR satisfy the Preston's Law, the RR at 31.4 kPa from the approximate straight line can be calculated as about 310 nm/min. On the other hand, it is found that the RR of 31.4 kPa obtained by the experiment was about 25% lower than the calculated value. In this experiment, since the RR is calculated from the difference in mass before and after polishing, it is considered that the RR has decreased due to covered area by the stacked slurry residue. Assuming that the processed surface is uniformly polished, the reduction rate of the RR is considered to be equal to the ratio of the area where the residue adheres on the substrate surface to the whole substrate area. It is calculated as follows:<ce:display>
+                        <ce:formula id="fd1">
+                           <ce:label>(1)</ce:label>
+                           <mml:math altimg="si1.svg" alttext="Equation 1.">
+                              <mml:mrow>
+                                 <mml:mn>1</mml:mn>
+                                 <mml:mo linebreak="goodbreak">−</mml:mo>
+                                 <mml:msup>
+                                    <mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mo>(</mml:mo>
+                                          <mml:mrow>
+                                             <mml:mfrac>
+                                                <mml:mrow>
+                                                   <mml:msub>
+                                                      <mml:mrow>
+                                                         <mml:mi>d</mml:mi>
+                                                      </mml:mrow>
+                                                      <mml:mrow>
+                                                         <mml:mn>1</mml:mn>
+                                                      </mml:mrow>
+                                                   </mml:msub>
+                                                </mml:mrow>
+                                                <mml:mrow>
+                                                   <mml:msub>
+                                                      <mml:mrow>
+                                                         <mml:mi>d</mml:mi>
+                                                      </mml:mrow>
+                                                      <mml:mrow>
+                                                         <mml:mn>0</mml:mn>
+                                                      </mml:mrow>
+                                                   </mml:msub>
+                                                </mml:mrow>
+                                             </mml:mfrac>
+                                          </mml:mrow>
+                                          <mml:mo>)</mml:mo>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>2</mml:mn>
+                                    </mml:mrow>
+                                 </mml:msup>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where <ce:italic>d</ce:italic>
+                     <ce:inf loc="post">0</ce:inf> is the diameter of the whole substrate and <ce:italic>d</ce:italic>
+                     <ce:inf loc="post">1</ce:inf> is the diameter of the substrate uncovered by the slurry residue. Assuming that the residue adhered on the substrate surface by approximately 1 mm width uniformly from the substrate edge, the reduction in the RR due to the reduction in polishing area is calculated as about 5% due to the reduction of the polished surface. This calculated reduction rate is still quite smaller than 25%. In addition to the reduction of the polished surface, it is necessary to consider the mass of the slurry residue adhered on the substrate surface. Considering the density of ceria of 7.2 g/cm<ce:sup loc="post">3</ce:sup>, covered area and the averaged thickness of the residue, the reduction rate of the RR due to the mass of the slurry residue becomes several percent, which is comparable to the reduction in the RR due to the reduction in polishing area. The reduction rate of the RR due the mass of the slurry residue is proportional to the thickness of the residue, but it is quite difficult to estimate the actual thickness. Anyway, total reduction rate in the RR will be more or less around 10%. This reduction rate is still smaller than 25%. In reality, the RR is lower than the total calculated reduction rate mentioned above, because the amount of slurry supplied to the polishing area decreases by the slurry residue adhering to the substrate edge and the wafer rotation becomes unstable due to the increase of friction force.</ce:para>
+                  <ce:para id="p0140" view="all">The slurry residue is obviously the most influential factor of the reduction in the RR in this case.</ce:para>
+               </ce:section>
+               <ce:section id="sec8" view="all">
+                  <ce:label>8</ce:label>
+                  <ce:section-title id="sectitle0060">Inhibition of slurry residues by slurry concentration adjustment</ce:section-title>
+                  <ce:para id="p0145" view="all">In the preliminary experiment, increasing the polishing pressure slowed the rate of increase in the RR due to the slurry residue. In order to suppress slurry residue, experiments were carried out by reducing slurry concentration.</ce:para>
+                  <ce:para id="p0150" view="all">Looking at <ce:cross-ref id="crosref0205" refid="fig13">Fig. 13</ce:cross-ref>, in slurries of a mass fraction of 1%, 2% and 3%, the RRs are almost in proportion to the polishing pressure even at 20 kPa or more. This result indicates the RR may not be affected by slurry residues. In comparison of RR in slurries of a mass fraction of 1% and 5% under the same pressure, the RR at 5% is about twice as high as at 1%, while the temperature rise of the pad was 1.3–1.4 °C by measuring upper surface of the pad with a radiation thermometer during polishing in both cases. The temperature rise was almost same despite the fact that the RR changed significantly, so the influence of temperature is considered to be small in this case.</ce:para>
+                  <ce:para id="p0155" view="all">
+                     <ce:cross-ref id="crosref0210" refid="fig15">Fig. 15</ce:cross-ref>
+                     <ce:float-anchor refid="fig15"/> shows the CLSM images around the edge of substrate surface polished at 31.4 kPa. It can be seen that the slurry residue is hardly adhered. From these images, slurry residues are less likely to adhere when polishing with a mass fraction of 2% or 3% slurry than a mass fraction of 5% slurry. It is considered that this is because the decrease in the slurry concentration reduces the number of slurries acting on the polishing surface and may reduce the size of aggregates. Therefore, at high polishing pressure, a mass fraction of 2% or 3% slurry keeps high rate of increase, which results in the increase of RR proportional to the polishing pressure. <ce:cross-ref id="crosref0215" refid="fig15">Fig. 15</ce:cross-ref> also shows that there is no scratch on the substrate surface. It is clear that aggregated colloidal ceria used here is superior to calcined ceria in RR and surface quality.</ce:para>
+                  <ce:para id="p0160" view="all">In order to observe surface quality in more detail, CLSM observation is not enough, so the substrate surface was observed in detail by AFM.</ce:para>
+                  <ce:para id="p0165" view="all">
+                     <ce:cross-ref id="crosref0220" refid="fig16">Fig. 16</ce:cross-ref>
+                     <ce:float-anchor refid="fig16"/> shows the AFM images around the center of substrate surface polished by aggregated colloidal ceria with a mass fraction of 2% under different polishing pressure. On the substrate surface polished at 31.4 kPa, a lot of shallow scratches occurred compared with the substrate surface polished at 4.00 kPa, while the substrate surface polished at 4.00 kPa obtains high quality. This is because the contact pressure of the abrasive grains acting on the substrate surface increases due to the polishing pressure rise. However, it is obviously different from deep scratches which occur during polishing with calcined ceria. Even at the high polishing pressure of 31.4 kPa, a high quality substrate surface having a surface roughness of 0.251 nmRa is obtained. This reconfirmed that the aggregated colloidal ceria has a mild abrasive action.</ce:para>
+               </ce:section>
+               <ce:section id="sec9" role="conclusion" view="all">
+                  <ce:label>9</ce:label>
+                  <ce:section-title id="sectitle0065">Conclusions</ce:section-title>
+                  <ce:para id="p0170" view="all">The fundamental performance and the effectiveness by expanding condition range of aggregated colloidal ceria were investigated when applied to CMP of quartz glass substrate. The influence of the difference of aggregation state on the removal rate was examined. By changing the polishing pressure and the slurry concentration, the effect on the removal rate and quartz glass substrate surface condition was investigated. As a result, it was confirmed that the difference in the bonding strength of ceria particles contributes to the remarkable increase in the removal rate. Aggregated colloidal ceria particles can obtain a high removal rate while maintaining a high quality substrate surface as compared with calcined ceria particles. Furthermore, it was observed that the scratches occurred by increasing the polishing pressure were smaller than those of the calcined ceria particles.</ce:para>
+               </ce:section>
+               <ce:section id="sec10" view="all">
+                  <ce:section-title id="sectitle0070">Funding</ce:section-title>
+                  <ce:para id="p0175" view="all">This research did not receive any specific grant from funding agencies in the public or not-for-profit sectors.</ce:para>
+               </ce:section>
+            </ce:sections>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0075">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.W.</ce:given-name>
+                                 <ce:surname>Preston</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The theory and design of plate glass polishing machines</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Soc. Glass Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1927</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>214</sb:first-page>
+                              <sb:last-page>256</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0015">Preston, F. W., “The Theory and Design of Plate Glass Polishing Machines”, J. Soc. Glass Technology, 11, p.214-256, 1927.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>M.R.</ce:given-name>
+                                    <ce:surname>Oliver</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Chemical-mechanical planarization of semiconductor materials</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2004</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer-Verlag</sb:name>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0020">Oliver, M. R. ed., “Chemical-Mechanical Planarization of Semiconductor Materials”, Springer-Verlag, 2004.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Tanaka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Minami</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nano size cerium hydroxide slurry for scratch-free CMP process</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>Proc. Of the international conference on planarization/CMP technology 2014</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2014</sb:date>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>22</sb:first-page>
+                              <sb:last-page>24</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>Kobe, Nov.</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srct0025">Tanaka, T., Minami,.H., et. al., “Nano Size Cerium Hydroxide Slurry for Scratch-free CMP Process”, Proc. of the International Conference on Planarization/CMP Technology 2014, Kobe, Nov., p. 22-24, 2014.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Doi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Suzuki</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of Ce<ce:sup loc="post">3+</ce:sup> on removal rate of ceria slurries in chemical mechanical polishing for SiO<ce:inf loc="post">2</ce:inf>
+                              </sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>Proc. Of the international conference on planarization/CMP technology 2014</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2014</sb:date>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>194</sb:first-page>
+                              <sb:last-page>198</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>Kobe, Nov.</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srct0030">Doi, H., Suzuki, M., et. al., “Effects of Ce3+ on Removal Rate of Ceria Slurries in Chemical Mechanical Polishing for SiO2”, Proc. of the International Conference on Planarization/CMP Technology 2014, Kobe, Nov., p.194-198, 2014.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.M.</ce:given-name>
+                                 <ce:surname>Cook</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical processes in glass polishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Non-Cryst Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>120</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>152</sb:first-page>
+                              <sb:last-page>171</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0035">Cook, L.M., “Chemical Processes in Glass Polishing”, J. Non-Crystalline Solids; 120, p.152-171, 1990.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Tamai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Akatsuka</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Impact of SiO<ce:inf loc="post">2</ce:inf> agglomeration on surface defectivity during CMP process</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>Proc. Of the international conference on planarization/CMP technology 2009</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2009</sb:date>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>296</sb:first-page>
+                              <sb:last-page>300</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>Fukuoka, Nov.</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srct0040">Tamai, K., Akatsuka, T., et. al., “Impact of SiO2 Agglomeration on Surface Defectivity during CMP Process”, Proc. of the International Conference on Planarization/CMP Technology 2009, Fukuoka, Nov., p.296-300, 2009.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

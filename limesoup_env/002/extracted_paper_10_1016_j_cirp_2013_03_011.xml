@@ -1,0 +1,1238 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0007850613000127</prism:url><dc:identifier>doi:10.1016/j.cirp.2013.03.011</dc:identifier><eid>1-s2.0-S0007850613000127</eid><prism:doi>10.1016/j.cirp.2013.03.011</prism:doi><pii>S0007-8506(13)00012-7</pii><dc:title>Spiral-structured fixed-abrasive pads for glass finishing </dc:title><prism:publicationName>CIRP Annals</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>00078506</prism:issn><prism:volume>62</prism:volume><prism:issueIdentifier>1</prism:issueIdentifier><prism:startingPage>311</prism:startingPage><prism:endingPage>314</prism:endingPage><prism:pageRange>311-314</prism:pageRange><prism:number>1</prism:number><dc:format>application/xml</dc:format><prism:coverDate>2013-12-31</prism:coverDate><prism:coverDisplayDate>2013</prism:coverDisplayDate><prism:copyright>Copyright © 2013 CIRP. Published by Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>CIRP. Published by Elsevier Ltd.</prism:publisher><dc:creator>Enomoto, Toshiyuki</dc:creator><dc:creator>Satake, Urara</dc:creator><dc:creator>Fujita, Tsutomu</dc:creator><dc:creator>Sugihara, Tatsuya</dc:creator><dc:description>
+                  Loose-abrasive machining with cerium oxide (ceria) slurry is traditionally employed for finishing glass. However, the use of slurries can have a detrimental impact on the environment. Fixed-abrasive machining has received attention as an alternative technology; however, conventional fixed-abrasive tools are inefficient. In this study, spiral-structured pads with fixed-abrasive layers and abrasive holding layers are introduced to increase the quality and efficiency of fixed-abrasive tools. The finishing experiments revealed a much higher finishing efficiency and good surface quality compared to those obtained in conventional polishing with ceria slurry.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Finishing</dcterms:subject><dcterms:subject>Polishing</dcterms:subject><dcterms:subject>Glass</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0007850613000127" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0007850613000127" rel="scidir"/></coredata><objects><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="207" height="163" size="37618">https://api.elsevier.com/content/object/eid/1-s2.0-S0007850613000127-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr10" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="129" height="163" size="17613">https://api.elsevier.com/content/object/eid/1-s2.0-S0007850613000127-gr10.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="212" height="164" size="38225">https://api.elsevier.com/content/object/eid/1-s2.0-S0007850613000127-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="151" size="18978">https://api.elsevier.com/content/object/eid/1-s2.0-S0007850613000127-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="196" height="164" size="39045">https://api.elsevier.com/content/object/eid/1-s2.0-S0007850613000127-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="190" height="164" size="7446">https://api.elsevier.com/content/object/eid/1-s2.0-S0007850613000127-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="172" height="163" size="6494">https://api.elsevier.com/content/object/eid/1-s2.0-S0007850613000127-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="212" height="164" size="8097">https://api.elsevier.com/content/object/eid/1-s2.0-S0007850613000127-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr8" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="162" size="19885">https://api.elsevier.com/content/object/eid/1-s2.0-S0007850613000127-gr8.sml?httpAccept=%2A%2F%2A</object><object ref="gr9" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="90" size="15050">https://api.elsevier.com/content/object/eid/1-s2.0-S0007850613000127-gr9.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="191" height="151" size="36630">https://api.elsevier.com/content/object/eid/1-s2.0-S0007850613000127-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr10" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="241" height="305" size="48299">https://api.elsevier.com/content/object/eid/1-s2.0-S0007850613000127-gr10.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="218" height="168" size="41701">https://api.elsevier.com/content/object/eid/1-s2.0-S0007850613000127-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="333" height="230" size="39018">https://api.elsevier.com/content/object/eid/1-s2.0-S0007850613000127-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="241" height="201" size="59980">https://api.elsevier.com/content/object/eid/1-s2.0-S0007850613000127-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="305" height="263" size="21483">https://api.elsevier.com/content/object/eid/1-s2.0-S0007850613000127-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="292" height="277" size="21406">https://api.elsevier.com/content/object/eid/1-s2.0-S0007850613000127-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="287" height="222" size="18313">https://api.elsevier.com/content/object/eid/1-s2.0-S0007850613000127-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="393" height="291" size="49978">https://api.elsevier.com/content/object/eid/1-s2.0-S0007850613000127-gr8.jpg?httpAccept=%2A%2F%2A</object><object ref="gr9" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="393" height="162" size="36408">https://api.elsevier.com/content/object/eid/1-s2.0-S0007850613000127-gr9.jpg?httpAccept=%2A%2F%2A</object></objects><scopus-id>84878826694</scopus-id><scopus-eid>2-s2.0-84878826694</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84878826694" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>273597</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291885</xocs:ssid>
+         <xocs:ssid type="subj">291888</xocs:ssid>
+         <xocs:ssid type="subj">291893</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>CIRP Annals</xocs:srctitle>
+      <xocs:normalized-srctitle>CIRPANNALS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20130416">2013-04-16</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20130416">2013-04-16</xocs:available-online-date>
+      <xocs:ew-transaction-id>2017-09-19T08:43:45</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0007850613000127</xocs:eid>
+      <xocs:pii-formatted>S0007-8506(13)00012-7</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0007850613000127</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.cirp.2013.03.011</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.3</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0007850613X00022</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20210403">2021-04-03T03:24:36.520039Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20130101</xocs:date-search-begin>
+      <xocs:date-search-end>20131231</xocs:date-search-end>
+      <xocs:year-nav>2013</xocs:year-nav>
+      <xocs:indexeddate epoch="1366070400">2013-04-16T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantsponsor primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0007-8506</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00078506</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>62</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>62</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 62, Issue 1</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>78</xocs:sort-order>
+      <xocs:first-fp>311</xocs:first-fp>
+      <xocs:last-lp>314</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>311</xocs:first-page>
+         <xocs:last-page>314</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>2013</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>2013</xocs:cover-date-text>
+      <xocs:cover-date-start>2013-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2013-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2013</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Session on Abrasive Process (G)</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2013 CIRP. Published by Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>SPIRALSTRUCTUREDFIXEDABRASIVEPADSFORGLASSFINISHING</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>ENOMOTO</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>T</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Fixed-abrasive polishing pads with small amount of bonding material</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Manufacture</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Experimental procedures and fixed-abrasive pad performance</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Spiral-structured fixed-abrasive polishing pads</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Proposal</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Experimental procedures for finishing and developed pad performance</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Improving the finishing performance of spiral-structured fixed-abrasive polishing pads</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>4.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Abrasive releasing ability from fixed-abrasive layer</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>4.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Abrasive holding ability of the fiber laye</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>5</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0005">
+            <xocs:ref-normalized-surname>KOMANDURI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>545</xocs:ref-first-fp>
+            <xocs:ref-last-lp>596</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0010">
+            <xocs:ref-normalized-surname>EVANS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>611</xocs:ref-first-fp>
+            <xocs:ref-last-lp>633</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0015">
+            <xocs:ref-normalized-surname>KASAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>321</xocs:ref-first-fp>
+            <xocs:ref-last-lp>324</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0020">
+            <xocs:ref-normalized-surname>ENOMOTO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>273</xocs:ref-first-fp>
+            <xocs:ref-last-lp>276</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0025">
+            <xocs:ref-normalized-surname>EDA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>225</xocs:ref-first-fp>
+            <xocs:ref-last-lp>228</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0030">
+            <xocs:ref-normalized-surname>CHIBA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>293</xocs:ref-first-fp>
+            <xocs:ref-last-lp>296</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0035">
+            <xocs:ref-normalized-surname>SATO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>167</xocs:ref-first-fp>
+            <xocs:ref-last-lp>174</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0040">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>614</xocs:ref-first-fp>
+            <xocs:ref-last-lp>618</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="oref0045"/>
+         <xocs:ref-info refid="sbref0050">
+            <xocs:ref-normalized-surname>ENOMOTO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2174</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2179</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>ENOMOTOX2013X311</xocs:refkey3>
+         <xocs:refkey4lp>ENOMOTOX2013X311X314</xocs:refkey4lp>
+         <xocs:refkey4ai>ENOMOTOX2013X311XT</xocs:refkey4ai>
+         <xocs:refkey5>ENOMOTOX2013X311X314XT</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2021-03-16T13:41:16.471Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/nlp</xocs:funding-addon-type>
+         <xocs:funding-source-document source-document-type="pii">S0007850613000127</xocs:funding-source-document>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Nippon Sheet Glass Foundation for Materials Science and Engineering and Osawa Scientific Studies Grants Foundation</xocs:funding-agency-matched-string>
+         </xocs:funding>
+         <xocs:funding-text>The authors would like to express their sincere appreciation to Roki Techno Co., Ltd. This work was partly supported by Nippon Sheet Glass Foundation for Materials Science and Engineering and Osawa Scientific Studies Grants Foundation .</xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0007-8506(13)00012-7</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0007850613000127</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0007850613000127</xocs:eid>
+         <xocs:doi>10.1016/j.cirp.2013.03.011</xocs:doi>
+         <xocs:cid>273597</xocs:cid>
+         <xocs:timestamp>2017-09-19T05:45:47.615302-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2013-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2013-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0007850613000127-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850613000127/MAIN/application/pdf/afb15c3c89d4aead6d940d07781871dd/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850613000127/MAIN/application/pdf/afb15c3c89d4aead6d940d07781871dd/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1295141</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0007850613000127-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850613000127/PREVIEW/image/png/6514d95fb307256f0af4bd8bbe7432d7/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850613000127/PREVIEW/image/png/6514d95fb307256f0af4bd8bbe7432d7/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>79942</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0007850613000127-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850613000127/gr1/THUMBNAIL/image/gif/0be5450e99a5f6ba4a2689d22c250d99/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850613000127/gr1/THUMBNAIL/image/gif/0be5450e99a5f6ba4a2689d22c250d99/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>37618</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>207</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0007850613000127-gr10.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850613000127/gr10/THUMBNAIL/image/gif/d1ac40c81b0a01319a63bb5fccac6c5f/gr10.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850613000127/gr10/THUMBNAIL/image/gif/d1ac40c81b0a01319a63bb5fccac6c5f/gr10.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr10</xocs:file-basename>
+               <xocs:filename>gr10.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>17613</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>129</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0007850613000127-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850613000127/gr2/THUMBNAIL/image/gif/0d888de9c203cc66be8699f1bc5e1895/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850613000127/gr2/THUMBNAIL/image/gif/0d888de9c203cc66be8699f1bc5e1895/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>38225</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>212</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0007850613000127-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850613000127/gr3/THUMBNAIL/image/gif/ddd2130bd4176d48eafebd56a344e7ae/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850613000127/gr3/THUMBNAIL/image/gif/ddd2130bd4176d48eafebd56a344e7ae/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>18978</xocs:filesize>
+               <xocs:pixel-height>151</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0007850613000127-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850613000127/gr4/THUMBNAIL/image/gif/5e7d21ee9829ff811d3bc70fbde4e674/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850613000127/gr4/THUMBNAIL/image/gif/5e7d21ee9829ff811d3bc70fbde4e674/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>39045</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>196</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0007850613000127-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850613000127/gr5/THUMBNAIL/image/gif/6fa951ed4398e82b94a5bb7c79f67dd2/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850613000127/gr5/THUMBNAIL/image/gif/6fa951ed4398e82b94a5bb7c79f67dd2/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7446</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>190</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0007850613000127-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850613000127/gr6/THUMBNAIL/image/gif/f380672ed93a20824cdb580b6791a9ec/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850613000127/gr6/THUMBNAIL/image/gif/f380672ed93a20824cdb580b6791a9ec/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6494</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>172</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0007850613000127-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850613000127/gr7/THUMBNAIL/image/gif/4287d11e96c4077fa9b5f85c717d8061/gr7.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850613000127/gr7/THUMBNAIL/image/gif/4287d11e96c4077fa9b5f85c717d8061/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8097</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>212</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0007850613000127-gr8.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850613000127/gr8/THUMBNAIL/image/gif/8d6b429f85debba06af5e5c776c78c73/gr8.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850613000127/gr8/THUMBNAIL/image/gif/8d6b429f85debba06af5e5c776c78c73/gr8.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>19885</xocs:filesize>
+               <xocs:pixel-height>162</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0007850613000127-gr9.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850613000127/gr9/THUMBNAIL/image/gif/283949053831df9688698ddf15f3d7ec/gr9.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850613000127/gr9/THUMBNAIL/image/gif/283949053831df9688698ddf15f3d7ec/gr9.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>15050</xocs:filesize>
+               <xocs:pixel-height>90</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0007850613000127-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850613000127/gr1/DOWNSAMPLED/image/jpeg/e3cddb87b88eebbbed20eac70403edeb/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850613000127/gr1/DOWNSAMPLED/image/jpeg/e3cddb87b88eebbbed20eac70403edeb/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>36630</xocs:filesize>
+               <xocs:pixel-height>151</xocs:pixel-height>
+               <xocs:pixel-width>191</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0007850613000127-gr10.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850613000127/gr10/DOWNSAMPLED/image/jpeg/24353d3bd6a08fba19cf3473b4babdfc/gr10.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850613000127/gr10/DOWNSAMPLED/image/jpeg/24353d3bd6a08fba19cf3473b4babdfc/gr10.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr10</xocs:file-basename>
+               <xocs:filename>gr10.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>48299</xocs:filesize>
+               <xocs:pixel-height>305</xocs:pixel-height>
+               <xocs:pixel-width>241</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0007850613000127-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850613000127/gr2/DOWNSAMPLED/image/jpeg/d79144fc095d2326494814ac0dbefdeb/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850613000127/gr2/DOWNSAMPLED/image/jpeg/d79144fc095d2326494814ac0dbefdeb/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>41701</xocs:filesize>
+               <xocs:pixel-height>168</xocs:pixel-height>
+               <xocs:pixel-width>218</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0007850613000127-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850613000127/gr3/DOWNSAMPLED/image/jpeg/1bf12a6d22abc2c0c092b91ce61ab7d4/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850613000127/gr3/DOWNSAMPLED/image/jpeg/1bf12a6d22abc2c0c092b91ce61ab7d4/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>39018</xocs:filesize>
+               <xocs:pixel-height>230</xocs:pixel-height>
+               <xocs:pixel-width>333</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0007850613000127-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850613000127/gr4/DOWNSAMPLED/image/jpeg/82e64fb19d39e80be5efee676db88c35/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850613000127/gr4/DOWNSAMPLED/image/jpeg/82e64fb19d39e80be5efee676db88c35/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>59980</xocs:filesize>
+               <xocs:pixel-height>201</xocs:pixel-height>
+               <xocs:pixel-width>241</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0007850613000127-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850613000127/gr5/DOWNSAMPLED/image/jpeg/ac7461ff694319125801db7692337875/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850613000127/gr5/DOWNSAMPLED/image/jpeg/ac7461ff694319125801db7692337875/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>21483</xocs:filesize>
+               <xocs:pixel-height>263</xocs:pixel-height>
+               <xocs:pixel-width>305</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0007850613000127-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850613000127/gr6/DOWNSAMPLED/image/jpeg/0575672eb58ec7223ad344bbe11a825e/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850613000127/gr6/DOWNSAMPLED/image/jpeg/0575672eb58ec7223ad344bbe11a825e/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>21406</xocs:filesize>
+               <xocs:pixel-height>277</xocs:pixel-height>
+               <xocs:pixel-width>292</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0007850613000127-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850613000127/gr7/DOWNSAMPLED/image/jpeg/cf5fb81638156ec0b6662cd4ef8b799a/gr7.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850613000127/gr7/DOWNSAMPLED/image/jpeg/cf5fb81638156ec0b6662cd4ef8b799a/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>18313</xocs:filesize>
+               <xocs:pixel-height>222</xocs:pixel-height>
+               <xocs:pixel-width>287</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0007850613000127-gr8.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850613000127/gr8/DOWNSAMPLED/image/jpeg/62f17c4eda18557c5300365780dd1eaa/gr8.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850613000127/gr8/DOWNSAMPLED/image/jpeg/62f17c4eda18557c5300365780dd1eaa/gr8.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>49978</xocs:filesize>
+               <xocs:pixel-height>291</xocs:pixel-height>
+               <xocs:pixel-width>393</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0007850613000127-gr9.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850613000127/gr9/DOWNSAMPLED/image/jpeg/ee434823c2f5bfce5e821c20626ab2c3/gr9.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850613000127/gr9/DOWNSAMPLED/image/jpeg/ee434823c2f5bfce5e821c20626ab2c3/gr9.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>36408</xocs:filesize>
+               <xocs:pixel-height>162</xocs:pixel-height>
+               <xocs:pixel-width>393</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.2" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>CIRP</jid>
+            <aid>964</aid>
+            <ce:pii>S0007-8506(13)00012-7</ce:pii>
+            <ce:doi>10.1016/j.cirp.2013.03.011</ce:doi>
+            <ce:copyright type="society" year="2013">CIRP</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0005">
+                  <ce:simple-para id="spar0010" view="all">Surface of a manufactured fixed-abrasive pad with small amount of bonding resin.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="fig0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="spar0015" view="all">Experimental setup of single-sided finishing tests.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="fig0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="spar0020" view="all">Schematic illustration of spiral-structured fixed-abrasive pads.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="fig0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="spar0025" view="all">Surface of a newly developed fixed-abrasive pad.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="fig0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="spar0030" view="all">Relationship between the material removal rate and abrasive concentration in waste slurry.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="fig0030">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="spar0035" view="all">Relationship between the material removal rate and abrasive concentration in waste slurry with/without slurry supply.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6"/>
+            </ce:figure>
+            <ce:figure id="fig0035">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="spar0040" view="all">Effects of the supply rate and mesh size of diamond disk on finishing characteristics (finishing pressure 10<ce:hsp sp="0.25"/>kPa).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr7"/>
+            </ce:figure>
+            <ce:figure id="fig0040">
+               <ce:label>Fig. 8</ce:label>
+               <ce:caption id="cap0040">
+                  <ce:simple-para id="spar0045" view="all">Three-dimensional surface profiles of developed pads after conditioning with diamond disks.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr8"/>
+            </ce:figure>
+            <ce:figure id="fig0045">
+               <ce:label>Fig. 9</ce:label>
+               <ce:caption id="cap0045">
+                  <ce:simple-para id="spar0050" view="all">AFM images of finished glass plate surfaces.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr9"/>
+            </ce:figure>
+            <ce:figure id="fig0050">
+               <ce:label>Fig. 10</ce:label>
+               <ce:caption id="cap0050">
+                  <ce:simple-para id="spar0055" view="all">Surface profiles near the edges of glass plates.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr10"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl0005" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0055">
+                  <ce:simple-para id="spar0060" view="all">Finishing conditions.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="2">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Workpiece</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Optical glass plate (BK7)<br/>75<hsp sp="0.25"/>mm<hsp sp="0.25"/>×<hsp sp="0.25"/>75<hsp sp="0.25"/>mm</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Diameter of pad</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">420<hsp sp="0.25"/>mm</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Finishing pressure</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">10<hsp sp="0.25"/>kPa, 15<hsp sp="0.25"/>kPa</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Rotation of workpiece</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">40<hsp sp="0.25"/>rpm</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Rotation of pad</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">40<hsp sp="0.25"/>rpm</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Rotation of diamond disk</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">50<hsp sp="0.25"/>rpm</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Finishing time</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">10<hsp sp="0.25"/>min</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Finishing fluid</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Pure water</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Supply rate</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">10<hsp sp="0.25"/>mL/min</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl0010" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="cap0060">
+                  <ce:simple-para id="spar0065" view="all">Specifications of newly developed fixed-abrasive pads.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="2">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Abrasive</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Cerium oxide<br/>Mean diameter 0.2<hsp sp="0.25"/>μm</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Abrasive content in fixed-abrasive layer</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">95<hsp sp="0.25"/>wt%</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Bonding material of fixed-abrasive layer</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Thermoplastic acrylic resin</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Bonding material of adhesion layer</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Thermoplastic urethane resin</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Thickness of fixed-abrasive layer</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.2<hsp sp="0.25"/>mm</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Thickness of adhesion layer</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.07<hsp sp="0.25"/>mm</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="tit0005">Spiral-structured fixed-abrasive pads for glass finishing</ce:title>
+            <ce:author-group id="aug0005">
+               <ce:author id="aut0005">
+                  <ce:given-name>Toshiyuki</ce:given-name>
+                  <ce:surname>Enomoto</ce:surname>
+                  <ce:ranking>(2)</ce:ranking>
+                  <ce:cross-ref id="crf0005" refid="cor0005">
+                     <ce:sup loc="post">*</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0010">
+                  <ce:given-name>Urara</ce:given-name>
+                  <ce:surname>Satake</ce:surname>
+               </ce:author>
+               <ce:author id="aut0015">
+                  <ce:given-name>Tsutomu</ce:given-name>
+                  <ce:surname>Fujita</ce:surname>
+               </ce:author>
+               <ce:author id="aut0020">
+                  <ce:given-name>Tatsuya</ce:given-name>
+                  <ce:surname>Sugihara</ce:surname>
+               </ce:author>
+               <ce:affiliation id="aff0005">
+                  <ce:textfn>Department of Mechanical Engineering, Graduate School of Engineering, Osaka University, 2-1 Yamada-oka, Suita, Osaka, Japan</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Mechanical Engineering</sa:organization>
+                     <sa:address-line>Graduate School of Engineering, Osaka University, 2-1 Yamada-oka, Suita</sa:address-line>
+                     <sa:city>Osaka</sa:city>
+                     <sa:country>Japan</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor0005">
+                  <ce:label>*</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:abstract id="abs0005" view="all" class="author"><ce:abstract-sec id="abst0005" view="all">
+                  <ce:simple-para id="spar0005" view="all">Loose-abrasive machining with cerium oxide (ceria) slurry is traditionally employed for finishing glass. However, the use of slurries can have a detrimental impact on the environment. Fixed-abrasive machining has received attention as an alternative technology; however, conventional fixed-abrasive tools are inefficient. In this study, spiral-structured pads with fixed-abrasive layers and abrasive holding layers are introduced to increase the quality and efficiency of fixed-abrasive tools. The finishing experiments revealed a much higher finishing efficiency and good surface quality compared to those obtained in conventional polishing with ceria slurry.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords id="kwd0005" class="keyword" view="all">
+               <ce:section-title id="sect0010">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text>Finishing</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text>Polishing</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text>Glass</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sect0015">Introduction</ce:section-title>
+                  <ce:para id="par0005" view="all">Loose-abrasive machining with cerium oxide (ceria) abrasive slurry and a polyurethane foam polishing pad has been traditionally employed for finishing glass <ce:cross-refs id="crfs0005" refid="bib0005 bib0010 bib0015">[1–3]</ce:cross-refs>. However, the following are significant problems associated with this process:<ce:list id="lis0005">
+                        <ce:list-item id="lsti0005">
+                           <ce:label>1.</ce:label>
+                           <ce:para id="par0010" view="all">Detrimental impact on the environment (i.e., dirty working environment and the need to safely dispose a large amount of slurry).</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="lsti0010">
+                           <ce:label>2.</ce:label>
+                           <ce:para id="par0015" view="all">High cost of consumables (i.e., slurry and polishing pads).</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="lsti0015">
+                           <ce:label>3.</ce:label>
+                           <ce:para id="par0020" view="all">Low form accuracy (in particular, large edge roll off of a workpiece due to the deformation of polishing pad).</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+                  <ce:para id="par0025" view="all">Therefore, it is strongly recommended that loose-abrasive machining should be replaced with fixed-abrasive machining <ce:cross-refs id="crfs0010" refid="bib0020 bib0025 bib0030 bib0035 bib0040">[4–8]</ce:cross-refs>. However, compared to loose-abrasive tools, conventional fixed-abrasive tools such as fixed-abrasive pads where the abrasive grains are contained in the pads have very low finishing efficiency and only a few of them have been put to practical use. Fixed-abrasive tools are considered to have low efficiency because of the following reasons:<ce:list id="lis0010">
+                        <ce:list-item id="lsti0020">
+                           <ce:label>1.</ce:label>
+                           <ce:para id="par0030" view="all">Abrasive grains are coated with bonding materials when they are released from the fixed-abrasive tool, resulting in the deterioration of the mechanical and chemical removal effect of the abrasive grains <ce:cross-ref id="crf0010" refid="bib0045">[9]</ce:cross-ref>.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="lsti0025">
+                           <ce:label>2.</ce:label>
+                           <ce:para id="par0035" view="all">The effective cutting-edge density is high because of the usage of fine or superfine abrasive grains to obtain a good quality finished surface, and the force on the cutting edge is very low <ce:cross-ref id="crf0015" refid="bib0050">[10]</ce:cross-ref>.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+                  <ce:para id="par0040" view="all">Lapping films that utilize agglomerative superfine abrasive grains to solve the problems described above have been previously developed and reported <ce:cross-ref id="crf0020" refid="bib0050">[10]</ce:cross-ref>. The experimental results for finishing optical glass indicate that high finishing efficiency and high-quality surface finish can be obtained. However, the lapping films can only be applied to specific film lapping machines and have a shorter life than fixed-abrasive pads.</ce:para>
+                  <ce:para id="par0045" view="all">In this study, we manufactured fixed-ceria abrasive pads that contain small amount of bonding material for finishing glass with the aim of obtaining high finishing efficiency. On the basis of our findings, we developed spiral-structured fixed-ceria abrasive pads to improve finishing characteristics. We also evaluated the corresponding finishing performance.</ce:para>
+               </ce:section>
+               <ce:section id="sec0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sect0020">Fixed-abrasive polishing pads with small amount of bonding material</ce:section-title>
+                  <ce:section id="sec0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="sect0025">Manufacture</ce:section-title>
+                     <ce:para id="par0050" view="all">In order to prevent abrasive grains from being strongly coated with bonding resin when they are released from the pads, we manufactured fixed-abrasive pads containing abrasive grains at high concentration with small amount of bonding resin. In this study, ceria was used as the abrasive grain because it has an advantage in terms of the removal rate in finishing glass. The concentration of ceria with a mean diameter of 0.2<ce:hsp sp="0.25"/>μm was set to 95<ce:hsp sp="0.25"/>wt%. Acrylic resin was adopted as the bonding material. Polyurethane resin has been commonly used in commercial polishing pads because of its excellent resistance to chemicals and abrasion; however, because of its high adhesiveness, the abrasive grains strongly embed in the resin. Consequently, we used acrylic resin because of its hard and brittle properties compared to polyurethane resin. The concentration of the resin was set to 5<ce:hsp sp="0.25"/>wt%.</ce:para>
+                     <ce:para id="par0055" view="all">
+                        <ce:cross-ref id="crf0025" refid="fig0005">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig0005"/> shows a scanning electron microscope (SEM, JEOL Ltd., JSM-5800A) image of a cross section of the manufactured pad. From this image, we confirmed that the abrasive grains were not embedded in the resin, and we expected that the grains would be hardly covered with the resin and readily released from the pad.</ce:para>
+                     <ce:para id="par0060" view="all">The rubber hardness type C of the pad measured using a durometer (TECLOCK Corp., GD-703N) was high, i.e., 80. In comparison, the degree of hardness of commercial polishing pads, commonly used in glass polishing, is generally much lower, i.e., 50–60. The high hardness of the manufactured fixed-ceria abrasive pad is thought to result from the high concentration of the grains in the pad, and it is expected that high flatness, i.e., a small edge roll off of the workpiece, can be achieved.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="sect0030">Experimental procedures and fixed-abrasive pad performance</ce:section-title>
+                     <ce:para id="par0065" view="all">Finishing experiments were conducted on optical glass plates using a single-sided polishing machine (Lapmaster SFT Corp., LP-15F), as illustrated in <ce:cross-ref id="crf0030" refid="fig0010">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="fig0010"/>. <ce:cross-ref id="crf0035" refid="tbl0005">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="tbl0005"/> lists the finishing conditions. This finishing experiment was performed without conditioning with a diamond dresser.</ce:para>
+                     <ce:para id="par0070" view="all">Under the conditions listed in <ce:cross-ref id="crf0040" refid="tbl0005">Table 1</ce:cross-ref>, we found that the pad wear was severe. Then, we reduced the finishing pressure from 15<ce:hsp sp="0.25"/>kPa and 10<ce:hsp sp="0.25"/>kPa to 5<ce:hsp sp="0.25"/>kPa. However, the pad wear continued to be problematic; pad thickness decreased by 1<ce:hsp sp="0.25"/>mm in 1<ce:hsp sp="0.25"/>min. It is thought that the severe wear was because the amount of bonding resin was so small that the bonding strength of the pad was very low and the pad became extremely brittle.</ce:para>
+                     <ce:para id="par0075" view="all">In general, various types of bonding resins, curing conditions, and different ratios of grains to bonding resins are used in trial-and-error tests to investigate methods for suppressing pad wear. However, multiple trial-and-error test runs are time-consuming and increase costs. Furthermore, suppression of wear predictably decreases the number of abrasive grains that are released from the pad, leading to a decrease in the removal rate.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec0025" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sect0035">Spiral-structured fixed-abrasive polishing pads</ce:section-title>
+                  <ce:section id="sec0030" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="sect0040">Proposal</ce:section-title>
+                     <ce:para id="par0080" view="all">In order to simultaneously achieve high finishing efficiency and low pad wear, fiber layers were introduced into the fixed-abrasive pads. We developed spiral-structured fixed-abrasive polishing pads with fixed-abrasive layers and fiber layers, as illustrated in <ce:cross-ref id="crf0045" refid="fig0015">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="fig0015"/>. The fiber layers are expected to play the following two roles: (1) prohibiting excessive pad wear and (2) improving finishing efficiency due to high abrasive holding ability.</ce:para>
+                     <ce:para id="par0085" view="all">In the manufacturing process, first, ceria abrasives are stirred into liquid acrylic resin, and then the resin containing the abrasives is applied to a fiber sheet. Next, as an adhesion polymer is applied, the sheet is wound to form a cylinder. Finally, the wound sheet is sliced to a predetermined thickness. <ce:cross-ref id="crf0050" refid="tbl0010">Table 2</ce:cross-ref>
+                        <ce:float-anchor refid="tbl0010"/> and <ce:cross-ref id="crf0055" refid="fig0020">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="fig0020"/> show the specifications of the developed pad and an SEM image of the pad surface, respectively. The rubber hardness type C of the developed pad was very high, i.e., 95, compared to that of commercial polishing pads.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0035" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="sect0045">Experimental procedures for finishing and developed pad performance</ce:section-title>
+                     <ce:para id="par0090" view="all">Finishing experiments with the developed pad were performed using the conditions listed in <ce:cross-ref id="crf0060" refid="tbl0005">Table 1</ce:cross-ref>. To obtain the reference finishing characteristics, conventional polishing with ceria slurry and a commercial polyurethane foam polishing pad (Kokonoe Electric Co. Ltd., KSP66B, rubber hardness type C 55) was also performed. Polishing conditions to determine reference finishing characteristics were mostly the same as those listed in <ce:cross-ref id="crf0065" refid="tbl0005">Table 1</ce:cross-ref>. Slurry containing ceria abrasive, the same ceria abrasive used in the developed pad, was supplied at 10<ce:hsp sp="0.25"/>mL/min. The ceria concentration of the slurry was set to 5<ce:hsp sp="0.25"/>wt% because the polishing efficiency reached the upper limit, namely the maximum one at that concentration. Before the finishing experiments were performed, the surface of the developed pad and the reference commercial polishing pad were conditioned with a #170 diamond disk.</ce:para>
+                     <ce:para id="par0095" view="all">The following finishing characteristics were evaluated: finishing efficiency; pad wear rate; finished surface roughness; edge shape of the workpiece; and abrasive consumption. Finishing efficiency was calculated by the weight reduction and specific gravity of the workpiece. Surface roughness and edge shape were measured using an atomic force microscope (AFM, Veeco Instruments Inc., Dimension 3100) and a stylus-type profile instrument (Kosaka Laboratory Ltd., SE3500K), respectively. The ceria concentration in the waste slurry on the pad was evaluated as a substitute for abrasive consumption.</ce:para>
+                     <ce:para id="par0100" view="all">Preliminary finishing experiments were conducted after the pad surface conditioning pressure was set to 0.7<ce:hsp sp="0.25"/>kPa. From the measurement of the pad thickness before and after the experiments, it was found that the pad wear rate was very small, i.e., 0.1<ce:hsp sp="0.25"/>μm/min. <ce:cross-ref id="crf0070" refid="fig0025">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="fig0025"/> shows the abrasive concentration in waste slurry and the material removal rate. The data presented in this figure confirms that abrasive consumption was reduced to one-fortieth or less of that in conventional polishing, which strongly shows that the introduction of a fiber layer improved the wear resistance of the pad. On the other hand, the obtained removal rate was less than or equal to 50<ce:hsp sp="0.25"/>nm/min, which was one quarter to one half of that obtained in conventional polishing.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec0040" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sect0050">Improving the finishing performance of spiral-structured fixed-abrasive polishing pads</ce:section-title>
+                  <ce:section id="sec0045" view="all">
+                     <ce:label>4.1</ce:label>
+                     <ce:section-title id="sect0055">Abrasive releasing ability from fixed-abrasive layer</ce:section-title>
+                     <ce:para id="par0105" view="all">It is considered that the low removal rate, reported in the previous section, resulted from insufficient abrasive grains on the pad. To increase the number of abrasive grains released from the pad, the conditioning pressure was increased from 0.7<ce:hsp sp="0.25"/>kPa to 1.3<ce:hsp sp="0.25"/>kPa and 2.6<ce:hsp sp="0.25"/>kPa. The data presented in <ce:cross-ref id="crf0075" refid="fig0025">Fig. 5</ce:cross-ref> confirms that there is a linear relationship between conditioning pressure and abrasive concentration. When the conditioning pressure was 2.6<ce:hsp sp="0.25"/>kPa, the obtained removal rate was almost the same as that in conventional polishing, and abrasive consumption was reduced to approximately one-tenth of that in conventional polishing.</ce:para>
+                     <ce:para id="par0110" view="all">To evaluate the removal effect of the abrasive grains released from the developed pad, finishing experiments were conducted using ceria slurry; the concentration of ceria was 0.1–1<ce:hsp sp="0.25"/>wt%. As shown in <ce:cross-ref id="crf0080" refid="fig0030">Fig. 6</ce:cross-ref>
+                        <ce:float-anchor refid="fig0030"/>, the relationship between the removal rate and abrasive concentration in slurry was constant with or without supply of the slurry. This indicates that the ceria abrasives released from the pad had the same removal effect as that of ceria abrasive in slurry.</ce:para>
+                     <ce:para id="par0115" view="all">In addition, the graph presented in <ce:cross-ref id="crf0085" refid="fig0030">Fig. 6</ce:cross-ref> reveals that the developed pad had a higher removal rate at a lower ceria concentration (1.5<ce:hsp sp="0.25"/>wt%) as compared to the conventional polishing. This is thought to be because of the high abrasive holding ability of the fiber layer used in the developed pad.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0050" view="all">
+                     <ce:label>4.2</ce:label>
+                     <ce:section-title id="sect0060">Abrasive holding ability of the fiber laye</ce:section-title>
+                     <ce:para id="par0120" view="all">Improvement of the abrasive holding ability of the fiber layer on the pad was investigated to improve the finishing efficiency without increasing the amount of abrasive grains released from the developed pad.</ce:para>
+                     <ce:para id="par0125" view="all">First, the fluid, i.e., water, supply rate was decreased from 10<ce:hsp sp="0.25"/>mL/min to 2<ce:hsp sp="0.25"/>mL/min to prevent the released abrasive grains on the pad from flowing out (<ce:cross-ref id="crf0090" refid="fig0035">Fig. 7</ce:cross-ref>
+                        <ce:float-anchor refid="fig0035"/>). It was found that the abrasive concentration increased to 0.82<ce:hsp sp="0.25"/>wt% and a removal rate of 0.12<ce:hsp sp="0.25"/>μm/min was obtained. This removal rate was higher than that obtained in conventional polishing. This indicates that the abrasive holding ability of the pad surface strongly influences the finishing efficiency. However, the above finishing method with a low fluid supply rate was feared to induce scratches on the workpiece.</ce:para>
+                     <ce:para id="par0130" view="all">In addition, we investigated the high abrasive holding ability of the pad surface, paying particular attention to the fiber layer. <ce:cross-ref id="crf0095" refid="fig0040">Fig. 8</ce:cross-ref>
+                        <ce:float-anchor refid="fig0040"/>(a) and (b) show three-dimensional surface profiles of the developed pad conditioned with a #170 diamond disk under conditioning pressures of 0.7<ce:hsp sp="0.25"/>kPa and 2.6<ce:hsp sp="0.25"/>kPa, respectively. As shown in these figures, the surface profiles and surface parameters were almost the same, which means that the abrasive holding abilities of the fiber layers were close to equal regardless of the conditioning pressure. As shown in <ce:cross-ref id="crf0100" refid="fig0025">Fig. 5</ce:cross-ref>, the removal rate obtained was higher when the conditioning pressure was 2.6<ce:hsp sp="0.25"/>kPa as compared to that when the conditioning pressure was 0.7<ce:hsp sp="0.25"/>kPa; however, this was only because the higher conditioning pressure resulted in larger amount of abrasive grains on the pad.</ce:para>
+                     <ce:para id="par0135" view="all">To drastically change the pad surface profile, we performed pad conditioning with a #60 diamond disk instead of a #170 diamond disk and observed that the pad surface profile could be changed, as shown in <ce:cross-ref id="crf0105" refid="fig0040">Fig. 8</ce:cross-ref>(c). Microscopic observation indicated that the fibers on the pad became a little longer, which is expected to lead to high abrasive holding ability. The graph presented in <ce:cross-ref id="crf0110" refid="fig0035">Fig. 7</ce:cross-ref> confirms that a high removal rate of 0.12<ce:hsp sp="0.25"/>μm/min was achieved as compared to that obtained in conventional polishing. <ce:cross-ref id="crf0115" refid="fig0035">Fig. 7</ce:cross-ref> also shows that the abrasive concentration in waste slurry was low at 0.18<ce:hsp sp="0.25"/>wt% and the pad wear rate was suppressed to less than or equal to 0.15<ce:hsp sp="0.25"/>μm/min. This is thought to be because the fiber layer increased the abrasive holding ability and pad wear resistance.</ce:para>
+                     <ce:para id="par0140" view="all">As shown in the AFM images of finished glass plate surfaces presented in <ce:cross-ref id="crf0120" refid="fig0045">Fig. 9</ce:cross-ref>
+                        <ce:float-anchor refid="fig0045"/>, the surface roughness was as good as that obtained in conventional polishing. <ce:cross-ref id="crf0125" refid="fig0050">Fig. 10</ce:cross-ref>
+                        <ce:float-anchor refid="fig0050"/> confirms that surface flatness at the workpiece edge was significantly improved using the developed fixed-abrasive pad presumably because the developed pad was 1.7 times harder than the commercial polishing pad.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec0055" view="all">
+                  <ce:label>5</ce:label>
+                  <ce:section-title id="sect0065">Conclusion</ce:section-title>
+                  <ce:para id="par0145" view="all">To replace loose-abrasive machining with fixed-abrasive machining in glass polishing, spiral-structured fixed-ceria abrasive pads with fixed-abrasive layers and fiber layers were developed. Experimental results showed that the developed fixed-abrasive pads achieved a higher removal rate and lower abrasive consumption, namely reduced detrimental environmental impacts as compared to conventional polishing using slurry, and significantly improved surface flatness at the workpiece edge.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0005" view="all">
+               <ce:section-title id="sect0070">Acknowledgements</ce:section-title>
+               <ce:para id="par0150" view="all">The authors would like to express their sincere appreciation to Roki Techno Co., Ltd. This work was partly supported by <ce:grant-sponsor id="gs0005" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Nippon Sheet Glass Foundation for Materials Science and Engineering</ce:grant-sponsor> and <ce:grant-sponsor id="gs0010" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Osawa Scientific Studies Grants Foundation</ce:grant-sponsor>.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bibl0005" view="all">
+               <ce:section-title id="sect0075">References</ce:section-title>
+               <ce:bibliography-sec id="bibs0005" view="all">
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sbref0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Komanduri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Lucca</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Tani</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Technological Advances in Fine Abrasive Processes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Annals of the CIRP</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>545</sb:first-page>
+                              <sb:last-page>596</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sbref0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Evans</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Paul</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Dornfeld</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Lucca</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Byrne</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Tricard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Klocke</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Material Removal Mechanisms in Lapping and Polishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Annals of the CIRP</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>611</sb:first-page>
+                              <sb:last-page>633</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sbref0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kasai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Karaki-Doi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Kobayashi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Improvement of Conventional Polishing Conditions for Obtaining Super Smooth Surfaces of Glass and Metal Works</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Annals of the CIRP</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>321</sb:first-page>
+                              <sb:last-page>324</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sbref0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Enomoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Shimazaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Tani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Suzuki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Kanda</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Development of a Resinoid Diamond Wire Containing Metal Powder for Slicing a Silicon Ingot</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Annals of the CIRP</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>48</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>273</sb:first-page>
+                              <sb:last-page>276</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sbref0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Eda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Nakano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Kondo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Shimizu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Nagao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Development of Single Step Grinding System for Large Scale <ce:italic>Φ</ce:italic>3<ce:hsp sp="0.25"/>0<ce:hsp sp="0.25"/>0 Si Wafer a Total Integrated Fixed-Abrasive Solution</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Annals of the CIRP</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>50</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>225</sb:first-page>
+                              <sb:last-page>228</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sbref0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Chiba</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Tani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Enomoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Sato</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Development of a High-Speed Manufacturing Method for Electroplated Diamond Wire Tolls</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Annals of the CIRP</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>293</sb:first-page>
+                              <sb:last-page>296</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sbref0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Sato</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kameyama</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Nonami</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Copper Polishing with a Polishing Pad Incorporating Abrasive Grains and a Chelating Resin</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Precision Engineering</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>167</sb:first-page>
+                              <sb:last-page>174</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sbref0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Jeong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Seo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Self-Conditioning of Encapsulated Abrasive Pad in Chemical Mechanical Polishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Materials Processing Technology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>142</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>614</sb:first-page>
+                              <sb:last-page>618</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0045">
+                     <ce:label>[9]</ce:label>
+                     <ce:other-ref id="oref0045">
+                        <ce:textref>Hirokawa, K., Akatsuka, T., Kodera, A., 2004, Polishing Tool, United States Patent Application Publication, US2004/0033771 A1.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sbref0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Enomoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Endo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Development of a Lapping Film Utilizing Agglomerative Superfine Abrasives for Finishing of an Optical Glass</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Transactions of the Japan Society of Mechanical Engineers, Series C</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>69</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>684</sb:issue-nr>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2174</sb:first-page>
+                              <sb:last-page>2179</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

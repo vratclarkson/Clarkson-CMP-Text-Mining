@@ -1,0 +1,1571 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0021979704002267</prism:url><dc:identifier>doi:10.1016/j.jcis.2004.02.063</dc:identifier><eid>1-s2.0-S0021979704002267</eid><prism:doi>10.1016/j.jcis.2004.02.063</prism:doi><pii>S0021-9797(04)00226-7</pii><dc:title>An experimental study on the rheological properties of aqueous ceria dispersions </dc:title><prism:publicationName>Journal of Colloid and Interface Science</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>00219797</prism:issn><prism:volume>274</prism:volume><prism:issueIdentifier>1</prism:issueIdentifier><prism:startingPage>277</prism:startingPage><prism:endingPage>284</prism:endingPage><prism:pageRange>277-284</prism:pageRange><prism:number>1</prism:number><dc:format>application/xml</dc:format><prism:coverDate>2004-06-01</prism:coverDate><prism:coverDisplayDate>1 June 2004</prism:coverDisplayDate><prism:copyright>Copyright © 2004 Elsevier Inc. All rights reserved.</prism:copyright><prism:publisher>Elsevier Inc.</prism:publisher><dc:creator>Hsu, Jyh-Ping</dc:creator><dc:creator>Nacu, Anca</dc:creator><dc:description>
+                  The rheological properties of aqueous ceria dispersions are studied experimentally. In particular, the effects of particle concentration, temperature, pH, and ionic strength are discussed. If the volume fraction is below 2%, ceria slurry exhibits Newtonian behavior, and for higher volume fractions, shear-thinning behavior is observed. The effect of temperature on the behavior of ceria slurry is found to be pH-dependent. If pH&lt;IEP, IEP being the isoelectric point, the viscosity of the ceria slurry decreases as temperature increases, though the temperature effect is inappreciable in the range of 28 to 50°C. On the other hand, if pH&gt;IEP, the viscosity slightly increases with increased temperature. A shift of IEP to a higher value of pH was observed for ionic strength, even for indifferent electrolytes. The influence of pH on the rheological properties of ceria slurry decreases if the ionic strength is high. The pH at which viscosity and yield stress are maximum coincide with IEP only for low ionic strengths. The slopes of acidic and basic branches of viscosity against pH and yield stress against pH curves are not symmetrical at high ionic strength, and the alkaline branch deviates significantly from Hunter's theory.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Rheological properties</dcterms:subject><dcterms:subject>Aqueous ceria dispersion</dcterms:subject><dcterms:subject>Isoelectric point</dcterms:subject><dcterms:subject>Shear-thinning</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0021979704002267" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0021979704002267" rel="scidir"/></coredata><objects><object ref="si4" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="11" height="17" size="140">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979704002267-si4.gif?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="129" height="39" size="708">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979704002267-si3.gif?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="315" height="31" size="1294">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979704002267-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="96" height="20" size="423">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979704002267-si1.gif?httpAccept=%2A%2F%2A</object><object ref="gr001" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="118" height="93" size="1383">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979704002267-gr001.sml?httpAccept=%2A%2F%2A</object><object ref="gr001" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="365" height="289" size="6325">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979704002267-gr001.gif?httpAccept=%2A%2F%2A</object><object ref="latex001" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="60" height="93" size="913">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979704002267-latex001.sml?httpAccept=%2A%2F%2A</object><object ref="latex001" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="383" height="595" size="10848">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979704002267-latex001.gif?httpAccept=%2A%2F%2A</object><object ref="latex002" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="58" height="93" size="672">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979704002267-latex002.sml?httpAccept=%2A%2F%2A</object><object ref="latex002" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="383" height="613" size="7653">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979704002267-latex002.gif?httpAccept=%2A%2F%2A</object><object ref="latex003" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="59" height="92" size="725">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979704002267-latex003.sml?httpAccept=%2A%2F%2A</object><object ref="latex003" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="383" height="599" size="8468">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979704002267-latex003.gif?httpAccept=%2A%2F%2A</object><object ref="latex004" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="61" height="94" size="828">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979704002267-latex004.sml?httpAccept=%2A%2F%2A</object><object ref="latex004" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="383" height="588" size="9857">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979704002267-latex004.gif?httpAccept=%2A%2F%2A</object><object ref="gr002" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="90" size="976">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979704002267-gr002.sml?httpAccept=%2A%2F%2A</object><object ref="gr002" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="373" height="269" size="3918">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979704002267-gr002.gif?httpAccept=%2A%2F%2A</object><object ref="latex005" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="123" height="93" size="1895">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979704002267-latex005.sml?httpAccept=%2A%2F%2A</object><object ref="latex005" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="782" height="594" size="25438">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979704002267-latex005.gif?httpAccept=%2A%2F%2A</object><object ref="gr003" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="87" size="1012">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979704002267-gr003.sml?httpAccept=%2A%2F%2A</object><object ref="gr003" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="382" height="266" size="3972">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979704002267-gr003.gif?httpAccept=%2A%2F%2A</object><object ref="latex006" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="56" height="92" size="862">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979704002267-latex006.sml?httpAccept=%2A%2F%2A</object><object ref="latex006" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="383" height="631" size="11962">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979704002267-latex006.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>2042540047</scopus-id><scopus-eid>2-s2.0-2042540047</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/2042540047" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>272564</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291864</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Journal of Colloid and Interface Science</xocs:srctitle>
+      <xocs:normalized-srctitle>JOURNALCOLLOIDINTERFACESCIENCE</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20040409">2004-04-09</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20040409">2004-04-09</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-11-13T07:59:47</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0021979704002267</xocs:eid>
+      <xocs:pii-formatted>S0021-9797(04)00226-7</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0021979704002267</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.jcis.2004.02.063</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0021979700X02391</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T01:01:17.956864-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20040601</xocs:date-search-begin>
+      <xocs:year-nav>2004</xocs:year-nav>
+      <xocs:indexeddate epoch="1081468800">2004-04-09T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast doctopic primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0021-9797</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00219797</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>274</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>274</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 274, Issue 1</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>33</xocs:sort-order>
+      <xocs:first-fp>277</xocs:first-fp>
+      <xocs:last-lp>284</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>277</xocs:first-page>
+         <xocs:last-page>284</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20040601</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1 June 2004</xocs:cover-date-text>
+      <xocs:cover-date-start>2004-06-01</xocs:cover-date-start>
+      <xocs:cover-date-year>2004</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2004 Elsevier Inc. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>EXPERIMENTALSTUDYRHEOLOGICALPROPERTIESAQUEOUSCERIADISPERSIONS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>HSU</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="BIB001">
+            <xocs:ref-normalized-surname>STEIGERWALD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CHEMICALMECHANICALPLANARIZATIONMICROELECTRONICMATERIALS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB002"/>
+         <xocs:ref-info refid="BIB003">
+            <xocs:ref-normalized-surname>RAY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>348</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB004">
+            <xocs:ref-normalized-surname>NAVABI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>459</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB005">
+            <xocs:ref-normalized-surname>KOSMULSKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>11681</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB006">
+            <xocs:ref-normalized-surname>YAROSHCHUK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>381</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB007">
+            <xocs:ref-normalized-surname>HUNTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1968</xocs:ref-pub-year>
+            <xocs:ref-first-fp>250</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB008">
+            <xocs:ref-normalized-surname>LEONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2473</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB009">
+            <xocs:ref-normalized-surname>KOSMULKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>200</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB010">
+            <xocs:ref-normalized-surname>GUSTAFFSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>349</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB011">
+            <xocs:ref-normalized-surname>BARNES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>INTRODUCTIONRHEOLOGY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB012">
+            <xocs:ref-normalized-surname>ROWLANDS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>325</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB013">
+            <xocs:ref-normalized-surname>HUNTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>37</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB014">
+            <xocs:ref-normalized-surname>HSU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2001</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB015">
+            <xocs:ref-normalized-surname>MIRONOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>197</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB016">
+            <xocs:ref-normalized-surname>FERGUSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>APPLIEDFLUIDRHEOLOGY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB017">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>96</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB018">
+            <xocs:ref-normalized-surname>QUEMADA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>61</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB019">
+            <xocs:ref-normalized-surname>MIKULASEK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>97</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB020">
+            <xocs:ref-normalized-surname>SONNEFELD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>179</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>HSUX2004X277</xocs:refkey3>
+         <xocs:refkey4lp>HSUX2004X277X284</xocs:refkey4lp>
+         <xocs:refkey4ai>HSUX2004X277XJ</xocs:refkey4ai>
+         <xocs:refkey5>HSUX2004X277X284XJ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0021-9797(04)00226-7</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0021979704002267</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0021979704002267</xocs:eid>
+         <xocs:doi>10.1016/j.jcis.2004.02.063</xocs:doi>
+         <xocs:cid>272564</xocs:cid>
+         <xocs:timestamp>2010-12-22T16:35:22.819456-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2004-06-01</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0021979704002267-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979704002267/MAIN/application/pdf/e07363d27835e57c09b4ea3ed8dcf90d/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979704002267/MAIN/application/pdf/e07363d27835e57c09b4ea3ed8dcf90d/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>264957</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>8</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0021979704002267-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979704002267/PREVIEW/image/png/5aea52fbac282b96b3ea89d373572d89/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979704002267/PREVIEW/image/png/5aea52fbac282b96b3ea89d373572d89/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>73996</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979704002267-si4.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979704002267/STRIPIN/image/gif/25dfbba58f093d753c3ec4d3e6900b71/si4.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979704002267/STRIPIN/image/gif/25dfbba58f093d753c3ec4d3e6900b71/si4.gif</xocs:ucs-locator>
+               <xocs:file-basename>si4</xocs:file-basename>
+               <xocs:filename>si4.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>140</xocs:filesize>
+               <xocs:pixel-height>17</xocs:pixel-height>
+               <xocs:pixel-width>11</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979704002267-si3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979704002267/STRIPIN/image/gif/5ffc012d8b3cc0c77e4d43681cf1959f/si3.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979704002267/STRIPIN/image/gif/5ffc012d8b3cc0c77e4d43681cf1959f/si3.gif</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>708</xocs:filesize>
+               <xocs:pixel-height>39</xocs:pixel-height>
+               <xocs:pixel-width>129</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979704002267-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979704002267/STRIPIN/image/gif/304269d525148fd35dd1640fc6872c10/si2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979704002267/STRIPIN/image/gif/304269d525148fd35dd1640fc6872c10/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1294</xocs:filesize>
+               <xocs:pixel-height>31</xocs:pixel-height>
+               <xocs:pixel-width>315</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979704002267-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979704002267/STRIPIN/image/gif/017488e215fbea000ae05cbb40a7ef33/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979704002267/STRIPIN/image/gif/017488e215fbea000ae05cbb40a7ef33/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>423</xocs:filesize>
+               <xocs:pixel-height>20</xocs:pixel-height>
+               <xocs:pixel-width>96</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979704002267-gr001.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979704002267/fgr001/THUMBNAIL/image/gif/b0fdee1c709ce68c1ffd5a98acf089df/gr001.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979704002267/fgr001/THUMBNAIL/image/gif/b0fdee1c709ce68c1ffd5a98acf089df/gr001.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr001</xocs:file-basename>
+               <xocs:filename>gr001.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1383</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>118</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979704002267-gr001.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979704002267/fgr001/DOWNSAMPLED/image/gif/5b1ea5381a76b142c6ee44fdb0a8b1ad/gr001.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979704002267/fgr001/DOWNSAMPLED/image/gif/5b1ea5381a76b142c6ee44fdb0a8b1ad/gr001.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr001</xocs:file-basename>
+               <xocs:filename>gr001.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>6325</xocs:filesize>
+               <xocs:pixel-height>289</xocs:pixel-height>
+               <xocs:pixel-width>365</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979704002267-latex001.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979704002267/flatex001/THUMBNAIL/image/gif/7a69a09757251af51fc7881f3bbe5827/latex001.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979704002267/flatex001/THUMBNAIL/image/gif/7a69a09757251af51fc7881f3bbe5827/latex001.sml</xocs:ucs-locator>
+               <xocs:file-basename>latex001</xocs:file-basename>
+               <xocs:filename>latex001.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>913</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>60</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979704002267-latex001.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979704002267/flatex001/DOWNSAMPLED/image/gif/7c1c0d9d1d62daf99171da71a8d5cb0a/latex001.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979704002267/flatex001/DOWNSAMPLED/image/gif/7c1c0d9d1d62daf99171da71a8d5cb0a/latex001.gif</xocs:ucs-locator>
+               <xocs:file-basename>latex001</xocs:file-basename>
+               <xocs:filename>latex001.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>10848</xocs:filesize>
+               <xocs:pixel-height>595</xocs:pixel-height>
+               <xocs:pixel-width>383</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979704002267-latex002.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979704002267/flatex002/THUMBNAIL/image/gif/dd76a3c5db41af151321a5eb63cebc22/latex002.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979704002267/flatex002/THUMBNAIL/image/gif/dd76a3c5db41af151321a5eb63cebc22/latex002.sml</xocs:ucs-locator>
+               <xocs:file-basename>latex002</xocs:file-basename>
+               <xocs:filename>latex002.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>672</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>58</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979704002267-latex002.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979704002267/flatex002/DOWNSAMPLED/image/gif/e95a2e97fcf972a542f5219f7e1864fb/latex002.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979704002267/flatex002/DOWNSAMPLED/image/gif/e95a2e97fcf972a542f5219f7e1864fb/latex002.gif</xocs:ucs-locator>
+               <xocs:file-basename>latex002</xocs:file-basename>
+               <xocs:filename>latex002.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>7653</xocs:filesize>
+               <xocs:pixel-height>613</xocs:pixel-height>
+               <xocs:pixel-width>383</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979704002267-latex003.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979704002267/flatex003/THUMBNAIL/image/gif/17753abd132800fa9a83df12abee214a/latex003.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979704002267/flatex003/THUMBNAIL/image/gif/17753abd132800fa9a83df12abee214a/latex003.sml</xocs:ucs-locator>
+               <xocs:file-basename>latex003</xocs:file-basename>
+               <xocs:filename>latex003.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>725</xocs:filesize>
+               <xocs:pixel-height>92</xocs:pixel-height>
+               <xocs:pixel-width>59</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979704002267-latex003.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979704002267/flatex003/DOWNSAMPLED/image/gif/08c0bb1337f79d0b768e2e466f4605c8/latex003.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979704002267/flatex003/DOWNSAMPLED/image/gif/08c0bb1337f79d0b768e2e466f4605c8/latex003.gif</xocs:ucs-locator>
+               <xocs:file-basename>latex003</xocs:file-basename>
+               <xocs:filename>latex003.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>8468</xocs:filesize>
+               <xocs:pixel-height>599</xocs:pixel-height>
+               <xocs:pixel-width>383</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979704002267-latex004.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979704002267/flatex004/THUMBNAIL/image/gif/43925f25c44ab0a4ea205827295bff9e/latex004.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979704002267/flatex004/THUMBNAIL/image/gif/43925f25c44ab0a4ea205827295bff9e/latex004.sml</xocs:ucs-locator>
+               <xocs:file-basename>latex004</xocs:file-basename>
+               <xocs:filename>latex004.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>828</xocs:filesize>
+               <xocs:pixel-height>94</xocs:pixel-height>
+               <xocs:pixel-width>61</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979704002267-latex004.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979704002267/flatex004/DOWNSAMPLED/image/gif/f1e01c21382bbb98746b61aef44fee41/latex004.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979704002267/flatex004/DOWNSAMPLED/image/gif/f1e01c21382bbb98746b61aef44fee41/latex004.gif</xocs:ucs-locator>
+               <xocs:file-basename>latex004</xocs:file-basename>
+               <xocs:filename>latex004.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>9857</xocs:filesize>
+               <xocs:pixel-height>588</xocs:pixel-height>
+               <xocs:pixel-width>383</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979704002267-gr002.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979704002267/fgr002/THUMBNAIL/image/gif/bc93df48f21b605476fdc3c5d7020700/gr002.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979704002267/fgr002/THUMBNAIL/image/gif/bc93df48f21b605476fdc3c5d7020700/gr002.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr002</xocs:file-basename>
+               <xocs:filename>gr002.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>976</xocs:filesize>
+               <xocs:pixel-height>90</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979704002267-gr002.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979704002267/fgr002/DOWNSAMPLED/image/gif/fadf752f41f6bf370995d1d8125b93cd/gr002.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979704002267/fgr002/DOWNSAMPLED/image/gif/fadf752f41f6bf370995d1d8125b93cd/gr002.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr002</xocs:file-basename>
+               <xocs:filename>gr002.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>3918</xocs:filesize>
+               <xocs:pixel-height>269</xocs:pixel-height>
+               <xocs:pixel-width>373</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979704002267-latex005.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979704002267/flatex005/THUMBNAIL/image/gif/8633a3e970d694ebca9eabe259c15ee9/latex005.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979704002267/flatex005/THUMBNAIL/image/gif/8633a3e970d694ebca9eabe259c15ee9/latex005.sml</xocs:ucs-locator>
+               <xocs:file-basename>latex005</xocs:file-basename>
+               <xocs:filename>latex005.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1895</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>123</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979704002267-latex005.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979704002267/flatex005/DOWNSAMPLED/image/gif/a02c14a482bf5ce9a820eac5a3a243a9/latex005.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979704002267/flatex005/DOWNSAMPLED/image/gif/a02c14a482bf5ce9a820eac5a3a243a9/latex005.gif</xocs:ucs-locator>
+               <xocs:file-basename>latex005</xocs:file-basename>
+               <xocs:filename>latex005.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>25438</xocs:filesize>
+               <xocs:pixel-height>594</xocs:pixel-height>
+               <xocs:pixel-width>782</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979704002267-gr003.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979704002267/fgr003/THUMBNAIL/image/gif/61ccb388826c09fc3bf36962073681e2/gr003.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979704002267/fgr003/THUMBNAIL/image/gif/61ccb388826c09fc3bf36962073681e2/gr003.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr003</xocs:file-basename>
+               <xocs:filename>gr003.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1012</xocs:filesize>
+               <xocs:pixel-height>87</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979704002267-gr003.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979704002267/fgr003/DOWNSAMPLED/image/gif/9d22b03d9f4f2fbdfa452b10b17feb36/gr003.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979704002267/fgr003/DOWNSAMPLED/image/gif/9d22b03d9f4f2fbdfa452b10b17feb36/gr003.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr003</xocs:file-basename>
+               <xocs:filename>gr003.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>3972</xocs:filesize>
+               <xocs:pixel-height>266</xocs:pixel-height>
+               <xocs:pixel-width>382</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979704002267-latex006.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979704002267/flatex006/THUMBNAIL/image/gif/6abfc1ad5faa8be77d0888f43fcf1214/latex006.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979704002267/flatex006/THUMBNAIL/image/gif/6abfc1ad5faa8be77d0888f43fcf1214/latex006.sml</xocs:ucs-locator>
+               <xocs:file-basename>latex006</xocs:file-basename>
+               <xocs:filename>latex006.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>862</xocs:filesize>
+               <xocs:pixel-height>92</xocs:pixel-height>
+               <xocs:pixel-width>56</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979704002267-latex006.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979704002267/flatex006/DOWNSAMPLED/image/gif/ec5f3b31d92820ba81513d2780f77938/latex006.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979704002267/flatex006/DOWNSAMPLED/image/gif/ec5f3b31d92820ba81513d2780f77938/latex006.gif</xocs:ucs-locator>
+               <xocs:file-basename>latex006</xocs:file-basename>
+               <xocs:filename>latex006.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>11962</xocs:filesize>
+               <xocs:pixel-height>631</xocs:pixel-height>
+               <xocs:pixel-width>383</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>YJCIS</jid>
+            <aid>10047</aid>
+            <ce:pii>S0021-9797(04)00226-7</ce:pii>
+            <ce:doi>10.1016/j.jcis.2004.02.063</ce:doi>
+            <ce:copyright type="full-transfer" year="2004">Elsevier Inc.</ce:copyright>
+            <ce:doctopics>
+               <ce:doctopic>
+                  <ce:text>Transport, electrokinetics, and rheology</ce:text>
+               </ce:doctopic>
+            </ce:doctopics>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="FIG001">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Variation of <ce:italic>ζ</ce:italic>-potential as a function of pH at various ionic strengths (7 wt% ceria).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr001"/>
+            </ce:figure>
+            <ce:figure id="FIG002">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Variation of shear stress (a) and viscosity (b) as a function of shear rate at various pH under electrolyte-free conditions and 13.63% weight concentration of ceria.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="latex001"/>
+            </ce:figure>
+            <ce:figure id="FIG003">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Variation of viscosity (a) and yield stress (b) as a function of pH for the case of 13.63% weight concentration of ceria.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="latex002"/>
+            </ce:figure>
+            <ce:figure id="FIG004">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Variation of viscosity as a function of shear rate for various weight fractions at pH 5.7 (a) and variation of yield stress as a function of volume fraction of solid particles (b).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="latex003"/>
+            </ce:figure>
+            <ce:figure id="FIG005">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Variation of viscosity as a function of shear rate at various temperatures for 18% weight concentration, pH&lt;IEP (a) and pH&gt;IEP (b).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="latex004"/>
+            </ce:figure>
+            <ce:figure id="FIG006">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Variation of log(<ce:italic>η</ce:italic>) as a function of the inverse absolute temperature. (●) pH&lt;IEP, <ce:italic>A</ce:italic>=4.1157, <ce:italic>B</ce:italic>=662.12; (■) pH&gt;IEP, <ce:italic>A</ce:italic>=−0.9677, <ce:italic>B</ce:italic>=−855.14.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr002"/>
+            </ce:figure>
+            <ce:figure id="FIG007">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Variation of viscosity, (a) and (c), and shear stress, (b) and (d), as a function of shear rate for various pH for the case of 18.0% weight concentration of ceria. Ionic strength is 0.1 M in (a) and (b) and 0.5 M in (c) and (d).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="latex005"/>
+            </ce:figure>
+            <ce:figure id="FIG008">
+               <ce:label>Fig. 8</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Variation of viscosity as a function of shear rate for various ionic strengths at pH 4 for the case of 18.0% weight concentration of ceria.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr003"/>
+            </ce:figure>
+            <ce:figure id="FIG009">
+               <ce:label>Fig. 9</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Variation of viscosity (a) and yield stress (b) as a function of pH at various ionic strengths for the case of 18.0% weight concentration of ceria.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="latex006"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="TBL001" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Variation of pH as a function of temperature for two samples having different initial pH: (a) pH&gt;IEP; (b) pH&lt;IEP</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="7">
+                  <colspec colname="col1" colsep="0"/>
+                  <colspec colname="col2" colsep="0"/>
+                  <colspec colname="col3" colsep="0"/>
+                  <colspec colname="col4" colsep="0"/>
+                  <colspec colname="col5" colsep="0"/>
+                  <colspec colname="col6" colsep="0"/>
+                  <colspec colname="col7" colsep="0"/>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Temperature (°C)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">28.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">34.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">44.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">46.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">54.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">64.1</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Sample (a)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">8.65</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">8.55</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">8.37</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">8.33</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">8.16</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Sample (b)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4.40</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4.34</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4.31</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4.29</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="TBL002" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Estimated values of the adjustable parameters in <ce:cross-ref refid="FD001">Eq. (1)</ce:cross-ref> for various solid fractions</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="6">
+                  <colspec colname="col1" colsep="0"/>
+                  <colspec colname="col2" colsep="0"/>
+                  <colspec colname="col3" colsep="0"/>
+                  <colspec colname="col4" colsep="0"/>
+                  <colspec colname="col5" colsep="0"/>
+                  <colspec colname="col6" colsep="0"/>
+                  <thead>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Concentration</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Concentration</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>η</italic>
+                           <inf loc="post">0</inf> (cP)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>η</italic>
+                           <inf loc="post">∞</inf> (cP)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>t</italic>
+                           <inf loc="post">c</inf> (s)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>a</italic>
+                        </entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">(wt%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">(vol%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="."/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="."/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="."/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="."/>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">9.62</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.14</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">18.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.38</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.424</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.99</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">10.34</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.32</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">57.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.29</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.166</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.99</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">13.63</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.14</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">217.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.041</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.49</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">18.00</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4.32</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">690.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">8.72</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.053</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.53</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="TBL003" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Estimated values of the adjustable parameters in <ce:cross-ref refid="FD001">Eq. (1)</ce:cross-ref> for various ionic strengths</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="5">
+                  <colspec colname="col1" colsep="0"/>
+                  <colspec colname="col2" colsep="0"/>
+                  <colspec colname="col3" colsep="0"/>
+                  <colspec colname="col4" colsep="0"/>
+                  <colspec colname="col5" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">NaCl concentration (M)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>η</italic>
+                           <inf loc="post">0</inf> (cP)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>η</italic>
+                           <inf loc="post">∞</inf> (cP)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>t</italic>
+                           <inf loc="post">c</inf> (s)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>a</italic>
+                        </entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">17.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.29</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.89</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">290.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.04</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.77</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">316.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.06</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.99</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title>An experimental study on the rheological properties of aqueous ceria dispersions</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Jyh-Ping</ce:given-name>
+                  <ce:surname>Hsu</ce:surname>
+                  <ce:cross-ref refid="COR001">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Anca</ce:given-name>
+                  <ce:surname>Nacu</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Department of Chemical Engineering, National Taiwan University, Taipei 10617, Taiwan</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="COR001">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Corresponding author. Fax: +886-2-23623040.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="6" month="5" year="2003"/>
+            <ce:date-accepted day="25" month="2" year="2004"/>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">The rheological properties of aqueous ceria dispersions are studied experimentally. In particular, the effects of particle concentration, temperature, pH, and ionic strength are discussed. If the volume fraction is below 2%, ceria slurry exhibits Newtonian behavior, and for higher volume fractions, shear-thinning behavior is observed. The effect of temperature on the behavior of ceria slurry is found to be pH-dependent. If pH&lt;IEP, IEP being the isoelectric point, the viscosity of the ceria slurry decreases as temperature increases, though the temperature effect is inappreciable in the range of 28 to 50<ce:hsp sp="0.2"/>°C. On the other hand, if pH&gt;IEP, the viscosity slightly increases with increased temperature. A shift of IEP to a higher value of pH was observed for ionic strength, even for indifferent electrolytes. The influence of pH on the rheological properties of ceria slurry decreases if the ionic strength is high. The pH at which viscosity and yield stress are maximum coincide with IEP only for low ionic strengths. The slopes of acidic and basic branches of viscosity against pH and yield stress against pH curves are not symmetrical at high ionic strength, and the alkaline branch deviates significantly from Hunter's theory.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Rheological properties</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Aqueous ceria dispersion</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Isoelectric point</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Shear-thinning</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body>
+            <ce:sections>
+               <ce:section view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para view="all">The performance of a chemical mechanical polishing (CMP) process depends largely on the physicochemical properties of the colloidal dispersion, or slurry, used in the process. Various types of metal oxide colloid dispersion have been proposed for commercial CMP processes. These include, for example, silica, titania, anatase, ferric oxide, aluminum oxide, and zirconium oxide. Ceria is the most important abrasive used for glass polishing. Cook estimated that the polish rate of ceria is 43 times higher than that of silica abrasives for Si(OH)<ce:inf loc="post">4</ce:inf> removal. This accelerated polish rate is due to the fact that the abrasive forms a chemical bond with the glass surface <ce:cross-ref refid="BIB001">[1]</ce:cross-ref>. The demand for ceria slurry is expected to increase owing to increased production of semiconductors, liquid crystal display panels for PCs, and glass-substrate hard disks. Compared to other types of colloidal dispersion, available results for CeO<ce:inf loc="post">2</ce:inf> dispersions are very limited. The weight concentrations of commercial CeO<ce:inf loc="post">2</ce:inf> dispersions vary from 3 to 20 wt% <ce:cross-ref refid="BIB002">[2]</ce:cross-ref>, and the isoelectric point (IEP) reported in the literature varies from 6.75 to 7.9 <ce:cross-refs refid="BIB001 BIB003 BIB004">[1,3,4]</ce:cross-refs>. At low ionic strengths, the IEPs of oxides do not depend on the nature and the concentration of 1:1 electrolytes, the so-called indifferent electrolytes. On the other hand, a shift in the IEP of metal oxides was observed experimentally even for indifferent electrolytes <ce:cross-ref refid="BIB005">[5]</ce:cross-ref> at high ionic strengths. This behavior was explained theoretically by Yaroshchuk <ce:cross-ref refid="BIB006">[6]</ce:cross-ref>. It was reported that the variation of the rheological properties of slurry, for example, viscosity and shear stress, has a local maximum as pH varied, and this maximum occurs at IEP under pristine conditions <ce:cross-refs refid="BIB007 BIB008 BIB009">[7–9]</ce:cross-refs>. The IEPs evaluated from electrokinetic and rheological measurements should match only under pristine conditions <ce:cross-refs refid="BIB009 BIB010">[9,10]</ce:cross-refs>.</ce:para>
+                  <ce:para view="all">Usually, dilute slurry exhibits the behavior of a Newtonian fluid. However, if its concentration is higher than a certain level, deviation from Newtonian behavior can be observed. In many cases, the viscosity of slurry is found to decrease with the increase in shear rate, the so-called shear-thinning behavior. The rheological properties, such as yield stress and viscosity, of the slurry are sensitive to the variation in pH. For most metal oxides, their <ce:italic>ζ</ce:italic>-potential is positive at low pH and negative at high pH, and therefore there exists an IEP. Hunter and Nicol <ce:cross-ref refid="BIB007">[7]</ce:cross-ref> were able to correlate the yield stress and <ce:italic>ζ</ce:italic>
+                     <ce:sup loc="post">2</ce:sup> theoretically through a linear relation, which was justified later by experiments <ce:cross-refs refid="BIB008 BIB009">[8,9]</ce:cross-refs>. On the basis of this relation, at lower pH the yield stress increases with increased pH, reaches a maximum at the IEP, and then decreases with a further increase in pH. Leong et al. <ce:cross-ref refid="BIB008">[8]</ce:cross-ref> concluded that the acidic and basic branches of the yield-stress-against-pH plot are symmetrical, and the addition of multivalent anions has the effect of shifting the IEP of zirconia to a lower pH. A similar shift in the yield-stress-against-pH plot was also observed, and its acidic and basic branches remained symmetrical. Kosmulski et al. <ce:cross-ref refid="BIB009">[9]</ce:cross-ref> demonstrated that the presence of multivalent cations could shift the IEP to a higher pH. Moreover, they found that the addition of inert electrolytes also had the effect of shifting the IEP to a higher pH, and the shift in IEP was more pronounced at higher ionic strength. Kosmulski et al. <ce:cross-ref refid="BIB009">[9]</ce:cross-ref> concluded that the IEP and the maximal viscosity do not coincide except under pristine conditions, and the acidic and basic branches of the yield-stress-against-pH plot are not symmetrical. Their result roughly confirmed the linear relation between yield stress and <ce:italic>ζ</ce:italic>
+                     <ce:sup loc="post">2</ce:sup> derived by Hunter and Nicol <ce:cross-ref refid="BIB007">[7]</ce:cross-ref>.</ce:para>
+                  <ce:para view="all">Temperature is one of the important factors affecting the rheological properties of slurries. It is known that the variation of the viscosity of a Newtonian fluid obeys the Arrhenius law. In general, the viscosity of a slurry is expected to decrease with increased temperature <ce:cross-ref refid="BIB011">[11]</ce:cross-ref>.</ce:para>
+                  <ce:para view="all">In the present study, the behavior of aqueous ceria dispersions is investigated experimentally. We focus on the effects of the basic parameters such as particle concentration, temperature, pH, and ionic strength on their rheological properties. The results obtained are expected to provide necessary information for the assessment of the performance of commercial slurries.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Experimental</ce:section-title>
+                  <ce:para view="all">Tizox, 99.9% pure ceria, was used as purchased from Derwey Co, Taiwan. The pH of an aqueous dispersion was found to be in the range of 4 to 6. The pH after the dispersion was prepared increased slightly in 24 h, but not by more than 0.5. The BET surface area of Tizox is estimated to be 30 m<ce:sup loc="post">2</ce:sup>/g and the mean particle size is about 220 nm. All the other reagents were analytical grade and were used as purchased. A Brookfield digital viscometer, Model DV-II+, Version 3.0, was used to measure the viscosity and the shear stress. The operating principle for this device is to drive a spindle immersed in the tested fluid through a calibrated spring. The viscous drag of the fluid against the spindle is measured by spring deflection. The instruments give the viscosity in cP, the shear rate in s<ce:sup loc="post">−1</ce:sup>, and the shear stress in N/m<ce:sup loc="post">2</ce:sup>. The spindle used, S00, allows us to vary the shear rate in the range of 0.37 to 122.3 s<ce:sup loc="post">−1</ce:sup>. The maximal measurable viscosity and shear stress are 2000 cP and about 7.3 N/m<ce:sup loc="post">2</ce:sup>, respectively.</ce:para>
+                  <ce:para view="all">A DT-1200 acoustic and electroacoustic spectrometer, purchased from Dispersion Technology Inc., USA, was used to measure the <ce:italic>ζ</ce:italic>-potential. This device is a powerful analytical tool for quantifying a dispersed system. In particular, since properties of a concentrated sample at arbitrary ionic strength can be measured directly without pretreatment, it is readily applicable to the present study. The software allowed us to define the sample composition (particle and liquid phase), selecting them from an extensive database. The appropriate conductivity corrections for the concentrated NaCl solutions were made. The following parameters were directly measured: attenuation spectra, sound speed, phase and amplitude of the colloid vibration current (CVI), pH, and temperature. The attenuation spectra provide information about particle size distribution, the sound speed is a measure for the system stability (stability confirmed by pH and temperature), and CVI is used to calculate the <ce:italic>ζ</ce:italic>-potential. The pH of a sample containing 13 wt% CeO<ce:inf loc="post">2</ce:inf> changed from 5.1 to 5.4 after 24 h, and the difference of pH between 7 wt% CeO<ce:inf loc="post">2</ce:inf> and 13 wt% CeO<ce:inf loc="post">2</ce:inf> was only 0.1 units. The pH of the dispersion was measured by a Horiba D-24 pH meter. Suspensions at various solid concentrations were prepared by adding distilled water to the powder, the concentration then being accurately determined by drying. The samples were magnetically stirred for at least 1 h and then exposed to an ultrasonic device for 60 min. All measurements were performed at room temperature, except when the effect of temperature was investigated. The pH of the dispersion was adjusted by addition of either 1 M HCl or 1 M NaOH. All suspensions were left to stand for at least 24 h before any measurements were conducted. When the effect of ionic strength was examined, NaCl was used as electrolyte. The mass of electrolyte plus the base used for pH adjustment was kept constant.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results and discussions</ce:section-title>
+                  <ce:para view="all">The stability of DT-1200 was checked by performing the <ce:italic>ζ</ce:italic>-potential measurement in parallel for an aqueous dispersion with a Malvern 2000 ZetaSizer. The results obtained are in good agreement with those obtained using the DT-1200. Ceria slurries, with a volume fraction higher than 1% at different ionic strengths, were titrated manually with 1 M base and the <ce:italic>ζ</ce:italic>-potential was read every 0.5 pH units. Ceria slurry exhibits a reasonable short equilibration time and we were able to perform a complete titration from pH 4 to pH 9 within 2 h. At low ionic strength the IEP is between 5 and 6, considerably lower than reported in the literature, possibly due to different crystallization form.</ce:para>
+                  <ce:para view="all">
+                     <ce:cross-ref refid="FIG001">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="FIG001"/> shows the variation of <ce:italic>ζ</ce:italic>-potential as a function of pH at various ionic strengths. This figure reveals that at high ionic strengths (&gt;0.1 M), IEP shifts toward a higher pH. The shift in IEP at high ionic strength was reported for other types of colloidal particles such as zirconia and anatase and seems to be a common behavior for metal oxides <ce:cross-ref refid="BIB005">[5]</ce:cross-ref>. This emphasizes that the concept of indifferent electrolyte is applicable only for ionic strength lower than 0.1 M. As pointed out by Rowlands et al. <ce:cross-ref refid="BIB012">[12]</ce:cross-ref> and Hunter <ce:cross-ref refid="BIB013">[13]</ce:cross-ref>, for electrolyte concentrations above 0.1 M, the calibration procedure becomes difficult, and the value of the measured <ce:italic>ζ</ce:italic>-potential may not be very accurate. In our study, the position of the IEP for the case where the salt concentration is high was confirmed by additional electrophoretic measurements. A reversal in the shift of IEP was reported in literature for cations such as potassium and cesium. Kosmulski and Rosenholm <ce:cross-ref refid="BIB005">[5]</ce:cross-ref> observed this reversal for anatase dispersions at NaCl concentrations higher than 1 M, but no further comments were made. In contrast, Gustafsson et al. <ce:cross-ref refid="BIB010">[10]</ce:cross-ref> found that charge reversal could no longer be observed at a NaCl concentration of 1 M, and the <ce:italic>ζ</ce:italic>-potential of anatase was almost constant and positive for all values of pH at this ionic strength. If the level of the <ce:italic>ζ</ce:italic>-potential is low, care must be taken in the estimation of IEP. Here, the IEP at a low volume fraction of ceria is double-checked using the electrophoretic apparatus adopted by Hsu et al. <ce:cross-ref refid="BIB014">[14]</ce:cross-ref>, which is similar to that used by Mironov and Dolgaya <ce:cross-ref refid="BIB015">[15]</ce:cross-ref>. The results based on electroacoustic and on electrophoretic experiments are in good agreement regarding the position of IEP. <ce:cross-ref refid="FIG001">Fig. 1</ce:cross-ref> also reveals that if the ionic strength is high, the <ce:italic>ζ</ce:italic>-potential of the ceria slurry has a local minimum in the acidic branch, but it does not appear if ionic strength is low.</ce:para>
+                  <ce:para view="all">
+                     <ce:cross-ref refid="FIG002">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="FIG002"/> illustrates the variations of the shear stress and the viscosity as functions of shear rate at various pH for a ceria dispersion of 13.6 wt% when no NaCl was added. <ce:cross-ref refid="FIG002">Fig. 2a</ce:cross-ref> reveals that the shear stress increases monotonically with the increase in shear rate for pH far from the IEP. It was pointed out by some researchers that close to the IEP a slight local maximum might appear at very low shear rate, which is considered to be the real yield stress. In our case, the local maximum does not always show. As suggested by <ce:cross-ref refid="FIG002">Fig. 2b</ce:cross-ref>, for a weight concentration of 13.6%, the viscosity is almost constant if the pH is much lower than the IEP (pH&lt;4); that is, the dispersion is Newtonian. However, if the pH is close to the IEP, the viscosity increases with the decreases in the shear rate, and the dispersion acts like a non-Newtonian fluid. Also, it remains non-Newtonian even if the pH is higher than the IEP. Although the first Newtonian region (the region of constant viscosity at very low shear rates) could not be observed due to the limitations of the instrument, the slurry is shear-thinning. According Ferguson and Kemblowski <ce:cross-ref refid="BIB016">[16]</ce:cross-ref>, thixotropy might occur when a fluid is shear-thinning. In our case, when shear rate was increased first and then decreased, the hysteresis loop of shear stress observed was inappreciable, and therefore, the dispersion was considered to be time-independent. This might be due to our experiment lasting only for a relatively short time.</ce:para>
+                  <ce:para view="all">The variations of the viscosity and the yield stress at constant shear rate as a function of pH are presented in <ce:cross-ref refid="FIG003">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="FIG003"/>. <ce:cross-ref refid="FIG003">Fig. 3a</ce:cross-ref> reveals that the maximum viscosity appears at IEP, as expected. Apart from the viscosity, the yield stress is of practical interest. Still, there is serious doubt about whether yield stress exists for present dispersions. In many cases, close to the IEP the shear stress exhibits a local maximum at low shear rates, but we failed to observe this local maximum for all the samples. Therefore the yield stress is estimated by using a Bingham-type extrapolation to zero shear rates. It is also true that the device used does not allow us to work on shear rates below 0.37 s<ce:sup loc="post">−1</ce:sup>. The yield stress and the viscosity show very similar behavior, as can be seen in <ce:cross-ref refid="FIG003">Fig. 3</ce:cross-ref>. This is consistent with the observation that viscosity and yield stress correlate linearly <ce:cross-ref refid="BIB009">[9]</ce:cross-ref>. The yield stress (and accordingly the viscosity and shear stress) in the present study is relatively low compared with those reported in the literature <ce:cross-refs refid="BIB008 BIB009">[8,9]</ce:cross-refs> because the solid load used in our experiments is low.</ce:para>
+                  <ce:para view="all">
+                     <ce:cross-ref refid="FIG004">Fig. 4</ce:cross-ref>
+                     <ce:float-anchor refid="FIG004"/> shows the variations of viscosity and yield stress as a function of shear rate at various weight fractions of ceria at constant pH, which is close to IEP. Our experimental observation shows that if the weight concentration is low, the viscosity of the dispersion is close to that of water even if the pH is close to IEP. <ce:cross-ref refid="FIG004">Fig. 4a</ce:cross-ref> reveals that if the weight concentration is sufficiently high, the dispersion becomes non-Newtonian. A slight local maximum in viscosity is observed at 7% weight concentration of ceria. For higher weight concentrations, the dispersion is non-Newtonian, and the higher the weight concentration the more shear-thinning a dispersion is. <ce:cross-ref refid="FIG004">Fig. 4b</ce:cross-ref> shows that the yield stress increases with the increase in the concentration of ceria.</ce:para>
+                  <ce:para view="all">
+                     <ce:cross-ref refid="FIG005">Fig. 5</ce:cross-ref>
+                     <ce:float-anchor refid="FIG005"/> illustrates the variation of viscosity as a function of shear rate at various temperatures. According to <ce:cross-ref refid="FIG005">Fig. 5a</ce:cross-ref>, if pH is below IEP, the viscosity decreases with the increased temperature. The degree of decrease, however, is not very significant in the temperature range 34.8–54.3<ce:hsp sp="0.2"/>°C; a more significant decrease is observed for the range 54.3–64.1<ce:hsp sp="0.2"/>°C. Rather insignificant temperature effects on the viscosity of rutile and anatase dispersions were also reported in the literature <ce:cross-refs refid="BIB009 BIB019">[9,19]</ce:cross-refs>. As shown in <ce:cross-ref refid="FIG005">Fig. 5b</ce:cross-ref>, the ceria slurry exhibits a peculiar behavior if its pH is higher than IEP, where the viscosity increases with the increase in the temperature. A possible explanation for this is that the viscosity–temperature relation does not necessarily follow the Arrhenius law. As pointed out by Barnes et al. <ce:cross-ref refid="BIB011">[11]</ce:cross-ref>, when the continuous phase becomes less viscous, the dispersed particles acquire more energy and the rate of structure formation might increase, leading to an increase in its viscosity. Another possibility is the decrease in the pH of slurry as the temperature increases, as shown in <ce:cross-ref refid="TBL001">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="TBL001"/>. Note that the calibration of pH meter for the wide range in temperature in our experiment is extremely difficult. However, we did our best to minimize possible errors by performing three-point calibrations in pH (4,7, and 9) before reading its value at various temperatures. The calibration was conducted based on the pH values of pH standard solution at various temperatures provided in the operation manual, but since the relevant information for standard solution for temperatures higher than 45<ce:hsp sp="0.2"/>°C are unavailable, the pH values shown in <ce:cross-ref refid="TBL001">Table 1</ce:cross-ref> for temperature higher than 45<ce:hsp sp="0.2"/>°C are approximate results only.</ce:para>
+                  <ce:para view="all">As discussed previously, the influence of temperature on the nature of a slurry is twofold: (a) if pH&gt;IEP, the pH of a slurry decreases slightly as the temperature increases, and (b) according to Sonnefeld <ce:cross-ref refid="BIB020">[20]</ce:cross-ref>, the IEP of a slurry shifts to a higher value as temperature increases. Therefore, if the pH of a slurry is higher than the IEP, it becomes closer to the IEP as the temperature increases. Because the viscosity of a slurry is at a maximum at the IEP, this leads to a larger viscosity. On the other hand, if the pH of a slurry is lower than the IEP, the reverse trend is expected; that is, the higher the temperature, the lower the viscosity. An Arrhenius type of relationship, <display>
+                        <formula id="FD001">
+                           <ce:label>(1)</ce:label>
+                           <math altimg="si1.gif">η=Ae<sup loc="post">−B/T</sup>,</math>
+                        </formula>
+                     </display> is used to correlate the temperature dependence of the viscosity. For illustration, the shear rate of 2.45 s<ce:sup loc="post">−1</ce:sup> is chosen, and the fitted results are summarized in <ce:cross-ref refid="FIG006">Fig. 6</ce:cross-ref>
+                     <ce:float-anchor refid="FIG006"/>.</ce:para>
+                  <ce:para view="all">Several equations are proposed to relate the structural characteristics of a suspension to its rheological model <ce:cross-ref refid="BIB016">[16]</ce:cross-ref>. In our case, since both a shear-thinning region and a Newtonian region are present, the appropriate choice is a four-parameter power-law model. Among the available rheological models, the one proposed by Quemeda includes both volume fraction and shear rate and is applicable to a wide class of concentrated dispersions and complex liquids <ce:cross-ref refid="BIB018">[18]</ce:cross-ref>. The generalized Quemeda model, <display>
+                        <formula id="FD002">
+                           <ce:label>(2)</ce:label>
+                           <math altimg="si2.gif">η/η<inf loc="post">∞</inf>=<fen>
+                                 <cp type="lcub" style="s"/>1−<fen>
+                                    <cp type="lsqb" style="s"/>1−(η<inf loc="post">∞</inf>/η<inf loc="post">0</inf>)<sup loc="post">1/a</sup>
+                                    <cp type="rsqb" style="s"/>
+                                 </fen>λ<cp type="rcub" style="s"/>
+                              </fen>
+                              <sup loc="post">−a</sup>,</math>
+                        </formula>
+                     </display> is adopted to describe our experimental data. In this expression the parameter <ce:italic>a</ce:italic> is a function of particle concentration, <ce:italic>η</ce:italic>
+                     <ce:inf loc="post">0</ce:inf> and <ce:italic>η</ce:italic>
+                     <ce:inf loc="post">∞</ce:inf> are respectively the viscosity at zero and infinite shear rates, and <ce:italic>λ</ce:italic> is a structural parameter defined by <display>
+                        <formula>
+                           <ce:label>(3)</ce:label>
+                           <math altimg="si3.gif">λ=<fr shape="built" align="c" style="s">
+                                 <nu>1</nu>
+                                 <de>1+(t<inf loc="post">
+                                       <rm>c</rm>
+                                    </inf>
+                                    <a valign="u">
+                                       <ac>γ</ac>
+                                       <ac>̇</ac>
+                                    </a>)<sup loc="post">1/a</sup>
+                                 </de>
+                              </fr>,</math>
+                        </formula>
+                     </display> where <math altimg="si4.gif">
+                        <a valign="u">
+                           <ac>γ</ac>
+                           <ac>̇</ac>
+                        </a>
+                     </math> is the shear rate and <ce:italic>t</ce:italic>
+                     <ce:inf loc="post">c</ce:inf> is a time constant, which is related to the rate of aggregation of particles due to Brownian motion. The estimated values of the adjustable parameters are summarized in <ce:cross-ref refid="TBL002">Table 2</ce:cross-ref>
+                     <ce:float-anchor refid="TBL002"/>. For lower solid ratios our results are consistent with those of Yang et al. <ce:cross-ref refid="BIB017">[17]</ce:cross-ref>, who concluded that for many suspensions <ce:italic>a</ce:italic> is about 2.0 and is independent of shear rate.</ce:para>
+                  <ce:para view="all">
+                     <ce:cross-ref refid="FIG007">Fig. 7</ce:cross-ref>
+                     <ce:float-anchor refid="FIG007"/> shows the variation of shear stress and viscosity as a function of shear rate for various pH at two levels of ionic strength. This figure suggests that pH still influences the rheological properties, but its effect decreases with increased ionic strength. Even at a low pH (=4) the addition of salt increases the viscosity dramatically. The addition of salt gives raise to flocculated structures, resulting in the observed augmentation of viscosity. At an ionic strength as high as 0.1 M the coagulation of ceria particles is fast and the system is unstable. <ce:cross-ref refid="FIG008">Fig. 8</ce:cross-ref>
+                     <ce:float-anchor refid="FIG008"/> reveals that an increase in the ionic strength from 0.1 to 0.5 M does not induce a significant further increase in the viscosity. The Quemeda model expressed in <ce:cross-ref refid="FD002">Eq. (2)</ce:cross-ref> is used to describe the experimental data and the estimated values of the adjustable parameters are summarized in <ce:cross-ref refid="TBL003">Table 3</ce:cross-ref>
+                     <ce:float-anchor refid="TBL003"/>.</ce:para>
+                  <ce:para view="all">
+                     <ce:cross-ref refid="FIG009">Fig. 9</ce:cross-ref>
+                     <ce:float-anchor refid="FIG009"/> shows the variations of viscosity and yield stress as a function of pH at various ionic strengths. As can be seen from <ce:cross-ref refid="FIG009">Fig. 9a</ce:cross-ref>, at low ionic strength the point of highest viscosity matches the IEP obtained from electrokinetic measurements. This confirms the results reported in the literature for other metal oxides <ce:cross-refs refid="BIB008 BIB009 BIB010">[8–10]</ce:cross-refs>. As the ionic strength increases, the pH at which the maximal viscosity occurs shifted to a higher pH. The extent of shift, however, is not as pronounced as that obtained by electrokinetic experiments. Also, the slope of the basic branch is less steep than that of the acidic branch, in accordance with other results <ce:cross-refs refid="BIB009 BIB010">[9,10]</ce:cross-refs> but in opposition to the results of Leong et al. for zirconia <ce:cross-ref refid="BIB008">[8]</ce:cross-ref>, which suggested that the acidic and basic branches of the viscosity curve are symmetrical. This finding is reasonable since the stability of the system decreases with increased electrolyte concentration, and the system is not restabilized after passing the IEP. According to Kosmulski et al. <ce:cross-ref refid="BIB009">[9]</ce:cross-ref>, the discrepancy between the electrokinetic and viscosity data is due to the fact that they correspond to electric potentials at two different distances from the surface, and only under pristine conditions is, the IEP the same as the point of zero charge (PZC). The dependence of yield stress on pH exhibits the same trend as the viscosity (<ce:cross-ref refid="FIG009">Fig. 9b</ce:cross-ref>). At low ionic strength the low- and high-pH branches of yield stress (pH) match the IEP, in accordance with the viscosity behavior. For high ionic strengths, the acidic and basic branches' intersection does not match the IEP and is situated at a lower pH than the IEP. Under pristine conditions the slopes of the acidic and basic branches are almost the same, but of opposite sign, in accordance with the well-established linear relation between yield stress and <ce:italic>ζ</ce:italic>-potential derived by Hunter and Nicol <ce:cross-ref refid="BIB007">[7]</ce:cross-ref>. For high ionic strengths, on the other hand, the basic lines are almost horizontal parallel lines. The slopes of acidic branches decrease at high ionic strength, but to a lesser extent than those of the basic ones. This is in accordance with other literature reports <ce:cross-ref refid="BIB010">[10]</ce:cross-ref>. As known, at IEP the system is destabilized and aggregation/sedimentation occur. Continuing the titration after passing through the IEP does not stabilize the system, and the formed aggregates do not brake even at high pH. This fact is supported by the setting test. Suspensions of different pH were prepared for a settling test and poured into graduated test tubes that were then sealed and the sedimentation height versus setting time was determined. The results showed that after half an hour the sedimentation height is maximum at IEP; the suspension is still stable at pH 3, but not stable at pH 10. Measurements of the particle size were made during the titration of a ceria sample at high ionic strength. The particle size was found to be almost doubled at the end of the titration. This is another proof that the aggregated structures appear around the IEP and the flocs do not break with increased pH, even when the suspension is strongly stirred. At very high ionic strength the rheological properties not only do not drop when the pH increases, but might even increase.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusions</ce:section-title>
+                  <ce:para view="all">Ceria suspensions exhibit Newtonian behavior at low volume fraction, but non-Newtonian shear-thinning characteristics when the volume fraction <ce:italic>φ</ce:italic> is higher than a critical value. The pH strongly influences the rheological properties, especially for a higher volume fraction of solid particles. For values of pH lower than the IEP the viscosity decreases with the increase in temperature. The decrease is negligible up to 50<ce:hsp sp="0.2"/>°C. For values of pH higher than the IEP the viscosity slightly increases with the increase in temperature.</ce:para>
+                  <ce:para view="all">There is a clear shift of IEP toward higher values of pH at high concentrations of an indifferent electrolyte, in our case, NaCl. At ionic strength as high as 1 M a shift back to lower values of pH is observed. The IEP and the maximum viscosity coincide only for pristine conditions, when PZC=IEP. When specific adsorption occurs, the two potentials do not match. Also, at high concentration of electrolyte, the acidic and alkaline branches of viscosity and yield stress have different slopes and Hunter and Nicol's equation applies only for pristine conditions or low ionic strength, but is invalid for alkaline dispersions of ceria at high ionic strength.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgements</ce:section-title>
+               <ce:para view="all">This work is supported by the National Science Council of the Republic of China.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail>
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="BIB001">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Steigerwald</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.P.</ce:given-name>
+                                 <ce:surname>Murarka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Gutmann</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical Mechanical Planarization of Microelectronic Materials</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1997</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Wiley</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB002">
+                     <ce:label>[2]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Technical data from K.K. Showa Denko, August 2000</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB003">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.C.</ce:given-name>
+                                 <ce:surname>Ray</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.K.</ce:given-name>
+                                 <ce:surname>Sengupta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Roy</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Indian J. Chem. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>348</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB004">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Navabi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Spalla</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Cabanet</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Colloid Interface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>160</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>459</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB005">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kosmulski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Rosenholm</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>100</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>11681</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB006">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.E.</ce:given-name>
+                                 <ce:surname>Yaroshchuk</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Colloid Interface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>238</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>381</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB007">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Hunter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Nicol</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Colloid Interface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1968</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>250</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB008">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.K.</ce:given-name>
+                                 <ce:surname>Leong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Scales</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.W.</ce:given-name>
+                                 <ce:surname>Healy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.V.</ce:given-name>
+                                 <ce:surname>Boger</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Soc. Faraday Trans.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>189</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2473</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB009">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kosmulki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Gustafsson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>Rosenholm</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Colloid Interface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>209</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>200</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB010">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Gustaffson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Mikkola</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Jokinen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>Rosenholm</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Colloids Surf. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>175</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>349</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB011">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.A.</ce:given-name>
+                                 <ce:surname>Barnes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hutton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Walters</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>An Introduction to Rheology</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1989</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Elsevier</sb:name>
+                                 <sb:location>London</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB012">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.N.</ce:given-name>
+                                 <ce:surname>Rowlands</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.W.</ce:given-name>
+                                 <ce:surname>O'Brien</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Hunter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Patrick</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Colloid Interface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>188</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>325</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB013">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Hunter</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Colloids Surf. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>141</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>37</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB014">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Hsu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.W.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.S.</ce:given-name>
+                                 <ce:surname>Hsieh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.H.</ce:given-name>
+                                 <ce:surname>Young</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.W.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrophoresis</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2001</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB015">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.L.</ce:given-name>
+                                 <ce:surname>Mironov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.V.</ce:given-name>
+                                 <ce:surname>Dolgaya</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Membr. Biol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>86</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>197</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB016">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Ferguson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Kemblowski</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Applied Fluid Rheology</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1991</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Elsevier</sb:name>
+                                 <sb:location>London</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB017">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.G.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.Z.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.C.</ce:given-name>
+                                 <ce:surname>Gu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.N.</ce:given-name>
+                                 <ce:surname>Fang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Colloid Interface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>236</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>96</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB018">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Quemada</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Flaud</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.H.</ce:given-name>
+                                 <ce:surname>Jezequel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Eng. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>61</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB019">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Mikulasek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Wakeman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Q.</ce:given-name>
+                                 <ce:surname>Marchant</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Eng. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>67</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>97</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB020">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Sonnefeld</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Colloids Surf. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>190</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>179</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

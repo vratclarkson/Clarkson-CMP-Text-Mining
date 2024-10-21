@@ -1,0 +1,25 @@
+{
+  "title": "Chapter 6 CMP: Scaling down and stacking up: How the trends in semiconductors are affecting chemical-mechanical planarization",
+  "authors": [
+    "Tseng, Wei-Tsu"
+  ],
+  "publication": {
+    "journal": "Handbook of Thin Film Deposition",
+    "date": "2025-12-31",
+    "doi": "10.1016/B978-0-443-13523-1.00015-6"
+  },
+  "abstract": "Since the 1960s, silicon-based semiconductor industry has been following the Moore's law, which perceives that roughly every 2 years, the number of transistors on microchips will double, while the cost of computers is halved. The law itself has been driving the advancement of industry to achieve increasing speed and capability with lower cost of ownership. Naturally, the law leads to the shrinking geometry of devices and macros when a new technology node is introduced. Another emerging trend in the industry began around 2010, when device geometry approached nanometer scale and demands for higher device functionality and constraints of areal scaling eventuated the innovation of 3D devices and heterogeneous integration.\n               Consequently, Si semiconductors are scaling down and stacking up at the same time: device feature size is shrinking in the x-y plane, while even more layers of materials are being stacked and processed along the z-direction. Such aggressive geometric driving force engenders a multitude of challenges to process technologies like CMP. First, inevitably, it increases the number of CMP steps; second, it calls for the necessity of CMP for new materials to meet the required specifications; and third, the tolerance for non-uniformity, variability, topography, and defectivity become even more stringent than ever.\n               In general, the three major CMP performance metrics, planarity, uniformity, and defectivity are being stretched to meet the specs down to nm scale on one hand, while still required to polish 3D stacks on the order of μm on the other. Such critical challenges call for innovations in hardware and software such as more robust endpoint, APC/AI-based control … etc.; in consumables such as higher slurry selectivity, higher pad planarization efficiency in varying length scales, and more effective cleaning chemistry … etc. In this contribution, the CMP challenges and potential solutions in the era of aggressive semiconductor scaling and stacking will be reviewed and projected.",
+  "keywords": [
+    "3D devices",
+    "Chemical-mechanical planarization (CMP)",
+    "Consumables",
+    "Defectivity",
+    "Heterogeneous integration",
+    "Moore's law",
+    "Nanoscale",
+    "Si semiconductor",
+    "Topography"
+  ],
+  "sections": {},
+  "references": []
+}

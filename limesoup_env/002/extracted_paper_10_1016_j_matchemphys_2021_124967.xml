@@ -1,0 +1,2586 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0254058421007501</prism:url><dc:identifier>doi:10.1016/j.matchemphys.2021.124967</dc:identifier><eid>1-s2.0-S0254058421007501</eid><prism:doi>10.1016/j.matchemphys.2021.124967</prism:doi><pii>S0254-0584(21)00750-1</pii><dc:title>Improvement of oxide removal rate in chemical mechanical polishing by forming oxygen vacancy in ceria abrasives via ultraviolet irradiation </dc:title><prism:publicationName>Materials Chemistry and Physics</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>02540584</prism:issn><prism:volume>273</prism:volume><prism:startingPage>124967</prism:startingPage><prism:pageRange>124967</prism:pageRange><articleNumber>124967</articleNumber><dc:format>application/xml</dc:format><prism:coverDate>2021-11-15</prism:coverDate><prism:coverDisplayDate>15 November 2021</prism:coverDisplayDate><prism:copyright>© 2021 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Kim, Eungchul</dc:creator><dc:creator>Hong, Jiah</dc:creator><dc:creator>Hong, Seokjun</dc:creator><dc:creator>Kanade, Chaitanya</dc:creator><dc:creator>Seok, Hyunho</dc:creator><dc:creator>Kim, Hyeong-U</dc:creator><dc:creator>Kim, Taesung</dc:creator><dc:description>
+                  In highly integrated semiconductor chips, three dimensional (3D) stacked integrated circuits have increasingly required a high removal rate of the oxide film via chemical mechanical polishing (CMP). In this study, a new method is introduced to enhance the removal efficiency of ceria slurries, i.e., by irradiating ultraviolet (UV) light directly on the ceria slurries. When ceria abrasives were exposed to UV light, an oxygen vacancy leading to an increase in a concentration of Ce3+ occurred on the surface of ceria particles. At this time, the concentration of Ce3+ was related to the removal rate and it was possible to improve the removal efficiency of ceria slurry through UV irradiation. First of all, the ceria abrasives were characterized by using X-ray diffraction (XRD) and transmission electron microscopy (TEM). The formation of the oxygen vacancies on the ceria surface was estimated by using XRD, TEM, UV–visible spectroscopy, and X-ray photoelectron spectroscopy (XPS). By increasing the exposure time to UV light, the concentration of Ce3+ gradually increased and the growth of the removal rate with increasing Ce3+ concentration was confirmed. When UV light was irradiated to the ceria slurries for 50 h, the removal rate of the oxide film was increased by about 40 % compared to baseline slurry. Finally, a reliable correlation between the concentration of Ce3+ and the rate of oxide removal was identified.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Ceria abrasive</dcterms:subject><dcterms:subject>Ultraviolet light irradiation</dcterms:subject><dcterms:subject>Oxygen vacancy</dcterms:subject><dcterms:subject>Chemical mechanical polishing (CMP)</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0254058421007501" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0254058421007501" rel="scidir"/></coredata><objects><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="387" height="183" size="96145">https://api.elsevier.com/content/object/eid/1-s2.0-S0254058421007501-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="624" height="267" size="134427">https://api.elsevier.com/content/object/eid/1-s2.0-S0254058421007501-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="ga1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="389" height="200" size="106434">https://api.elsevier.com/content/object/eid/1-s2.0-S0254058421007501-ga1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="624" height="266" size="131076">https://api.elsevier.com/content/object/eid/1-s2.0-S0254058421007501-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="335" height="848" size="186458">https://api.elsevier.com/content/object/eid/1-s2.0-S0254058421007501-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="713" height="281" size="114352">https://api.elsevier.com/content/object/eid/1-s2.0-S0254058421007501-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="713" height="238" size="117152">https://api.elsevier.com/content/object/eid/1-s2.0-S0254058421007501-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="103" size="79896">https://api.elsevier.com/content/object/eid/1-s2.0-S0254058421007501-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="94" size="77942">https://api.elsevier.com/content/object/eid/1-s2.0-S0254058421007501-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="ga1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="113" size="80574">https://api.elsevier.com/content/object/eid/1-s2.0-S0254058421007501-ga1.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="93" size="76716">https://api.elsevier.com/content/object/eid/1-s2.0-S0254058421007501-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="64" height="162" size="73994">https://api.elsevier.com/content/object/eid/1-s2.0-S0254058421007501-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="86" size="72533">https://api.elsevier.com/content/object/eid/1-s2.0-S0254058421007501-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="73" size="71304">https://api.elsevier.com/content/object/eid/1-s2.0-S0254058421007501-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1713" height="808" size="324015">https://api.elsevier.com/content/object/eid/1-s2.0-S0254058421007501-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2764" height="1181" size="596310">https://api.elsevier.com/content/object/eid/1-s2.0-S0254058421007501-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="ga1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1724" height="886" size="333709">https://api.elsevier.com/content/object/eid/1-s2.0-S0254058421007501-ga1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2764" height="1177" size="541913">https://api.elsevier.com/content/object/eid/1-s2.0-S0254058421007501-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1484" height="3756" size="862814">https://api.elsevier.com/content/object/eid/1-s2.0-S0254058421007501-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3158" height="1243" size="411937">https://api.elsevier.com/content/object/eid/1-s2.0-S0254058421007501-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3158" height="1054" size="362789">https://api.elsevier.com/content/object/eid/1-s2.0-S0254058421007501-gr6_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="918590">https://api.elsevier.com/content/object/eid/1-s2.0-S0254058421007501-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85112484255</scopus-id><scopus-eid>2-s2.0-85112484255</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85112484255" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271571</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291689</xocs:ssid>
+         <xocs:ssid type="subj">291719</xocs:ssid>
+         <xocs:ssid type="subj">291892</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Materials Chemistry and Physics</xocs:srctitle>
+      <xocs:normalized-srctitle>MATERIALSCHEMISTRYPHYSICS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20210721">2021-07-21</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20210721">2021-07-21</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20210816">2021-08-16</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20210816">2021-08-16</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2021-11-16T10:55:30</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0254058421007501</xocs:eid>
+      <xocs:pii-formatted>S0254-0584(21)00750-1</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0254058421007501</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.matchemphys.2021.124967</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0254058421X00132</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20221212">2022-12-12T14:42:17.842371Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20211115</xocs:date-search-begin>
+      <xocs:year-nav>2021</xocs:year-nav>
+      <xocs:indexeddate epoch="1626841260">2021-07-21T04:21:00.464491Z</xocs:indexeddate>
+      <xocs:articleinfo>absattachment articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor grantsponsorid highlightsabst primabst ref specialabst</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0254-0584</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>02540584</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>273</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>273</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 273</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>73</xocs:sort-order>
+      <xocs:first-fp>124967</xocs:first-fp>
+      <xocs:article-number>124967</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>124967</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20211115</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 November 2021</xocs:cover-date-text>
+      <xocs:cover-date-start>2021-11-15</xocs:cover-date-start>
+      <xocs:cover-date-year>2021</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Research Articles</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2021 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>IMPROVEMENTOXIDEREMOVALRATEINCHEMICALMECHANICALPOLISHINGBYFORMINGOXYGENVACANCYINCERIAABRASIVESVIAULTRAVIOLETIRRADIATION</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>KIM</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>E</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Ceria slurries</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Ultraviolet (UV) irradiation on ceria slurry</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Characterization of oxygen vacancy on the ceria surface</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Chemical mechanical polishing (CMP)</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Characterization of ceria particles</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Oxygen vacancy</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>UV–vis &amp; transmission electron microscopy (TEM) analysis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>X-ray photoelectron spectroscopy (XPS) &amp; CMP</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>CRediT authorship contribution statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgment</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MICROELECTRONICAPPLICATIONSCHEMICALMECHANICALPLANARIZATION</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-normalized-surname>URBAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>37</xocs:ref-first-fp>
+            <xocs:ref-last-lp>42</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-normalized-surname>COOK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>152</xocs:ref-first-fp>
+            <xocs:ref-last-lp>171</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-normalized-surname>DUTTA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5144</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5146</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-normalized-surname>KELSALL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref6">
+            <xocs:ref-normalized-surname>CHOI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3128</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3132</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref7">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4951</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4954</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref8">
+            <xocs:ref-normalized-surname>SAHOO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>982</xocs:ref-first-fp>
+            <xocs:ref-last-lp>989</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref9">
+            <xocs:ref-normalized-surname>GILLISS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>61</xocs:ref-first-fp>
+            <xocs:ref-last-lp>67</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref10">
+            <xocs:ref-normalized-surname>SHEHATA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1173</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref11">
+            <xocs:ref-normalized-surname>BINET</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6392</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6398</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref12">
+            <xocs:ref-normalized-surname>SCHWEKE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6180</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6187</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref13">
+            <xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8018</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref14">
+            <xocs:ref-normalized-surname>KHAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>12560</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref15">
+            <xocs:ref-normalized-surname>ANTIC</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>884</xocs:ref-first-fp>
+            <xocs:ref-last-lp>888</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref16">
+            <xocs:ref-normalized-surname>IRALA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>109</xocs:ref-first-fp>
+            <xocs:ref-last-lp>115</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref17">
+            <xocs:ref-normalized-surname>ESMAILPOUR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5979</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5990</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref18">
+            <xocs:ref-normalized-surname>TOK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>223</xocs:ref-first-fp>
+            <xocs:ref-last-lp>229</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref19">
+            <xocs:ref-normalized-surname>TANIGUCHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3754</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3760</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref20">
+            <xocs:ref-normalized-surname>TSUNEKAWA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3440</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3443</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref21">
+            <xocs:ref-normalized-surname>DESHPANDE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref22">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>35344</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref23">
+            <xocs:ref-normalized-surname>HECKERT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2705</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2709</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref24">
+            <xocs:ref-normalized-surname>SINGH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>78</xocs:ref-first-fp>
+            <xocs:ref-last-lp>84</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref25">
+            <xocs:ref-normalized-surname>GAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>301</xocs:ref-first-fp>
+            <xocs:ref-last-lp>305</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref26">
+            <xocs:ref-normalized-surname>SINCLAIR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>200</xocs:ref-first-fp>
+            <xocs:ref-last-lp>211</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref27">
+            <xocs:ref-normalized-surname>KATO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5078</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5083</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref28">
+            <xocs:ref-normalized-surname>OH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>239</xocs:ref-first-fp>
+            <xocs:ref-last-lp>245</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref29">
+            <xocs:ref-normalized-surname>SRIVASTAVA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>32</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref30">
+            <xocs:ref-normalized-surname>LUO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>469</xocs:ref-first-fp>
+            <xocs:ref-last-lp>476</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref31">
+            <xocs:ref-normalized-surname>DANDU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>OPTINFOBASECONFPAP</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>ROLECE3VSCE4DURINGPOLISHINGSILICONDIOXIDESILICONNITRIDEFILMSUSINGCERIAABRASIVES</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>KIMX2021X124967</xocs:refkey3>
+         <xocs:refkey4ai>KIMX2021X124967XE</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2023-08-16T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2023-08-16T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2021 Elsevier B.V. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2021-08-18T23:58:41.950Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>NST</xocs:funding-agency-matched-string>
+            <xocs:funding-agency-acronym>NST</xocs:funding-agency-acronym>
+            <xocs:funding-agency>National Research Council of Science and Technology</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100008783</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1835841/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>KIMM</xocs:funding-agency-matched-string>
+            <xocs:funding-agency-acronym>KIMM</xocs:funding-agency-acronym>
+            <xocs:funding-agency>Korea Institute of Machinery and Materials</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100003701</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1835841/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>National Research Foundation of Korea</xocs:funding-agency-matched-string>
+            <xocs:funding-agency-acronym>NRF</xocs:funding-agency-acronym>
+            <xocs:funding-agency>National Research Foundation of Korea</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100003725</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1835841/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>MEST</xocs:funding-agency-matched-string>
+            <xocs:funding-id>2018R1D1A1B07040292</xocs:funding-id>
+            <xocs:funding-id>NRF-2017R1A2B3011222</xocs:funding-id>
+            <xocs:funding-agency-acronym>MEST</xocs:funding-agency-acronym>
+            <xocs:funding-agency>Ministry of Education, Science and Technology</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100004085</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1835841/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding-text>This work was supported by the National Research Foundation of Korea grant funded by the Korea government (MEST) (No. NRF-2017R1A2B3011222 ) and ( 2018R1D1A1B07040292 ). This research was partially supported by NST/KIMM, Republic of Korea .</xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:third-party>
+         <xocs:third-party-status>0</xocs:third-party-status>
+      </xocs:third-party>
+      <xocs:article-sharing-framework>
+         <xocs:asf-license>https://doi.org/10.15223/policy-017</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-037</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-012</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-029</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-004</xocs:asf-license>
+      </xocs:article-sharing-framework>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0254-0584(21)00750-1</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0254058421007501</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0254058421007501</xocs:eid>
+         <xocs:doi>10.1016/j.matchemphys.2021.124967</xocs:doi>
+         <xocs:cid>271571</xocs:cid>
+         <xocs:timestamp>2021-11-16T11:15:39.441869Z</xocs:timestamp>
+         <xocs:cover-date-start>2021-11-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0254058421007501-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0254058421007501/MAIN/application/pdf/7c40690e4dc3e8312dffba2d042d52c7/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>4768589</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0254058421007501-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0254058421007501/PREVIEW/image/png/089d35d73128cf3473f359ab9d09c5ec/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>48867</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0254058421007501-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0254058421007501/gr1/DOWNSAMPLED/image/jpeg/834d21f357405f9efa5752075fbcd17f/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>96145</xocs:filesize>
+               <xocs:pixel-height>183</xocs:pixel-height>
+               <xocs:pixel-width>387</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0254058421007501-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0254058421007501/gr2/DOWNSAMPLED/image/jpeg/596e92b29171dc162278b3a1d702051b/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>134427</xocs:filesize>
+               <xocs:pixel-height>267</xocs:pixel-height>
+               <xocs:pixel-width>624</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0254058421007501-ga1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0254058421007501/ga1/DOWNSAMPLED/image/jpeg/a26b266ba82a5afcc11d04cbcb646b41/ga1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>106434</xocs:filesize>
+               <xocs:pixel-height>200</xocs:pixel-height>
+               <xocs:pixel-width>389</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0254058421007501-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0254058421007501/gr3/DOWNSAMPLED/image/jpeg/0627ddfdc37051ba8132ff80e1d7f6e0/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>131076</xocs:filesize>
+               <xocs:pixel-height>266</xocs:pixel-height>
+               <xocs:pixel-width>624</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0254058421007501-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0254058421007501/gr4/DOWNSAMPLED/image/jpeg/16f2a738b1b638e1514ae23323b25369/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>186458</xocs:filesize>
+               <xocs:pixel-height>848</xocs:pixel-height>
+               <xocs:pixel-width>335</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0254058421007501-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0254058421007501/gr5/DOWNSAMPLED/image/jpeg/9ff605fbf2352aef0ad2b1e3a9bec525/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>114352</xocs:filesize>
+               <xocs:pixel-height>281</xocs:pixel-height>
+               <xocs:pixel-width>713</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0254058421007501-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0254058421007501/gr6/DOWNSAMPLED/image/jpeg/31e96687edcbf0b91fcc63f4d30dba3f/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>117152</xocs:filesize>
+               <xocs:pixel-height>238</xocs:pixel-height>
+               <xocs:pixel-width>713</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0254058421007501-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0254058421007501/gr1/THUMBNAIL/image/gif/006cf47a037faa2562dd0891657447c0/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>79896</xocs:filesize>
+               <xocs:pixel-height>103</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0254058421007501-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0254058421007501/gr2/THUMBNAIL/image/gif/946fd9661ee3a46699f8ed5f3b7b6fb8/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>77942</xocs:filesize>
+               <xocs:pixel-height>94</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0254058421007501-ga1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0254058421007501/ga1/THUMBNAIL/image/gif/2d696240ad16fd772e5cca1465b7ff68/ga1.sml</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>80574</xocs:filesize>
+               <xocs:pixel-height>113</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0254058421007501-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0254058421007501/gr3/THUMBNAIL/image/gif/d472753ec8672e00f7c851018ad93e78/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>76716</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0254058421007501-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0254058421007501/gr4/THUMBNAIL/image/gif/2189adde6ed1d6bd05cfad3996efa7be/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>73994</xocs:filesize>
+               <xocs:pixel-height>162</xocs:pixel-height>
+               <xocs:pixel-width>64</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0254058421007501-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0254058421007501/gr5/THUMBNAIL/image/gif/669bbd78255c3003754fd08ee2721271/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>72533</xocs:filesize>
+               <xocs:pixel-height>86</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0254058421007501-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0254058421007501/gr6/THUMBNAIL/image/gif/07bd23b5597b8e7d36a2426a4593a936/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>71304</xocs:filesize>
+               <xocs:pixel-height>73</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0254058421007501-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0254058421007501/gr1/HIGHRES/image/jpeg/5676d2eae13e1dca8a3a5f7f66e09cfb/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>324015</xocs:filesize>
+               <xocs:pixel-height>808</xocs:pixel-height>
+               <xocs:pixel-width>1713</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0254058421007501-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0254058421007501/gr2/HIGHRES/image/jpeg/1a93470f958ed6304759971d15550033/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>596310</xocs:filesize>
+               <xocs:pixel-height>1181</xocs:pixel-height>
+               <xocs:pixel-width>2764</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0254058421007501-ga1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0254058421007501/ga1/HIGHRES/image/jpeg/c4c40fdbc55566e732a6b79167d86999/ga1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>333709</xocs:filesize>
+               <xocs:pixel-height>886</xocs:pixel-height>
+               <xocs:pixel-width>1724</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0254058421007501-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0254058421007501/gr3/HIGHRES/image/jpeg/5b8cc382be2e2008e12f083579cde8f2/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>541913</xocs:filesize>
+               <xocs:pixel-height>1177</xocs:pixel-height>
+               <xocs:pixel-width>2764</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0254058421007501-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0254058421007501/gr4/HIGHRES/image/jpeg/00d7b076a9df4e61304f7d3317045643/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>862814</xocs:filesize>
+               <xocs:pixel-height>3756</xocs:pixel-height>
+               <xocs:pixel-width>1484</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0254058421007501-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0254058421007501/gr5/HIGHRES/image/jpeg/067923422f572374d05c1d9907f0424c/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>411937</xocs:filesize>
+               <xocs:pixel-height>1243</xocs:pixel-height>
+               <xocs:pixel-width>3158</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0254058421007501-gr6_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0254058421007501/gr6/HIGHRES/image/jpeg/f39ee873af0e540cde827df304bd7cfb/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>362789</xocs:filesize>
+               <xocs:pixel-height>1054</xocs:pixel-height>
+               <xocs:pixel-width>3158</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0254058421007501-am.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10NPRZ58DJ9/MAIN/application/pdf/4c9536a171d99851e3b8bbbd51e17022/am.pdf</xocs:ucs-locator>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>false</xocs:pdf-optimized>
+               <xocs:filesize>918590</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>MAC</jid>
+            <aid>124967</aid>
+            <ce:article-number>124967</ce:article-number>
+            <ce:pii>S0254-0584(21)00750-1</ce:pii>
+            <ce:doi>10.1016/j.matchemphys.2021.124967</ce:doi>
+            <ce:copyright type="full-transfer" year="2021">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="fspara0010" view="all">Experimental setup of the ultraviolet (UV)-irradiation system. (a) photo image; (b) schematic image.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0015">Fig. 1</ce:alt-text>
+               <ce:link locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0254058421007501/gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="fspara0015" view="all">TEM images of (a) CS-A, (b) CS-B, and (c) CS-C ceria particles; (d) XRD patterns of CS-A, CS-B, and CS-C before and after UV irradiation, (e) Schematic illustration of oxygen formation on the surface of CeO<ce:inf loc="post">2</ce:inf> by UV-irradiation.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0020">Fig. 2</ce:alt-text>
+               <ce:link locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0254058421007501/gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="fspara0020" view="all">(a) UV–vis absorption spectra of CS-A before/after UV irradiation. TEM images of (b) non-UV-treated ceria; (c) UV-treated ceria particles of CS-A. Fast Fourier transform (FFT) patterns; (d) from TEM image of (b), and (e) from TEM image of (c).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0025">Fig. 3</ce:alt-text>
+               <ce:link locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0254058421007501/gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="fspara0025" view="all">XPS spectra; (a) CS-A, (b) CS-B, and (c) CS-C before and after UV irradiation.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0030">Fig. 4</ce:alt-text>
+               <ce:link locator="gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0254058421007501/gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="fspara0030" view="all">(a) Removal rates of an oxide film using ceria slurries with and without UV irradiation. (b) Particle size distribution of CS-A, CS-B and CS-C by using dynamic light scattering.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0035">Fig. 5</ce:alt-text>
+               <ce:link locator="gr5" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0254058421007501/gr5"/>
+            </ce:figure>
+            <ce:figure id="fig6">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="fspara0035" view="all">(a) Removal rates and Ce<ce:sup loc="post">3+</ce:sup> concentration according to UV-light exposure time. (b) Correlation between the removal rates of an oxide film and the concentration of Ce<ce:sup loc="post">3+</ce:sup>.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0040">Fig. 6</ce:alt-text>
+               <ce:link locator="gr6" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0254058421007501/gr6"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl1" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0040">
+                  <ce:simple-para id="tspara0010" view="all">Conditions of the oxide CMP process.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0045">Table 1</ce:alt-text>
+               <tgroup cols="2">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Parameter</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Condition</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Material</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1 μm-thick SiO<inf loc="post">2</inf> film on four-inch wafer</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Pad</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">IC1010/Suba IV</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Down pressure on the wafer</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">4 psi</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Down force on conditioner</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">3 kgf</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Pad rotation speed</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">93 rpm</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Wafer rotation speed</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">87 rpm</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Slurry flow rate</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">180 ml/min</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Process time</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1 min</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl2" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="cap0045">
+                  <ce:simple-para id="tspara0015" view="all">Lattice parameters and crystallite sizes of ceria particles.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0050">Table 2</ce:alt-text>
+               <tgroup cols="3">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Abrasive type</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Lattice parameter (Å)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Crystallite size (nm)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">CS-A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5.4195</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">23.57</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">CS-A + UV</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5.4256</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">23.10</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">CS-B</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5.3975</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">30.15</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">CS-B + UV</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5.4048</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">29.10</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">CS-C</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5.4024</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">9.22</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">CS-C + UV</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5.4085</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">8.96</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl3" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 3</ce:label>
+               <ce:caption id="cap0050">
+                  <ce:simple-para id="tspara0020" view="all">Ce<ce:sup loc="post">3+</ce:sup> concentration before and after UV irradiation from XPS spectra.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="alttext0055">Table 3</ce:alt-text>
+               <tgroup cols="3">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Abrasive type</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ce<sup loc="post">3+</sup> concentration before UV treatment</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ce<sup loc="post">3+</sup> concentration after UV treatment</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">CS-A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">14.06</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">21.28</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">CS-B</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">13.37</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">19.69</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">CS-C</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">11.83</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">13.53</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="title0010">Improvement of oxide removal rate in chemical mechanical polishing by forming oxygen vacancy in ceria abrasives via ultraviolet irradiation</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author id="au1" author-id="S0254058421007501-8d10f133bdb165501b688d822f860b3f">
+                  <ce:given-name>Eungchul</ce:given-name>
+                  <ce:surname>Kim</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/methodology">Methodology</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+                  <ce:cross-ref refid="aff1" id="crosref0010">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au2" author-id="S0254058421007501-abb507b07c2bd583d5a2c863d6c25fab">
+                  <ce:given-name>Jiah</ce:given-name>
+                  <ce:surname>Hong</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+                  <ce:cross-ref refid="aff1" id="crosref0015">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au3" author-id="S0254058421007501-5d5e59c8d00c96a7b4decea4eabe9de9">
+                  <ce:given-name>Seokjun</ce:given-name>
+                  <ce:surname>Hong</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/resources">Resources</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+                  <ce:cross-ref refid="aff1" id="crosref0020">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au4" author-id="S0254058421007501-d67f475d9855368e686af25624b913d3">
+                  <ce:given-name>Chaitanya</ce:given-name>
+                  <ce:surname>Kanade</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/investigation">Investigation</ce:contributor-role>
+                  <ce:cross-ref refid="aff2" id="crosref0025">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au5" author-id="S0254058421007501-3270f57aed04fe7329f8d1e446ba494e">
+                  <ce:given-name>Hyunho</ce:given-name>
+                  <ce:surname>Seok</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/visualization">Visualization</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/software">Software</ce:contributor-role>
+                  <ce:cross-ref refid="aff2" id="crosref0030">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au6" author-id="S0254058421007501-8d6c2f71e0e0900294d849617a148fac">
+                  <ce:given-name>Hyeong-U</ce:given-name>
+                  <ce:surname>Kim</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/validation">Validation</ce:contributor-role>
+                  <ce:cross-ref refid="aff3" id="crosref0035">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au7" author-id="S0254058421007501-6b97d4365a55bebbb0a9e588dd8f18ec">
+                  <ce:given-name>Taesung</ce:given-name>
+                  <ce:surname>Kim</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/supervision">Supervision</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/project-administration">Project administration</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/funding-acquisition">Funding acquisition</ce:contributor-role>
+                  <ce:cross-ref refid="aff1" id="crosref0040">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="aff2" id="crosref0045">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="crosref0050">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S0254058421007501-9ab487b3f63aa70bea79d8f6bc6e52cd">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>School of Mechanical Engineering, Sungkyunkwan University, Suwon, 16419, South Korea</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>School of Mechanical Engineering</sa:organization>
+                     <sa:organization>Sungkyunkwan University</sa:organization>
+                     <sa:city>Suwon</sa:city>
+                     <sa:postal-code>16419</sa:postal-code>
+                     <sa:country>South Korea</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0010">School of Mechanical Engineering, Sungkyunkwan University, Suwon, 16419, South Korea</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff2" affiliation-id="S0254058421007501-c05ebb1abe2f9620824ea6143e9c3998">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>SKKU Advanced Institute of Nanotechnology (SAINT), Sungkyunkwan University, Suwon, 16419, South Korea</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>SKKU Advanced Institute of Nanotechnology (SAINT)</sa:organization>
+                     <sa:organization>Sungkyunkwan University</sa:organization>
+                     <sa:city>Suwon</sa:city>
+                     <sa:postal-code>16419</sa:postal-code>
+                     <sa:country>South Korea</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0015">SKKU Advanced Institute of Nanotechnology (SAINT), Sungkyunkwan University, Suwon, 16419, South Korea</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff3" affiliation-id="S0254058421007501-387527c3a7dc45ddb9420b9c33e98a3b">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Plasma Engineering Laboratory, Korea Institute of Machinery and Materials (KIMM), Daejeon, 34103, South Korea</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Plasma Engineering Laboratory</sa:organization>
+                     <sa:organization>Korea Institute of Machinery and Materials (KIMM)</sa:organization>
+                     <sa:city>Daejeon</sa:city>
+                     <sa:postal-code>34103</sa:postal-code>
+                     <sa:country>South Korea</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0020">Plasma Engineering Laboratory, Korea Institute of Machinery and Materials (KIMM), Daejeon, 34103, Republic of Korea</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Corresponding author. School of Mechanical Engineering, Sungkyunkwan University, Suwon, 16419, South Korea.</ce:text>
+                  <sa:affiliation>
+                     <sa:organization>School of Mechanical Engineering</sa:organization>
+                     <sa:organization>Sungkyunkwan University</sa:organization>
+                     <sa:city>Suwon</sa:city>
+                     <sa:postal-code>16419</sa:postal-code>
+                     <sa:country>South Korea</sa:country>
+                  </sa:affiliation>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="6" month="8" year="2020"/>
+            <ce:date-revised day="17" month="11" year="2020"/>
+            <ce:date-accepted day="9" month="7" year="2021"/>
+            <ce:abstract xml:lang="en" id="abs0010" view="all" class="author"><ce:abstract-sec id="abssec0010" view="all">
+                  <ce:simple-para id="abspara0010" view="all">In highly integrated semiconductor chips, three dimensional (3D) stacked integrated circuits have increasingly required a high removal rate of the oxide film via chemical mechanical polishing (CMP). In this study, a new method is introduced to enhance the removal efficiency of ceria slurries, i.e., by irradiating ultraviolet (UV) light directly on the ceria slurries. When ceria abrasives were exposed to UV light, an oxygen vacancy leading to an increase in a concentration of Ce<ce:sup loc="post">3+</ce:sup> occurred on the surface of ceria particles. At this time, the concentration of Ce<ce:sup loc="post">3+</ce:sup> was related to the removal rate and it was possible to improve the removal efficiency of ceria slurry through UV irradiation. First of all, the ceria abrasives were characterized by using X-ray diffraction (XRD) and transmission electron microscopy (TEM). The formation of the oxygen vacancies on the ceria surface was estimated by using XRD, TEM, UV–visible spectroscopy, and X-ray photoelectron spectroscopy (XPS). By increasing the exposure time to UV light, the concentration of Ce<ce:sup loc="post">3+</ce:sup> gradually increased and the growth of the removal rate with increasing Ce<ce:sup loc="post">3+</ce:sup> concentration was confirmed. When UV light was irradiated to the ceria slurries for 50 h, the removal rate of the oxide film was increased by about 40 % compared to baseline slurry. Finally, a reliable correlation between the concentration of Ce<ce:sup loc="post">3+</ce:sup> and the rate of oxide removal was identified.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:abstract class="graphical" id="abs0015" view="all">
+               <ce:section-title id="sectitle0015">Graphical abstract</ce:section-title>
+               <ce:abstract-sec id="abssec0015" view="all">
+                  <ce:simple-para id="abspara0015" view="all">
+                     <ce:display>
+                        <ce:figure id="undfig1">
+                           <ce:alt-text role="short" id="alttext0010">Image 1</ce:alt-text>
+                           <ce:link locator="ga1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0254058421007501/ga1"/>
+                        </ce:figure>
+                     </ce:display>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            
+            <ce:keywords xml:lang="en" id="kwrds0010" view="all" class="keyword">
+               <ce:section-title id="sectitle0025">Keywords</ce:section-title>
+               <ce:keyword id="kwrd0010">
+                  <ce:text>Ceria abrasive</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0015">
+                  <ce:text>Ultraviolet light irradiation</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0020">
+                  <ce:text>Oxygen vacancy</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0025">
+                  <ce:text>Chemical mechanical polishing (CMP)</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sectitle0030">Introduction</ce:section-title>
+                  <ce:para id="p0030" view="all">As next-generation devices continue to develop, three-dimensional integrated circuits are becoming increasingly required, owing to their improved performance from the reduction of interconnect lengths [<ce:cross-ref refid="bib1" id="crosref0055">1</ce:cross-ref>]. As a consequence, the number of layers of vertical gates has drastically increased, revealing a significant challenge for high oxide removal efficiency in the chemical mechanical polishing (CMP) process [<ce:cross-ref refid="bib2" id="crosref0060">2</ce:cross-ref>]. Ceria is highly reactive with oxide films and has received notable attention as an abrasive for effective removal of oxide substrates. The removal mechanism of ceria abrasives was first developed by Cook, who used the expression “chemical tooth” for the interaction between the ceria and substrate [<ce:cross-ref refid="bib3" id="crosref0065">3</ce:cross-ref>]. Recently, it has been proposed that the active sites consist of Ce<ce:sup loc="post">3+</ce:sup>, resulting from an oxygen vacancy on the surface of the particle [<ce:cross-ref refid="bib4" id="crosref0070">4</ce:cross-ref>,<ce:cross-ref refid="bib5" id="crosref0075">5</ce:cross-ref>]. The active sites with Ce<ce:sup loc="post">3+</ce:sup> strongly react with the oxide film, weakening the bond between Si and O by forming a Ce–O–Si bond. By increasing the concentration of Ce<ce:sup loc="post">3+</ce:sup>, the number of active sites on the surface of the particle increases, leading to a high removal rate by accelerating the interactions between the ceria and SiO<ce:inf loc="post">2</ce:inf> substrate. Therefore, the importance of the active oxidation state of ceria has been emphasized, and the importance of augmenting the concentration of Ce<ce:sup loc="post">3+</ce:sup> on the surface of ceria has increased.</ce:para>
+                  <ce:para id="p0035" view="all">Based on a study in the semiconductor industry, J. H. Choi proposed the formation of an oxygen vacancy by the substitution of a metal ion. The relationship between the removal rate and the Ce<ce:sup loc="post">3+</ce:sup> concentration was evaluated using ultraviolet (UV)–visible spectroscopy [<ce:cross-ref refid="bib6" id="crosref0080">6</ce:cross-ref>]. L. Wang found that the removal rate increases in optical glass CMP as the contents of ceria abrasive decrease, owing to an increase in the concentration of Ce<ce:sup loc="post">3+</ce:sup> when the ceria slurry is diluted [<ce:cross-ref refid="bib7" id="crosref0085">7</ce:cross-ref>]. In other areas, many studies have attempted to improve the catalytic activity of ceria by making oxygen vacancies on the surfaces of cerium oxide particles. S. K. Sahoo investigated a method for the hydrothermal synthesis of nano-CeO<ce:inf loc="post">2</ce:inf>. By controlling the synthesis time and temperature, the concentration of Ce<ce:sup loc="post">3+</ce:sup> varied and was evaluated using UV–visible spectroscopy [<ce:cross-ref refid="bib8" id="crosref0090">8</ce:cross-ref>]. Shelley R. Gilliss and N. Shehata found that doped impurities such as lanthanide elements and fluorine lead to an increased concentration of Ce<ce:sup loc="post">3+</ce:sup> on the surface of ceria [<ce:cross-ref refid="bib9" id="crosref0095">9</ce:cross-ref>,<ce:cross-ref refid="bib10" id="crosref0100">10</ce:cross-ref>]. C. Binet and D. Schweke studied an H<ce:inf loc="post">2</ce:inf> reduction of ceria that formed an oxygen vacancy, which led to Ce<ce:sup loc="post">3+</ce:sup> by H<ce:inf loc="post">2</ce:inf> dissociation [<ce:cross-ref refid="bib11" id="crosref0105">11</ce:cross-ref>,<ce:cross-ref refid="bib12" id="crosref0110">12</ce:cross-ref>].</ce:para>
+                  <ce:para id="p0040" view="all">In this study, we suggest a new method for enhancing the oxide CMP performance for a ceria slurry by using UV light. This method does not require the addition of other chemicals or special environments, so it can be more easily and cost-effectively applied to the semiconductor manufacturing industry than referred methods. UV light can create defects directly on the surface of a ceria particle, thereby forming an oxygen vacancy that leads to the improvement of the reactive surface [<ce:cross-ref refid="bib13" id="crosref0115">13</ce:cross-ref>]. Therefore, an increase in the removal rate can be achieved because the increase of reactive sites promotes the chemical bonding between ceria and oxide film. The effect of UV light on the concentration of Ce<ce:sup loc="post">3+</ce:sup> in ceria particles is investigated, and its impact on the removal rate of the oxide film is evaluated.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sectitle0035">Experimental</ce:section-title>
+                  <ce:section id="sec2.1" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="sectitle0040">Ceria slurries</ce:section-title>
+                     <ce:para id="p0045" view="all">In this experiment, three types of ceria abrasives were evaluated. A commercial calcined ceria slurry (CS-A) was tested and analyzed. The other slurries were compounded in our lab using ceria powder of size 100 nm (CP100; US Research Nanomaterials, USA; CS-B) and ceria of size 10 nm (CP10; US research Nanomaterials, USA; CS-C). The morphologies of the three types of abrasives were characterized using transmission electron microscopy (TEM; JEOL, JEM ARM200F, Japan). X-ray diffraction (XRD; D8 ADVANCE, Bruker, USA) analysis was performed to determine the structural properties of the ceria particles. For the CMP test, all samples were diluted to 1 wt% by distilled water, and the pH of the slurries was maintained in a range near 7 using KOH.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.2" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="sectitle0045">Ultraviolet (UV) irradiation on ceria slurry</ce:section-title>
+                     <ce:para id="p0050" view="all">The experimental setup for sample preparation is shown in <ce:cross-ref refid="fig1" id="crosref0120">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig1"/>. The inside of the chamber was covered with aluminum foil, not only to prevent light loss but also to increase the efficiency of the UV-light irradiation on the ceria slurry. The UV-light source, of power 6 W and wavelength 254 nm, was attached to the upper side of the chamber; it was located 3.5 cm above the surface of the slurry when a container was filled with 450 ml of the slurry. To make an electron-hole on the surface of a ceria particle, the photon energy of the UV-light must be higher than the bandgap of 3.0 eV for ceria. Since the UV-light source with 254 nm of wavelength can provide large energy with 4.88 eV, the UV-light was used to deliver photon energy over the bandgap of general ceria [<ce:cross-ref refid="bib13" id="crosref0125">13</ce:cross-ref>]. In this experimental condition, the intensity of UV-light on the surface of the sample is 0.489 W/cm<ce:sup loc="post">2</ce:sup>. The prepared slurry samples were irradiated by UV light under stirring by a magnetic stirrer at 400 rpm for 6 h.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.3" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="sectitle0050">Characterization of oxygen vacancy on the ceria surface</ce:section-title>
+                     <ce:para id="p0055" view="all">Various analytical methods have been used to identify oxygen vacancies on the surface of ceria particles caused by UV-irradiation. In this study, UV–visible spectroscopy was performed to define the oxidized state of the cerium oxide in solution. An oxygen vacancy was confirmed based on UV-irradiation, and a fast Fourier transform (FFT) pattern was analyzed to identify the extra diffraction spots from the oxygen vacancy. Finally, through X-ray photoelectron spectroscopy (XPS; ESCALAB 250, Thermo Fisher, USA) analysis, the element ratios of Ce<ce:sup loc="post">3+</ce:sup> and Ce<ce:sup loc="post">4+</ce:sup> were determined to analyze the change in the charge transfer of Ce by the oxygen vacancy. The relationship between the concentration of Ce<ce:sup loc="post">3+</ce:sup> and the polishing rate was confirmed via comparison with the CMP results.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.4" view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title id="sectitle0055">Chemical mechanical polishing (CMP)</ce:section-title>
+                     <ce:para id="p0060" view="all">A rotary-type CMP machine (Poly-400, G&amp;P Technology, Korea) was used to polish the oxide wafer, and a polyurethane polishing pad (IC1010, Dupont, USA) was conditioned for 30 min before each polishing, to maintain uniform conditions. During CMP, the conditioning was also performed at 3 kgf in situ. The pad rotation speed was 93 rpm, and the rotation speeds of the conditioner and wafer head were 87 rpm. The removal rate of the polished oxide film was obtained by measuring the difference between the thickness of the oxide film before and after CMP using a reflectometer (ST5030-SL, K-MAC Co., Korea). The detailed experimental conditions are listed in <ce:cross-ref refid="tbl1" id="crosref0130">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="tbl1"/>.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec3" role="results" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sectitle0060">Results and discussion</ce:section-title>
+                  <ce:section id="sec3.1" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="sectitle0065">Characterization of ceria particles</ce:section-title>
+                     <ce:para id="p0065" view="all">
+                        <ce:cross-ref refid="fig2" id="crosref0135">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="fig2"/>(a–c) shows the morphology and size of each ceria particle captured via TEM. The shape of CS-A was found to be most varied among the particles used in the experiment; the particles have a size distribution of 20–200 nm, as shown in <ce:cross-ref refid="fig2" id="crosref0140">Fig. 2</ce:cross-ref>(a). The particles of CS-B are 20–150 nm in size, with particle size distribution similar to that of CS-A. It appears that polyhedral particles exist in some aggregated state, as shown in <ce:cross-ref refid="fig2" id="crosref0145">Fig. 2</ce:cross-ref>(b). In the case of CS-C, the particle size is distributed in the 10 nm band and the particles exist in an agglomerated state, as shown in <ce:cross-ref refid="fig2" id="crosref0150">Fig. 2</ce:cross-ref>(c). From previous studies, indicating that the removal rate varies depending on the crystal structure of the ceria, it can be said that the reactivity differs depending on the crystal structure of the particle. Thus, it is necessary to confirm whether structural changes occur in ceria particles under UV irradiation. Therefore, the crystal structures of each particle and specimen with UV-treatment for 6 h were analyzed by XRD, as shown in <ce:cross-ref refid="fig2" id="crosref0155">Fig. 2</ce:cross-ref>(d). All samples were confirmed to correspond to the cubic phase, according to the main diffraction peak of the face-centered cubic fluorite structure of cerium oxide (JCPDS 34–0394) [<ce:cross-ref refid="bib14" id="crosref0160">14</ce:cross-ref>,<ce:cross-ref refid="bib15" id="crosref0165">15</ce:cross-ref>]. The crystalline structures of the ceria particles were not changed by the irradiation of UV light.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.2" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="sectitle0070">Oxygen vacancy</ce:section-title>
+                     <ce:para id="p0070" view="all">In previous reports, the oxygen vacancy formation energy on the surface of ceria particles is 1.16 eV [<ce:cross-ref refid="bib16" id="crosref0170">16</ce:cross-ref>]. The removal of a single electron from the valence band of ceria decreases the oxygen vacancy formation energy to 0.44 eV. In the presence of UV light, the energy of the system is further lowered, owing to the separation of the electron-hole pair. When the UV light is irradiated on the surface of ceria, the oxygen vacancy formation energy is lowered to a negative value of −0.64 eV. Therefore, the electrons and holes generated from the UV irradiation reduce Ce<ce:sup loc="post">4+</ce:sup> to Ce<ce:sup loc="post">3+</ce:sup> and the holes oxidize O<ce:sup loc="post">2−</ce:sup> anions [<ce:cross-ref refid="bib13" id="crosref0175">13</ce:cross-ref>,<ce:cross-ref refid="bib17" id="crosref0180">17</ce:cross-ref>]. Thus, UV irradiation effectively generates Ce<ce:sup loc="post">3+</ce:sup> on the surface of ceria, as expressed in <ce:cross-ref refid="fig2" id="crosref0185">Fig. 2</ce:cross-ref>(e).</ce:para>
+                     <ce:para id="p0075" view="all">
+                        <ce:cross-ref refid="tbl2" id="crosref0190">Table 2</ce:cross-ref>
+                        <ce:float-anchor refid="tbl2"/> lists the crystallite size and lattice parameters before and after UV irradiation for all samples from the diffraction patterns shown in <ce:cross-ref refid="fig2" id="crosref0195">Fig. 2</ce:cross-ref>(d). The crystallite size is calculated with the Scherrer formula using the full-width at half-maximum of the (111) diffraction peaks. When the UV light is irradiated on ceria slurries, the crystallite sizes of all types of ceria abrasives decrease, as shown in <ce:cross-ref refid="tbl2" id="crosref0200">Table 2</ce:cross-ref>. Some studies have reported a correlation between the crystallite size and the concentration of Ce<ce:sup loc="post">3+</ce:sup>. As the Ce<ce:sup loc="post">3+</ce:sup> concentration increases, the crystallite size of ceria decrease [<ce:cross-ref refid="bib18" id="crosref0205">18</ce:cross-ref>,<ce:cross-ref refid="bib19" id="crosref0210">19</ce:cross-ref>]. Furthermore, a lattice expansion of the ceria occurs, owing to the decrease in crystallite size with the increase Ce<ce:sup loc="post">3+</ce:sup> concentration. The formation of oxygen vacancies and accompanying Ce<ce:sup loc="post">3+</ce:sup> ions leads to a distortion of the local symmetry, causing changes in the Ce–O bond length and overall lattice parameter [<ce:cross-ref refid="bib18" id="crosref0215">18</ce:cross-ref>,<ce:cross-ref refid="bib20" id="crosref0220">20</ce:cross-ref>,<ce:cross-ref refid="bib21" id="crosref0225">21</ce:cross-ref>]. In this experiment, the lattice parameters of the ceria abrasives were found to increase when the samples were UV-treated. From the XRD analysis, the increase in the lattice parameters and decrease in crystallite size indicate the formation of oxygen vacancies from the UV irradiation.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.3" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title id="sectitle0075">UV–vis &amp; transmission electron microscopy (TEM) analysis</ce:section-title>
+                     <ce:para id="p0080" view="all">UV–visible spectroscopy has been used to obtain information on the surface coordination and various oxidation states of metal ions in a solid solution. As the concentration of Ce<ce:sup loc="post">3+</ce:sup> ions is in relative proportion to the intensity of UV absorption, the change in absorption in the UV region indicates a change in the surface oxidation state of a ceria particle. <ce:cross-ref refid="fig3" id="crosref0230">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="fig3"/>(a) shows the UV–vis spectra of the CS-A particles with and without UV treatment. The results show the presence of a strong peak near 260 nm and a relatively weak peak at 320 nm. The absorption peaks at 260 and 320 nm in the UV–vis spectra of the ceria are ascribed to Ce<ce:sup loc="post">3+</ce:sup> and Ce<ce:sup loc="post">4+</ce:sup>, respectively [<ce:cross-refs refid="bib22 bib23 bib24" id="crosrefs0010">22–24</ce:cross-refs>]. No evident change in the absorption peak at 320 nm belonging to Ce<ce:sup loc="post">4+</ce:sup> was observed; however, the peak at 260 nm increased when UV light was irradiated. This result demonstrates that irradiating UV light on a ceria slurry increases the concentration of Ce<ce:sup loc="post">3+</ce:sup> on the abrasive surface. The increment in the Ce<ce:sup loc="post">3+</ce:sup> concentration is beneficial for the CMP process, owing to the relative ease of forming a Ce(OH)<ce:inf loc="post">3</ce:inf> hydration layer for promoting the Ce–O–Si bond in the CMP process, according to Cook's model [<ce:cross-ref refid="bib3" id="crosref0235">3</ce:cross-ref>].</ce:para>
+                     <ce:para id="p0085" view="all">A typical cross-sectional high-resolution TEM image of a CS-A particle before and after UV treatment is shown in <ce:cross-ref refid="fig3" id="crosref0240">Fig. 3</ce:cross-ref>(b and c). The highly crystalline nature and well-defined lattice planes [{111}, {001}, etc.] of the CeO<ce:inf loc="post">2</ce:inf> particles can be easily observed in <ce:cross-ref refid="fig3" id="crosref0245">Fig. 3</ce:cross-ref>(b and c). The crystal lattice image in <ce:cross-ref refid="fig3" id="crosref0250">Fig. 3</ce:cross-ref>(c) shows that the UV treatment of CeO<ce:inf loc="post">2</ce:inf> particles creates an oxygen vacancy at the surfaces of the CeO<ce:inf loc="post">2</ce:inf> particles, as compared with the non-UV-treated slurry particles shown in <ce:cross-ref refid="fig3" id="crosref0255">Fig. 3</ce:cross-ref>(b).</ce:para>
+                     <ce:para id="p0090" view="all">A meaningful understanding of the oxygen vacancy creation from UV treatment can be obtained based on an FFT analysis of different regions. <ce:cross-ref refid="fig3" id="crosref0260">Fig. 3</ce:cross-ref>(d and e) shows extracted FFT images for specific regions (3 nm × 3 nm) in <ce:cross-ref refid="fig3" id="crosref0265">Fig. 3</ce:cross-ref>(b) and (c), respectively. Sobel filtering was used to reduce unwanted noise. The crystallographic orientation of the planes {111} and {100} is observed and marked in <ce:cross-ref refid="fig3" id="crosref0270">Fig. 3</ce:cross-ref>(d and e). The insertion of the oxygen vacancy in the CeO<ce:inf loc="post">2</ce:inf> crystal lattice results in the formation of new diffraction spots in the FFT images of the UV-treated ceria slurry [<ce:cross-ref refid="bib25" id="crosref0275">25</ce:cross-ref>,<ce:cross-ref refid="bib26" id="crosref0280">26</ce:cross-ref>]. In the FFT image in <ce:cross-ref refid="fig3" id="crosref0285">Fig. 3</ce:cross-ref>(e), new planes of small spots appeared between the diffraction spots of the CeO<ce:inf loc="post">2</ce:inf> crystal lattice. These newly emerging diffraction spots in the FFT images confirm the formation of an oxygen vacancy in the UV-treated ceria slurry.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.4" view="all">
+                     <ce:label>3.4</ce:label>
+                     <ce:section-title id="sectitle0080">X-ray photoelectron spectroscopy (XPS) &amp; CMP</ce:section-title>
+                     <ce:para id="p0095" view="all">The differences in the oxidation states of UV-treated ceria particles were analyzed using XPS. The peaks deconvoluted in the Ce3d XPS spectra were fit using a Gaussian–Lorentzian function. The XPS results corresponding to Ce3d<ce:inf loc="post">3/2</ce:inf> and Ce3d<ce:inf loc="post">5/2</ce:inf> are shown in <ce:cross-ref refid="fig4" id="crosref0290">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="fig4"/>. The identified peaks were labeled <ce:italic>u</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>0</ce:italic>
+                        </ce:inf>, <ce:italic>u</ce:italic>, <ce:italic>u’</ce:italic>, <ce:italic>u’’</ce:italic>, and <ce:italic>u’’’</ce:italic> (corresponding to Ce3d<ce:inf loc="post">3/2</ce:inf>) and <ce:italic>v</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>0</ce:italic>
+                        </ce:inf>, <ce:italic>v</ce:italic>, <ce:italic>v’</ce:italic>, <ce:italic>v’’</ce:italic>, and <ce:italic>v’’’</ce:italic> (corresponding to Ce3d<ce:inf loc="post">5/2</ce:inf>). Among these peaks, <ce:italic>v</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>0</ce:italic>
+                        </ce:inf>, <ce:italic>v’</ce:italic>, <ce:italic>u</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>0</ce:italic>
+                        </ce:inf>, and <ce:italic>u’</ce:italic> correspond to Ce<ce:sup loc="post">3+</ce:sup>, whereas the others correspond to Ce<ce:sup loc="post">4+</ce:sup> [<ce:cross-ref refid="bib22" id="crosref0295">22</ce:cross-ref>,<ce:cross-ref refid="bib27" id="crosref0300">27</ce:cross-ref>]. For the XPS analysis, the ceria slurries are irradiated by UV light for 6 h, and the results of the XPS spectra for all samples are shown in <ce:cross-ref refid="fig4" id="crosref0305">Fig. 4</ce:cross-ref>(a–c). The areas of the fitting peaks ascribed to Ce<ce:sup loc="post">3+</ce:sup> and Ce<ce:sup loc="post">4+</ce:sup> are used to quantitatively calculate the concentrations of Ce<ce:sup loc="post">3+</ce:sup> ions on the surfaces of the abrasives. <ce:cross-ref refid="tbl3" id="crosref0310">Table 3</ce:cross-ref>
+                        <ce:float-anchor refid="tbl3"/> lists the changes in concentrations of Ce<ce:sup loc="post">3+</ce:sup> ions in the CS-A, CS-B, and CS-C abrasives before and after UV treatment. By irradiating UV light on the ceria slurry, the concentration of Ce<ce:sup loc="post">3+</ce:sup> ions increased. In the cases of CS-A and CS-B, the UV-irradiated results show a large increase in the Ce<ce:sup loc="post">3+</ce:sup> concentration, i.e., approximately 7 %, from 14.06 % to 21.28 % and 13.37 %–19.69 %, respectively, whereas the Ce<ce:sup loc="post">3+</ce:sup> concentration of CS-C only shows a 1.7 % increment, from 11.83 % to 13.53 %. Owing to the agglomeration of ceria particles in CS-C, as shown in <ce:cross-ref refid="fig2" id="crosref0315">Fig. 2</ce:cross-ref>(c), the surface areas of the particles that could be irradiated by the UV light decreases. Thus, the impact of UV irradiation on ceria particles is reduced for the less well-dispersed CS-C samples. In comparison with the removal rate shown in <ce:cross-ref refid="fig5" id="crosref0320">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="fig5"/>(a), the fraction of Ce<ce:sup loc="post">3+</ce:sup> for each abrasive surface correlates well with the oxide removal rate. The removal rate of all types of ceria increased as the concentration of Ce<ce:sup loc="post">3+</ce:sup> increased under UV irradiation. The difference in the removal rate of each baseline slurry is related to the morphological characteristics of ceria particles. The removal rate of an oxide film using ceria abrasive vary depending on the size of the particles [<ce:cross-ref refid="bib28" id="crosref0325">28</ce:cross-ref>]. To define the size of abrasives in a slurry, particle size analyzer (ELSZ 2000, Otsuka, Japan) was used. Because the mean particle size of CS-C is much smaller than other slurries as shown in <ce:cross-ref refid="fig5" id="crosref0330">Fig. 5</ce:cross-ref>(b), a low removal rate of CS-C obtained. The peak due to particle agglomeration of CS-C was also observed at a particle size of over 100 nm. It does not significantly affect the removal rate because the proportion of the agglomerated particles in the slurry is small. However, these agglomerates can have an impact on the surface quality of wafers such as roughness and defects. Furthermore, CS-B has a mean particle size similar to that of CS-A, however, it shows a much wider particle size distribution as shown in <ce:cross-ref refid="fig5" id="crosref0335">Fig. 5</ce:cross-ref>(b). When a slurry has a broad size distribution of abrasives, the number of particles participating in polishing becomes larger, so the polishing rate is higher [<ce:cross-ref refid="bib29" id="crosref0340">29</ce:cross-ref>,<ce:cross-ref refid="bib30" id="crosref0345">30</ce:cross-ref>]. Thus, the removal rate of CS-B is higher than that of CS-A due to a broader particle size distribution resulting in a higher removal rate, even though the mean size of particle is similar. As a result, even if the CMP performance of each abrasive is different in nature, it was possible to obtain an increased removal rate when exposed to UV light.</ce:para>
+                     <ce:para id="p0100" view="all">
+                        <ce:cross-ref refid="fig6" id="crosref0350">Fig. 6</ce:cross-ref>
+                        <ce:float-anchor refid="fig6"/>(a) shows the increase in the removal rate of the silicon dioxide film with time. CS-A is representatively used for the polishing material. When UV light was irradiated on the ceria slurry, the oxide removal rate increased over time compared to that of untreated slurry. The removal rate increased rapidly until 205 min of UV-light irradiation and gradually became saturated. After 720 min of UV-light irradiation for the ceria slurry, the oxide removal rate was maintained at an increase of 40 % with respect to that of the baseline ceria slurry. The concentration of Ce<ce:sup loc="post">3+</ce:sup> with the UV irradiation time is also shown in <ce:cross-ref refid="fig6" id="crosref0355">Fig. 6</ce:cross-ref>(a). The fraction of Ce<ce:sup loc="post">3+</ce:sup> shows a very similar tendency to the oxide removal rate with the UV irradiation time. The correlation between the concentration of Ce<ce:sup loc="post">3+</ce:sup> and the oxide removal rate is shown in <ce:cross-ref refid="fig6" id="crosref0360">Fig. 6</ce:cross-ref>(b). As the concentration of Ce<ce:sup loc="post">3+</ce:sup> increased, the removal rate also increased, and it is confirmed that they are almost linearly proportional. This result is consistent with the view that Ce<ce:sup loc="post">3+</ce:sup> is the reactive species that is responsible for the high silicon dioxide in previous studies [<ce:cross-ref refid="bib2" id="crosref0365">2</ce:cross-ref>,<ce:cross-ref refid="bib31" id="crosref0370">31</ce:cross-ref>].</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec4" role="conclusion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sectitle0085">Conclusion</ce:section-title>
+                  <ce:para id="p0105" view="all">The effect of UV irradiation on ceria abrasives was investigated for high removal rates in CMP applications. Three types of ceria abrasives were investigated, and all the ceria slurries showed an improved removal rate of an oxide film with UV treatment. In the XRD analysis, when UV light was irradiated to the ceria slurry, the crystal structures did not change, but the crystallite size and lattice parameters shifted due to the formation of oxygen vacancies which led to an increase in Ce<ce:sup loc="post">3+</ce:sup> concentration. In addition, the increase in the Ce<ce:sup loc="post">3+</ce:sup> concentration was quantitively confirmed based on an XPS analysis. The results of the UV–visible absorption spectra for UV-irradiated ceria abrasives and analysis of the TEM FFT pattern provide evidence of the formation of oxygen vacancies on the surface of the ceria particles. Furthermore, as the UV-irradiation time increases, the removal rate and concentration of Ce<ce:sup loc="post">3+</ce:sup> show a very similar tendency to increase. The fraction and the removal rate of Ce<ce:sup loc="post">3+</ce:sup> drastically increased to 205 min and then gradually saturated. Finally, the importance of enhancing the Ce<ce:sup loc="post">3+</ce:sup> concentration was estimated by determining a reliable linear relationship of the correlation between the removal rate and the Ce<ce:sup loc="post">3+</ce:sup> concentration.</ce:para>
+               </ce:section>
+               <ce:section id="sec5" view="all">
+                  <ce:section-title id="sectitle0090">CRediT authorship contribution statement</ce:section-title>
+                  <ce:para id="p0110" view="all">
+                     <ce:bold>Eungchul Kim:</ce:bold> Conceptualization, Methodology, Data curation, Writing – original draft, Writing – review &amp; editing. <ce:bold>Jiah Hong:</ce:bold> Data curation, Writing – original draft. <ce:bold>Seokjun Hong:</ce:bold> Resources, Investigation. <ce:bold>Chaitanya Kanade:</ce:bold> Formal analysis, Data curation, Investigation. <ce:bold>Hyunho Seok:</ce:bold> Visualization, Software. <ce:bold>Hyeong-U Kim:</ce:bold> Writing – review &amp; editing, Validation. <ce:bold>Taesung Kim:</ce:bold> Conceptualization, Supervision, Project administration, Funding acquisition.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi0010" view="all">
+               <ce:section-title id="sectitle0095">Declaration of competing interest</ce:section-title>
+               <ce:para id="p0115" view="all">The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</ce:para>
+            </ce:conflict-of-interest>
+            <ce:acknowledgment id="ack0010" view="all">
+               <ce:section-title id="sectitle0100">Acknowledgment</ce:section-title>
+               <ce:para id="p0120" view="all">This work was supported by the <ce:grant-sponsor id="gs4" sponsor-id="https://doi.org/10.13039/501100003725" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">National Research Foundation of Korea</ce:grant-sponsor> grant funded by the <ce:grant-sponsor id="gs5" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Korea government (MEST)</ce:grant-sponsor> (No. <ce:grant-number refid="gs5">NRF-2017R1A2B3011222</ce:grant-number>) and (<ce:grant-number refid="gs5">2018R1D1A1B07040292</ce:grant-number>). This research was partially supported by <ce:grant-sponsor id="gs1" sponsor-id="https://doi.org/10.13039/501100003701" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">NST/KIMM, Republic of Korea</ce:grant-sponsor>.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0105">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microelectronic Applications of Chemical Mechanical Planarization</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2007</sb:date>
+                              <sb:publisher>
+                                 <sb:name>John Wiley &amp; Sons</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0025">Y. Li, Microelectronic Applications of Chemical Mechanical Planarization, John Wiley &amp; Sons, 2007.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.D.</ce:given-name>
+                                 <ce:surname>Urban</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Dickmann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Her</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Santora</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mechanisms and development of ceria-based, fast oxide slurries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ECS Trans.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>72</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>37</sb:first-page>
+                              <sb:last-page>42</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1149/07218.0037ecst</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0030">N.D. Urban, D. Dickmann, B. Her, B. Santora, Mechanisms and Development of Ceria-Based, Fast Oxide Slurries, ECS Trans. 72 (2016) 37-42. https://doi.org/10.1149/07218.0037ecst.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.M.</ce:given-name>
+                                 <ce:surname>Cook</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical processes in glass polishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Non-Cryst. Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>120</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>152</sb:first-page>
+                              <sb:last-page>171</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/0022-3093(90)90200-6</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0035">L.M. Cook, Chemical processes in glass polishing, J. Non. Cryst. Solids. 120 (1990) 152-171. https://doi.org/10.1016/0022-3093(90)90200-6.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Dutta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Pal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Seehra</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Shi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.M.</ce:given-name>
+                                 <ce:surname>Eyring</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.D.</ce:given-name>
+                                 <ce:surname>Ernst</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Concentration of Ce<ce:sup loc="post">3+</ce:sup> and oxygen vacancies in cerium oxide nanoparticles</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5144</sb:first-page>
+                              <sb:last-page>5146</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/cm061580n</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0040">P. Dutta, S. Pal, M.S. Seehra, Y. Shi, E.M. Eyring, R.D. Ernst, Concentration of Ce3+ and oxygen vacancies in cerium oxide nanoparticles, Chem. Mater. 18 (2006) 5144-5146. https://doi.org/10.1021/cm061580n.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Kelsall</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Cerium oxide as a route to acid free polishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Glass Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6</sb:first-page>
+                              <sb:last-page>9</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0045">A. Kelsall, Cerium oxide as a route to acid free polishing, Glas. Technol. 39 (1998) 6-9.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Shin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-K.</ce:given-name>
+                                 <ce:surname>Chae</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of ceria abrasive synthesized by supercritical hydrothermal method for chemical mechanical planarization</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ECS J. Solid State Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3128</sb:first-page>
+                              <sb:last-page>3132</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1149/2.0221905jss</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0050">J. Choi, C. Shin, J. Yang, S.-K. Chae, T. Kim, Effect of Ceria Abrasive Synthesized by Supercritical Hydrothermal Method for Chemical Mechanical Planarization, ECS J. Solid State Sci. Technol. 8 (2019) 3128-3132. https://doi.org/10.1149/2.0221905jss.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Feng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ceria concentration effect on chemical mechanical polishing of optical glass</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Surf. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>253</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4951</sb:first-page>
+                              <sb:last-page>4954</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.apsusc.2006.10.074</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0055">L. Wang, K. Zhang, Z. Song, S. Feng, Ceria concentration effect on chemical mechanical polishing of optical glass, Appl. Surf. Sci. 253 (2007) 4951-4954. https://doi.org/10.1016/j.apsusc.2006.10.074.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Sahoo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mohapatra</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.K.</ce:given-name>
+                                 <ce:surname>Singh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Anand</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hydrothermal synthesis of single crystalline nano CeO<ce:inf loc="post">2</ce:inf> and its structural, optical, and electronic characterization</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Manuf. Process.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>982</sb:first-page>
+                              <sb:last-page>989</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1080/10426914.2010.480995</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0060">S.K. Sahoo, M. Mohapatra, A.K. Singh, S. Anand, Hydrothermal synthesis of single crystalline nano CeO2 and its structural, optical, and electronic characterization, Mater. Manuf. Process. 25 (2010) 982-989. https://doi.org/10.1080/10426914.2010.480995.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.R.</ce:given-name>
+                                 <ce:surname>Gilliss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Bentley</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.B.</ce:given-name>
+                                 <ce:surname>Carter</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electron energy-loss spectroscopic study of the surface of ceria abrasives</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Surf. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>241</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>61</sb:first-page>
+                              <sb:last-page>67</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.apsusc.2004.09.018</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0065">S.R. Gilliss, J. Bentley, C.B. Carter, Electron energy-loss spectroscopic study of the surface of ceria abrasives, Appl. Surf. Sci. 241 (2005) 61-67. https://doi.org/10.1016/j.apsusc.2004.09.018.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Shehata</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Meehan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Hudait</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Jain</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Control of oxygen vacancies and Ce <ce:sup loc="post">3+</ce:sup> concentrations in doped ceria nanoparticles via the selection of lanthanide element</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Nanoparticle Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1173</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1007/s11051-012-1173-1</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0070">N. Shehata, K. Meehan, M. Hudait, N. Jain, Control of oxygen vacancies and Ce 3+ concentrations in doped ceria nanoparticles via the selection of lanthanide element, J. Nanoparticle Res. 14 (2012) 1173. https://doi.org/10.1007/s11051-012-1173-1.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Binet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Badri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Lavalley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A spectroscopic characterization of the reduction of ceria from electronic transitions of intrinsic point defects</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>98</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6392</sb:first-page>
+                              <sb:last-page>6398</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/j100076a025</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0075">C. Binet, A. Badri, J.C. Lavalley, A spectroscopic characterization of the reduction of ceria from electronic transitions of intrinsic point defects, J. Phys. Chem. 98 (1994) 6392-6398. https://doi.org/10.1021/j100076a025.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Schweke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Shelly</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Ben David</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Danon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Kostirya</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Hayun</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Comprehensive study of the ceria–H<ce:inf loc="post">2</ce:inf> system: effect of the reaction conditions on the reduction extent and intermediates</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem. C</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>124</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6180</sb:first-page>
+                              <sb:last-page>6187</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/acs.jpcc.9b11975</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0080">D. Schweke, L. Shelly, R. Ben David, A. Danon, N. Kostirya, S. Hayun, Comprehensive Study of the Ceria-H2 System: Effect of the Reaction Conditions on the Reduction Extent and Intermediates, J. Phys. Chem. C. 124 (2020) 6180-6187. https://doi.org/10.1021/acs.jpcc.9b11975.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.S.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.Y.</ce:given-name>
+                                 <ce:surname>Syu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.N.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.H.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.H.</ce:given-name>
+                                 <ce:surname>Liao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.C.</ce:given-name>
+                                 <ce:surname>Weng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.J.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.T.</ce:given-name>
+                                 <ce:surname>Jeng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.Y.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.L.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.L.</ce:given-name>
+                                 <ce:surname>Soo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Enhancement of catalytic activity by UV-light irradiation in CeO<ce:inf loc="post">2</ce:inf> nanocrystals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Rep.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8018</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1038/s41598-019-44543-2</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0085">T.S. Wu, L.Y. Syu, C.N. Lin, B.H. Lin, Y.H. Liao, S.C. Weng, Y.J. Huang, H.T. Jeng, S.Y. Lu, S.L. Chang, Y.L. Soo, Enhancement of catalytic activity by UV-light irradiation in CeO2 nanocrystals, Sci. Rep. 9 (2019) 8018. https://doi.org/10.1038/s41598-019-44543-2.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.A.M.</ce:given-name>
+                                 <ce:surname>Khan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Khan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Ahamed</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.N.</ce:given-name>
+                                 <ce:surname>Alhazaa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microstructural properties and enhanced photocatalytic performance of Zn doped CeO<ce:inf loc="post">2</ce:inf> nanocrystals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Rep.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>12560</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1038/s41598-017-11074-7</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0090">M.A.M. Khan, W. Khan, M. Ahamed, A.N. Alhazaa, Microstructural properties and enhanced photocatalytic performance of Zn doped CeO2 nanocrystals, Sci. Rep. 7 (2017) 12560. https://doi.org/10.1038/s41598-017-11074-7.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Ž.</ce:given-name>
+                                 <ce:surname>Antić</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.M.</ce:given-name>
+                                 <ce:surname>Krsmanović</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Marinović-Cincović</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mitrić</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.D.</ce:given-name>
+                                 <ce:surname>Dramićanin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Structural and optical investigation of gadolinia-doped ceria powders prepared by polymer complex solution method</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Mater. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>103</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>884</sb:first-page>
+                              <sb:last-page>888</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.3139/146.110710</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0095">Z. Antic, R.M. Krsmanovic, M. Marinovic-Cincovic, M. Mitric, M.D. Dramicanin, Structural and optical investigation of gadolinia-doped ceria powders prepared by polymer complex solution method, Int. J. Mater. Res. 103 (2012) 884-888. https://doi.org/10.3139/146.110710.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.D.</ce:given-name>
+                                 <ce:surname>Irala</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.S.</ce:given-name>
+                                 <ce:surname>Maciel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Duarte</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Massi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.S.</ce:given-name>
+                                 <ce:surname>Da Silva Sobrinho</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Pavanello</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Claeys</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Martino</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Influence of the nitrogen concentration on the photoinduced hydrophilicity of N-doped titanium dioxide thin films deposited by plasma sputtering</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ECS Trans.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>109</sb:first-page>
+                              <sb:last-page>115</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1149/1.3474148</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0100">D.D. Irala, H.S. Maciel, D.A. Duarte, M. Massi, A.S. Da Silva Sobrinho, M. Pavanello, C. Claeys, J. Martino, Influence of the Nitrogen Concentration on the Photoinduced Hydrophilicity of N-doped Titanium Dioxide Thin Films Deposited by Plasma Sputtering, ECS Trans., (2010) 109-115. https://doi.org/10.1149/1.3474148.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.A.</ce:given-name>
+                                 <ce:surname>Esmailpour</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Moradi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Yun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Scott</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Amal</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Promoting surface oxygen vacancies on ceria via light pretreatment to enhance catalytic ozonation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Catal. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5979</sb:first-page>
+                              <sb:last-page>5990</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1039/c9cy01450k</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0105">A.A. Esmailpour, S. Moradi, J. Yun, J. Scott, R. Amal, Promoting surface oxygen vacancies on ceria via light pretreatment to enhance catalytic ozonation, Catal. Sci. Technol. 9 (2019) 5979-5990. https://doi.org/10.1039/c9cy01450k.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.I.Y.</ce:given-name>
+                                 <ce:surname>Tok</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.W.</ce:given-name>
+                                 <ce:surname>Du</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.Y.C.</ce:given-name>
+                                 <ce:surname>Boey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.K.</ce:given-name>
+                                 <ce:surname>Chong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hydrothermal synthesis and characterization of rare earth doped ceria nanoparticles</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>466</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>223</sb:first-page>
+                              <sb:last-page>229</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.msea.2007.02.083</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0110">A.I.Y. Tok, S.W. Du, F.Y.C. Boey, W.K. Chong, Hydrothermal synthesis and characterization of rare earth doped ceria nanoparticles, Mater. Sci. Eng. A. 466 (2007) 223-229. https://doi.org/10.1016/j.msea.2007.02.083.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sref19">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Taniguchi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.I.</ce:given-name>
+                                 <ce:surname>Katsumata</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Omata</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Okada</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Matsushita</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Tuning growth modes of ceria-based nanocubes by a hydrothermal method</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Cryst. Growth Des.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3754</sb:first-page>
+                              <sb:last-page>3760</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1021/cg101585b</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0115">T. Taniguchi, K.I. Katsumata, S. Omata, K. Okada, N. Matsushita, Tuning growth modes of ceria-based nanocubes by a hydrothermal method, Cryst. Growth Des. 11 (2011) 3754-3760. https://doi.org/10.1021/cg101585b.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Tsunekawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Ishikawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.Q.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Kawazoe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Kasuya</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Origin of anomalous lattice expansion in oxide nanoparticles</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>85</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3440</sb:first-page>
+                              <sb:last-page>3443</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1103/PhysRevLett.85.3440</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0120">S. Tsunekawa, K. Ishikawa, Z.Q. Li, Y. Kawazoe, A. Kasuya, Origin of anomalous lattice expansion in oxide nanoparticles, Phys. Rev. Lett. 85 (2000) 3440-3443. https://doi.org/10.1103/PhysRevLett.85.3440.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sref21">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Deshpande</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Patil</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.V.</ce:given-name>
+                                 <ce:surname>Kuchibhatla</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Seal</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Size dependency variation in lattice parameter and valency states in nanocrystalline cerium oxide</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>3</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1063/1.2061873</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0125">S. Deshpande, S. Patil, S.V. Kuchibhatla, S. Seal, Size dependency variation in lattice parameter and valency states in nanocrystalline cerium oxide, Appl. Phys. Lett. 87 (2005) 1-3. https://doi.org/10.1063/1.2061873.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sref22">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Mao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Redox enzyme-mimicking activities of CeO<ce:inf loc="post">2</ce:inf> nanostructures: intrinsic influence of exposed facets</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Rep.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>35344</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1038/srep35344</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0130">Y. Yang, Z. Mao, W. Huang, L. Liu, J. Li, J. Li, Q. Wu, Redox enzyme-mimicking activities of CeO2 nanostructures: Intrinsic influence of exposed facets, Sci. Rep. 6 (2016) 35344. https://doi.org/10.1038/srep35344.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sref23">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.G.</ce:given-name>
+                                 <ce:surname>Heckert</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.S.</ce:given-name>
+                                 <ce:surname>Karakoti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Seal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.T.</ce:given-name>
+                                 <ce:surname>Self</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The role of cerium redox state in the SOD mimetic activity of nanoceria</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biomaterials</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2705</sb:first-page>
+                              <sb:last-page>2709</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.biomaterials.2008.03.014</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0135">E.G. Heckert, A.S. Karakoti, S. Seal, W.T. Self, The role of cerium redox state in the SOD mimetic activity of nanoceria, Biomaterials. 29 (2008) 2705-2709. https://doi.org/10.1016/j.biomaterials.2008.03.014.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sref24">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Singh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Singh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Role of phosphate on stability and catalase mimetic activity of cerium oxide nanoparticles</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Colloids Surf. B Biointerfaces</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>132</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>78</sb:first-page>
+                              <sb:last-page>84</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.colsurfb.2015.05.005</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0140">R. Singh, S. Singh, Role of phosphate on stability and catalase mimetic activity of cerium oxide nanoparticles, Colloids Surf. B. Biointerfaces. 132 (2015) 78-84. https://doi.org/10.1016/j.colsurfb.2015.05.005.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sref25">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Gao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Liao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Bai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>In situ TEM studies of oxygen vacancy migration for electrically induced resistance change effect in cerium oxides</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Micron</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>301</sb:first-page>
+                              <sb:last-page>305</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.micron.2009.11.010</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0145">P. Gao, Z. Wang, W. Fu, Z. Liao, K. Liu, W. Wang, X. Bai, E. Wang, In situ TEM studies of oxygen vacancy migration for electrically induced resistance change effect in cerium oxides, Micron. 41 (2010) 301-305. https://doi.org/10.1016/j.micron.2009.11.010.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="sref26">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Sinclair</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.C.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Shi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.C.</ce:given-name>
+                                 <ce:surname>Chueh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Structure and chemistry of epitaxial ceria thin films on yttria-stabilized zirconia substrates, studied by high resolution electron microscopy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ultramicroscopy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>176</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>200</sb:first-page>
+                              <sb:last-page>211</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.ultramic.2017.03.015</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0150">R. Sinclair, S.C. Lee, Y. Shi, W.C. Chueh, Structure and chemistry of epitaxial ceria thin films on yttria-stabilized zirconia substrates, studied by high resolution electron microscopy, Ultramicroscopy. 176 (2017) 200-211. https://doi.org/10.1016/j.ultramic.2017.03.015.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib27">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="sref27">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Kato</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Ammann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Huthwelker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Paun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Lampimäki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.T.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Rothensteiner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Van Bokhoven</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Quantitative depth profiling of Ce<ce:sup loc="post">3+</ce:sup> in Pt/CeO<ce:inf loc="post">2</ce:inf> by in situ high-energy XPS in a hydrogen atmosphere</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Chem. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5078</sb:first-page>
+                              <sb:last-page>5083</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1039/c4cp05643d</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0155">S. Kato, M. Ammann, T. Huthwelker, C. Paun, M. Lampimaki, M.T. Lee, M. Rothensteiner, J.A. Van Bokhoven, Quantitative depth profiling of Ce3+ in Pt/CeO2 by in situ high-energy XPS in a hydrogen atmosphere, Phys. Chem. Chem. Phys. 17 (2015) 5078-5083. https://doi.org/10.1039/c4cp05643d.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib28">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="sref28">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.H.</ce:given-name>
+                                 <ce:surname>Oh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Nho</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.B.</ce:given-name>
+                                 <ce:surname>Cho</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.K.</ce:given-name>
+                                 <ce:surname>Singh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Polishing behaviors of ceria abrasives on silicon dioxide and silicon nitride CMP</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Powder Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>206</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>239</sb:first-page>
+                              <sb:last-page>245</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.powtec.2010.09.025</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0160">M. H. Oh, J. S. Nho, S. B. Cho, J. S. Lee, R. K. Singh, Polishing behaviors of ceria abrasives on silicon dioxide and silicon nitride CMP, Powder Technol. 206 (2011) 239-245. https://doi.org/10.1016/j.powtec.2010.09.025</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib29">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="sref29">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Srivastava</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.F.</ce:given-name>
+                                 <ce:surname>Higgs</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A full wafer-scale PAML modeling approach for predicting CMP</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Tribol. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>59</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>32</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1007/s11249-015-0553-y</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0165">G. Srivastava, C. F. Higgs, A full wafer-scale PAML modeling approach for predicting CMP, Tribol. Lett. 59 (2015) 32. https://doi.org/10.1007/s11249-015-0553-y</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib30">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference id="sref30">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Dornfeld</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of abrasive size distribution in chemical mechanical planarization: modeling and verification</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>IEEE Trans. Semicond. Manuf.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>469</sb:first-page>
+                              <sb:last-page>476</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1109/TSM.2003.815199</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0170">J. Luo, D. A. Dornfeld, Effects of abrasive size distribution in chemical mechanical planarization: modeling and verification, IEEE Trans. Semicond. Manuf. 16 (2003) 469-476. https://doi.org/10.1109/TSM.2003.815199.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib31">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference id="sref31">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.P.R.</ce:given-name>
+                                 <ce:surname>Dandu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>V Babu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The role of Ce<ce:sup loc="post">3+</ce:sup> vs. Ce<ce:sup loc="post">4+</ce:sup> during the polishing of silicon dioxide and silicon nitride films using ceria abrasives</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>Opt. InfoBase Conf. Pap.</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2012</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Optical Society of America</sb:name>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <ce:doi>10.1364/OFT.2012.OM2D.1</ce:doi>
+                        </sb:host>
+                        <sb:comment>OM2D. 1</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srct0175">V.P.R. Dandu, S. V Babu, The role of Ce3+ vs. Ce4+ during the polishing of silicon dioxide and silicon nitride films using ceria abrasives, in: Opt. InfoBase Conf. Pap., Optical Society of America, (2012) OM2D. 1. https://doi.org/10.1364/OFT.2012.OM2D.1</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

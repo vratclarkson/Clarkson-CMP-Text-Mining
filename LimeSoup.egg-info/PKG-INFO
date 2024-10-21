@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: LimeSoup
+Version: 0.3.2
+Author: Ceder Group
+License: MIT License
+Requires-Python: >=3.4
+License-File: LICENSE
+Requires-Dist: beautifulsoup4>=4.6.1
+Requires-Dist: lxml<=4.3.5,>=4.2.6

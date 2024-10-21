@@ -1,0 +1,1384 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0021979707016517</prism:url><dc:identifier>doi:10.1016/j.jcis.2007.11.004</dc:identifier><eid>1-s2.0-S0021979707016517</eid><prism:doi>10.1016/j.jcis.2007.11.004</prism:doi><pii>S0021-9797(07)01651-7</pii><dc:title>Adsorption behavior of anionic polyelectrolyte for chemical mechanical polishing (CMP) </dc:title><prism:publicationName>Journal of Colloid and Interface Science</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>00219797</prism:issn><prism:volume>319</prism:volume><prism:issueIdentifier>1</prism:issueIdentifier><prism:startingPage>48</prism:startingPage><prism:endingPage>52</prism:endingPage><prism:pageRange>48-52</prism:pageRange><prism:number>1</prism:number><dc:format>application/xml</dc:format><prism:coverDate>2008-03-01</prism:coverDate><prism:coverDisplayDate>1 March 2008</prism:coverDisplayDate><prism:copyright>Copyright © 2007 Elsevier Inc. All rights reserved.</prism:copyright><prism:publisher>Elsevier Inc.</prism:publisher><dc:creator>Kim, Sarah</dc:creator><dc:creator>So, Jae-Hyun</dc:creator><dc:creator>Lee, Dong-Jun</dc:creator><dc:creator>Yang, Seung-Man</dc:creator><dc:description>
+                  In this work, we investigated the adsorption characteristics of anionic polyelectrolytes, which are used in shallow trench isolation chemical mechanical polishing with ceria abrasives. Specifically, the adsorption isotherms and chain conformation of anionic polyelectrolytes were studied in order to elucidate the difference in removal rates of silicon dioxide (SiO2) and silicon nitride (Si3N4) layers and the high selectivity characteristics of ceria slurry. Adsorption isotherms, FT-IR spectroscopy and contact angle measurements revealed that the anionic polyelectrolyte additives had much better adsorption affinities for the Si3N4 surface than for the SiO2 surface. Moreover, blanket wafer polishing results were successfully correlated with the adsorption isotherms of polyelectrolytes on the oxide particle suspensions.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Anionic polyelectrolyte</dcterms:subject><dcterms:subject>STI CMP</dcterms:subject><dcterms:subject>Adsorption behavior</dcterms:subject><dcterms:subject>Removal rate</dcterms:subject><dcterms:subject>Selectivity</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0021979707016517" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0021979707016517" rel="scidir"/></coredata><objects><object ref="si6" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="38" height="14" size="226">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979707016517-si6.gif?httpAccept=%2A%2F%2A</object><object ref="si5" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="110" height="14" size="421">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979707016517-si5.gif?httpAccept=%2A%2F%2A</object><object ref="si4" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="25" height="14" size="190">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979707016517-si4.gif?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="115" height="17" size="446">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979707016517-si3.gif?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="115" height="17" size="470">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979707016517-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="115" height="17" size="453">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979707016517-si1.gif?httpAccept=%2A%2F%2A</object><object ref="gr001" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="257" height="172" size="3809">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979707016517-gr001.gif?httpAccept=%2A%2F%2A</object><object ref="gr001" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="84" size="1407">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979707016517-gr001.sml?httpAccept=%2A%2F%2A</object><object ref="gr003" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="389" height="295" size="8195">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979707016517-gr003.gif?httpAccept=%2A%2F%2A</object><object ref="gr003" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="123" height="93" size="1529">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979707016517-gr003.sml?httpAccept=%2A%2F%2A</object><object ref="gr004" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="389" height="290" size="7341">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979707016517-gr004.gif?httpAccept=%2A%2F%2A</object><object ref="gr004" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="93" size="1556">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979707016517-gr004.sml?httpAccept=%2A%2F%2A</object><object ref="gr005" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="387" height="555" size="13458">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979707016517-gr005.gif?httpAccept=%2A%2F%2A</object><object ref="gr005" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="65" height="93" size="1119">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979707016517-gr005.sml?httpAccept=%2A%2F%2A</object><object ref="gr002" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="368" height="907" size="22296">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979707016517-gr002.gif?httpAccept=%2A%2F%2A</object><object ref="gr002" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="38" height="94" size="867">https://api.elsevier.com/content/object/eid/1-s2.0-S0021979707016517-gr002.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>38049093121</scopus-id><scopus-eid>2-s2.0-38049093121</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/38049093121" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>272564</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291864</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Journal of Colloid and Interface Science</xocs:srctitle>
+      <xocs:normalized-srctitle>JOURNALCOLLOIDINTERFACESCIENCE</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20071113">2007-11-13</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20071113">2007-11-13</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-11-17T20:39:52</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0021979707016517</xocs:eid>
+      <xocs:pii-formatted>S0021-9797(07)01651-7</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0021979707016517</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.jcis.2007.11.004</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0021979707X06489</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T01:01:17.956864-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20080301</xocs:date-search-begin>
+      <xocs:year-nav>2008</xocs:year-nav>
+      <xocs:indexeddate epoch="1194912000">2007-11-13T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav absattachment articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast doctopic footnotes primabst ref specialabst alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0021-9797</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00219797</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>319</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>319</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 319, Issue 1</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>9</xocs:sort-order>
+      <xocs:first-fp>48</xocs:first-fp>
+      <xocs:last-lp>52</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>48</xocs:first-page>
+         <xocs:last-page>52</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20080301</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1 March 2008</xocs:cover-date-text>
+      <xocs:cover-date-start>2008-03-01</xocs:cover-date-start>
+      <xocs:cover-date-year>2008</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Adsorption and Deposition</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2007 Elsevier Inc. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>ADSORPTIONBEHAVIORANIONICPOLYELECTROLYTEFORCHEMICALMECHANICALPOLISHINGCMP</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>KIM</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>S</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Materials</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Adsorption experimental</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Conformation study</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Wafer test</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="bib001">
+            <xocs:ref-normalized-surname>SINGH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>743</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib002">
+            <xocs:ref-normalized-surname>BONING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>761</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib003">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>918</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib004">
+            <xocs:ref-normalized-surname>CHEKINA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2100</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib005">
+            <xocs:ref-normalized-surname>PRASAD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>G337</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib006">
+            <xocs:ref-normalized-surname>BU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>H631</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib007">
+            <xocs:ref-normalized-surname>EVANS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>816</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib008">
+            <xocs:ref-normalized-surname>CATER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>G218</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib009">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>H642</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib010"/>
+         <xocs:ref-info refid="bib011"/>
+         <xocs:ref-info refid="bib012">
+            <xocs:ref-normalized-surname>AMERICA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>G327</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib013">
+            <xocs:ref-normalized-surname>PETTERSSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>73</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib014">
+            <xocs:ref-normalized-surname>SHIRATORI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4213</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib015">
+            <xocs:ref-normalized-surname>HACKLEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2315</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib016">
+            <xocs:ref-normalized-surname>ANGHEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3035</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib017">
+            <xocs:ref-normalized-surname>BRINKER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>SOLGELSCIENCE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib018">
+            <xocs:ref-normalized-surname>SUPHANTHARIDA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>G658</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib019">
+            <xocs:ref-normalized-surname>HOSHINO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>129</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib020">
+            <xocs:ref-normalized-surname>HU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3919</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>KIMX2008X48</xocs:refkey3>
+         <xocs:refkey4lp>KIMX2008X48X52</xocs:refkey4lp>
+         <xocs:refkey4ai>KIMX2008X48XS</xocs:refkey4ai>
+         <xocs:refkey5>KIMX2008X48X52XS</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0021-9797(07)01651-7</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0021979707016517</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0021979707016517</xocs:eid>
+         <xocs:doi>10.1016/j.jcis.2007.11.004</xocs:doi>
+         <xocs:cid>272564</xocs:cid>
+         <xocs:timestamp>2010-12-21T22:09:48.58343-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2008-03-01</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0021979707016517-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979707016517/MAIN/application/pdf/2cf25cd17a2f18420954047d62feeac2/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979707016517/MAIN/application/pdf/2cf25cd17a2f18420954047d62feeac2/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>181485</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0021979707016517-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979707016517/PREVIEW/image/png/7cf4fae4891ea40bcd55aa3c27bf14d7/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979707016517/PREVIEW/image/png/7cf4fae4891ea40bcd55aa3c27bf14d7/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>68615</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979707016517-si6.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979707016517/STRIPIN/image/gif/a18b21900fe124fb4fca0a135c29a866/si6.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979707016517/STRIPIN/image/gif/a18b21900fe124fb4fca0a135c29a866/si6.gif</xocs:ucs-locator>
+               <xocs:file-basename>si6</xocs:file-basename>
+               <xocs:filename>si6.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>226</xocs:filesize>
+               <xocs:pixel-height>14</xocs:pixel-height>
+               <xocs:pixel-width>38</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979707016517-si5.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979707016517/STRIPIN/image/gif/272f0e21edd55e54dd8f83b52874cfc1/si5.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979707016517/STRIPIN/image/gif/272f0e21edd55e54dd8f83b52874cfc1/si5.gif</xocs:ucs-locator>
+               <xocs:file-basename>si5</xocs:file-basename>
+               <xocs:filename>si5.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>421</xocs:filesize>
+               <xocs:pixel-height>14</xocs:pixel-height>
+               <xocs:pixel-width>110</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979707016517-si4.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979707016517/STRIPIN/image/gif/8095d67c9adc1c4db9bf8427d97443ea/si4.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979707016517/STRIPIN/image/gif/8095d67c9adc1c4db9bf8427d97443ea/si4.gif</xocs:ucs-locator>
+               <xocs:file-basename>si4</xocs:file-basename>
+               <xocs:filename>si4.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>190</xocs:filesize>
+               <xocs:pixel-height>14</xocs:pixel-height>
+               <xocs:pixel-width>25</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979707016517-si3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979707016517/STRIPIN/image/gif/79818aa7ca174508028cc2a94f6c3abc/si3.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979707016517/STRIPIN/image/gif/79818aa7ca174508028cc2a94f6c3abc/si3.gif</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>446</xocs:filesize>
+               <xocs:pixel-height>17</xocs:pixel-height>
+               <xocs:pixel-width>115</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979707016517-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979707016517/STRIPIN/image/gif/40cf6b8985c52873c46971cf3f9db3d1/si2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979707016517/STRIPIN/image/gif/40cf6b8985c52873c46971cf3f9db3d1/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>470</xocs:filesize>
+               <xocs:pixel-height>17</xocs:pixel-height>
+               <xocs:pixel-width>115</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979707016517-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979707016517/STRIPIN/image/gif/b17ed1ddc326b4774bbbae16734d62e4/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979707016517/STRIPIN/image/gif/b17ed1ddc326b4774bbbae16734d62e4/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>453</xocs:filesize>
+               <xocs:pixel-height>17</xocs:pixel-height>
+               <xocs:pixel-width>115</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979707016517-gr001.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979707016517/fgr001/DOWNSAMPLED/image/gif/26706142de840687fa6d1e4bbfe05082/gr001.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979707016517/fgr001/DOWNSAMPLED/image/gif/26706142de840687fa6d1e4bbfe05082/gr001.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr001</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>gr001.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>3809</xocs:filesize>
+               <xocs:pixel-height>172</xocs:pixel-height>
+               <xocs:pixel-width>257</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979707016517-gr001.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979707016517/fgr001/THUMBNAIL/image/gif/7b1a5f7f8b3aca1465b469cf8bdd299e/gr001.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979707016517/fgr001/THUMBNAIL/image/gif/7b1a5f7f8b3aca1465b469cf8bdd299e/gr001.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr001</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>gr001.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1407</xocs:filesize>
+               <xocs:pixel-height>84</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979707016517-gr003.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979707016517/fgr003/DOWNSAMPLED/image/gif/a969224c9be96155e050c6815dd1e50a/gr003.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979707016517/fgr003/DOWNSAMPLED/image/gif/a969224c9be96155e050c6815dd1e50a/gr003.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr003</xocs:file-basename>
+               <xocs:filename>gr003.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>8195</xocs:filesize>
+               <xocs:pixel-height>295</xocs:pixel-height>
+               <xocs:pixel-width>389</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979707016517-gr003.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979707016517/fgr003/THUMBNAIL/image/gif/6acab2523244ad570b2c6334cea5e6a4/gr003.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979707016517/fgr003/THUMBNAIL/image/gif/6acab2523244ad570b2c6334cea5e6a4/gr003.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr003</xocs:file-basename>
+               <xocs:filename>gr003.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1529</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>123</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979707016517-gr004.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979707016517/fgr004/DOWNSAMPLED/image/gif/6fe2bef73531b203f4c6cade0d5c7694/gr004.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979707016517/fgr004/DOWNSAMPLED/image/gif/6fe2bef73531b203f4c6cade0d5c7694/gr004.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr004</xocs:file-basename>
+               <xocs:filename>gr004.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>7341</xocs:filesize>
+               <xocs:pixel-height>290</xocs:pixel-height>
+               <xocs:pixel-width>389</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979707016517-gr004.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979707016517/fgr004/THUMBNAIL/image/gif/4935b0bf75419513227bdb5733b8cab9/gr004.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979707016517/fgr004/THUMBNAIL/image/gif/4935b0bf75419513227bdb5733b8cab9/gr004.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr004</xocs:file-basename>
+               <xocs:filename>gr004.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1556</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979707016517-gr005.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979707016517/fgr005/DOWNSAMPLED/image/gif/8ff10971882839af80afa3694c12088e/gr005.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979707016517/fgr005/DOWNSAMPLED/image/gif/8ff10971882839af80afa3694c12088e/gr005.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr005</xocs:file-basename>
+               <xocs:filename>gr005.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>13458</xocs:filesize>
+               <xocs:pixel-height>555</xocs:pixel-height>
+               <xocs:pixel-width>387</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979707016517-gr005.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979707016517/fgr005/THUMBNAIL/image/gif/048bd5729f33f8329db929bdd80eff20/gr005.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979707016517/fgr005/THUMBNAIL/image/gif/048bd5729f33f8329db929bdd80eff20/gr005.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr005</xocs:file-basename>
+               <xocs:filename>gr005.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1119</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>65</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979707016517-gr002.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979707016517/fgr002/DOWNSAMPLED/image/gif/d2184c000cc7693969e2e5dc16459da2/gr002.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979707016517/fgr002/DOWNSAMPLED/image/gif/d2184c000cc7693969e2e5dc16459da2/gr002.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr002</xocs:file-basename>
+               <xocs:filename>gr002.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>22296</xocs:filesize>
+               <xocs:pixel-height>907</xocs:pixel-height>
+               <xocs:pixel-width>368</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0021979707016517-gr002.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0021979707016517/fgr002/THUMBNAIL/image/gif/998c986aef52d05423fc34a08d62f688/gr002.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0021979707016517/fgr002/THUMBNAIL/image/gif/998c986aef52d05423fc34a08d62f688/gr002.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr002</xocs:file-basename>
+               <xocs:filename>gr002.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>867</xocs:filesize>
+               <xocs:pixel-height>94</xocs:pixel-height>
+               <xocs:pixel-width>38</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.0">
+         <item-info>
+            <jid>YJCIS</jid>
+            <aid>13669</aid>
+            <ce:pii>S0021-9797(07)01651-7</ce:pii>
+            <ce:doi>10.1016/j.jcis.2007.11.004</ce:doi>
+            <ce:copyright type="full-transfer" year="2007">Elsevier Inc.</ce:copyright>
+            <ce:doctopics>
+               <ce:doctopic>
+                  <ce:text>Adsorption and deposition</ce:text>
+               </ce:doctopic>
+            </ce:doctopics>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig001">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Adsorption isotherms of anionic polyelectrolytes on (a) Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf>, (b) SiO<ce:inf loc="post">2</ce:inf>, and (c) CeO<ce:inf loc="post">2</ce:inf> at pH 5, 7 and 9.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr002"/>
+            </ce:figure>
+            <ce:figure id="fig002">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">ATR-FTIR spectra according to materials type and pH in aqueous environment: bare SiO<ce:inf loc="post">2</ce:inf>, bare Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf>, and Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> particles adsorbed with anionic polyelectrolytes at pH 5, 7 and 9.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr003"/>
+            </ce:figure>
+            <ce:figure id="fig003">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Contact angles on Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> and SiO<ce:inf loc="post">2</ce:inf> blanket wafers as a function of the concentration of anionic polyelectrolyte at pH 7.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr004"/>
+            </ce:figure>
+            <ce:figure id="fig004">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Blanket wafer polishing results (a) Removal rates of SiO<ce:inf loc="post">2</ce:inf> and Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf>, (b) selectivity and adsorption amount of anionic polyelectrolytes on Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf>, SiO<ce:inf loc="post">2</ce:inf>, and CeO<ce:inf loc="post">2</ce:inf> according to slurry pH.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr005"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl001" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Coiling index of PyPAA during adsorption on to Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> and SiO<ce:inf loc="post">2</ce:inf> as a function of pH represent the <mml:math altimg="si6.gif" overflow="scroll">
+                        <mml:msub>
+                           <mml:mi>I</mml:mi>
+                           <mml:mi mathvariant="normal">e</mml:mi>
+                        </mml:msub>
+                        <mml:mo stretchy="false">/</mml:mo>
+                        <mml:msub>
+                           <mml:mi>I</mml:mi>
+                           <mml:mi mathvariant="normal">m</mml:mi>
+                        </mml:msub>
+                     </mml:math> values in homogeneous solution</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="3">
+                  <colspec colnum="1" colname="col1" align="left"/>
+                  <colspec colnum="2" colname="col2" align="char" char="."/>
+                  <colspec colnum="3" colname="col3" align="char" char="."/>
+                  <thead valign="top">
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">pH</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Coiling index for SiO<inf loc="post">2</inf> suspension</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Coiling index for Si<inf loc="post">3</inf>N<inf loc="post">4</inf> suspension</entry>
+                     </row>
+                  </thead>
+                  <tbody valign="top">
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.22</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.27</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.16</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.21</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.11</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.16</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.04</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.10</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title>Adsorption behavior of anionic polyelectrolyte for chemical mechanical polishing (CMP)</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Sarah</ce:given-name>
+                  <ce:surname>Kim</ce:surname>
+                  <ce:cross-ref refid="aff001">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Jae-Hyun</ce:given-name>
+                  <ce:surname>So</ce:surname>
+                  <ce:cross-ref refid="aff002">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="fn001">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Dong-Jun</ce:given-name>
+                  <ce:surname>Lee</ce:surname>
+                  <ce:cross-ref refid="aff002">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Seung-Man</ce:given-name>
+                  <ce:surname>Yang</ce:surname>
+                  <ce:cross-ref refid="aff001">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor001">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff001">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>National CRI Center for Integrated Optofluidic Systems and Department of Chemical and Biomolecular Engineering, Korea Advanced Institute of Science and Technology, 373-1 Guseong-dong, Yuseong-gu, Daejeon 305–701, Republic of Korea</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff002">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Manufacturing Technology Team, Memory Division, Samsung Electronics Co. LTD, San #24, Nongseo-Ri, Kiheung-Eup, Yongin-City, Kyunggi-Do 449-711, Republic of Korea</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor001">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+               <ce:footnote id="fn001">
+                  <ce:label>1</ce:label>
+                  <ce:note-para>Present address: Korea Intellectual Property Office.</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:date-received day="27" month="8" year="2007"/>
+            <ce:date-accepted day="6" month="11" year="2007"/>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">In this work, we investigated the adsorption characteristics of anionic polyelectrolytes, which are used in shallow trench isolation chemical mechanical polishing with ceria abrasives. Specifically, the adsorption isotherms and chain conformation of anionic polyelectrolytes were studied in order to elucidate the difference in removal rates of silicon dioxide (SiO<ce:inf loc="post">2</ce:inf>) and silicon nitride (Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf>) layers and the high selectivity characteristics of ceria slurry. Adsorption isotherms, FT-IR spectroscopy and contact angle measurements revealed that the anionic polyelectrolyte additives had much better adsorption affinities for the Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> surface than for the SiO<ce:inf loc="post">2</ce:inf> surface. Moreover, blanket wafer polishing results were successfully correlated with the adsorption isotherms of polyelectrolytes on the oxide particle suspensions.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:abstract class="graphical">
+               <ce:section-title>Graphical abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para view="all">The selectivity of STI CMP is optimized by investigating adsorption behavior of anionic polyelectrolyte.</ce:simple-para>
+               </ce:abstract-sec>
+               <ce:figure>
+                  <ce:link locator="gr001"/>
+               </ce:figure>
+            </ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Anionic polyelectrolyte</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>STI CMP</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Adsorption behavior</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Removal rate</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Selectivity</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec001" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para view="all">The chemical mechanical polishing (CMP) process has been widely adopted to achieve global planarization of metal or dielectric layers and multi-level interconnections. This process, which has become an important step in semiconductor fabrication, can be categorized into three types according to the object layer to be polished: interlayer dielectric (ILD) CMP (pH &gt;7), metal CMP (pH &lt;7), and shallow trench isolation (STI) CMP (pH ∼7) <ce:cross-refs refid="bib001 bib002 bib003">[1–3]</ce:cross-refs>. Silica-based slurry, which is typically used in ILD CMP, usually has low selectivity, i.e., a low removal rate ratio of Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> relative to SiO<ce:inf loc="post">2</ce:inf> 
+                     <ce:cross-ref refid="bib003">[3]</ce:cross-ref>. This low selectivity can lead to extensive loss of Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> layer, especially for large pattern density variations across the die, as well as poor uniformity and planarity in the chip and wafer levels. Therefore, several attempts have been made to increase the selectivity of Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> over SiO<ce:inf loc="post">2</ce:inf> and obtain proper uniformity of both the chip and wafer levels <ce:cross-ref refid="bib004">[4]</ce:cross-ref>. In order to improve the selectivity and uniformity, various additives have been used within slurries such as amino acid <ce:cross-ref refid="bib005">[5]</ce:cross-ref>, SDS surfactants <ce:cross-ref refid="bib006">[6]</ce:cross-ref>. Although the improvement in the selectivity could be achieved by conventional silica slurry <ce:cross-refs refid="bib005 bib006">[5,6]</ce:cross-refs>, ceria abrasives have been widely used in STI CMP due to their high removal rates <ce:cross-refs refid="bib008 bib009 bib010 bib011 bib012">[8–12]</ce:cross-refs>. Moreover, most of ceria slurries contain additives such as anionic polyelectrolytes and anionic polyelectrolytes are more commercially adopted by semiconductor chip-makers <ce:cross-refs refid="bib009 bib010 bib011">[9–11]</ce:cross-refs> than amino acid additives <ce:cross-refs refid="bib008 bib012">[8,12]</ce:cross-refs>.</ce:para>
+                  <ce:para view="all">The selectivity improvement achieved by using ceria-based slurry instead of silica-based slurry can be explained by two factors: the surface properties <ce:cross-refs refid="bib007 bib008">[7,8]</ce:cross-refs> and crystalline structure <ce:cross-ref refid="bib009">[9]</ce:cross-ref> of the ceria abrasive, and excess additive adsorption on the Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> layer <ce:cross-refs refid="bib010 bib011 bib012">[10–12]</ce:cross-refs>. However, the colloidal interactions between the abrasives, polished layer, and additives that occur during the use of ceria abrasives have not been studied extensively. The high selective additives used with ceria abrasives are usually polyacrylic acid (PAA) ammonium salts, which have been widely used as dispersants for various metal oxide particles such as alumina or Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> suspensions <ce:cross-ref refid="bib013">[13]</ce:cross-ref>. Although the colloidal behavior of these typical anionic polyelectrolytes, such as conformational structure changes and an adsorption isotherm, have been reported by other research groups for conventional metal oxide suspensions <ce:cross-refs refid="bib014 bib015">[14,15]</ce:cross-refs>, anionic polyelectrolytes in the presence of both colloidal ceria and a wafer surface has not been examined yet. Therefore, it is necessary to study the interactions between the polyelectrolyte and the ceria, SiO<ce:inf loc="post">2</ce:inf>, and Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> surfaces to understand the role of anionic polyelectrolyte to STI CMP, which is highly sensitive to the charge density and pH <ce:cross-ref refid="bib011">[11]</ce:cross-ref>.</ce:para>
+                  <ce:para view="all">In this work, we examined the adsorption characteristics of anionic polyelectrolyte additives within colloidal SiO<ce:inf loc="post">2</ce:inf>, Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf>, and ceria particle suspensions, as well as the chain conformations of anionic polyelectrolyte additives within SiO<ce:inf loc="post">2</ce:inf> and Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> suspensions. The present results elucidated the polishing characteristics such as the removal rate and selectivity at the wafer level. The colloidal interactions between anionic polyelectrolyte additives and SiO<ce:inf loc="post">2</ce:inf>/Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> surfaces were investigated as a function of pH and suspension concentration. In particular, the effects of the chain conformation and adsorption characteristics of polyelectrolytes on SiO<ce:inf loc="post">2</ce:inf> and Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> were analyzed using fluorescence spectroscopy, Fourier transform infrared spectroscopy (FTIR) and static contact angle measurements. Finally, an actual blanket wafer polishing was conducted in order to determine the influence of the aforementioned colloidal interactions on the removal rate.</ce:para>
+               </ce:section>
+               <ce:section id="sec002" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Experimental</ce:section-title>
+                  <ce:section id="sec003" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title>Materials</ce:section-title>
+                     <ce:para view="all">Commercially available ceria slurry (mean size = 340 nm, specific <mml:math altimg="si1.gif" overflow="scroll">
+                           <mml:mtext>area</mml:mtext>
+                           <mml:mo>=</mml:mo>
+                           <mml:mn>17.8</mml:mn>
+                           <mml:mtext> </mml:mtext>
+                           <mml:msup>
+                              <mml:mtext>m</mml:mtext>
+                              <mml:mn>2</mml:mn>
+                           </mml:msup>
+                           <mml:mo stretchy="false">/</mml:mo>
+                           <mml:mtext>g</mml:mtext>
+                        </mml:math>, 5 wt% aqueous solution) was used as received from Hitachi Chem. Co. Fumed silica (specific <mml:math altimg="si2.gif" overflow="scroll">
+                           <mml:mtext>area</mml:mtext>
+                           <mml:mo>=</mml:mo>
+                           <mml:mn>92.5</mml:mn>
+                           <mml:mtext> </mml:mtext>
+                           <mml:msup>
+                              <mml:mtext>m</mml:mtext>
+                              <mml:mn>2</mml:mn>
+                           </mml:msup>
+                           <mml:mo stretchy="false">/</mml:mo>
+                           <mml:mtext>g</mml:mtext>
+                        </mml:math>) and Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> (specific <mml:math altimg="si3.gif" overflow="scroll">
+                           <mml:mtext>area</mml:mtext>
+                           <mml:mo>=</mml:mo>
+                           <mml:mn>11.3</mml:mn>
+                           <mml:mtext> </mml:mtext>
+                           <mml:msup>
+                              <mml:mtext>m</mml:mtext>
+                              <mml:mn>2</mml:mn>
+                           </mml:msup>
+                           <mml:mo stretchy="false">/</mml:mo>
+                           <mml:mtext>g</mml:mtext>
+                        </mml:math>) powders were purchased from Aldrich. The high selective additives used in this work were anionic polyelectrolytes, specifically mixtures of PAAs with high and low molecular weights as ammonium salts. Usually, adding these anionic polyelectrolytes to the ceria slurry gives high selectivity during STI CMP. The detailed compositions of these anionic polyelectrolytes have been described in our previous reports <ce:cross-ref refid="bib011">[11]</ce:cross-ref>.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec004" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title>Adsorption experimental</ce:section-title>
+                     <ce:para view="all">Adsorption isotherms were measured by the following procedures: an oxide suspension (3 ml in volume) of SiO<ce:inf loc="post">2</ce:inf> (5 wt%) or Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> (5 wt%) was prepared at the desired concentration and pH by addition of 0.1 or 1 M HNO<ce:inf loc="post">3</ce:inf> and KOH in analytical grade. Then, we mixed an anionic polyelectrolyte solution to the desired concentration with a pre-adjusted pH equivalent suspension. The resulting suspension was allowed to equilibrate for 24 h. Subsequently, the suspension was centrifuged at 5000 rpm for 30 min and the supernatant was filtered. To obtain the adsorption isotherm, the conductivity of the PAA was measured initially as a function of the polyelectrolyte concentration and pH, which formed a standard curve. The conductivity data versus polyelectrolyte concentrations were fitted to straight lines for the solutions with different pH. Then, we could calculate the adsorbed amount of PAA in each solution from the standard curve.</ce:para>
+                     <ce:para view="all">Also, FTIR (ATR-FTIR spectrometer system, Sense IR) was utilized to confirm the adsorption characterization, according to the type of abrasive and pH, by using each set of dried adsorbed metal oxide particles. To determine the wettability, advancing contact angle was measured with the standard sessile drop technique. The volume of the water droplets was kept constant at 1 μl and the contact angles were measured at pH 7.</ce:para>
+                     <ce:para view="all">Before the measurement of the contact angle, blanket SiO<ce:inf loc="post">2</ce:inf> wafer and Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> wafer samples were rinsed with deionized water and dried at 90 °C for 1 h and stored in ambient air for 1 day. Then, the polyelectrolytes were adsorbed on the wafers which were dipped in the polyelectrolyte solutions (0–25 g/L) for 1 h. The mean value of the measured contact angles was used to represent the wetting characteristics of the thin film sample.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec005" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title>Conformation study</ce:section-title>
+                     <ce:para view="all">We report here the synthesis and characterization of labeled PAA. As commercially available slurry additives do not contain functional groups, which are sensitive to fluorescence, PAA (<mml:math altimg="si4.gif" overflow="scroll">
+                           <mml:msub>
+                              <mml:mi>M</mml:mi>
+                              <mml:mi mathvariant="normal">w</mml:mi>
+                           </mml:msub>
+                        </mml:math> 5000) was used as a model polymer and labeled with pyrene. Although the molecular weight of PAA was slightly different from that used in the adsorption experiments, it was possible to determine the general conformation behavior of PAA as a function of pH.</ce:para>
+                     <ce:para view="all">PAA labeled with 1-pyrenyl methylamine (PyPAA) was synthesized according to the method described below <ce:cross-ref refid="bib016">[16]</ce:cross-ref>. Solid PAA obtained by freeze drying a PAA solution. A mixture of PAA (1.0 g) in 1-methyl pyrrolidone (50 ml) was put in a 10 ml flask fitted with a condenser and a nitrogen inlet, and the mixture was heated at 60 °C for 2 h to allow the polymer to dissolve. A solution of 1-pyrenyl methylamine hydrochloride (0.095 g) in 1-methyl pyrrolidone (5 ml) was quickly added to the resulting solution, followed by the addition of triethylamine (65 ml) and a solution of DCC (1,3-dicyclohexylcarbodiimide, 0.0947 g) in 1-methylpyrrolidone (5 ml). The reaction mixture was then stirred at 60 °C for 24 h in darkness. Then, the solid was separated by filtration and washing, and dried under vacuum. To measure the coiling index, steady-state fluorescence spectra were measured using a luminescence spectrometer (Perkin–Elmer, LS50B), with the excitation and emission slit widths kept at 2.5 and 5.0 nm, respectively. To analyze the variation in chain conformation with pH, the extent of coiling of the polymer chains in each system was determined by monitoring the emission properties of the pyrene group which means the excitation wavelength was set at 344 nm and the emission range was 360 to 600 nm. Specifically, we measured the intensity ratio of the excimer (at 485 nm) fluorescence to the monomer (at 375 nm) fluorescence <mml:math altimg="si5.gif" overflow="scroll">
+                           <mml:msub>
+                              <mml:mi>I</mml:mi>
+                              <mml:mi mathvariant="normal">excimer</mml:mi>
+                           </mml:msub>
+                           <mml:mo stretchy="false">/</mml:mo>
+                           <mml:msub>
+                              <mml:mi>I</mml:mi>
+                              <mml:mi mathvariant="normal">monomer</mml:mi>
+                           </mml:msub>
+                        </mml:math>, which is called the “coiling index” as the excimer can only be formed if the distance between the pyrene groups is less than 4–5 Å.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec006" view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title>Wafer test</ce:section-title>
+                     <ce:para view="all">Finally, SiO<ce:inf loc="post">2</ce:inf> (16000 Å) and Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> (1500 Å) blanket wafers were polished using a commercial polisher (Strasbaugh 6EC). Just prior to the polishing tests, a 5 wt% ceria abrasive suspension, 3 wt% anionic polyelectrolyte and deionized water were mixed with a ratio of 1:3:3 by volume. Polishing was carried out under the following conditions of downward force/back pressure/platen rpm/head rpm = 3.5 psi/1.5 psi/103 rpm/97 rpm. After the polishing test, the polished wafer was cleaned with a brush-type cleaner (DAINPPON Screen Co.) and the remaining thickness was measured using an optical probe (OPTI-PROBE).</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec007" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results and discussion</ce:section-title>
+                  <ce:para view="all">The adsorption behavior of the anionic polyelectrolyte is shown in <ce:cross-ref refid="fig001">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="fig001"/> for the SiO<ce:inf loc="post">2</ce:inf>, Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> and ceria particles. In the case of Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf>, the adsorption of the anionic polyelectrolyte was higher at pH 7 than at other pH (<ce:cross-ref refid="fig001">Fig. 1</ce:cross-ref>a). For SiO<ce:inf loc="post">2</ce:inf>, by contrast, the adsorbed amount was nearly independent of pH. Moreover, almost 10 times as much anionic polyelectrolyte was adsorbed on Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> than on SiO<ce:inf loc="post">2</ce:inf> in the equilibrium state. This difference in adsorbed amount is due to the difference in surface charge between the two metal oxide particles. The isoelectric point of Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> and ceria is around pH 6–7 while that of SiO<ce:inf loc="post">2</ce:inf> is approximately pH 2–3 <ce:cross-refs refid="bib017 bib018">[17,18]</ce:cross-refs>. In this reason, the anionic polyelectrolyte can form an effective passive layer on the Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> layer but will be negligibly adsorbed on SiO<ce:inf loc="post">2</ce:inf> during STI CMP. Consequently, a high removal rate as well as enhanced global uniformity and planarity can be achieved by using Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> as a mask layer over the SiO<ce:inf loc="post">2</ce:inf> layer. The black arrows in <ce:cross-ref refid="fig001">Fig. 1</ce:cross-ref> indicate the anionic polyelectrolyte concentration at which the polishing test was conducted.</ce:para>
+                  <ce:para view="all">
+                     <ce:cross-ref refid="fig002">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="fig002"/> shows the IR spectra of Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> particles on which anionic polyelectrolytes were adsorbed at pH 5, 7 and 9, along with the spectra for bare Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> and bare SiO<ce:inf loc="post">2</ce:inf>. The spectra were obtained from the polyelectrolyte-adsorbed powders that remained as sediments during the adsorption test. The peaks at 1700 and 1560 cm<ce:sup loc="post">−1</ce:sup> in these spectra can be assigned to vibrational mode of the carboxylic acid (<ce:glyph name="sbnd"/>COOH) and carboxylate (<ce:glyph name="sbnd"/>COO<ce:sup loc="post">−</ce:sup>) groups, respectively. FTIR spectroscopic measurements were conducted only on Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> powder samples, as the carbonyl peaks could be easily observed for these samples regardless of pH, as shown in <ce:cross-ref refid="fig002">Fig. 2</ce:cross-ref>. In the case of SiO<ce:inf loc="post">2</ce:inf> with adsorbed polyelectrolytes, by contrast, the carbonyl peaks could barely be discerned throughout the pH range, with the spectra appearing almost the same as for bare SiO<ce:inf loc="post">2</ce:inf> particles. These observations are consistent with the adsorption test results, which indicated much less polyelectrolyte adsorption on SiO<ce:inf loc="post">2</ce:inf> compared to Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> and that the amount adsorbed on SiO<ce:inf loc="post">2</ce:inf> was independent of pH.</ce:para>
+                  <ce:para view="all">Similar results were obtained in the contact angle measurements using Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> and SiO<ce:inf loc="post">2</ce:inf> blanket wafers, as shown in <ce:cross-ref refid="fig003">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="fig003"/>. As the polyelectrolyte concentration increased, the contact angle of Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> increased whereas that of SiO<ce:inf loc="post">2</ce:inf> remained almost unchanged. These findings clearly indicate that the surface of the Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> blanket wafer becomes more hydrophobic due to the preferred adsorption of the anionic electrolyte polymer, which could be inferred from the adsorption test of Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> particle suspensions (see <ce:cross-refs refid="fig001 fig002">Figs. 1a and 2</ce:cross-refs>). However, the surface property of the SiO<ce:inf loc="post">2</ce:inf> wafer may not be modified substantially after adsorption of the polymer electrolytes due to the low affinity of the polyelectrolytes for this substrate, as shown by the adsorption test (<ce:cross-ref refid="fig001">Fig. 1</ce:cross-ref>b).</ce:para>
+                  <ce:para view="all">In order to clarify conformation of polyelectrolyte on the solid/liquid interface according to pH, we characterized the extent of coiling of the anionic polyelectrolyte chains through measurements of the emission of a fluorophore whose excimer-forming properties vary depending on the chain conformation. To achieve this, a pyrene group was attached to the main polymer chain via an amide bond and the PAA homopolymer was used as the anionic polyelectrolyte instead of the mixtures of high and low molecular weight ammonium salts of PAA used previously. Both the SiO<ce:inf loc="post">2</ce:inf> and Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> suspensions showed a similar trend in the value of the coiling index as a function of pH, as summarized in <ce:cross-ref refid="tbl001">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="tbl001"/>. The fluorescence quantum yield of the pyrene group decreased with increasing pH, indicative of extensive self-quenching of the pyrene emission. This indicates that the pyrene groups take on a stretched conformation with increase in pH due to the electrostatic repulsive force between the particle surface and the carboxyl groups of the anionic polyelectrolyte <ce:cross-ref refid="bib016">[16]</ce:cross-ref>.</ce:para>
+                  <ce:para view="all">Finally, we examined the removal rate and selectivity changes as a function of pH for SiO<ce:inf loc="post">2</ce:inf> and Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> blanket wafers using the anionic polyelectrolyte concentration indicated by an arrow in <ce:cross-ref refid="fig001">Fig. 1</ce:cross-ref>. The SiO<ce:inf loc="post">2</ce:inf> removal rate increased with increasing pH up to pH 7, and then saturated with further increase of pH (<ce:cross-ref refid="fig004">Fig. 4</ce:cross-ref>
+                     <ce:float-anchor refid="fig004"/>a). On the other hand, the Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> removal rate remained constant from pH 5 to 7, and then increased drastically from pH 7 to 9 (<ce:cross-ref refid="fig004">Fig. 4</ce:cross-ref>b) This abrupt increase of the Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> removal rate is consistent with the adsorption isotherm of the anionic polyelectrolytes on the Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> particle surface (<ce:cross-ref refid="fig001">Fig. 1</ce:cross-ref>a). Specifically, the adsorbed amount on the Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> particle surface is maximum at pH 7, which leads to the maximum selectivity at pH 7 as shown in <ce:cross-ref refid="fig004">Fig. 4</ce:cross-ref>b.</ce:para>
+                  <ce:para view="all">The removal rate of SiO<ce:inf loc="post">2</ce:inf> wafer usually increases with increase in pH because of the increased reactivity and concentration of the hydroxyl group, which can soften the oxide surface through a hydrolyzing process. However, further increase in pH from 7 to 9 may be accompanied by an increase in the amount of anionic polyelectrolytes on the ceria abrasive particles, as shown in <ce:cross-ref refid="fig001">Fig. 1</ce:cross-ref>c. Such an increase in the surface coverage of the abrasive particles may inhibit the chemical reactions between the ceria and the oxide layer <ce:cross-ref refid="bib019">[19]</ce:cross-ref>, leading to a saturation of the removal rate of the oxide layer above pH 7. Although adsorbed polyelectrolytes may form a more stretched structure due to electrostatic repulsion, as shown in <ce:cross-ref refid="tbl001">Table 1</ce:cross-ref>, the amount of anionic polyelectrolytes adsorbed on the SiO<ce:inf loc="post">2</ce:inf> particle surface was virtually negligible. These findings suggest that the material removal rate may be determined by the adsorption characteristics rather than by the polymer conformation in the blanket wafer polishing.</ce:para>
+                  <ce:para view="all">The Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> removal rate, on the other hand, is generally explained by a two-step reaction. The Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> layer surface can be converted to SiO<ce:inf loc="post">2</ce:inf> via hydrolyzation and removed in a similar way to the removal of the oxide layer <ce:cross-refs refid="bib008 bib020">[8,20]</ce:cross-refs>. Therefore, the actual degree of hydrolyzation of Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> surface may be controlled by the amount of anionic polyelectrolyte adsorbed. In the acidic region, the Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> removal rate was suppressed by increased adsorption of polyelectrolyte. However, on transition to the basic pH region, the removal rate abruptly increased due to reduced polyelectrolyte adsorption in this region and accelerated hydrolyzing process (<ce:cross-ref refid="fig001">Fig. 1</ce:cross-ref>a).</ce:para>
+                  <ce:para view="all">Although the blanket wafer polishing results were well correlated with the adsorption results of the colloidal particle suspension, conformational changes of the polyelectrolytes as a function of pH could not be clearly discerned. However, the actual patterned wafer results such as dishing and erosion should be further considered from the viewpoint of polyelectrolyte microstructure at the solid/liquid interface during polishing as well as adsorption amount of polyelectrolyte.</ce:para>
+               </ce:section>
+               <ce:section id="sec008" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusions</ce:section-title>
+                  <ce:para view="all">The present results show that during the polishing of a Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> layer using ceria slurry, the presence of a passivation layer of anionic polyelectrolytes on the Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> surface reduces the removal rate. This was confirmed by both contact angle measurements and real blanket wafer polishing experiments. Moreover, the improved selectivity of Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> over SiO<ce:inf loc="post">2</ce:inf> and the variation in removal rate with pH were found to be correlated with an adsorption isotherm, and were confirmed by the FTIR results for anionic polyelectrolytes on SiO<ce:inf loc="post">2</ce:inf>, Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf>. Because a saturation of the removal rate was observed in the basic region for the SiO<ce:inf loc="post">2</ce:inf> blanket wafer and a reduced removal rate of Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> was maintained within the acidic region, the maximum selectivity was obtained in pH 7. Although a change in the conformation of the polyelectrolyte structure was not clearly indicated during the blanket wafer polishing, it should be considered in future research on patterned wafer polishing.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgments</ce:section-title>
+               <ce:para view="all">This work was supported by Samsung Electronics Co. Ltd. Partial support from Brain Korea 21 Program is also appreciated.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="bib001">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.K.</ce:given-name>
+                                 <ce:surname>Singh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Bajaj</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>MRS bull.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>743</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib002">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Boning</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>MRS bull.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>761</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib003">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.D.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.S.</ce:given-name>
+                                 <ce:surname>Hwang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.M.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.K.</ce:given-name>
+                                 <ce:surname>Rhee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Vac. Sci. Technol. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>918</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib004">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.G.</ce:given-name>
+                                 <ce:surname>Chekina</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.M.</ce:given-name>
+                                 <ce:surname>Keer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>145</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2100</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib005">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.N.</ce:given-name>
+                                 <ce:surname>Prasad</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ramanathan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochem. Solid-State Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>12</sb:issue-nr>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>G337</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib006">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.-H.</ce:given-name>
+                                 <ce:surname>Bu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.M.</ce:given-name>
+                                 <ce:surname>Moudgil</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>154</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>7</sb:issue-nr>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>H631</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib007">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.R.</ce:given-name>
+                                 <ce:surname>Evans</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Res. Soc. Symp. Proc.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>816</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib008">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.W.</ce:given-name>
+                                 <ce:surname>Cater</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.P.</ce:given-name>
+                                 <ce:surname>Johns</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochem. Solid-State Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>8</sb:issue-nr>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>G218</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib009">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.-K.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.-H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Paik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-G.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>154</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>7</sb:issue-nr>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>H642</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib010">
+                     <ce:label>[10]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>J.D. Lee, J.K. Choi, C. Hong, W.S. Han, J.T. Moon, B.I. Ryu, in: 9th International CMP-MIC Conference, Marriott Hotel, Marina Del Rey, CA, February 23–26, 2004</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib011">
+                     <ce:label>[11]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>N.S. Kim, J.H. So, Y.S. Yim, K.M. Kang, D.J. Lee, S.M. Chon, in: The 11th International Symposium on Semiconductor Manufacturing, Nihon Toshi Center, Tokyo, Japan, October 15–17, 2002</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib012">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.G.</ce:given-name>
+                                 <ce:surname>America</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.V.</ce:given-name>
+                                 <ce:surname>Babu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochem. Solid-State Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>12</sb:issue-nr>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>G327</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib013">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Pettersson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Marino</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Pursiheimo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>Rosenholm</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Colloid Interface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>228</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>73</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib014">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.S.</ce:given-name>
+                                 <ce:surname>Shiratori</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.F.</ce:given-name>
+                                 <ce:surname>Rubner</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Macromolecules</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4213</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib015">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.A.</ce:given-name>
+                                 <ce:surname>Hackley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>80</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>9</sb:issue-nr>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2315</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib016">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.F.</ce:given-name>
+                                 <ce:surname>Anghel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Alderson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.M.</ce:given-name>
+                                 <ce:surname>Winnik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mizusaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Morishima</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Polymer</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3035</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib017">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Brinker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.W.</ce:given-name>
+                                 <ce:surname>Scherer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sol–Gel Science</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1990</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Academic Press</sb:name>
+                                 <sb:location>San Diego</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib018">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Suphantharida</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Osseo-Asare</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>151</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>10</sb:issue-nr>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>G658</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib019">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Hoshino</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Kurata</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Terasaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.J.</ce:given-name>
+                                 <ce:surname>Susa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Non-Cryst. Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>283</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>129</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib020">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.Z.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Gutman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.P.</ce:given-name>
+                                 <ce:surname>Chow</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>145</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3919</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

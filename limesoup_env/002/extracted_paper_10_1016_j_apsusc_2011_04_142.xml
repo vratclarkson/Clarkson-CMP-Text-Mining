@@ -1,0 +1,1426 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0169433211006933</prism:url><dc:identifier>doi:10.1016/j.apsusc.2011.04.142</dc:identifier><eid>1-s2.0-S0169433211006933</eid><prism:doi>10.1016/j.apsusc.2011.04.142</prism:doi><pii>S0169-4332(11)00693-3</pii><dc:title>Influence of adhesion of silica and ceria abrasive nanoparticles on Chemical–Mechanical Planarization of silica surfaces </dc:title><prism:publicationName>Applied Surface Science</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>01694332</prism:issn><prism:volume>257</prism:volume><prism:issueIdentifier>20</prism:issueIdentifier><prism:startingPage>8518</prism:startingPage><prism:endingPage>8524</prism:endingPage><prism:pageRange>8518-8524</prism:pageRange><prism:number>20</prism:number><dc:format>application/xml</dc:format><prism:coverDate>2011-08-01</prism:coverDate><prism:coverDisplayDate>1 August 2011</prism:coverDisplayDate><prism:copyright>Copyright © 2011 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Volkov, D.O.</dc:creator><dc:creator>Dandu, P.R Veera</dc:creator><dc:creator>Goodman, H.</dc:creator><dc:creator>Santora, B.</dc:creator><dc:creator>Sokolov, I.</dc:creator><dc:description>
+                  We report on a direct measurement of adhesion between abrasive nanoparticles of irregular shape, which are used in semiconductor industry in the process of Chemical–Mechanical Planarization (CMP), and silica surface. The adhesion of ceria and silica nanoparticles to silica surface is measured in multiple chemistries of different CMP slurries using a specially developed atomic force microscopy (AFM) method. Using this method, we study the influence of adhesion on the main parameters of CMP, removal rate and defectivity, scratches. While being plausible to expect correlation between these parameters and adhesion, it has not been systematically studied as of yet. We observed direct correlation between adhesion and removal rate. Comparing the measured defectivity and adhesion, we observe the presence of some correlation between these parameters. We conclude that both adhesion and shape of abrasive particles influence defectivity, micro-scratches. Direct measurements of the adhesion between abrasive nano-particles and surface can be used in the screening of new slurries as well as various modeling related to wearing of the surfaces.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Atomic Force microscopy (AFM)</dcterms:subject><dcterms:subject>Adhesion</dcterms:subject><dcterms:subject>Ceria nanoparticles</dcterms:subject><dcterms:subject>Silica nanoparticles</dcterms:subject><dcterms:subject>Chemical–Mechanical Planarization (CMP)</dcterms:subject><dcterms:subject>Removal rate</dcterms:subject><dcterms:subject>Defectivity</dcterms:subject><dcterms:subject>Micro-scratches</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0169433211006933" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0169433211006933" rel="scidir"/></coredata><objects><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="678" height="551" size="95318">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433211006933-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="202" height="164" size="9763">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433211006933-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="339" height="364" size="31651">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433211006933-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="153" height="164" size="4813">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433211006933-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="678" height="677" size="218282">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433211006933-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="164" height="164" size="13775">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433211006933-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="716" height="617" size="75832">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433211006933-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="190" height="164" size="4937">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433211006933-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="fx1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="500" height="200" size="18183">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433211006933-fx1.jpg?httpAccept=%2A%2F%2A</object><object ref="fx1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="88" size="5470">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433211006933-fx1.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="376" height="653" size="14012">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433211006933-gr5.gif?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="94" height="163" size="1799">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433211006933-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="376" height="314" size="8787">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433211006933-gr6.gif?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="196" height="164" size="3614">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433211006933-gr6.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>79959371345</scopus-id><scopus-eid>2-s2.0-79959371345</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/79959371345" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271533</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291719</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291893</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Applied Surface Science</xocs:srctitle>
+      <xocs:normalized-srctitle>APPLIEDSURFACESCIENCE</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20110507">2011-05-07</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20110507">2011-05-07</xocs:available-online-date>
+      <xocs:ew-transaction-id>2011-06-16T22:29:04</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0169433211006933</xocs:eid>
+      <xocs:pii-formatted>S0169-4332(11)00693-3</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0169433211006933</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.apsusc.2011.04.142</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0169433211X00132</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T05:25:39.591806-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20110801</xocs:date-search-begin>
+      <xocs:year-nav>2011</xocs:year-nav>
+      <xocs:indexeddate epoch="1304726400">2011-05-07T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav absattachment articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref specialabst alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0169-4332</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>01694332</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>257</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>257</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>20</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>20</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 257, Issue 20</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>39</xocs:sort-order>
+      <xocs:first-fp>8518</xocs:first-fp>
+      <xocs:last-lp>8524</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>8518</xocs:first-page>
+         <xocs:last-page>8524</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20110801</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1 August 2011</xocs:cover-date-text>
+      <xocs:cover-date-start>2011-08-01</xocs:cover-date-start>
+      <xocs:cover-date-year>2011</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Regular Papers</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2011 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>INFLUENCEADHESIONSILICACERIAABRASIVENANOPARTICLESCHEMICALMECHANICALPLANARIZATIONSILICASURFACES</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>VOLKOV</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>D</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Materials and methods</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Materials</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Ceria slurry chemistries</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Silica slurry chemistries</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Atomic force microscopy</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Sample preparation for AFM measurements</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.6</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Chemical–mechanical polishing and measurement of measuring length and width of micro-scratches</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="bib0005">
+            <xocs:ref-normalized-surname>STEIGERWALD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CHEMICALMECHANICALPLANARIZATIONMICROELECTRONICMATERIALS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0010">
+            <xocs:ref-normalized-surname>HEGDE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>G126</xocs:ref-first-fp>
+            <xocs:ref-last-lp>G129</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0015">
+            <xocs:ref-normalized-surname>DANDUVEERA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>H936</xocs:ref-first-fp>
+            <xocs:ref-last-lp>H941</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0020"/>
+         <xocs:ref-info refid="bib0020"/>
+         <xocs:ref-info refid="bib0020"/>
+         <xocs:ref-info refid="bib0020"/>
+         <xocs:ref-info refid="bib0020"/>
+         <xocs:ref-info refid="bib0020"/>
+         <xocs:ref-info refid="bib0025">
+            <xocs:ref-normalized-surname>COOK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>152</xocs:ref-first-fp>
+            <xocs:ref-last-lp>171</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0025">
+            <xocs:ref-normalized-surname>HOSHINO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>129</xocs:ref-first-fp>
+            <xocs:ref-last-lp>136</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0025">
+            <xocs:ref-normalized-surname>KELSALL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0030">
+            <xocs:ref-normalized-surname>LU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9866</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9872</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0035">
+            <xocs:ref-normalized-surname>MELED</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>H460</xocs:ref-first-fp>
+            <xocs:ref-last-lp>H465</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0040">
+            <xocs:ref-normalized-surname>ONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>385</xocs:ref-first-fp>
+            <xocs:ref-last-lp>390</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0045">
+            <xocs:ref-normalized-surname>ARMINI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>H74</xocs:ref-first-fp>
+            <xocs:ref-last-lp>H78</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0045">
+            <xocs:ref-normalized-surname>ARMINI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>H218</xocs:ref-first-fp>
+            <xocs:ref-last-lp>H223</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0050">
+            <xocs:ref-normalized-surname>SOKOLOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>31</xocs:ref-first-fp>
+            <xocs:ref-last-lp>36</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0055">
+            <xocs:ref-normalized-surname>BERDYYEVA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>81</xocs:ref-first-fp>
+            <xocs:ref-last-lp>92</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0060">
+            <xocs:ref-normalized-surname>SOKOLOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>43</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CANCERNANOTECHNOLOGYNANOMATERIALSFORCANCERDIAGNOSISTHERAPY</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>ATOMICFORCEMICROSCOPYINCANCERCELLRESEARCH</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0065">
+            <xocs:ref-normalized-surname>SOKOLOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>475</xocs:ref-first-fp>
+            <xocs:ref-last-lp>481</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0070">
+            <xocs:ref-normalized-surname>HUTTL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>543</xocs:ref-first-fp>
+            <xocs:ref-last-lp>547</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0075">
+            <xocs:ref-normalized-surname>BERDYYEVA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>G91</xocs:ref-first-fp>
+            <xocs:ref-last-lp>G94</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>VOLKOVX2011X8518</xocs:refkey3>
+         <xocs:refkey4lp>VOLKOVX2011X8518X8524</xocs:refkey4lp>
+         <xocs:refkey4ai>VOLKOVX2011X8518XD</xocs:refkey4ai>
+         <xocs:refkey5>VOLKOVX2011X8518X8524XD</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0169-4332(11)00693-3</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0169433211006933</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0169433211006933</xocs:eid>
+         <xocs:doi>10.1016/j.apsusc.2011.04.142</xocs:doi>
+         <xocs:cid>271533</xocs:cid>
+         <xocs:timestamp>2011-06-23T08:55:10.04191-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2011-08-01</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0169433211006933-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433211006933/MAIN/application/pdf/c12d46a28407767425f171e74d32f0ad/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433211006933/MAIN/application/pdf/c12d46a28407767425f171e74d32f0ad/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1416890</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0169433211006933-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433211006933/PREVIEW/image/png/39320ac28a891927124bd22a8443e31d/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433211006933/PREVIEW/image/png/39320ac28a891927124bd22a8443e31d/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>59110</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433211006933-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433211006933/gr1/DOWNSAMPLED/image/jpeg/ecd7b411b0162083f1af55d0d2d86093/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433211006933/gr1/DOWNSAMPLED/image/jpeg/ecd7b411b0162083f1af55d0d2d86093/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>95318</xocs:filesize>
+               <xocs:pixel-height>551</xocs:pixel-height>
+               <xocs:pixel-width>678</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433211006933-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433211006933/gr1/THUMBNAIL/image/gif/176294cd7795d8f65519cfcdb1e48801/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433211006933/gr1/THUMBNAIL/image/gif/176294cd7795d8f65519cfcdb1e48801/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9763</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>202</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433211006933-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433211006933/gr2/DOWNSAMPLED/image/jpeg/4555b1fe9c11b151f2eb9b8b3185072d/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433211006933/gr2/DOWNSAMPLED/image/jpeg/4555b1fe9c11b151f2eb9b8b3185072d/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>31651</xocs:filesize>
+               <xocs:pixel-height>364</xocs:pixel-height>
+               <xocs:pixel-width>339</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433211006933-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433211006933/gr2/THUMBNAIL/image/gif/373a7b41599cba48d43ceffc1e0b67d9/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433211006933/gr2/THUMBNAIL/image/gif/373a7b41599cba48d43ceffc1e0b67d9/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4813</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>153</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433211006933-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433211006933/gr3/DOWNSAMPLED/image/jpeg/4c272f1d7823e5318ee2ad24ae1cef2f/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433211006933/gr3/DOWNSAMPLED/image/jpeg/4c272f1d7823e5318ee2ad24ae1cef2f/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>218282</xocs:filesize>
+               <xocs:pixel-height>677</xocs:pixel-height>
+               <xocs:pixel-width>678</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433211006933-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433211006933/gr3/THUMBNAIL/image/gif/5f7684d2fd437676b2cc11df431847ae/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433211006933/gr3/THUMBNAIL/image/gif/5f7684d2fd437676b2cc11df431847ae/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>13775</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>164</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433211006933-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433211006933/gr4/DOWNSAMPLED/image/jpeg/a428c90bd3f2c70a6209c0a27d5bf535/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433211006933/gr4/DOWNSAMPLED/image/jpeg/a428c90bd3f2c70a6209c0a27d5bf535/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>75832</xocs:filesize>
+               <xocs:pixel-height>617</xocs:pixel-height>
+               <xocs:pixel-width>716</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433211006933-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433211006933/gr4/THUMBNAIL/image/gif/3647f5b6250e31dae890ba7ded3c4b1d/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433211006933/gr4/THUMBNAIL/image/gif/3647f5b6250e31dae890ba7ded3c4b1d/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4937</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>190</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433211006933-fx1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433211006933/fx1/DOWNSAMPLED/image/jpeg/3a104290c4a8fb197fcc2c3939a54bb3/fx1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433211006933/fx1/DOWNSAMPLED/image/jpeg/3a104290c4a8fb197fcc2c3939a54bb3/fx1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>18183</xocs:filesize>
+               <xocs:pixel-height>200</xocs:pixel-height>
+               <xocs:pixel-width>500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433211006933-fx1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433211006933/fx1/THUMBNAIL/image/gif/ce3f704e423a458f5b6c67f0dc8494a2/fx1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433211006933/fx1/THUMBNAIL/image/gif/ce3f704e423a458f5b6c67f0dc8494a2/fx1.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5470</xocs:filesize>
+               <xocs:pixel-height>88</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433211006933-gr5.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433211006933/gr5/DOWNSAMPLED/image/gif/07e25b59f4dc156bd8c5aa64c5325d69/gr5.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433211006933/gr5/DOWNSAMPLED/image/gif/07e25b59f4dc156bd8c5aa64c5325d69/gr5.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>14012</xocs:filesize>
+               <xocs:pixel-height>653</xocs:pixel-height>
+               <xocs:pixel-width>376</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433211006933-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433211006933/gr5/THUMBNAIL/image/gif/b1500d9bf49b27d5fd4c41f38b39d2e0/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433211006933/gr5/THUMBNAIL/image/gif/b1500d9bf49b27d5fd4c41f38b39d2e0/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1799</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>94</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433211006933-gr6.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433211006933/gr6/DOWNSAMPLED/image/gif/8e8b84d5d1e4bd5d8ad04d8a2e352e00/gr6.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433211006933/gr6/DOWNSAMPLED/image/gif/8e8b84d5d1e4bd5d8ad04d8a2e352e00/gr6.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>8787</xocs:filesize>
+               <xocs:pixel-height>314</xocs:pixel-height>
+               <xocs:pixel-width>376</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433211006933-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433211006933/gr6/THUMBNAIL/image/gif/4cba62491186da2548c623069fc68557/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433211006933/gr6/THUMBNAIL/image/gif/4cba62491186da2548c623069fc68557/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3614</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>196</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.1" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>APSUSC</jid>
+            <aid>21809</aid>
+            <ce:pii>S0169-4332(11)00693-3</ce:pii>
+            <ce:doi>10.1016/j.apsusc.2011.04.142</ce:doi>
+            <ce:copyright type="full-transfer" year="2011">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig0010">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="spar0020" view="all">TEM images of ceria: (a) SKA and (b) SQL and silica (c) Levasil and (d) Cabot SS12 abrasive particles. The scale bars are 100<ce:hsp sp="0.25"/>nm.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="fig0015">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="spar0025" view="all">Schematic of the AFM experiment. (a) The surface with the abrasives if it would be attached by using the method of Ref. <ce:cross-ref refid="bib0045">[9]</ce:cross-ref>, (b) the present method based on “semi-embedding” of the abrasive particles in a thick layer of epoxy to create a sufficiently flat surface, on which the particles of all sizes are exposed to the interaction with the silica sphere.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="fig0020">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="spar0030" view="all">AFM images: 20<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>20<ce:hsp sp="0.25"/>μm<ce:sup loc="post">2</ce:sup> of ceria SKA14 (a) and SQL01 (b), silica Levasil (c) and 10<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:hsp sp="0.25"/>μm<ce:sup loc="post">2</ce:sup> silica Cabot (d) particles semi-embedded in epoxy surface.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="fig0025">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="spar0035" view="all">The values of adhesion between abrasive particles and silica surface measured in different chemistries. (a) SKA14 ceria, (b) SQL-01 ceria, (c) Levasil silica, (d) Cabot (fumed) silica. The average values are shown by solid bar; RMS variations are the dashed areas.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="fig0030">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="spar0040" view="all">Comparison between adhesion and calculated scratch densities for all abrasive particles (a). Plot (b) shows a zoomed area for the ceria slurry only.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="fig0035">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="spar0045" view="all">Correlation between adhesion and the removal time of 100<ce:hsp sp="0.25"/>nm of silica material.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title>Influence of adhesion of silica and ceria abrasive nanoparticles on Chemical–Mechanical Planarization of silica surfaces</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>D.O.</ce:given-name>
+                  <ce:surname>Volkov</ce:surname>
+                  <ce:cross-ref refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>P.R Veera</ce:given-name>
+                  <ce:surname>Dandu</ce:surname>
+                  <ce:cross-ref refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>H.</ce:given-name>
+                  <ce:surname>Goodman</ce:surname>
+                  <ce:cross-ref refid="aff0015">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>B.</ce:given-name>
+                  <ce:surname>Santora</ce:surname>
+                  <ce:cross-ref refid="aff0015">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>I.</ce:given-name>
+                  <ce:surname>Sokolov</ce:surname>
+                  <ce:cross-ref refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="aff0020">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0005">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Department of Physics, Clarkson University, Potsdam, NY 13699, USA</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff0010">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Chemical &amp; Biomolecular Engineering, Clarkson University, Potsdam, NY 13699, USA</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff0015">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Ferro Electronic Material Systems, Penn Yan, NY 14527, USA</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff0020">
+                  <ce:label>d</ce:label>
+                  <ce:textfn>Center for Advanced Materials &amp; Processing, Clarkson University, Potsdam, NY 13699, USA</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author at: Department of Physics, NY Center for Advanced Material Processing (CAMP), 8 Clarkson ave., Clarkson University, Potsdam, NY 13699, USA. Tel.: +1 315 268 2375; fax: +1 315 268 6610.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="19" month="12" year="2010"/>
+            <ce:date-accepted day="28" month="4" year="2011"/>
+            <ce:abstract class="graphical">
+               <ce:abstract-sec>
+                  <ce:section-title>Graphical abstract</ce:section-title>
+                  <ce:simple-para id="spar0005" view="all">.<ce:display>
+                        <ce:figure id="fig0005">
+                           <ce:link locator="fx1"/>
+                        </ce:figure>
+                     </ce:display>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+               <ce:abstract-sec>
+                  <ce:section-title>Highlights</ce:section-title>
+                  <ce:simple-para id="spar0010" view="all">► New AFM method to measure adhesion between nanoparticles and surfaces developed. ► Adhesion between abrasive nanoparticles of irregular shape and silica surface measured. ► The method is applied to the process of Chemical–Mechanical Planarization (CMP). ► Correlations between adhesion and CMP removal rate and defectivity are analyzed.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para id="spar0015" view="all">We report on a direct measurement of adhesion between abrasive nanoparticles of irregular shape, which are used in semiconductor industry in the process of Chemical–Mechanical Planarization (CMP), and silica surface. The adhesion of ceria and silica nanoparticles to silica surface is measured in multiple chemistries of different CMP slurries using a specially developed atomic force microscopy (AFM) method. Using this method, we study the influence of adhesion on the main parameters of CMP, removal rate and defectivity, scratches. While being plausible to expect correlation between these parameters and adhesion, it has not been systematically studied as of yet. We observed direct correlation between adhesion and removal rate. Comparing the measured defectivity and adhesion, we observe the presence of some correlation between these parameters. We conclude that both adhesion and shape of abrasive particles influence defectivity, micro-scratches. Direct measurements of the adhesion between abrasive nano-particles and surface can be used in the screening of new slurries as well as various modeling related to wearing of the surfaces.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Atomic Force microscopy (AFM)</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Adhesion</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Ceria nanoparticles</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Silica nanoparticles</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Chemical–Mechanical Planarization (CMP)</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Removal rate</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Defectivity</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Micro-scratches</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para id="par0005" view="all">Chemical–Mechanical Planarization (CMP) is a process based on synergetic action of chemicals and physical abrasive (mechanical) action of polishing slurry. It is used to polish and planarize surfaces of interest in semiconductor industry <ce:cross-ref refid="bib0005">[1]</ce:cross-ref>. Because the feature sizes of modern semiconductor devices can reach several tens of nanometers, the level of required polishing is rather high. To reach such a high level of polishing, and consequently, low surface roughness, nanoparticle-based slurries are broadly used. Silica-based abrasives have been the material of choice for a long time. Ceria-based slurries are relatively new <ce:cross-refs refid="bib0020 bib0025">[4,5]</ce:cross-refs>.</ce:para>
+                  <ce:para id="par0010" view="all">Removal (or sometime called polishing) rate is important characteristic of CMP <ce:cross-ref refid="bib0005">[1]</ce:cross-ref>. Defectivity, micro-scratches is one of the main problems in the wafer planarization, in particular, silica surfaces <ce:cross-refs refid="bib0010 bib0015">[2,3]</ce:cross-refs> in the CMP process. The nature of the scratch formation is not well understood. It is plausible to hypothesize more scratches when the adhesion of slurry particles to the polished surface is high. Similarly, the removal rate is expected to be higher for larger adhesion. However, these hypotheses have not been systematically verified. This can be explained by the difficulty of measuring the adhesion between nanoparticles and the surface of interest. Indirectly, adhesion of silica/alumina and ceria particles was studied by Lu et al. <ce:cross-ref refid="bib0030">[6]</ce:cross-ref> on copper and silica beads (via adsorption of the nanoparticles in a column with packed beads). Meled et al. <ce:cross-ref refid="bib0035">[7]</ce:cross-ref> studied adhesion of ceria and alumina on methyl-silsesquioxane (MSQ) films.</ce:para>
+                  <ce:para id="par0015" view="all">Atomic force microscopy (AFM) has been previously used to study CMP <ce:cross-refs refid="bib0045 bib0075">[9,15]</ce:cross-refs>, and in particular, to measure the adhesion between individual nanoparticles and various surfaces. Ong and Sokolov <ce:cross-ref refid="bib0040">[8]</ce:cross-ref> attached a nanoparticle to an AFM tip for direct measuring the interaction forces between the single nanoparticle and silica surfaces. It is worth noting that they found that the adhesion depended on the particle size in a non-classical way (not directly proportional to the particle radius). If applied to a particle with non-spherical morphology, this method requires time-consuming preparation of multiple probes to obtain sufficient statistics of all possible orientations of the particle. While colloidal silica particles can be approximated by a sphere, fumed silica and ceria, which are studied here, are far from being spherical. This makes the method of Ref. <ce:cross-ref refid="bib0040">[8]</ce:cross-ref> too labor consuming. An elegant solution, which allows doing a large number of measurements of adhesion between a surface and submicron particles was developed by Armini et al. <ce:cross-ref refid="bib0045">[9]</ce:cross-ref>. In some sense, it is an upside down approach as compared to the method of Ref. <ce:cross-ref refid="bib0040">[8]</ce:cross-ref>. Silica-modified PMMA-based abrasives were attached to a flat surface, not to the AFM tip. The particles were attached to the surface of a silicon wafer using a thin layer of suitable polymers having high affinity with the particles and the silicon substrate. A flat silica film was mimicked by a large silica sphere (20–40<ce:hsp sp="0.25"/>μm in diameter) attached to the AFM cantilever. Touching the surface at different points with such a sphere, one can obtain sufficient statistics of adhesion between the abrasive particles and silica surface.</ce:para>
+                  <ce:para id="par0020" view="all">In the present work, we develop an AFM method to measure the adhesion between either silica or ceria abrasive nanoparticles and silica surface. The method is a modification of the work by Armini et al. <ce:cross-ref refid="bib0045">[9]</ce:cross-ref>. A direct use of that method in the case of our abrasive particles is difficult because our particles are much smaller and quite polydispersed in size. Similar to Ref. <ce:cross-ref refid="bib0045">[9]</ce:cross-ref>, we use large silica spheres to mimic a flat silica surface. However, the attachment of particles to a flat substrate is modified. If we used the method of Ref. <ce:cross-ref refid="bib0045">[9]</ce:cross-ref> directly, we would obtain highly corrugated non-flat surface with our polydispersed particles. Here we develop another method, which is based on embedding of nanoparticles in a thick layer of epoxy, somewhat similar to <ce:cross-ref refid="bib0040">[8]</ce:cross-ref>. The nanoparticles, which are <ce:italic>semi-embedded</ce:italic> in the epoxy, form a sufficiently flat surface. The adhesion is measured directly when the surfaces are immersed in solutions of various chemistries corresponding to different slurries. Several of these slurries are used here for the CMP polishing of silica surfaces to study defectivity and removal rates. SEM was used to measure the density of defects, micro-scratches. Correlations between adhesion, scratch count, and removal rates measured for different slurries are discussed.</ce:para>
+               </ce:section>
+               <ce:section id="sec0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Materials and methods</ce:section-title>
+                  <ce:section id="sec0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title>Materials</ce:section-title>
+                     <ce:para id="par0025" view="all">Two different sized ceria particles (SQL01 with an average diameter <ce:italic>d</ce:italic>
+                        <ce:inf loc="post">mean</ce:inf>
+                        <ce:hsp sp="0.25"/>∼<ce:hsp sp="0.25"/>180<ce:hsp sp="0.25"/>nm, and SKA14 with <ce:italic>d</ce:italic>
+                        <ce:inf loc="post">mean</ce:inf>
+                        <ce:hsp sp="0.25"/>∼<ce:hsp sp="0.25"/>120<ce:hsp sp="0.25"/>nm), colloidal silica (<ce:italic>d</ce:italic>
+                        <ce:inf loc="post">mean</ce:inf>
+                        <ce:hsp sp="0.25"/>∼<ce:hsp sp="0.25"/>50<ce:hsp sp="0.25"/>nm) and fumed silica (secondary size ∼120<ce:hsp sp="0.25"/>nm) were supplied by Ferro Corp., Levasil-H.C. Stark Inc., Germany, and Cabot Corp., respectively. Electron transmission microscopy (TEM) images of these abrasives are shown in <ce:cross-ref refid="fig0010">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig0010"/>. Slurry additive SQL-2 and the slurry suppressant were obtained from Ferro, Inc. and used without any further purification.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title>Ceria slurry chemistries</ce:section-title>
+                     <ce:para id="par0030" view="all">The chemistries used for ceria slurry were prepared as follows. To prepare “blank chemistry with pH 4”, we used DI water with pH 4 adjusted with nitric acid. To prepare “chemistry A”, we used nine parts of 50% solution of slurry additive SQL-2 and one part of the blank chemistry with pH 4. The result chemistry has acidity of pH 4. To prepare “chemistry B”, we used nine parts of solution of 2% suppressant and one part of blank chemistry with pH 4. The result chemistry has pH 7.5. The AFM measurements of adhesion were done in these media. These media correspond to the chemistry of CMP slurry that we used for polishing.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0025" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title>Silica slurry chemistries</ce:section-title>
+                     <ce:para id="par0035" view="all">The chemistries used for silica slurry were prepared as follows. 10<ce:hsp sp="0.25"/>mM potassium nitrite solution in DI water was used here to prepare all three chemistries. To prepare “blank chemistry with pH4”, “pH7 chemistry”, and “pH9 chemistry”, we adjusted acidity of 10<ce:hsp sp="0.25"/>mM potassium nitrite solution with nitric acid and potassium hydroxide. Polishing slurries with the abrasive silica were prepared in with similar chemistry but pH adjusted to 11 (polishing with lower pH requires unrealistically long time). Direct AFM measurements of adhesion at that high pH are not practical due to the erosion of the AFM fluid cantilever holder. To compare to the adhesion results and that acidity, we estimated the corresponding adhesion by its mathematical extrapolating to pH 11.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0030" view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title>Atomic force microscopy</ce:section-title>
+                     <ce:para id="par0040" view="all">A Dimension 3100 Nanoscope AFM (DI/Veeco, CA) was used in this work. For imaging, the AFM operated in the tapping mode. RTESP cantilevers (40<ce:hsp sp="0.25"/>N/m spring constant, 300<ce:hsp sp="0.25"/>kHz resonance frequency) were used. The measure adhesion, the AFM operated in the Force–Volume mode. This mode is useful to simultaneously record topology of the surface and force curves at each point (pixel) of the surface. Moreover, it is important to do multiple measurements to get reliable statistics. While working in the Force–Volume mode, the AFM tip moves as follows. The AFM cantilever starts traveling down from a definite distance away from the surface (which is equal to so-called ramp size), moves straight down (with no lateral motion) until the tip touches the surface, and the cantilever deflection reaches some definite level (called trigger level). After that the motion of the cantilever is reversed. The AFM scanner pulls the cantilever straight back to the distance equal to the ramp size. Both the approaching and retracting curves are recorded during such cycles. Then, being away from the surface (still at the ramp size distance), the tip advances in the lateral direction to a certain distance, and AFM probe moves up and down recording the force curves at the new point. This operation continues until the tip finishes rastering a square area of the sample. Topography in such “scanning” is also recorded because the trigger level (required cantilever deflection to stop approaching) is reached faster on the hills and slower in the trenches. Thus, both topography and force curves are recorded at a number of points, pixels, over the sample surface. Typically this is recorded as a square matrix of, for example, 16<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>16, 32<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>32, or 64<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>64 pixels. Here we used 16<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>16 pixels surface imaging and 512 pixels per each force curve.</ce:para>
+                     <ce:para id="par0045" view="all">Standard silicon nitride tapeless cantilevers (Veeco/DI probes) with the spring constant <ce:italic>k ∼</ce:italic>0.10–0.14<ce:hsp sp="0.25"/>N/m (it was determined before gluing silica spheres by resonance method using built-in option in the AFM software) were used for attaching large silica spheres. The spheres we attached as described elsewhere <ce:cross-refs refid="bib0050 bib0055">[10,11]</ce:cross-refs>. The AFM software v.5.12r4 was employed. Averaging of collected force data was done with the help of either MMAnalysis v. 2.01 software (by Dr. Gorbunov, Vladimir Tsukruk's Laboratory) or SPIP (Image Metrology, A/S). Sensitivity of the AFM photodetector was determined assuming no deformations of the probe and sample in the compliance (contact) region of the force curve. When measuring adhesion in media with different acidity, the forces were measured starting from the media with neutral pH, then going too higher pH 9, returning to neutral pH, going to lower pH4, and returning to neutral pH again to check any possible alteration of the surface.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0035" view="all">
+                     <ce:label>2.5</ce:label>
+                     <ce:section-title>Sample preparation for AFM measurements</ce:section-title>
+                     <ce:para id="par0050" view="all">Following Armini et al. <ce:cross-ref refid="bib0045">[9]</ce:cross-ref>, to measure the adhesion between nanoparticles and silica surface, we studied the forces acting between a large silica microsphere attached to an AFM cantilever (mimicking silica surface) and nanoparticles anchored to a flat surface. To measure the radius of the attached silica sphere, we imaged the inverse grid (TG01, by NT-MDT/MicroMash Inc) which consists of vertical sharp silicon tips. This technique produces an inverted image of the AFM tip <ce:cross-refs refid="bib0060 bib0065">[12,13]</ce:cross-refs>. The main difference of the present method in comparison to the one proposed in Ref. <ce:cross-ref refid="bib0045">[9]</ce:cross-ref> is the way to attach particles to the surface. The abrasives we consider in this work are smaller and more polydispersed in size. Thus, if we used the method of Ref. <ce:cross-ref refid="bib0045">[9]</ce:cross-ref> directly, we would obtain highly irregular non-flat surface schematically shown in <ce:cross-ref refid="fig0015">Fig. 2</ce:cross-ref>(a)<ce:float-anchor refid="fig0015"/>. However, this would bias the measured values of adhesion towards the adhesion to mostly larger particles. Here we use another method suitable for virtually any polydispersed particles. It is based on “semi-embedding” of the abrasive particles in a thick layer of epoxy. It creates a sufficiently flat surface, on which the particles of all sizes are exposed to the interaction with the silica sphere, <ce:cross-ref refid="fig0015">Fig. 2</ce:cross-ref>(b).</ce:para>
+                     <ce:para id="par0055" view="all">The attachment of ceria and silica nanoparticles was done as follows. First, we obtained dried powder of abrasive nanoparticles. Just centrifugation or filtering methods led to creation of sold agglomerates, in particular, in the case of ceria, which were not suitable for the use in our method. To avoid these problems, we used freeze-drying method. Because the abrasives were received in an acidic medium, to avoid chemical damage while evaporating in freeze dryer, the particle solutions were dialyzed against DI water for at least 24<ce:hsp sp="0.25"/>h before freeze-drying.</ce:para>
+                     <ce:para id="par0060" view="all">In the next step, epoxy glue (Araldite 10<ce:hsp sp="0.25"/>min 2-component epoxy) was spread over a glass/wafer slide. After epoxy semi-rigidifying (curing for 15<ce:hsp sp="0.25"/>min), dried nanoparticles were sprayed with nitrogen using the shaker Wizard Rees Scientific, on 500<ce:hsp sp="0.25"/>rpm inside of a sealed (to avoid capillary, moisture agglomeration) chamber to create a homogenous coating on the epoxy surface. Such a film was left to cure for 24<ce:hsp sp="0.25"/>h at room temperature, and finally, overnight at ∼50<ce:hsp sp="0.25"/>C. Finally, the surface was ultrasonicated in ultrapure water for 1<ce:hsp sp="0.25"/>min. Without all these steps, the particles were either engulfed by the epoxy layer or removed by the sonication and/or action of the AFM probe.</ce:para>
+                     <ce:para id="par0065" view="all">The quality of the surface was tested with regular AFM imaging. <ce:cross-ref refid="fig0020">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="fig0020"/> shows the particles attached to epoxy layer. One can see fairly homogeneous coating, with no exposure of the epoxy areas (which would be seen as rather flat areas between the particles). A possible contamination of the particles with epoxy would also be seen in a specific force curve shapes seen in AFM (see, <ce:cross-ref refid="bib0040">[8]</ce:cross-ref> for more detail). These surfaces were used for the AFM measurement of the adhesion.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0040" view="all">
+                     <ce:label>2.6</ce:label>
+                     <ce:section-title>Chemical–mechanical polishing and measurement of measuring length and width of micro-scratches</ce:section-title>
+                     <ce:para id="par0070" view="all">Blanket silica coated 8<ce:hsp sp="0.25"/>in. wafers (HDP TEOS initial thickness ∼6000<ce:hsp sp="0.25"/>Å) were obtained from Montco Silicon Technology. The wafers were polished on an Applied Materials Mirra 200<ce:hsp sp="0.25"/>mm HVM polishing tool using IC-1000 (RHEM, Inc.) k-grooved pad baked with Suba-IV. Polishing was performed using the ceria and silica slurries described above. The polishing conditions were typically 3/3.5/3 psi (membrane, retaining ring, inner tube), 87/93<ce:hsp sp="0.25"/>rpm carrier/platen speed, slurry flow rate of ∼150<ce:hsp sp="0.25"/>ml/min and the polish time was targeted for 1000<ce:hsp sp="0.25"/>Å of oxide removal. The conditioning was 100% in situ with a down force of 6 lbf at 111<ce:hsp sp="0.25"/>rpm by using 3M S60 conditioner (3M, Inc.). The average reported removal rate was calculated from the difference in film thickness before and after polishing three wafers each time, measured using a thermowave optiprobe, and averaged over 49 points distributed over the wafer surface.</ce:para>
+                     <ce:para id="par0075" view="all">The measurement of micro-scratches was done as follows. Initially, post-CMP cleaning was performed on a LAM Ontrak cleaning station using standard cleaning chemistry SC-1 (20 parts DI H<ce:inf loc="post">2</ce:inf>O<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>4 parts H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> (35<ce:hsp sp="0.25"/>wt%)<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>1part NH<ce:inf loc="post">3</ce:inf>OH (NH<ce:inf loc="post">3</ce:inf> 29%)). After the cleaning, ∼250<ce:hsp sp="0.25"/>Å of oxide was etched in 0.5% HF solution using JST Wet bench oxide etching tool. This was done to enhance the SEM imaging of the defects. Length and width of the scratches were measured directly from SEM images of the scratches obtained with WF-736 Orbot and SEMVision tools (Applied Materials, Inc.). The defects were classified using an Applied Materials SEM-vision CX plus.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec0045" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results and discussion</ce:section-title>
+                  <ce:para id="par0080" view="all">The average values of adhesion between abrasive particles and silica surface are shown in <ce:cross-ref refid="fig0025">Fig. 4</ce:cross-ref>
+                     <ce:float-anchor refid="fig0025"/> for different chemistries. Each statistical analysis was done based on 256 force curves. Excessively high values of adhesion were not taking into account because of obvious multiple contact contribution.</ce:para>
+                  <ce:para id="par0085" view="all">The obtained values of adhesion were noticeably higher for silica. This can be explained by the higher contact area between relatively roundish silica particles in AFM silica probe. Ceria particles, being larger in size, have still sharper (crystalline) edges. This results in a smaller contact area with the silica probe, and consequently smaller adhesion. Adhesion behavior for colloidal silica, <ce:cross-ref refid="fig0025">Fig. 4</ce:cross-ref>(c) is in qualitative agreement with previously reported results <ce:cross-ref refid="bib0070">[14]</ce:cross-ref>. The decrease of adhesion with the increase of pH in the case of fumed silica, <ce:cross-ref refid="fig0025">Fig. 4</ce:cross-ref>(d) might be explained by a highly irregular shape, or in other words, by a large number of asperities on the fumed silica particles, which can be seen in <ce:cross-ref refid="fig0010">Fig. 1</ce:cross-ref>(d). With the increase of pH, the thickness of silica hydration layer (not to mix with the diffusion layer) increases. Being softer, the hydration layer substantially increases the area of contact of the silica probe with sharp asperities of fumed silica. This effect is not that pronounced on relatively small particles (colloidal silica). The overall adhesion to fumed silica is smaller than to colloidal silica. This can also be explained by more irregular shapes of fumed silica, and consequently, smaller area of contact with the AFM silica probe.</ce:para>
+                  <ce:para id="par0090" view="all">Correlation between the measured adhesion and calculated scratch densities, which is the main parameter that characterizes defectivity, is shown in <ce:cross-ref refid="fig0030">Fig. 5</ce:cross-ref>(a)<ce:float-anchor refid="fig0030"/>. The adhesion to silica abrasives at pH 11 was not measured but mathematically extrapolated from the data shown in <ce:cross-ref refid="fig0025">Fig. 4</ce:cross-ref>(c) and (d). This is done because it is impractical to measure adhesion at that high pH due to the danger of damaging of the AFM fluid cantilever holder. <ce:cross-ref refid="fig0030">Fig. 5</ce:cross-ref>(b) shows only “zoomed” the results for ceria. One can see from <ce:cross-ref refid="fig0030">Fig. 5</ce:cross-ref>(a) that there is a positive overall correlation between defectivity and adhesion. However, this correlation is not strong, and virtually disappears for the abrasives with similar adhesions, <ce:cross-ref refid="fig0030">Fig. 5</ce:cross-ref>(b).</ce:para>
+                  <ce:para id="par0095" view="all">
+                     <ce:cross-ref refid="fig0035">Fig. 6</ce:cross-ref>
+                     <ce:float-anchor refid="fig0035"/> shows the correlation between the removal rate of silica wafers polished with ceria and ceria-silica surface adhesion measured here with AFM. Specifically, <ce:cross-ref refid="fig0035">Fig. 6</ce:cross-ref> presents the correlation between the removal time of 100<ce:hsp sp="0.25"/>nm of silica film and the measured adhesion. One can see a strong correlation between faster removal and higher measured adhesion. It should be noted that these results are in agreement with the previously reported correlation between adhesion and the removal time <ce:cross-ref refid="bib0025">[5]</ce:cross-ref>. Nevertheless, the results of <ce:cross-ref refid="fig0035">Fig. 6</ce:cross-ref> are new being obtaining for the direct adhesion measurements.</ce:para>
+                  <ce:para id="par0100" view="all">Let us analyze the obtained results. As well known, friction force is proportional to normal (or load) force<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>adhesion. Friction goes to thermal dissipation of energy as well as the surface destruction (removal and creating defects/scratches). In principle, the load force can be estimated during CMP process. It would require the knowledge of mechanical properties of asperities of the polishing pad as well as the number of asperities. It is not that easy to obtain that information. Fortunately, from the observed strong correlation between the removal rate (proportional to friction) and adhesion, the load force is expected to be lesser than adhesion. Essentially, it means that the amount of “removal” energy is well correlated with adhesion. As we saw above, this kind of energy goes to both wearing and creating defects/scratches, one should expect to see the same strong correlation between adhesion and creating defects/scratches. Indeed, one can see some positive correlation between adhesion and density of the scratches in <ce:cross-ref refid="fig0030">Fig. 5</ce:cross-ref>(a). However, this is highly nonlinear, almost logarithmic correlation which is seen only on a large scale of adhesion changes. There is no correlation seen in the smaller scale, <ce:cross-ref refid="fig0030">Fig. 5</ce:cross-ref>(b). This implies that the adhesion is only one of the components that define defectivity, but not the only one. There is quite a substantial difference between densities of defects when polishing with silica slurries whereas the adhesion is almost identical. Specifically, one can see a considerable increase of defectivity when polishing with fumed versus colloidal silica. The major difference between fumed and colloidal silica is their shape. Colloidal silica particles are well defined spherical particles, whereas the fumed silica consists of irregular particulates, <ce:cross-ref refid="fig0010">Fig. 1</ce:cross-ref>. It is interesting to note that there is no noticeable difference in defectivity between two ceria abrasives despite some difference in the size of the particles (but not in their shape).</ce:para>
+                  <ce:para id="par0105" view="all">To amplify, here we studied the contribution of adhesion to defectivity and removal rate. Obviously, there are other factors that can influences those parameters. An obvious contribution to defectivity can come from agglomerates of the abrasive particles and large debris of the polished material. These factors can be studied separately. To obtain a more quantitative dependence between the defectivity, removal rate, and adhesion, one presumable has to study adhesion of the abrasive particles to the polishing pads as well as mechanical properties of the pads. This will be done in future works.</ce:para>
+               </ce:section>
+               <ce:section id="sec0050" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusion</ce:section-title>
+                  <ce:para id="par0110" view="all">Here we developed an AFM method to measure adhesion between nanoparticles of irregular shape and silica surface. Using this method, we studied the process of Chemical–Mechanical Planarization broadly used in semiconductor industry. Specifically, we analyzed the correlation between adhesion of abrasive either silica or ceria particles and removal rates and defectivity of the surfaces polished with slurries containing those abrasives. Adhesion was measured directly in the solution of various chemistries with a special method developed on the base of AFM. Defectivity was measured with the help of industrially used methods, on polished 8” silica wafers using the slurry made of the same abrasives and chemistries as used to study adhesion. Comparing the removal CMP rates of silica surfaces when polishing with ceria slurries, we observed higher adhesion for the higher removal rates. Analyzing correlation between the measured adhesion and defectivity, we conclude that there is an overall positive correlation between adhesion and defectivity. However, the adhesion is clearly not the only parameter that defines defectivity. From the observed data, we conclude that both adhesion and shape of abrasive particles influence defectivity, micro-scratches. Specifically, both higher adhesion and more irregular shape of the abrasive particles correlate with higher defectivity.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgements</ce:section-title>
+               <ce:para id="par0115" view="all">We thank Prof. S. Babu for valuable discussions. The support of this work by <ce:grant-sponsor xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Ferro, Inc.</ce:grant-sponsor> and <ce:grant-sponsor xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">NYSTAR</ce:grant-sponsor> is acknowledged.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bibl0005" view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibs0005">
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Steigerwald</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.P.</ce:given-name>
+                                 <ce:surname>Murarka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Gutmann</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical Mechanical Planarization of Microelectronic Materials</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1997</sb:date>
+                              <sb:publisher>
+                                 <sb:name>John Wiley &amp; Sons</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>p. 2</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Hegde</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.V.</ce:given-name>
+                                 <ce:surname>Babu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Removal of shallow and deep scratches and pits from polished copper films</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochemical and Solid-State Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>G126</sb:first-page>
+                              <sb:last-page>G129</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.R.</ce:given-name>
+                                 <ce:surname>Dandu Veera</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Peddeti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.V.</ce:given-name>
+                                 <ce:surname>Babu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Selective chemical mechanical polishing of silicon dioxide over silicon nitride for shallow trench isolation using ceria slurries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of the Electrochemical Society</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>156</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>H936</sb:first-page>
+                              <sb:last-page>H941</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>[4]</ce:label>
+                     <ce:other-ref>
+                        <ce:label>(a)</ce:label>
+                        <ce:textref>H. Kodama, S. Iwasa, U.S. Patent 5,575,837 (1996).</ce:textref>
+                     </ce:other-ref>
+                     <ce:other-ref>
+                        <ce:label>(b)</ce:label>
+                        <ce:textref>T.-H. Lee, K.-H. Lee, T.-P. Yeh U.S. Patent 6,436,834 B1 (2002).</ce:textref>
+                     </ce:other-ref>
+                     <ce:other-ref>
+                        <ce:label>(c)</ce:label>
+                        <ce:textref>G.S. Grover, B.L. Mueller, U.S. Patent 5,759,917 (1998).</ce:textref>
+                     </ce:other-ref>
+                     <ce:other-ref>
+                        <ce:label>(d)</ce:label>
+                        <ce:textref>W.R. Morrison, K.P. Hunt, U.S. Patent 5.938,505 (1999).</ce:textref>
+                     </ce:other-ref>
+                     <ce:other-ref>
+                        <ce:label>(e)</ce:label>
+                        <ce:textref>M. Fukasawa, N. Koyama, Y. Kurata, K. Haga, T. Akutsu, Y. Ootsuki, U.S. Patent publication # 0003925 A1 (2008).</ce:textref>
+                     </ce:other-ref>
+                     <ce:other-ref>
+                        <ce:label>(f)</ce:label>
+                        <ce:textref>R. Srinivasan, S.V. Babu, W.G. America, Y.-S. Her, U.S. patents 6,627,107, 6,544,892, 6,468,910, 6,491,843.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <ce:label>(a)</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.M.</ce:given-name>
+                                 <ce:surname>Cook</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical processes in glass polishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Non-Crystalline Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>120</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>152</sb:first-page>
+                              <sb:last-page>171</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>(b)</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Hoshino</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Kurata</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Terasaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Susa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mechanism of polishing of SiO<ce:inf loc="post">2</ce:inf> films by CeO<ce:inf loc="post">2</ce:inf> particles</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Non-Crystalline Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>283.</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>129</sb:first-page>
+                              <sb:last-page>136</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>(c)</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Kelsall</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Cerium oxide as a route to acid free polishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Glass Technology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6</sb:first-page>
+                              <sb:last-page>9</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.P.</ce:given-name>
+                                 <ce:surname>Ryde</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.V.</ce:given-name>
+                                 <ce:surname>Babu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Matijevic</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Particle adhesion studies relevant to chemical mechanical polishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Langmuir</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9866</sb:first-page>
+                              <sb:last-page>9872</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Meled</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.V.</ce:given-name>
+                                 <ce:surname>Babu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Matijević</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical mechanical polishing of methyl silsesquioxane</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of the Electrochemical Society</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>156</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>H460</sb:first-page>
+                              <sb:last-page>H465</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Q.K.</ce:given-name>
+                                 <ce:surname>Ong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Sokolov</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Attachment of nanoparticles to the AFM tips for direct measurements of interaction between a single nanoparticle and surfaces</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Colloid and Interface Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>310</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>385</sb:first-page>
+                              <sb:last-page>390</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <ce:label>(a)</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Armini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Burtovyy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Luzinov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.M.</ce:given-name>
+                                 <ce:surname>Whelan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Maex</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Moinpour</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Interaction forces between a glass surface and silica-modified PMMA-based abrasives for CMP measured by colloidal AFM</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochemical and Solid-State Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>H74</sb:first-page>
+                              <sb:last-page>H78</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <ce:label>(b)</ce:label>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Armini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Burtovyy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Moinpour</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Luzinov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>De Messemaeker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.M.</ce:given-name>
+                                 <ce:surname>Whelan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Maex</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Interaction forces between a glass surface and ceria-modified PMMA-based abrasives for CMP measured by colloidal probe AFM</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of the Electrochemical Society</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>155</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>H218</sb:first-page>
+                              <sb:last-page>H223</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Sokolov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Iyer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.D.</ce:given-name>
+                                 <ce:surname>Woodworth</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Recover of elasticity of aged human epithelial cells in-vitro</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nanomedicine: Nanotechnology, Biology and Medicine (Nanomedicine)</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>31</sb:first-page>
+                              <sb:last-page>36</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.K.</ce:given-name>
+                                 <ce:surname>Berdyyeva</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.D.</ce:given-name>
+                                 <ce:surname>Woodworth</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Sokolov</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Human epithelial cells increase their rigidity with ageing in vitro: direct measurements</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Physics in Medicine and Biology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>50</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>81</sb:first-page>
+                              <sb:last-page>92</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Sokolov</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Atomic Force Microscopy in Cancer Cell Research</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>H.S.</ce:given-name>
+                                    <ce:surname>Nalwa</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>T.</ce:given-name>
+                                    <ce:surname>Webster</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Cancer Nanotechnology–Nanomaterials for Cancer Diagnosis and Therapy</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2007</sb:date>
+                              <sb:publisher>
+                                 <sb:name>APS</sb:name>
+                                 <sb:location>Los Angeles</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>43</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Sokolov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.K.</ce:given-name>
+                                 <ce:surname>Ong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Shodiev</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Chechik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>James</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Oliver</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>AFM study of forces between silica, silicon nitride and polyurethane pads</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Colloid and Interface Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>300</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>475</sb:first-page>
+                              <sb:last-page>481</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Huttl</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Beyer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Muller</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Investigation of electrical double layers on Sio<ce:inf loc="post">2</ce:inf> surfaces by means of force vs. distance measurements</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surface and Interface Analysis</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>543</sb:first-page>
+                              <sb:last-page>547</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.K.</ce:given-name>
+                                 <ce:surname>Berdyyeva</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.B.</ce:given-name>
+                                 <ce:surname>Emery</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.Y.</ce:given-name>
+                                 <ce:surname>Sokolov</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>In-situ study of the surface layer removal during the copper chemical mechanical polishing (CMP)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochemical and Solid-State Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>G91</sb:first-page>
+                              <sb:last-page>G94</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

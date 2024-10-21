@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2214785317301700</prism:url><dc:identifier>doi:10.1016/j.matpr.2017.01.170</dc:identifier><eid>1-s2.0-S2214785317301700</eid><prism:doi>10.1016/j.matpr.2017.01.170</prism:doi><pii>S2214-7853(17)30170-0</pii><dc:title>Rheological behaviour of Magnetorheological polishing fluid for Si polishing </dc:title><prism:publicationName>Materials Today: Proceedings</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>22147853</prism:issn><prism:volume>4</prism:volume><prism:issueIdentifier>2</prism:issueIdentifier><prism:startingPage>1478</prism:startingPage><prism:endingPage>1491</prism:endingPage><prism:pageRange>1478-1491</prism:pageRange><prism:number>2</prism:number><dc:format>application/xml</dc:format><prism:coverDate>2017-12-31</prism:coverDate><prism:coverDisplayDate>2017</prism:coverDisplayDate><prism:copyright>© 2017 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><prism:issueName>5th International Conference of Materials Processing and Characterization (ICMPC 2016)</prism:issueName><dc:creator>Saraswathamma, K.</dc:creator><dc:creator>Jha, Sunil</dc:creator><dc:creator>Venkateswara Rao, P.</dc:creator><dc:description>
+                  The finishing mechanism of the magnetorheological finishing (MRF) process primarily depends on the Magnetorheological polishing (MRP) fluid, which acts as a tool in finishing the component surfaces. MRP fluid imparts strength to the polishing spot under the applied magnetizing currents/magnetic field strength. Behaviour of this fluid mainly influenced by the size and shape of its constituents, volume concentration, particle size distribution, and applied magnetic field strength. A detailed study was undertaken on the role of carbonyl iron particle (CIP) and abrasive size on the rheological behaviour of the MRP fluid under various magnetic flux densities. Rheological characterization study was carried out using three different models such as Bingham plastic model, Herschel-Bulkley model and Casson fluid model. MRP fluid rheological properties such as yield stress and viscosity were evaluated using parallel plate magnetorheometer.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Parallel plate magnetorheometer</dcterms:subject><dcterms:subject>Carbonyl iron powder</dcterms:subject><dcterms:subject>Cerium oxide abarsive</dcterms:subject><dcterms:subject>Magnetizing current</dcterms:subject><dcterms:subject>Yield stress</dcterms:subject><dcterms:subject>Viscosity</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S2214785317301700" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2214785317301700" rel="scidir"/></coredata><scopus-id>85018460135</scopus-id><scopus-eid>2-s2.0-85018460135</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85018460135" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>305927</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291778</xocs:ssid>
+         <xocs:ssid type="subj">291785</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Materials Today: Proceedings</xocs:srctitle>
+      <xocs:normalized-srctitle>MATERIALSTODAYPROCEEDINGS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20170428">2017-04-28</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20170428">2017-04-28</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20170428">2017-04-28</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20170428">2017-04-28</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2017-06-16T19:38:26</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2214785317301700</xocs:eid>
+      <xocs:pii-formatted>S2214-7853(17)30170-0</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2214785317301700</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.matpr.2017.01.170</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2214785317X00035</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20170616">2017-06-16T20:05:53.917633-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20170101</xocs:date-search-begin>
+      <xocs:date-search-end>20171231</xocs:date-search-end>
+      <xocs:year-nav>2017</xocs:year-nav>
+      <xocs:indexeddate epoch="1493394564">2017-04-28T15:49:24.619679Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confeditor contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj suppl tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authkeywords authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2214-7853</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>22147853</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>4</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>4</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>2</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>2</xocs:issue>
+      </xocs:issue-list>
+      <xocs:suppl>PA</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 4, Issue 2, Part A</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>170</xocs:sort-order>
+      <xocs:first-fp>1478</xocs:first-fp>
+      <xocs:last-lp>1491</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>1478</xocs:first-page>
+         <xocs:last-page>1491</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>2017</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>2017</xocs:cover-date-text>
+      <xocs:cover-date-start>2017-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2017-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2017</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title id="tt005">5th International Conference of Materials Processing and Characterization (ICMPC 2016)</ce:title>
+            <ce:editors>
+               <ce:author-group id="aa0010">
+                  <ce:author id="aa005" author-id="S2214785317X00035-4034473df73e4d8cd69d5924a9b7e116">
+                     <ce:degrees>Dr.</ce:degrees>
+                     <ce:given-name>Swadesh</ce:given-name>
+                     <ce:surname>Kumar Singh</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2017 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>RHEOLOGICALBEHAVIOURMAGNETORHEOLOGICALPOLISHINGFLUIDFORSIPOLISHING</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>SARASWATHAMMA</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>K</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="h0005">
+            <xocs:ref-normalized-surname>JHA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>656</xocs:ref-first-fp>
+            <xocs:ref-last-lp>668</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0010">
+            <xocs:ref-normalized-surname>SIDPARA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>243</xocs:ref-first-fp>
+            <xocs:ref-last-lp>252</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0015">
+            <xocs:ref-normalized-surname>COOK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>152</xocs:ref-first-fp>
+            <xocs:ref-last-lp>171</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0020"/>
+         <xocs:ref-info refid="h0025">
+            <xocs:ref-normalized-surname>SINGH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1139</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1144</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0030">
+            <xocs:ref-normalized-surname>SIDPARA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>855</xocs:ref-first-fp>
+            <xocs:ref-last-lp>860</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0035">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>772</xocs:ref-first-fp>
+            <xocs:ref-last-lp>778</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0040">
+            <xocs:ref-normalized-surname>SHOREY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>20</xocs:ref-first-fp>
+            <xocs:ref-last-lp>33</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0045"/>
+         <xocs:ref-info refid="h0050">
+            <xocs:ref-normalized-surname>ABIADE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1139</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1145</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0055"/>
+         <xocs:ref-info refid="h0060"/>
+         <xocs:ref-info refid="h0065"/>
+         <xocs:ref-info refid="h0070">
+            <xocs:ref-normalized-surname>JOLLY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>607</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0075">
+            <xocs:ref-normalized-surname>JHA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>656</xocs:ref-first-fp>
+            <xocs:ref-last-lp>668</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0080">
+            <xocs:ref-normalized-surname>GINDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>26</xocs:ref-first-fp>
+            <xocs:ref-last-lp>29</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0085"/>
+         <xocs:ref-info refid="h0090"/>
+         <xocs:ref-info refid="h0095">
+            <xocs:ref-normalized-surname>STRADLING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>18</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0100">
+            <xocs:ref-normalized-surname>GULLEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>851</xocs:ref-first-fp>
+            <xocs:ref-last-lp>858</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0105">
+            <xocs:ref-normalized-surname>GORODKIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>012051</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>SARASWATHAMMAX2017X1478</xocs:refkey3>
+         <xocs:refkey4lp>SARASWATHAMMAX2017X1478X1491</xocs:refkey4lp>
+         <xocs:refkey4ai>SARASWATHAMMAX2017X1478XK</xocs:refkey4ai>
+         <xocs:refkey5>SARASWATHAMMAX2017X1478X1491XK</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2019-04-28T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-embargo-status>UnderEmbargo</xocs:sa-embargo-status>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2017 Elsevier Ltd. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2214-7853(17)30170-0</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2214785317301700</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2214785317301700</xocs:eid>
+         <xocs:doi>10.1016/j.matpr.2017.01.170</xocs:doi>
+         <xocs:cid>305927</xocs:cid>
+         <xocs:timestamp>2017-06-16T20:05:53.917633-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2017-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2017-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2214785317301700-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2214785317301700/MAIN/application/pdf/f8f5ad40ff7b75cf1a28cbabf5f76ea5/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2214785317301700/MAIN/application/pdf/f8f5ad40ff7b75cf1a28cbabf5f76ea5/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>962902</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>14</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2214785317301700-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2214785317301700/PREVIEW/image/png/fd9f059a4f00f1cb005b99d5aee697da/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S2214785317301700/PREVIEW/image/png/fd9f059a4f00f1cb005b99d5aee697da/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>41573</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:rawtext xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd"> Available online at www.sciencedirect.com  ScienceDirect  Materials Today: Proceedings 4 (2017) 1478â€“1491      www.materialstoday.com/proceedings      5th International Conference of Materials Processing and Characterization (ICMPC 2016)  Rheological behaviour of Magnetorheological polishing  fluid for Si polishing  Saraswathamma. Ka*, Sunil Jhab and Venkateswara Rao. Pb  1  Department of Mechanical Engineering, Osmania University, India  2 Department of Mechanical Engineering, Indian Institute of Technology Delhi, India  Abstract  The finishing mechanism of the magnetorheological finishing (MRF) process primarily depends on the  Magnetorheological polishing (MRP) fluid, which acts as a tool in finishing the component surfaces. MRP  fluid imparts strength to the polishing spot under the applied magnetizing currents/magnetic field strength.  Behaviour of this fluid mainly influenced by the size and shape of its constituents, volume concentration,  particle size distribution, and applied magnetic field strength. A detailed study was undertaken on the role of  carbonyl iron particle (CIP) and abrasive size on the rheological behaviour of the MRP fluid under various  magnetic flux densities. Rheological characterization study was carried out using three different models such  as Bingham plastic model, Herschel-Bulkley model and Casson fluid model. MRP fluid rheological properties  such as yield stress and viscosity were evaluated using parallel plate magnetorheometer.  Â©2017 Elsevier Ltd. All rights reserved.  Selection and peer-review under responsibility of Conference Committee Members of 5th International  Conference of Materials Processing and Characterization (ICMPC 2016).    Keywords: Parallel plate magnetorheometer, Carbonyl iron powder, cerium oxide abarsive, magnetizing current, yield  stress, viscosity    *Corresponding author. Tel:9032714222.       E-mail address:saraswathi.ouce@gmail.com  2214-7853Â©2017 Elsevier Ltd. All rights reserved.  Selection and peer-review under responsibility of Conference Committee Members of 5th International Conference of  Materials Processing and Characterization (ICMPC 2016).          Saraswathamma. K et al./ Materials Today: Proceedings 4 (2017) 1478â€“1491                                           1479 1. Introduction  The finishing action in all magnetorheological fluid assisted finishing processes, depends  primarily on bonding strength of CIP particles around the abrasive particles in magnetorheological  polishing (MRP) fluid, due to crossed linked cluster nature of CIP particles [1]. MR polishing fluid  properties like shear yield stress and viscosity are altered by using magnetizing current, which is  produced by electromagnetic coils at the finishing zone.  The essential characteristic of MR  polishing fluid is that they can be rapidly and reversibly varied from the state of a Newtonian-like  fluid to that of a stiff semisolid with the application of a moderate magnetic field. Due to alterations  of the rheological properties of the MR polishing fluid under the variation of magnetic field, the  finishing forces can better controlled in the MRF processes. Even though CIP is the main  constituent for creating magnetorheological effect in MR polishing fluid, addition of abrasive  particles in the MR fluid may affect the rheological properties (yield stress and viscosity) of the  fluid. In the present work, rheological study of MR polishing fluid is focused to observe the effect  of different particle size with non-magnetic abrasives under different magnetic strengths.     Rheological properties of the MR polishing fluid at different shearing conditions play a significant  role in the finishing mechanism. Several attempts have already been made by researchers for  accommodating electromagnets in existing rheometer sample shearing zone. Presence of abrasive  particles in MR polishing fluid would impair the surface of the commercial rheometer, which is  very costly. Moreover, to comprehend the effect of rheological properties in the finishing  mechanism of BEMRF, similar kinds of geometry and field distribution are required. For this  reason, in conjunction with BEMRF, a parallel-plate magnetorheometer is designed and fabricated.    2. MR polishing fluid for Si polishing  Magnetorheological (MR) polishing fluid is a mixture of micron sized non-colloidal iron  particles and abrasives that are dispersed in an aqueous or non-aqueous carrier medium. These  fluids are field controllable fluids exhibiting unique, reversible rheological properties on application  and removal of the magnetic field.  Considering its higher magnetic saturation and least cost, pure iron was chosen for  preparation of MR polishing fluid. High purity Carbonyl Iron particles (CIP) are prepared from  decomposition of pentacarbonyl iron which are also magnetically softer.  Sidpara and Jain [2] conducted an experimental investigation to study the effect of chemical  interactions of abrasive and carrier fluid. Their study revealed that carrier medium plays a crucial  role in polishing of silicon.  Type of abrasive plays a key role in finishing of brittle materials like glass and silicon.  Cerium oxide is extensively used in glass polishing industry from several decades. Recent studies  show that CMP also utilizing ceria slurries for polishing silicon due to its chemical properties. Cook  illustrated chemical tooth of cerium oxide and its strong interaction with silicate ions which  promotes the removal in silicon based materials[3]. Ceria abrasive is also utilized for finishing  silicon and other related silicate glasses in the MRF process [4-8].  Glycerol is used as stabilizers in water-based MR polishing fluids. Alkalis (viz NaOH,  KOH) helps to improve the stability and resistance to rust of the iron particles and also maintains  the pH (strong influence on CMP of Silicon) of the MR polishing fluid [9, 10].            1480 Saraswathamma. K et al./ Materials Today: 4 (2017) 1478â€“1491  3. Experimental setup and procedure  A schematic sketch of the magnetorheometer is displayed in Fig. 1. Magnetorheometer  consists of two parallel plates, an electromagnet circuit, servomotor, a torque sensor, and a data  acquisition card with Labview software. In this magnetorheometer, the top plate was kept static and  the bottom plate was rotated with the help of a servomotor; the MR polishing fluid is placed in  between the shearing plates. Magnetic field is applied perpendicularly to these plates, so that the CI  particles are aligned along the magnetic field direction.When a defined speed is applied to the lower  plate, the resultant torque is measured using a torque transducer, which is attached to the top plate.  The stress required to shear the fluid is measured by varying the magnetic field intensity.  Electromagnet is made into two parts for easy placing and removal of the sample. A cooling  coil is provided at the bottom of the core to minimize the heating of the coil. Current to the coil is  supplied through variable regulated DC power supply. The top electromagnetic core and the top  plate are attached to a linear slide (vertical) through a fixture, which is moved up and down by a  stepper motor to place and remove the testing sample.   Experiments were conducted to evaluate the rheological properties of MR polishing fluid  with different particle sizes of CIP and cerium oxide under different magnetic field strength  conditions. Table 1 (ii) summarizes six different MR polishing fluids prepared from different  combinations of three grades of carbonyl iron powder (Table 2) and two different sizes of cerium  oxide abrasives (Table 3).  D10, D50, D90 in Table 2 denote the diameter of 10%, 50%, and 90% of  particles respectively. CIP volume concentration, abrasive volume concentration, and glycerol  volume concentration are kept constant at 30%, 6%, and 3% respectively. The rest is deionized (DI)  water, which makes 100% vol of MR polishing fluid. MR polishing fluid of carbonyl iron powder,  abrasives and glycerol in DI water was prepared by continuously mixing with multiple blade stirrer  for one hour in order to get uniform dispersion of carbonyl iron and abrasive particles in water.  Toque is measured at varying angular velocities; further these are converted in to strain rate and  shear stresses using the constitutive relation. Angular velocities were varied from 0.5 rps to 5 rps at  a step of 0.5 rps and magnetic field strength was varied by varying the current from 1 A to 4 A. All  measurements are done at 1 mm gap of plates and at room temperature. Table 4 shows the plan of  experiments.The shear rates and shear stresses were converted using the following constitutive  relation [11].  Shear rate at r=R             ?Ì‡? = ð�‘…ð�œ” â„Ž    (1)  Shear Stressð�œ� = 2ð�‘€ Î ð�‘…3 ï¿½3 + ð�‘‘ lnð�‘€ ð�‘‘ ln ?Ì‡? ï¿½   (2)  where R is radius of the shearing plate(15mm), ð�œ” is angular velocity, h is gap between the shearing  plates (1mm) and M is the measured torque.        Saraswathamma. K et al./ Materials Today: Proceedings 4 (2017) 1478â€“1491                                           1481      Fig.1 Schematic sketch of parallel plate magnetorheometer[12]    Table 1. Magnetorheological polishing fluid  (i) Composition  Constituent %volume concentration  CIP 30  Ceria 6  Glycerol 3  DI 61  (ii) Types  Name of the MR polishing fluid CIP grade Ceria grade  MRPF-CS-R CS Rhodite200  MRPF-OS-R OS Rhodite200  MRPF-HS-R HS Rhodite200  MRPF-CS-U CS Unicer657  MRPF-OS-U OS Unicer657  MRPF-HS-U HS Unicer657        1482 Saraswathamma. K et al./ Materials Today: 4 (2017) 1478â€“1491  Table 2. Properties of CIP [BASF]  Grade Physical properties Composition Particle size distribution  D10(Âµm) D50(Âµm) D90(Âµm)  HS Fine, mechanically hard Iron  Carbon  Oxygen  Nitrogen  &gt;97.8%  &lt;1.0%  &lt;0.5%  &lt;1.0%  1.5 2.0 3.5  OS Fine, mechanically hard,  with SiO2coating  Iron  Carbon  Oxygen  Nitrogen  &gt;97.5%  0.7-0.9%  0.6-0.9%  0.5-0.9%  1.4-2.4 3.4-4.4 6.4-8.4  CS Fine, mechanically soft  Iron  Carbon  Oxygen  Nitrogen  &gt;99.5%  &lt;0.03%  0.12-0.3%  &lt;0.01%  2.8-3.5 6.0-7.0 11-24  Table 3. Type and properties cerium oxide abrasives (Universal Photonics)  Cerium oxide abrasive Average particle size (Âµm) pH @5% slurry  Rhodite200 2.4 6.0-.8.4  Unicer 657 1.0-1.75 5.8-7.5  Table 4.  Plan of experiments  Std Order Run Order Abrasive size(Âµm) CIP size(Âµm)  Magnetizing current  (A)  1 19 Rhodite -2.4 CS-7.0 1  2 11 Rhodite -2.4 OS-4.4 1  3 13 Rhodite -2.4 HS-2.3 1  4 10 Unicer-1.5 CS-7.0 1  5 5 Unicer-1.5 OS-4.4 1  6 9 Unicer-1.5 HS-2.3 1  7 6 Rhodite -2.4 CS-7 2  8 12 Rhodite -2.4 OS-4.4 2  9 8 Rhodite -2.4 HS-2.3 2  10 17 Unicer-1.5 CS-7.0 2  11 2 Unicer-1.5 OS-4.4 2  12 4 Unicer-1.5 HS-2.3 2  13 3 Rhodite -2.4 CS-7.0 3  14 22 Rhodite -2.4 OS-4.4 3  15 18 Rhodite -2.4 HS-2.3 3  16 15 Unicer-1.5 CS-7.0 3  17 14 Unicer-1.5 OS-4.4 3  18 23 Unicer-1.5 HS-2.3 3  19 1 Rhodite -2.4 CS-7.0 4  20 20 Rhodite -2.4 OS-4.4 4  21 7 Rhodite -2.4 HS-2.3 4  22 24 Unicer-1.5 CS-7.0 4  23 21 Unicer-1.5 OS-4.4 4  24 16 Unicer-1.5 HS-2.3 4          Saraswathamma. K et al./ Materials Today: Proceedings 4 (2017) 1478â€“1491                                           1483  4. Characterization models for MR polishing fluid  Magnetorheology is the branch of rheology that deals with the flow and  deformation of materials under an applied magnetic field [13]. The rheological  properties of MR fluids depend on particle size and shape, density, particle size  distribution, concentration of the constituents, properties of carrier fluids,  surfactants, anticorrosion additives, temperature, applied magnetic field and  magnetic properties of the CI particles. However, the relationships between large  numbers of parameters are very complex and there is no optimized methodology as  yet, to understand the effect on the finishing process.  In the absence of the  magnetic field, the MR fluids appear like liquid paints and show the apparent  viscosity 0.1 to 1 Pas-1 at lower shear rates. Upon application of magnetic field,  the iron particles acquire dipole moment and align in the magnetic field direction  and forms a chain like structure. Formation of these chains of particles restricts the  flow of material, which increases the yield stress of the material. The yield stress  and shear viscosity of the material increases with increase in applied magnetic  field. To break this structure and ensure flow of the material, mechanical energy  (shear stress) is applied in the direction perpendicular to the chain formation.    Experimental evidence has confirmed that in the presence of magnetic field, MR  fluids exhibited both a pre-yield regime characterized by an elastic response and  post yield regime characterized by viscous response [14]. To characterize the  rheological properties (field-induced yield stress and viscosity), three constitutive  models are generally used viz Bingham Plastic model, Herschel-Bulkley model,  and Casson Fluid model.  In Bingham Plastic model (Fig. 2), the material flow behaviour is assumed as  elastic solid up to critical shear stress(yield stress), beyond which the material  starts flowing and behaves like Newtonian fluid.  The constitutive equation for this  model is as follows  ð�œ� = ð�œ�0 + ð�œ‚ð�›¾  Ì‡ ð�‘“ð�‘œð�‘Ÿ ð�œ� &gt; ð�œ�0                             (4)        ð�œ� = 0 ð�‘“ð�‘œð�‘Ÿ ð�œ� â‰¤ ð�œ�0  where Ï„ is the shear stress of the fluid, ð�œ�0 is the field induced dynamic yield stress,  Î· is the plastic viscosity of fluid, and ?Ì‡? is shear rate (1/s).  The dynamic yield  stress is the intercept of extrapolation of the shear stress vs. shear rate curve to zero  strain rate.      On the other hand, in Herschel- Bulkley model (Fig. 2), behaviour of flow of  material is described as non-Newtonian after the critical shear stress (yield stress)  and below this stage the material behaves as elastic solid, which is same as in case  of Bingham Model. This model is expressed as   ð�œ� = ð�œ�0 + ÎšÎ³Ì‡ð�‘›  ð�‘“ð�‘œð�‘Ÿ ð�œ� &gt; ð�œ�0                                           (5)  ð�œ� = 0 ð�‘“ð�‘œð�‘Ÿ ð�œ� â‰¤ ð�œ�0  where K is consistency parameter and n is flow behaviour index. The value of flow  index in this model indicates the fluid behaviour. In case of shear thinning, the  flow index is less than 1 and for shear thickening the value of the flow index is  greater than 1. If the value of flow index is equal to 1, then the behaviour of the  model is same as Bingham Plastic model.   1484 Saraswathamma. K et al./ Materials Today: 4 (2017) 1478â€“1491  Cassonâ€™s equation (Fig. 2) is time independent shear flow, which relates nonlinear  shear rate and shear stress. A Casson fluid is defined as a shear thinning fluid  which is assumed to have an infinite viscosity at zero rate of shear, a yield stress  below which no flow occurs and a zero viscosity at an infinite rate of shear [15].  Cassonâ€™s flow model is given as    âˆšð�œ� = ï¿½ð�œ�0 + ï¿½ð�œ‚âˆž  ?Ì‡?   ð�‘“ð�‘œð�‘Ÿ ð�œ� &gt; ð�œ�0                                    (6)    whereð�œ�0 is yield stress, ð�œ‚âˆž  is viscosity of the material at higher shear rates.        Fig. 2. Constitutive models for MR polishing fluid flow characterisation [1]      Results and discussion    The three constitutive models such as Bingham plastic, Herschel-Bulkley, and Casson  fluid are used to characterize rheological behavior of MR polishing fluid. The measured rheological  data were fitted for these three models to evaluate the respective constants from their equations.  From the experimental data obtained from parallel plate magnetorheometer, flow curves in terms of  shear stress vs shear rate for all the fluids at four magnetizing currents were plotted.  Flow curves  for MR polishing fluid CS grade CIP with ceria 2.4Âµm abrasive at four different magnetizing  currents are shown in Fig.3 (a-d).                                     Saraswathamma. K et al./ Materials Today: Proceedings 4 (2017) 1478â€“1491                                           1485                                                                                        Fig.3 Flow curves for MRPF CS_Rhodite at (a) 1A (b) 2A (C) 3A (d) 4A current      1486 Saraswathamma. K et al./ Materials Today: 4 (2017) 1478â€“1491  The rheological parameters obtained for Bingham plastic, Herschel-Bulkley, and Casson fluid  curves are given in Tables 5 and 6 respectively. In these three models, it is assumed that pre-yield  behaviour is rigid and the fluid flows if and only if the local shear stress is greater than the yield  stress. Bingham plastic model is a two parameter model (yield stress and viscosity) and the fluid  behaviour in pre yield is represented as rigid and post yield as linear. For Herschel-Bulkley model  pre yield behaviour is rigid same as the Bingham plastic model, and post yield behaviour is  nonlinear. This model employ three parameters such as yield stress (ð�œ�0 ), consistency (K) and flow  index (n). Flow index of the curve indicates whether the fluid is shear thickening or shear thinning.  Flow index n&gt;1 indicates a shear thickening fluid and n&lt;1 indicates a shear thinning fluid. Casson  fluid model is a two parameter model (yield stress and Cassonâ€™s viscosity) and represents  continuous shear thinning fluid behaviour.      Table 5. Rheological characterization of MR polishing fluid with ceria-Rhodite  MR  polishin g  fluid  Bingham model  ð��‰ = ð��‰ð�ŸŽ + ð�œ¼?Ì‡? Herschel Model ð��‰ = ð��‰ð�ŸŽ + ð�š±?Ì‡?ð�’� Casson  Model âˆšð��‰ = ï¿½ð��‰ð�ŸŽ + ï¿½ð�œ¼âˆž  ?Ì‡?  Yield  stress  (Pa)  Plastic  viscosit y  (Pa-s)  R2  Value  Yield  stress  (Pa)  Consisten cy,K  Flow  index, n  R2  Value  Yield  stress  (Pa)  Casson  viscosity  (Pa-s)  R2  Value  CS_R_ 1A 18629 -0.004 0.06 18610 1733 -0.978 0.737 18627 0.006 0.05  CS_R_ 2A 23830 2.959 0.904 22590 383 0.305 96.50 23289 0.075 0.967  CS_R_ 3A 27175 3.661 0.900 25517 550 0.287 0.975 26510 0.100 0.966  CS_R_ 4A 30056 4.496 0.801 29000 210 0.433 0.924 29189 0.144 0.912  OS_R_ 1A 15529 0.297 0.151 15000 349 0.103 0.214 15466 0.001 0.184  OS_R_ 2A 24487 0.741 0.274 24800 -27600 -1.099 0.840 24285 0.007 0.434  OS_R_ 3A 26662 -0.537 0.156 26662  -6.885  E-11  4.793 0.496 26533 0.004 0.230  OS_R_ 4A 29473 -0.877 0.480 29370  -2.083  E-08  3.838 0.781 29255 0.001 0.450  HS_R_ 1A 14431 3.494 0.938 12956 415.3 0.031 0.996 13720 0.167 0.989  HS_R_ 2A 21383 4.290 0.967 20095 253 0.410 0.995 20519 0.188 0.994  HS_R_ 3A 23455 4.841 0.933 21575 559 0.320 0.995 22599 0.198 0.988  HS_R_ 4A 28190 5.546 0.921 26096 606 0.324 0.986 27203 0.217 0.979              Saraswathamma. K et al./ Materials Today: Proceedings 4 (2017) 1478â€“1491                                           1487  The curvature in Herschel-Bulkley and Casson fluid model (Fig.3) indicates that shear thinning of  the fluid and it varies from fluid to fluid based on the constituents and magnetic flux density. The  flow index of all MR polishing fluids (ignoring the fluid made with CIP_OS and Rhodite grade of  abrasive and CIP_CS and Unicer grade of abrasive) as per Table 5&amp;6 lies between 0.15 -0.98,  which is evident for shear thinning behavior of MR polishing fluids.  Herschel-Bulkley model fits the data points well compared to the other models. But most of the  cases consistency factor is either very high value or negative. These consistency values have no  practical meaning.  Bingham plastic model was simplistic model and most of the researchers had  used it represent the behaviour of MR fluid (without addition of non-magnetic particles). But  Ginder [16] observed the shear thinning behaviour of MR fluid (i.e the fluid apparent viscosity  decreases with increase in shear rate). According to the available literature, Bingham plastic model  was not realistic model to represent the behaviour of the MR polishing fluid. Jha and Jain [15]  and   Sidpara et al. [17] reported from their rheological characterization study that, Herschel-Bulkley  model fitted well with MR polishing fluid curve and  the fluid is exhibiting shear thinning  behaviour. On the other hand, Casson fluid model represents a continuous shear thinning behaviour  of the fluid with decrease in viscosity from infinite at zero shear rates to zero at infinite shear rate.  Hence, for the present study, Casson fluid model was used to characterize the MR polishing fluid  properties (yield stress and viscosity).    Table 6. Rheological characterization of MR polishing fluid with ceria-Unicer  MR  polishing  fluid  Bingham model  ð��‰ = ð��‰ð�ŸŽ + ð�œ¼?Ì‡? Herschel Model ð��‰ = ð��‰ð�ŸŽ +ð�š±?Ì‡?ð�’� Casson  Model âˆšð��‰ = ï¿½ð��‰ð�ŸŽ + ï¿½ð�œ¼âˆž  ?Ì‡?  Yield  Stress  (Pa)  Plastic  viscosit y  (Pa-s)  R2  Value  Yield  Stress  (Pa)  Consist ency K  Flow  index  n  R2  Value  Yield  stress  (Pa)  Casson  viscosit y (Pa-s)  R2  Valu e  CS_U_1A 14384 0.169 0.023 14380 3.22E-13 5.592 0.024 14399  4.99E- 05 0.026  CS_U_2A 24006 -1.481 0.309 22880 8113 -0.452 0.745 23615 8.27E-06 0.046  CS_U_3A 25945 -0.868 0.082 25510 52700 -1.130 0.540 25717 1.68E-07 0.037  CS_U_4A 30563 -2.711 0.342 29990 11790 -0.452 0.655 29874 2.93E-09 0.034  OS_U_1A 13033 3.775 0.966 13280 0.084 1.609 0.990 12468 0.187 0.892  OS_U_2A 20763 5.442 0.919 20697 8 0.940 0.920 19894 0.257 0.894  OS_U_3A 24589 5.304 0.878 24750 2 1.200 0.880 23777 0.200 0.818  OS_U_4A 25808 3.429 0.705 25670 11 0.815 0.710 25239 0.085 0.695  HS_U_1A 13728 2.181 0.928 12990 197 0.340 0.980 13340 0.069 0.980  HS_U_2A 21836 1.814 0.889 19953 1049 0.150 0.991 21497 0.031 0.969  HS_U_3A 24660 1.642 0.911 23880 269 0.277 0.980 24358 0.023 0.974  HS_U_4A 26624 0.543 0.255 26860 -14575 -1.016 0.710 26482 0.003 0.385        1488 Saraswathamma. K et al./ Materials Today: 4 (2017) 1478â€“1491  5.1Yield stress  Iron particles are the main constituent in the preparation of MR polishing fluid. When no magnetic  field applied, the fluid shows Newtonian fluid like behaviour and no external pressure is required to  make the fluid flow. Once magnetic field is applied, the iron particles align in the direction of  magnetic field. Thus, Iron particles and magnetic flux density are the two dependent parameters to  achieve magnetorheological effect. Increase in yield stress with increase in magnetic flux density  for MR fluid was widely reported in the literature. The presence of abrasive particles (nonmagnetic)  in the MR polishing fluid may affect the chain strength for the applied magnetic flux density.   It is  observed from Fig. 4 and Fig .5 that yield stress increases with increase in magnetizing current for  all combinations of MR polishing fluid. When magnetic field is applied to the MR polishing fluid,  the carbonyl Iron particles which are in the fluid acquire dipole moment and aggregate  intocolumnar structure along the field direction. Energy is required to deform or rupture these  chains, the micro-structural transition is responsible for onset of a large controllable yield stress  [18]. The strength of the columnar structure depends greatly on the applied magnetic field flux  density and which in turn depends on the diameter of the iron particle.  Force on a small ferromagnetic particle of mass â€˜mâ€™[19] is given as       ð��¹ð�‘š = ð�‘šð�œ’ð�‘ ð�œ‡0 Î’âˆ‡Î’                     (7)  Ginder[16] also observed from experimental study that the yield stress is a power-law function of  the flux densityð�œ�ð�‘¦~ð��µ3 2â�„ . Induced dipole moment for formation of  structure is given as  [20]  ð�‘šð�‘‘ = Ï€ð�‘‘32 ï¿½ ð�œ‡ð�‘�âˆ’ð�œ‡ð�‘“ð�œ‡ð�‘�+2ð�œ‡ð�‘“ï¿½ Î—ð�œŠ                                             (8)  whered is particle diameter,  ð�œ‡ð�‘� is the particle permeability and ð�œ‡ð�‘“ is the fluid permeability.  Gorodkin et al [21] reported in their study that specific magnetic susceptibility, ð�œ’ð�‘  of iron particles  is a linear function of median particle size. Because of high susceptibility, interaction forces  increases. Therefore, more energy is required to rupture the chains of MR fluid. Even in case of  MRF finishing, researchers have reported that if the applied magnetic field and CIP particle size  increase, the material removal rate increases [6].          Fig. 4 Variation of yield stress with CIP grades and Rhodite abrasive      Fig. 5 Variation of yield stress with CIP grades and Unicer abrasive    10  14  18  22  26  30  0 0.5 1 1.5 2 2.5 3 3.5 4 4.5 Y ie ld  st re ss  (k Pa )  Magnetizing current (A)  CS_R  OS_R  HS_R  0  10  20  30  40  0 0.5 1 1.5 2 2.5 3 3.5 4 4.5  Y ie ld  st re ss  (k Pa )  Magnetizing current (A)  CS_U  OS_U  HS_U        Saraswathamma. K et al./ Materials Today: Proceedings 4 (2017) 1478â€“1491                                           1489  5.2 Viscosity  Field induced yield shear stress governs the flow commencement, while shear viscosity represents  the flow behaviour once the flow starts. The breakage of chain structure and reformation of clusters  during flow are represented by viscosity. For MR fluid, nonlinear relation between shear stress and  shear rate indicating shearthinning behaviour is observed. Due to this behaviour, viscosity is a  function of shear rate and it is not constant.   âˆšð�œ� = ï¿½ð�œ�0 + ï¿½ð�œ‚âˆž  ?Ì‡?   ð�‘“ð�‘œð�‘Ÿ ð�œ� &gt; ð�œ�0                           (9)  In MR Polishing fluid, non-magnetic abrasives trapped in the chain structure affect the flow  behaviour of the fluid. Due to this complex nature, it is difficult to arrive at some conclusion over  the behaviour of the fluid.  Increase in viscosity of MR Polishing fluid prepared with CIP-CS and CIP-HS was observed with  increase in magnetic field current (Fig. 6). CIP-OS is coated with SiO2, and this can be the reason  for the fluid prepared with CIP-OS to show more shear thinning nature at different shear rates. It  was observed that even in the absence of magnetic field, the apparent viscosity of CIP-OS fluid is  less compared to the other fluids prepared with CIP-CS and CIP-HS. But the fluid prepared with  CIP-HS shows more viscosity than the other two. The size of CIP-HS and ceria abrasives are  almost same and the number of CIP particles is more around the abrasive particle, which may  shows some resistance to flow. But amount of change of CIP-HS viscosity is less compared to that  of CIP-CS with variation of magnetizing current. This may be due to the fact that CIP-CS is bigger  in size and is more susceptible. The variation of viscosity with the fluid prepared with CIP_CS and  Unicer grade of abrasive does not seem to follow any concluding trend (Fig.7). This may be due to  the size variation is bigger in between the CIP_CS and Unicer grade of abrasive. Due to complexity  of MR polishing fluid nature, a more detailed study on this is required to understand the role of  particle size on viscosity.      Fig.6 Variation of viscosity with CIP grades and Rhodite abrasive      Fig.7 Variation of viscosity with CIP grades and Unicer abrasive      0  0.05  0.1  0.15  0.2  0.25  0 1 2 3 4 5  Sh ea r   vi sc os ity  (P a- s)   Magnetizing current (A)  CS_R  OS_R  HS_R  0.00  0.05  0.10  0.15  0.20  0.25  0.30  0 0.5 1 1.5 2 2.5 3 3.5 4 4.5  Sh ea r v isc os ity    ( P a- s)   Magnetizing current (A)  CS_U  OS_U  HS_U  1490 Saraswathamma. K et al./ Materials Today: 4 (2017) 1478â€“1491  6 Conclusions  â€¢ Based on the experimental study, it was observed   â€¢ The rheological properties (Yield stress and viscosity) are function of carbonyl iron  particle and abrasive size under magnetic flux density which increases with increase in  particle size and magnetic flux density.  â€¢ More shear thinning behaviour was observed in case of SiO2 coated CIP with and without  external magnetic flux density.  â€¢ The variation of viscosity with the fluid prepared with CIP_CS and Unicer grade of  abrasive does not seem to follow any concluding trend.    References    1.  Jha, S. and V. Jain, Rheological characterization of magnetorheological polishing fluid for MRAFF. The  International Journal of Advanced Manufacturing Technology, 2009. 42(7-8): p. 656-668.  2. Sidpara, A. and V. Jain, Effect of fluid composition on nanofinishing of single-crystal silicon by magnetic  field-assisted finishing process. The International Journal of Advanced Manufacturing Technology, 2011.  55(1-4): p. 243-252.  3. Cook, L.M., Chemical processes in glass polishing. Journal of Non-Crystalline Solids, 1990. 120(1): p.  152-171.  4. Kordonski, W.I. and S. Jacobs, Magnetorheological finishing. International Journal of Modern Physics B,  1996. 10(23n24): p. 2837-2848.  5. Singh, A.K., S. Jha, and P.M. Pandey, Nanofinishing of Fused Silica Glass Using Ball-End  Magnetorheological Finishing Tool. Materials and Manufacturing Processes, 2012. 27(10): p. 1139-1144.  6. Sidpara, A. and V. Jain, Experimental investigations into surface roughness and yield stress in  magnetorheological fluid based nano-finishing process. International Journal of Precision Engineering and  Manufacturing, 2012. 13(6): p. 855-860.  7. Kim, W.-B., S.-H. Lee, and B.-K. Min, Surface finishing and evaluation of three-dimensional silicon  microchannel using magnetorheological fluid. Journal of manufacturing science and engineering, 2004.  126(4): p. 772-778.  8. Shorey, A.B., et al., Experiments and observations regarding the mechanisms of glass removal in  magnetorheological finishing. Applied Optics, 2001. 40(1): p. 20-33.  9. Jacobs, S.D., et al., DETERMINISTIC MAGNETORHEOLOGICAL FINISHING. 2002, EP Patent  0,858,381.  10. Abiade, J.T., W. Choi, and R.K. Singh, Effect of pH on ceria-silica interactions during chemical  mechanical polishing. Journal of materials research, 2005. 20(5): p. 1139-1145.  11. Macosko, C., Rheology: Principles, measurements, and applications. 1994. Poughkeepsie, NY Wiley-VCH,  1994.  12. konapalli, s., S. Jha, and P. Rao, Rheological Characterization of Polishing Fluid Used for Silicon Polishing  in BEMRF Process. Materials and Manufacturing Processes.        Saraswathamma. K et al./ Materials Today: Proceedings 4 (2017) 1478â€“1491                                           1491  13. GenÃ§, S., Synthesis and properties of magnetorheological (MR) fluids. 2002, University of Pittsburgh.  14. Jolly, M., J. Carlson, and B. MuÃ±oz, A model of the behaviour of magnetorheological materials. Smart  Materials and Structures, 1996. 5: p. 607.  15. Jha, S. and V.K. Jain, Rheological characterization of magnetorheological polishing fluid for MRAFF. The  International Journal of Advanced Manufacturing Technology, 2009. 42(7-8): p. 656-668.  16. Ginder, J., Behavior of magnetorheological fluids. MRS Bulletin-Materials Research Society, 1998. 23(8):  p. 26-29.  17. Sidpara, A., M. Das, and V.K. Jain, Rheological Characterization of Magnetorheological Finishing Fluid,  in Materials and Manufacturing Processes. 2009, Taylor &amp; Francis. p. 1467-1478.  18. Kordonski, W., S. Gorodkin, and N. Zhuravski, Static Yield Stress in Magnetorheological Fluid.  International Journal of Modern Physics B, 2001. 15(06n07): p. 1078-1084.  19. Stradling, A.W., The physics of open-gradient dry magnetic separation. International Journal of Mineral  Processing, 1993. 39(1â€“2): p. 1-18.  20. Gulley, G.L. and R. Tao, Structures of a magnetorheological fluid. International Journal of Modern Physics  B, 2001. 15(6-7): p. 851-858.  21. Gorodkin, S.R., R.O. James, and W.I. Kordonski, Magnetic properties of carbonyl iron particles in  magnetorheological fluids. Journal of Physics: Conference Series, 2009. 149: p. 012051.      on of carbonyl iron  particle and abrasive size under magnetic flux density which increases with increase in  particle size and magnetic flux density.  â€¢ More shear thinning behaviour was observed in case of SiO2 coated CIP with and without  external magnetic flux density.  â€¢ The variation of viscosity with the fluid prepared with CIP_CS and Unicer grade of  abrasive does not seem to follow any concluding trend.    References    1.  Jha, S. and V. Jain, Rheological characterization of magnetorheological polishing fluid for MRAFF. The  International Journal of Advanced Manufacturing Technology, 2009. 42(7-8): p. 656-668.  2. Sidpara, A. and V. Jain, Effect of fluid composition on nanofinishing of single-crystal silicon by magnetic  field-assisted finishing process. The International Journal of Advanced Manufacturing Technology, 2011.  55(1-4): p. 243-252.  3. Cook, L.M., Chemical processes in glass polishing. Journal of Non-Crystalline Solids, 1990. 120(1): p.  152-171.  4. Kordonski, W.I. and S. Jacobs, Magnetorheological finishing. International Journal of Modern Physics B,  1996. 10(23n24): p. 2837-2848.  5. Singh, A.K., S. Jha, and P.M. Pandey, Nanofinishing of Fused Silica Glass Using Ball-End  M</xocs:rawtext><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.4">
+         <item-info>
+            <jid>MATPR</jid>
+            <aid>1814</aid>
+            <ce:pii>S2214-7853(17)30170-0</ce:pii>
+            <ce:doi>10.1016/j.matpr.2017.01.170</ce:doi>
+            <ce:copyright type="full-transfer" year="2017">Elsevier Ltd</ce:copyright>
+         </item-info>
+         <head>
+            <ce:title id="tm005">Rheological behaviour of Magnetorheological polishing fluid for Si polishing</ce:title>
+            <ce:author-group id="ag005">
+               <ce:author id="au005" author-id="S2214785317301700-1992ddc2d42937ee8c413492f00841b2">
+                  <ce:given-name>K.</ce:given-name>
+                  <ce:surname>Saraswathamma</ce:surname>
+                  <ce:cross-ref refid="af005" id="c0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="c0010">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au010" author-id="S2214785317301700-42c71da7496a8029146fd8308e139655">
+                  <ce:given-name>Sunil</ce:given-name>
+                  <ce:surname>Jha</ce:surname>
+                  <ce:cross-ref refid="af010" id="c0015">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au015" author-id="S2214785317301700-d3b51a8a6125d79a5632f120b1eaa180">
+                  <ce:given-name>P.</ce:given-name>
+                  <ce:surname>Venkateswara Rao</ce:surname>
+                  <ce:cross-ref refid="af010" id="c0020">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="af005">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Department of Mechanical Engineering, Osmania University, India</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Mechanical Engineering</sa:organization>
+                     <sa:organization>Osmania University</sa:organization>
+                     <sa:country>India</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af010">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Department of Mechanical Engineering, Indian Institute of Technology Delhi, India</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Mechanical Engineering</sa:organization>
+                     <sa:organization>Indian Institute of Technology Delhi</sa:organization>
+                     <sa:country>India</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author. Tel.: +91 9032714222.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:abstract class="author" xml:lang="en" id="ab005" view="all"><ce:abstract-sec id="as005" view="all">
+                  <ce:simple-para id="sp0005" view="all">The finishing mechanism of the magnetorheological finishing (MRF) process primarily depends on the Magnetorheological polishing (MRP) fluid, which acts as a tool in finishing the component surfaces. MRP fluid imparts strength to the polishing spot under the applied magnetizing currents/magnetic field strength. Behaviour of this fluid mainly influenced by the size and shape of its constituents, volume concentration, particle size distribution, and applied magnetic field strength. A detailed study was undertaken on the role of carbonyl iron particle (CIP) and abrasive size on the rheological behaviour of the MRP fluid under various magnetic flux densities. Rheological characterization study was carried out using three different models such as Bingham plastic model, Herschel-Bulkley model and Casson fluid model. MRP fluid rheological properties such as yield stress and viscosity were evaluated using parallel plate magnetorheometer.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword" id="kg005" view="all">
+               <ce:section-title id="st010">Keywords</ce:section-title>
+               <ce:keyword id="k0005">
+                  <ce:text>Parallel plate magnetorheometer</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0010">
+                  <ce:text>Carbonyl iron powder</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0015">
+                  <ce:text>Cerium oxide abarsive</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0020">
+                  <ce:text>Magnetizing current</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0025">
+                  <ce:text>Yield stress</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0030">
+                  <ce:text>Viscosity</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <tail view="all">
+            <ce:bibliography id="bi005" view="all">
+               <ce:section-title id="st015">References</ce:section-title>
+               <ce:bibliography-sec id="bs005" view="all">
+                  <ce:bib-reference id="b0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="h0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Jha</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Jain</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Rheological characterization of magnetorheological polishing fluid for MRAFF</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>The International Journal of Advanced Manufacturing Technology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>7–8</sb:issue-nr>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>656</sb:first-page>
+                              <sb:last-page>668</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="h0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Sidpara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Jain</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of fluid composition on nanofinishing of single-crystal silicon by magnetic field-assisted finishing process</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>The International Journal of Advanced Manufacturing Technology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>55</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1–4</sb:issue-nr>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>243</sb:first-page>
+                              <sb:last-page>252</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="h0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.M.</ce:given-name>
+                                 <ce:surname>Cook</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical processes in glass polishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Non-Crystalline Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>120</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>152</sb:first-page>
+                              <sb:last-page>171</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0020">
+                     <ce:label>[4]</ce:label>
+                     <ce:other-ref id="h0020">
+                        <ce:textref>Kordonski, W.I. and S. Jacobs, Magnetorheological finishing. International Journal of Modern Physics B, 1996. 10(23n24): p. 2837–2848.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="h0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.K.</ce:given-name>
+                                 <ce:surname>Singh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Jha</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.M.</ce:given-name>
+                                 <ce:surname>Pandey</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nanofinishing of Fused Silica Glass Using Ball-End Magnetorheological Finishing Tool</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Materials and Manufacturing Processes</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>10</sb:issue-nr>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1139</sb:first-page>
+                              <sb:last-page>1144</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="h0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Sidpara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Jain</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Experimental investigations into surface roughness and yield stress in magnetorheological fluid based nano-finishing process</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>International Journal of Precision Engineering and Manufacturing</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>855</sb:first-page>
+                              <sb:last-page>860</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="h0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.-B.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-H.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.-K.</ce:given-name>
+                                 <ce:surname>Min</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Surface finishing and evaluation of three-dimensional silicon microchannel using magnetorheological fluid</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of manufacturing science and engineering</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>126</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>772</sb:first-page>
+                              <sb:last-page>778</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="h0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.B.</ce:given-name>
+                                 <ce:surname>Shorey</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Experiments and observations regarding the mechanisms of glass removal in magnetorheological finishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Applied Optics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>20</sb:first-page>
+                              <sb:last-page>33</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0045">
+                     <ce:label>[9]</ce:label>
+                     <ce:other-ref id="h0045">
+                        <ce:textref>Jacobs, S.D., et al., DETERMINISTIC MAGNETORHEOLOGICAL FINISHING. 2002, EP Patent 0,858,381.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="h0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.T.</ce:given-name>
+                                 <ce:surname>Abiade</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.K.</ce:given-name>
+                                 <ce:surname>Singh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of pH on ceria-silica interactions during chemical mechanical polishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of materials research</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1139</sb:first-page>
+                              <sb:last-page>1145</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0055">
+                     <ce:label>[11]</ce:label>
+                     <ce:other-ref id="h0055">
+                        <ce:textref>Macosko, C., Rheology: Principles, measurements, and applications. 1994. Poughkeepsie, NY Wiley-VCH, 1994.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0060">
+                     <ce:label>[12]</ce:label>
+                     <ce:other-ref id="h0060">
+                        <ce:textref>konapalli, s., S. Jha, and P. Rao, Rheological Characterization of Polishing Fluid Used for Silicon Polishing in BEMRF Process. Materials and Manufacturing Processes.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0065">
+                     <ce:label>[13]</ce:label>
+                     <ce:other-ref id="h0065">
+                        <ce:textref>Genç, S., Synthesis and properties of magnetorheological (MR) fluids. 2002, University of Pittsburgh.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="h0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Jolly</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Carlson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Muñoz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A model of the behaviour of magnetorheological materials</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Smart Materials and Structures</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>607</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="h0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Jha</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.K.</ce:given-name>
+                                 <ce:surname>Jain</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Rheological characterization of magnetorheological polishing fluid for MRAFF</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>The International Journal of Advanced Manufacturing Technology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>7–8</sb:issue-nr>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>656</sb:first-page>
+                              <sb:last-page>668</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="h0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Ginder</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Behavior of magnetorheological fluids</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>MRS Bulletin-Materials Research Society</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>8</sb:issue-nr>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>26</sb:first-page>
+                              <sb:last-page>29</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0085">
+                     <ce:label>[17]</ce:label>
+                     <ce:other-ref id="h0085">
+                        <ce:textref>Sidpara, A., M. Das, and V.K. Jain, Rheological Characterization of Magnetorheological Finishing Fluid, in Materials and Manufacturing Processes. 2009, Taylor &amp; Francis. p. 1467–1478.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0090">
+                     <ce:label>[18]</ce:label>
+                     <ce:other-ref id="h0090">
+                        <ce:textref>Kordonski, W., S. Gorodkin, and N. Zhuravski, Static Yield Stress in Magnetorheological Fluid. International Journal of Modern Physics B, 2001. 15(06n07): p. 1078–1084.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="h0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.W.</ce:given-name>
+                                 <ce:surname>Stradling</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The physics of open-gradient dry magnetic separation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>International Journal of Mineral Processing</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1–2</sb:issue-nr>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>18</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="h0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.L.</ce:given-name>
+                                 <ce:surname>Gulley</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Tao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Structures of a magnetorheological fluid</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>International Journal of Modern Physics B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6–7</sb:issue-nr>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>851</sb:first-page>
+                              <sb:last-page>858</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="h0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.R.</ce:given-name>
+                                 <ce:surname>Gorodkin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.O.</ce:given-name>
+                                 <ce:surname>James</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.I.</ce:given-name>
+                                 <ce:surname>Kordonski</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Magnetic properties of carbonyl iron particles in magnetorheological fluids</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Physics: Conference Series</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>149</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>012051</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

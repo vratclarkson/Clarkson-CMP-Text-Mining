@@ -1,0 +1,2072 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0167931716300788</prism:url><dc:identifier>doi:10.1016/j.mee.2016.02.035</dc:identifier><eid>1-s2.0-S0167931716300788</eid><prism:doi>10.1016/j.mee.2016.02.035</prism:doi><pii>S0167-9317(16)30078-8</pii><dc:title>Effect of pad groove width on slurry mean residence time and slurry utilization efficiency in CMP </dc:title><prism:publicationName>Microelectronic Engineering</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>01679317</prism:issn><prism:volume>157</prism:volume><prism:startingPage>60</prism:startingPage><prism:endingPage>63</prism:endingPage><prism:pageRange>60-63</prism:pageRange><dc:format>application/xml</dc:format><prism:coverDate>2016-05-01</prism:coverDate><prism:coverDisplayDate>1 May 2016</prism:coverDisplayDate><prism:copyright>Copyright © 2016 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Mu, Yan</dc:creator><dc:creator>Zhuang, Yun</dc:creator><dc:creator>Sampurno, Yasa</dc:creator><dc:creator>Wei, Xiaomin</dc:creator><dc:creator>Ashizawa, Toranosuke</dc:creator><dc:creator>Morishima, Hiroyuki</dc:creator><dc:creator>Philipossian, Ara</dc:creator><dc:description>
+                  This paper studies the effect of pad groove width on slurry mean residence time (MRT) in the pad–wafer interface as well as slurry utilization efficiency (η) during chemical mechanical planarization. Three concentrically grooved pads with different groove widths were tested at different polishing pressures to experimentally determine the corresponding MRT using the residence time distribution (RTD) technique. Results showed that MRT and η increased significantly when the groove width increased from 300 to 600μm. On the other hand, when the groove width increased further to 900μm, MRT continued to increase while η remained constant. Results also indicated that MRT was reduced at a higher polishing pressure while η did not change significantly with pressure for all three pads.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Mean residence time</dcterms:subject><dcterms:subject>Slurry utilization efficiency</dcterms:subject><dcterms:subject>Chemical mechanical planarization</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0167931716300788" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0167931716300788" rel="scidir"/></coredata><objects><object ref="fx1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="212" height="164" size="13334">https://api.elsevier.com/content/object/eid/1-s2.0-S0167931716300788-fx1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="90" size="15774">https://api.elsevier.com/content/object/eid/1-s2.0-S0167931716300788-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="80" size="10366">https://api.elsevier.com/content/object/eid/1-s2.0-S0167931716300788-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="135" size="14823">https://api.elsevier.com/content/object/eid/1-s2.0-S0167931716300788-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="136" height="164" size="12955">https://api.elsevier.com/content/object/eid/1-s2.0-S0167931716300788-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="135" size="11358">https://api.elsevier.com/content/object/eid/1-s2.0-S0167931716300788-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="127" size="9388">https://api.elsevier.com/content/object/eid/1-s2.0-S0167931716300788-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="62" size="7019">https://api.elsevier.com/content/object/eid/1-s2.0-S0167931716300788-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="fx1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="258" height="200" size="16496">https://api.elsevier.com/content/object/eid/1-s2.0-S0167931716300788-fx1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="380" height="156" size="24889">https://api.elsevier.com/content/object/eid/1-s2.0-S0167931716300788-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="387" height="141" size="13831">https://api.elsevier.com/content/object/eid/1-s2.0-S0167931716300788-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="380" height="234" size="28059">https://api.elsevier.com/content/object/eid/1-s2.0-S0167931716300788-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="375" height="451" size="40000">https://api.elsevier.com/content/object/eid/1-s2.0-S0167931716300788-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="380" height="234" size="22031">https://api.elsevier.com/content/object/eid/1-s2.0-S0167931716300788-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="380" height="220" size="18605">https://api.elsevier.com/content/object/eid/1-s2.0-S0167931716300788-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="378" height="107" size="10783">https://api.elsevier.com/content/object/eid/1-s2.0-S0167931716300788-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="47" height="26" size="1125">https://api.elsevier.com/content/object/eid/1-s2.0-S0167931716300788-si1.gif?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="82" height="29" size="1417">https://api.elsevier.com/content/object/eid/1-s2.0-S0167931716300788-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="57" height="29" size="1087">https://api.elsevier.com/content/object/eid/1-s2.0-S0167931716300788-si3.gif?httpAccept=%2A%2F%2A</object><object ref="si4" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="100" height="27" size="1589">https://api.elsevier.com/content/object/eid/1-s2.0-S0167931716300788-si4.gif?httpAccept=%2A%2F%2A</object><object ref="si5" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="76" height="26" size="1328">https://api.elsevier.com/content/object/eid/1-s2.0-S0167931716300788-si5.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>84959285732</scopus-id><scopus-eid>2-s2.0-84959285732</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84959285732" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271975</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291716</xocs:ssid>
+         <xocs:ssid type="subj">291718</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291892</xocs:ssid>
+         <xocs:ssid type="subj">291893</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Microelectronic Engineering</xocs:srctitle>
+      <xocs:normalized-srctitle>MICROELECTRONICENGINEERING</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20160223">2016-02-23</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20160223">2016-02-23</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20160302">2016-03-02</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20160302">2016-03-02</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2016-03-11T12:55:45</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0167931716300788</xocs:eid>
+      <xocs:pii-formatted>S0167-9317(16)30078-8</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0167931716300788</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.mee.2016.02.035</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0167931716X00056</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160902">2016-09-02T10:54:29.295483-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20160501</xocs:date-search-begin>
+      <xocs:year-nav>2016</xocs:year-nav>
+      <xocs:indexeddate epoch="1456237262">2016-02-23T14:21:02.887474Z</xocs:indexeddate>
+      <xocs:articleinfo>absattachment articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body mmlmath affil articletitle auth authfirstini authfull authkeywords authlast highlightsabst orcid primabst ref specialabst</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0167-9317</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>01679317</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>157</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>157</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 157</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>12</xocs:sort-order>
+      <xocs:first-fp>60</xocs:first-fp>
+      <xocs:last-lp>63</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>60</xocs:first-page>
+         <xocs:last-page>63</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20160501</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1 May 2016</xocs:cover-date-text>
+      <xocs:cover-date-start>2016-05-01</xocs:cover-date-start>
+      <xocs:cover-date-year>2016</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Regular articles</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2016 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>EFFECTPADGROOVEWIDTHSLURRYMEANRESIDENCETIMESLURRYUTILIZATIONEFFICIENCYINCMP</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>MU</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>Y</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Theoretical approach</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental procedure</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>5</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="rf0005">
+            <xocs:ref-normalized-surname>STEIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1623</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0010">
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>402</xocs:ref-first-fp>
+            <xocs:ref-normalized-srctitle>PROCEEDINGSSERIES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0015">
+            <xocs:ref-normalized-surname>SIKDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1520</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0020">
+            <xocs:ref-normalized-surname>ROSALESYEOMANS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>G62</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0025">
+            <xocs:ref-normalized-surname>DOI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>G196</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0030">
+            <xocs:ref-normalized-surname>ROSALESYEOMANS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>G62</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0035">
+            <xocs:ref-normalized-surname>ROSALESYEOMANS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>H750</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0040">
+            <xocs:ref-normalized-surname>ROSALESYEOMANS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>H797</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0045">
+            <xocs:ref-normalized-surname>ROSALESYEOMANS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>H812</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0050">
+            <xocs:ref-normalized-surname>MULDOWNEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>K5.3.1</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0055">
+            <xocs:ref-normalized-surname>LEVENSPIEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CHEMICALREACTIONENGINEERING</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0060">
+            <xocs:ref-normalized-surname>FROMENT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CHEMICALREACTORANALYSISDESIGN</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0065">
+            <xocs:ref-normalized-surname>KWON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>INTERNATIONALCONFERENCEPLANARIZATIONCMPTECHNOLOGYPROCEEDINGS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="or0005"/>
+         <xocs:ref-info refid="or0010"/>
+         <xocs:ref-info refid="or0015"/>
+         <xocs:ref-info refid="or0020"/>
+         <xocs:ref-info refid="rf0070">
+            <xocs:ref-normalized-surname>PHILIPOSSIAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>G854</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0075">
+            <xocs:ref-normalized-surname>PHILIPOSSIAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>G402</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0080">
+            <xocs:ref-normalized-surname>SUN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>026501</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0085">
+            <xocs:ref-normalized-surname>LIAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>70</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0090">
+            <xocs:ref-normalized-surname>ROSALESYEOMANS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2224</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0095">
+            <xocs:ref-normalized-surname>WEI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>H119</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0100">
+            <xocs:ref-normalized-surname>PHILIPOSSIAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7259</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>MUX2016X60</xocs:refkey3>
+         <xocs:refkey4lp>MUX2016X60X63</xocs:refkey4lp>
+         <xocs:refkey4ai>MUX2016X60XY</xocs:refkey4ai>
+         <xocs:refkey5>MUX2016X60X63XY</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2018-03-02T00:00:00Z</xocs:sa-start-date>
+         <xocs:sa-embargo-status>UnderEmbargo</xocs:sa-embargo-status>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0167-9317(16)30078-8</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0167931716300788</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0167931716300788</xocs:eid>
+         <xocs:doi>10.1016/j.mee.2016.02.035</xocs:doi>
+         <xocs:cid>271975</xocs:cid>
+         <xocs:timestamp>2016-03-11T08:59:56.23019-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2016-05-01</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0167931716300788-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167931716300788/MAIN/application/pdf/850cbe72cb113a54a6234bba3626713a/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167931716300788/MAIN/application/pdf/850cbe72cb113a54a6234bba3626713a/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>531718</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0167931716300788-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167931716300788/PREVIEW/image/png/d778d6af0fc15d01ad5b0422bb6bd875/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167931716300788/PREVIEW/image/png/d778d6af0fc15d01ad5b0422bb6bd875/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>58954</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167931716300788-fx1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167931716300788/fx1/THUMBNAIL/image/gif/2633374e7761b45eec2056de9948674c/fx1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167931716300788/fx1/THUMBNAIL/image/gif/2633374e7761b45eec2056de9948674c/fx1.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>13334</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>212</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167931716300788-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167931716300788/gr1/THUMBNAIL/image/gif/f0526e1b8f3a9d296be1177ff5528218/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167931716300788/gr1/THUMBNAIL/image/gif/f0526e1b8f3a9d296be1177ff5528218/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>15774</xocs:filesize>
+               <xocs:pixel-height>90</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167931716300788-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167931716300788/gr2/THUMBNAIL/image/gif/5241091e13b02056c821eb512e110560/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167931716300788/gr2/THUMBNAIL/image/gif/5241091e13b02056c821eb512e110560/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10366</xocs:filesize>
+               <xocs:pixel-height>80</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167931716300788-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167931716300788/gr3/THUMBNAIL/image/gif/90b81825bd325a645fab56f7b9d2ce49/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167931716300788/gr3/THUMBNAIL/image/gif/90b81825bd325a645fab56f7b9d2ce49/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>14823</xocs:filesize>
+               <xocs:pixel-height>135</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167931716300788-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167931716300788/gr4/THUMBNAIL/image/gif/8b876ea059b3c003463b0c5fceb8c056/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167931716300788/gr4/THUMBNAIL/image/gif/8b876ea059b3c003463b0c5fceb8c056/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12955</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>136</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167931716300788-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167931716300788/gr5/THUMBNAIL/image/gif/6a9feed17320177b44739879cd5c8cd5/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167931716300788/gr5/THUMBNAIL/image/gif/6a9feed17320177b44739879cd5c8cd5/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11358</xocs:filesize>
+               <xocs:pixel-height>135</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167931716300788-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167931716300788/gr6/THUMBNAIL/image/gif/b4bb13fc6f0c7aa261a84a1358873bfa/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167931716300788/gr6/THUMBNAIL/image/gif/b4bb13fc6f0c7aa261a84a1358873bfa/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9388</xocs:filesize>
+               <xocs:pixel-height>127</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167931716300788-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167931716300788/gr7/THUMBNAIL/image/gif/12b5c5a7d9c1f97729f6b97007ceb3f1/gr7.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167931716300788/gr7/THUMBNAIL/image/gif/12b5c5a7d9c1f97729f6b97007ceb3f1/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7019</xocs:filesize>
+               <xocs:pixel-height>62</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167931716300788-fx1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167931716300788/fx1/DOWNSAMPLED/image/jpeg/308f4fdfdfeb6bdf0437fc8e17fa4060/fx1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167931716300788/fx1/DOWNSAMPLED/image/jpeg/308f4fdfdfeb6bdf0437fc8e17fa4060/fx1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>16496</xocs:filesize>
+               <xocs:pixel-height>200</xocs:pixel-height>
+               <xocs:pixel-width>258</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167931716300788-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167931716300788/gr1/DOWNSAMPLED/image/jpeg/f4c44d3995592467bd8fb1eebb854ea2/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167931716300788/gr1/DOWNSAMPLED/image/jpeg/f4c44d3995592467bd8fb1eebb854ea2/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>24889</xocs:filesize>
+               <xocs:pixel-height>156</xocs:pixel-height>
+               <xocs:pixel-width>380</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167931716300788-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167931716300788/gr2/DOWNSAMPLED/image/jpeg/a02b27166c7f1ef074f3821997022794/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167931716300788/gr2/DOWNSAMPLED/image/jpeg/a02b27166c7f1ef074f3821997022794/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>13831</xocs:filesize>
+               <xocs:pixel-height>141</xocs:pixel-height>
+               <xocs:pixel-width>387</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167931716300788-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167931716300788/gr3/DOWNSAMPLED/image/jpeg/667811819e8ccb18ba02525266451394/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167931716300788/gr3/DOWNSAMPLED/image/jpeg/667811819e8ccb18ba02525266451394/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>28059</xocs:filesize>
+               <xocs:pixel-height>234</xocs:pixel-height>
+               <xocs:pixel-width>380</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167931716300788-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167931716300788/gr4/DOWNSAMPLED/image/jpeg/869cb1f86ca8fb0ba5552f9dbb95da35/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167931716300788/gr4/DOWNSAMPLED/image/jpeg/869cb1f86ca8fb0ba5552f9dbb95da35/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>40000</xocs:filesize>
+               <xocs:pixel-height>451</xocs:pixel-height>
+               <xocs:pixel-width>375</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167931716300788-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167931716300788/gr5/DOWNSAMPLED/image/jpeg/810f48bd436159f883f90920ced44803/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167931716300788/gr5/DOWNSAMPLED/image/jpeg/810f48bd436159f883f90920ced44803/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>22031</xocs:filesize>
+               <xocs:pixel-height>234</xocs:pixel-height>
+               <xocs:pixel-width>380</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167931716300788-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167931716300788/gr6/DOWNSAMPLED/image/jpeg/d7cdf729a36190e6c6444299dfd44ea8/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167931716300788/gr6/DOWNSAMPLED/image/jpeg/d7cdf729a36190e6c6444299dfd44ea8/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>18605</xocs:filesize>
+               <xocs:pixel-height>220</xocs:pixel-height>
+               <xocs:pixel-width>380</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167931716300788-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167931716300788/gr7/DOWNSAMPLED/image/jpeg/f85a6bf27b354f171303560a96e25de4/gr7.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167931716300788/gr7/DOWNSAMPLED/image/jpeg/f85a6bf27b354f171303560a96e25de4/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>10783</xocs:filesize>
+               <xocs:pixel-height>107</xocs:pixel-height>
+               <xocs:pixel-width>378</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167931716300788-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167931716300788/STRIPIN/image/gif/a4fd90ea4829956241789d1ddc01e065/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167931716300788/STRIPIN/image/gif/a4fd90ea4829956241789d1ddc01e065/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1125</xocs:filesize>
+               <xocs:pixel-height>26</xocs:pixel-height>
+               <xocs:pixel-width>47</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167931716300788-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167931716300788/STRIPIN/image/gif/154eeeb5641ffedd38ec91d3128cbf42/si2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167931716300788/STRIPIN/image/gif/154eeeb5641ffedd38ec91d3128cbf42/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1417</xocs:filesize>
+               <xocs:pixel-height>29</xocs:pixel-height>
+               <xocs:pixel-width>82</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167931716300788-si3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167931716300788/STRIPIN/image/gif/4f807350e187439a11360155c4e57e29/si3.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167931716300788/STRIPIN/image/gif/4f807350e187439a11360155c4e57e29/si3.gif</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1087</xocs:filesize>
+               <xocs:pixel-height>29</xocs:pixel-height>
+               <xocs:pixel-width>57</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167931716300788-si4.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167931716300788/STRIPIN/image/gif/002d3f9f7ad049dffe3bf65ee88bb982/si4.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167931716300788/STRIPIN/image/gif/002d3f9f7ad049dffe3bf65ee88bb982/si4.gif</xocs:ucs-locator>
+               <xocs:file-basename>si4</xocs:file-basename>
+               <xocs:filename>si4.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1589</xocs:filesize>
+               <xocs:pixel-height>27</xocs:pixel-height>
+               <xocs:pixel-width>100</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167931716300788-si5.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167931716300788/STRIPIN/image/gif/9cdeab8296f8c8a9d051a62fc1426401/si5.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167931716300788/STRIPIN/image/gif/9cdeab8296f8c8a9d051a62fc1426401/si5.gif</xocs:ucs-locator>
+               <xocs:file-basename>si5</xocs:file-basename>
+               <xocs:filename>si5.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1328</xocs:filesize>
+               <xocs:pixel-height>26</xocs:pixel-height>
+               <xocs:pixel-width>76</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.4" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>MEE</jid>
+            <aid>10147</aid>
+            <ce:pii>S0167-9317(16)30078-8</ce:pii>
+            <ce:doi>10.1016/j.mee.2016.02.035</ce:doi>
+            <ce:copyright type="full-transfer" year="2016">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="ca0005">
+                  <ce:simple-para id="sp0005" view="all">Cross section of a CMP reactor.</ce:simple-para>
+               </ce:caption>
+               <ce:link id="lk0005" locator="gr1" xlink:type="simple" xlink:href="pii:S0167931716300788/gr1"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="ca0010">
+                  <ce:simple-para id="sp0010" view="all">Schematic of pad dimensions.</ce:simple-para>
+               </ce:caption>
+               <ce:link id="lk0010" locator="gr2" xlink:type="simple" xlink:href="pii:S0167931716300788/gr2"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="ca0015">
+                  <ce:simple-para id="sp0015" view="all">Calibration curves relating ceria concentration of the slurry to COF at 5.0 PSI (R<ce:sup loc="post">2</ce:sup>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.98 for Pad A, R<ce:sup loc="post">2</ce:sup>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.99 for Pad B, and R<ce:sup loc="post">2</ce:sup>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.98 for Pad C).</ce:simple-para>
+               </ce:caption>
+               <ce:link id="lk0015" locator="gr3" xlink:type="simple" xlink:href="pii:S0167931716300788/gr3"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="ca0020">
+                  <ce:simple-para id="sp0020" view="all">(a) COF and (b) ceria concentration as a function of polishing time for Pad A at polishing pressure of 3 PSI.</ce:simple-para>
+               </ce:caption>
+               <ce:link id="lk0020" locator="gr4" xlink:type="simple" xlink:href="pii:S0167931716300788/gr4"/>
+            </ce:figure>
+            <ce:figure id="f0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="ca0025">
+                  <ce:simple-para id="sp0025" view="all">Non-dimensional F-curve.</ce:simple-para>
+               </ce:caption>
+               <ce:link id="lk0025" locator="gr5" xlink:type="simple" xlink:href="pii:S0167931716300788/gr5"/>
+            </ce:figure>
+            <ce:figure id="f0030">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="ca0030">
+                  <ce:simple-para id="sp0030" view="all">Slurry MRT as a function of wafer pressure.</ce:simple-para>
+               </ce:caption>
+               <ce:link id="lk0030" locator="gr6" xlink:type="simple" xlink:href="pii:S0167931716300788/gr6"/>
+            </ce:figure>
+            <ce:figure id="f0035">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption id="ca0035">
+                  <ce:simple-para id="sp0035" view="all">CMP reactor volume analysis.</ce:simple-para>
+               </ce:caption>
+               <ce:link id="lk0035" locator="gr7" xlink:type="simple" xlink:href="pii:S0167931716300788/gr7"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0005" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="ca0040">
+                  <ce:simple-para id="sp0040" view="all">Pad dimension comparison.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="4">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <thead>
+                     <row valign="top" rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left">Pad</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="left">Groove width<br/>(μm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="left">Groove depth<br/>(μm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="left">Land area width<br/>(μm)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left" role="rowhead">A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="left">300</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="left">400</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="left">1200</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left" role="rowhead">B</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="left">600</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="left">400</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="left">1200</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left" role="rowhead">C</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="left">900</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="left">400</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="left">1200</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0010" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="ca0045">
+                  <ce:simple-para id="sp0045" view="all">Analysis of reactor volume.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="7">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <colspec colname="col5"/>
+                  <colspec colname="col6"/>
+                  <colspec colname="col7"/>
+                  <thead>
+                     <row valign="top" rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1" colname="col1" align="left">Pad</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col2" nameend="col4" align="left" rowsep="1">3 PSI</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col5" nameend="col7" align="left" rowsep="1">5 PSI</entry>
+                     </row>
+                     <row valign="top" rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="left">
+                           <italic>V</italic>
+                           <inf loc="post">
+                              <italic>land</italic>
+                           </inf>
+                           <br/>(cm<sup loc="post">3</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="left">
+                           <italic>V</italic>
+                           <inf loc="post">
+                              <italic>groove</italic>
+                           </inf>
+                           <br/>(cm<sup loc="post">3</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="left">
+                           <italic>V</italic>
+                           <inf loc="post">
+                              <italic>total</italic>
+                           </inf>
+                           <br/>(cm<sup loc="post">3</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="left">
+                           <italic>V</italic>
+                           <inf loc="post">
+                              <italic>land</italic>
+                           </inf>
+                           <br/>(cm<sup loc="post">3</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="left">
+                           <italic>V</italic>
+                           <inf loc="post">
+                              <italic>groove</italic>
+                           </inf>
+                           <br/>(cm<sup loc="post">3</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="left">
+                           <italic>V</italic>
+                           <inf loc="post">
+                              <italic>total</italic>
+                           </inf>
+                           <br/>(cm<sup loc="post">3</sup>)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left" role="rowhead">A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">0.38</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">2.66</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">3.04</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">0.25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">2.63</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="char" char=".">2.88</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left" role="rowhead">B</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">0.31</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">4.41</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">4.72</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">0.21</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">4.35</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="char" char=".">4.56</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left" role="rowhead">C</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">0.27</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">5.64</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">5.91</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">0.18</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">5.57</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="char" char=".">5.75</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0015" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 3</ce:label>
+               <ce:caption id="ca0050">
+                  <ce:simple-para id="sp0050" view="all">Analysis of slurry utilization efficiency.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="9">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <colspec colname="col5"/>
+                  <colspec colname="col6"/>
+                  <colspec colname="col7"/>
+                  <colspec colname="col8"/>
+                  <colspec colname="col9"/>
+                  <thead>
+                     <row valign="top" rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1" colname="col1" align="left">Pad</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col2" nameend="col5" align="left" rowsep="1">3 PSI</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col6" nameend="col9" align="left" rowsep="1">5 PSI</entry>
+                     </row>
+                     <row valign="top" rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="left">
+                           <italic>τ</italic>
+                           <br/>(sec)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="left">
+                           <italic>V</italic>
+                           <inf loc="post">
+                              <italic>total</italic>
+                           </inf>
+                           <br/>(cm<sup loc="post">3</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="left">
+                           <italic>q</italic>
+                           <inf loc="post">
+                              <italic>actual</italic>
+                           </inf>
+                           <br/>(mL/min)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="left">
+                           <italic>η</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="left">
+                           <italic>τ</italic>
+                           <br/>(sec)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="left">
+                           <italic>V</italic>
+                           <inf loc="post">
+                              <italic>total</italic>
+                           </inf>
+                           <br/>(cm<sup loc="post">3</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col8" align="left">
+                           <italic>q</italic>
+                           <inf loc="post">
+                              <italic>actual</italic>
+                           </inf>
+                           <br/>(mL/min)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col9" align="left">
+                           <italic>η</italic>
+                        </entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left" role="rowhead">A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">9.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">3.04</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">19.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">9.9%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">8.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="char" char=".">2.88</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col8" align="char" char=".">20.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col9" align="char" char=".">10.6%</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left" role="rowhead">B</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">10.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">4.72</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">26.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">13.4%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">9.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="char" char=".">4.56</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col8" align="char" char=".">29.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col9" align="char" char=".">14.7%</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left" role="rowhead">C</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">13.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">5.91</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">26.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">12.8%</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">12.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="char" char=".">5.75</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col8" align="char" char=".">27.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col9" align="char" char=".">13.6%</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="ti0005">Effect of pad groove width on slurry mean residence time and slurry utilization efficiency in CMP</ce:title>
+            <ce:author-group id="ag0005">
+               <ce:author orcid="0000-0002-2273-6196" id="au0005">
+                  <ce:given-name>Yan</ce:given-name>
+                  <ce:surname>Mu</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cr0005" id="cf1015">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0010">
+                  <ce:given-name>Yun</ce:given-name>
+                  <ce:surname>Zhuang</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0010">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="af0010" id="cf0015">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0015">
+                  <ce:given-name>Yasa</ce:given-name>
+                  <ce:surname>Sampurno</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0020">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="af0010" id="cf0025">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0020">
+                  <ce:given-name>Xiaomin</ce:given-name>
+                  <ce:surname>Wei</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0030">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0025">
+                  <ce:given-name>Toranosuke</ce:given-name>
+                  <ce:surname>Ashizawa</ce:surname>
+                  <ce:cross-ref refid="af0015" id="cf0035">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0030">
+                  <ce:given-name>Hiroyuki</ce:given-name>
+                  <ce:surname>Morishima</ce:surname>
+                  <ce:cross-ref refid="af0015" id="cf0040">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0035">
+                  <ce:given-name>Ara</ce:given-name>
+                  <ce:surname>Philipossian</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0045">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="af0010" id="cf0050">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="af0005">
+                  <ce:label>a</ce:label>
+                  <ce:textfn id="tn0005">Department of Chemical and Environmental Engineering, University of Arizona, Tucson, AZ 85721, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Chemical and Environmental Engineering</sa:organization>
+                     <sa:organization>University of Arizona</sa:organization>
+                     <sa:city>Tucson</sa:city>
+                     <sa:state>AZ</sa:state>
+                     <sa:postal-code>85721</sa:postal-code>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af0010">
+                  <ce:label>b</ce:label>
+                  <ce:textfn id="tn0010">Araca, Inc., Tucson, AZ 85718, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Araca, Inc.</sa:organization>
+                     <sa:city>Tucson</sa:city>
+                     <sa:state>AZ</sa:state>
+                     <sa:postal-code>85718</sa:postal-code>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af0015">
+                  <ce:label>c</ce:label>
+                  <ce:textfn id="tn0015">Hitachi Chemical Company Limited, Hitachi-shi, lbaraki, Japan</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Hitachi Chemical Company Limited</sa:organization>
+                     <sa:city>Hitachi-shi</sa:city>
+                     <sa:state>lbaraki</sa:state>
+                     <sa:country>Japan</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cr0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text id="tx1005">Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="27" month="8" year="2015"/>
+            <ce:date-revised day="5" month="2" year="2016"/>
+            <ce:date-accepted day="21" month="2" year="2016"/>
+            <ce:abstract id="ab0005" xml:lang="en" view="all" class="author"><ce:abstract-sec id="as0005" view="all">
+                  <ce:simple-para id="sp0055" view="all">This paper studies the effect of pad groove width on slurry mean residence time (MRT) in the pad–wafer interface as well as slurry utilization efficiency (<ce:italic>η</ce:italic>) during chemical mechanical planarization. Three concentrically grooved pads with different groove widths were tested at different polishing pressures to experimentally determine the corresponding MRT using the residence time distribution (RTD) technique. Results showed that MRT and <ce:italic>η</ce:italic> increased significantly when the groove width increased from 300 to 600<ce:hsp sp="0.25"/>μm. On the other hand, when the groove width increased further to 900<ce:hsp sp="0.25"/>μm, MRT continued to increase while <ce:italic>η</ce:italic> remained constant. Results also indicated that MRT was reduced at a higher polishing pressure while <ce:italic>η</ce:italic> did not change significantly with pressure for all three pads.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:abstract id="ab0010" class="graphical" xml:lang="en" view="all">
+               <ce:section-title id="st0010">Graphical abstract</ce:section-title>
+               <ce:abstract-sec id="as0010" view="all">
+                  <ce:simple-para id="sp0060" view="all">
+                     <ce:display>
+                        <ce:figure id="f0040">
+                           <ce:link id="lk0040" locator="fx1" xlink:type="simple" xlink:href="pii:S0167931716300788/fx1"/>
+                        </ce:figure>
+                     </ce:display>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            
+            <ce:keywords id="ks0005" view="all" class="keyword">
+               <ce:section-title id="st0020">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text id="tx0005">Mean residence time</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text id="tx0010">Slurry utilization efficiency</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text id="tx0015">Chemical mechanical planarization</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="st0025">Introduction</ce:section-title>
+                  <ce:para id="p0020" view="all">It is well known that the presence of slurry in the pad–wafer interface is critical to the chemical mechanical planarization (CMP) process <ce:cross-refs id="cf0055" refid="bb0005 bb0010 bb0015">[1–3]</ce:cross-refs>. Various factors such as slurry mixing and transport, slurry film thickness and the tribological mechanism in the pad–wafer interface can affect material removal rate and planarization efficiency. Different pad groove designs are used to transport fresh slurry into the pad–wafer interface <ce:cross-refs id="cf0060" refid="bb0020 bb0025">[4,5]</ce:cross-refs>. In addition, pad grooves discharge polish debris, heat and spent slurry from the pad–wafer interface and also prevent wafer hydroplaning <ce:cross-refs id="cf0065" refid="bb0020 bb0025">[4,5]</ce:cross-refs>. The effect of different pad groove designs on coefficient of friction (COF), pad surface temperature, and material removal rate for interlayer dielectric (ILD) and copper CMP has been investigated extensively <ce:cross-refs id="cf0070" refid="bb0025 bb0030 bb0035 bb0040 bb0045">[5–9]</ce:cross-refs>. Additionally, Muldowney introduced a 3D fluid flow model for simulating the influence of pad groove pitch, width and depth on slurry flow in the pad–wafer gap which revealed that it took longer to renew the slurry in the pad–wafer gap for a pad with larger groove pitch and wider and deeper groove design <ce:cross-ref id="cf0075" refid="bb0050">[10]</ce:cross-ref>. While pad groove width is an important factor that impacts slurry flow during wafer polishing, no experimental study has been performed to illustrate the effect of groove width on slurry mixing and transport in the pad–wafer interface.</ce:para>
+                  <ce:para id="p0025" view="all">In previous studies, classical residence time distribution (RTD) technique was used to investigate slurry mean residence time (MRT) in the pad–wafer interface <ce:cross-refs id="cf0080" refid="bb0055 bb0060">[11,12]</ce:cross-refs>. MRT represents the average time it takes for fresh incoming slurry to replace the existing slurry in the region bound between the pad and the wafer. As the used slurry contains polishing by-products and pad conditioning debris that have been shown to cause polishing defects <ce:cross-ref id="cf0085" refid="bb0065">[13]</ce:cross-ref>, a shorter slurry MRT is preferred to reduce polishing defects and increase process yield.</ce:para>
+                  <ce:para id="p0030" view="all">In this study, MRT was obtained for three concentrically grooved pads with different groove widths at different polishing pressures using the RTD technique. Results illustrated how groove width affects slurry mixing and transport in the pad–wafer interface. In addition, slurry utilization efficiency was calculated to show that the pad groove width can be optimized to increase slurry utilization and minimize slurry usage for CMP processes.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="st0030">Theoretical approach</ce:section-title>
+                  <ce:para id="p0035" view="all">For a typical CMP process, MRT can be extracted from the corresponding RTD curve by employing classical reactor design principles to CMP as described by Levenspiel <ce:cross-ref id="cf0090" refid="bb0055">[11]</ce:cross-ref>. According to Levenspiel, an imaginary reactor can be assumed to form between the pad–wafer as shown in <ce:cross-ref id="cf0095" refid="f0005">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="f0005"/>, with its volume defined as the space bound in that interfacial region. The slurry may enter or exit the reactor anywhere along its circumference. The slurry remains within the reactor for a finite amount of time, and the average period that the fluid remains in the system can be quantified using the reactor design theory. With silica nano-particles, the extremely low values of Stokes number (calculated to be less than 0.1) suggest that we can assume to have creeping flow in the pad–wafer interface where the abrasive nano-particles present in the slurry ought to follow along the same flow fields as the bulk fluid. Based on this assumption, the slurry MRT obtained for the CMP process is considered to be representative of both the fluid and the suspended solid abrasive particles.</ce:para>
+                  <ce:para id="p0040" view="all">To understand and predict the fluid dynamics behavior of a reactor, it is important to determine how long fluid elements reside in the system. The distribution of residence times of the flowing fluid can be determined by introducing a stimulus in the form of a tracer and then measuring the response at the outlet. Due to the fact that fluid elements take different routes through the reactor, they require different lengths of time to exit the reactor. The distribution of these times for the fluid leaving the vessel is referred to as the residence time distribution (RTD).</ce:para>
+                  <ce:para id="p0045" view="all">RTD measurements are done by abruptly introducing a tracer into a system that has been running at steady state. The tracer may be introduced into the reactor in the form of a step input of a particular fluid. Beginning with the introduction of a tracer input, a series of steps are required to construct an RTD or E-curve and to calculate MRT values.</ce:para>
+                  <ce:para id="p0050" view="all">With no tracer present initially, a step input of a tracer of concentration (<ce:italic>C</ce:italic>
+                     <ce:inf loc="post">0</ce:inf>) is imposed on the fluid stream that is entering the system. At the moment of introduction, the tracer concentration at the exit stream (<ce:italic>C</ce:italic>) is measured. The results are normalized such that time is reset to zero (<ce:italic>t</ce:italic>
+                     <ce:inf loc="post">0</ce:inf>
+                     <ce:hsp sp="0.12"/>=<ce:hsp sp="0.12"/>0) when the tracer is introduced. The concentration of the tracer in the exit stream is normalized as <ce:italic>C</ce:italic>/<ce:italic>C</ce:italic>
+                     <ce:inf loc="post">0</ce:inf>, thus resulting in a response curve that rises from 0 to 1 over time. This plot is referred to as the F-curve. Furthermore, the E-curve can be plotted by differentiating the F-curve with time:<ce:display>
+                        <ce:formula id="fo0005">
+                           <ce:label>(1)</ce:label>
+                           <mml:math altimg="si1.gif" overflow="scroll">
+                              <mml:mi mathvariant="normal">E</mml:mi>
+                              <mml:mo>=</mml:mo>
+                              <mml:mfrac>
+                                 <mml:mi mathvariant="italic">dF</mml:mi>
+                                 <mml:mi mathvariant="italic">dt</mml:mi>
+                              </mml:mfrac>
+                              <mml:mspace width="0.5em"/>
+                              <mml:mo>.</mml:mo>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>
+                  </ce:para>
+                  <ce:para id="p0055" view="all">The slurry mean residence time (<ce:italic>τ</ce:italic>) is then calculated from the E-curve:<ce:display>
+                        <ce:formula id="fo0010">
+                           <ce:label>(2)</ce:label>
+                           <mml:math altimg="si2.gif" overflow="scroll">
+                              <mml:mi>τ</mml:mi>
+                              <mml:mo>=</mml:mo>
+                              <mml:mstyle displaystyle="true">
+                                 <mml:msubsup>
+                                    <mml:mo stretchy="true">∫</mml:mo>
+                                    <mml:mn>0</mml:mn>
+                                    <mml:mo>∞</mml:mo>
+                                 </mml:msubsup>
+                                 <mml:mi>t</mml:mi>
+                                 <mml:mo>×</mml:mo>
+                                 <mml:mi mathvariant="italic">Edt</mml:mi>
+                                 <mml:mo>,</mml:mo>
+                              </mml:mstyle>
+                              <mml:mspace width="0.25em"/>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where <ce:italic>Edt</ce:italic> represents the fraction of the fluid leaving the reactor with an age between <ce:italic>t</ce:italic> and <ce:italic>t</ce:italic>
+                     <ce:hsp sp="0.12"/>+<ce:hsp sp="0.12"/>Δt.</ce:para>
+                  <ce:para id="p0060" view="all">It should be noted that by definition, the slurry mean residence time (<ce:italic>τ</ce:italic>) is defined as:<ce:display>
+                        <ce:formula id="fo0015">
+                           <ce:label>(3)</ce:label>
+                           <mml:math altimg="si3.gif" overflow="scroll">
+                              <mml:mi>τ</mml:mi>
+                              <mml:mo>=</mml:mo>
+                              <mml:mfrac>
+                                 <mml:msub>
+                                    <mml:mi>V</mml:mi>
+                                    <mml:mi mathvariant="italic">total</mml:mi>
+                                 </mml:msub>
+                                 <mml:msub>
+                                    <mml:mi>q</mml:mi>
+                                    <mml:mi mathvariant="italic">actual</mml:mi>
+                                 </mml:msub>
+                              </mml:mfrac>
+                              <mml:mo>,</mml:mo>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where <ce:italic>V</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>total</ce:italic>
+                     </ce:inf> is the total volume of the CMP reactor and <ce:italic>q</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>actual</ce:italic>
+                     </ce:inf> is the actual slurry flow rate through the reactor.</ce:para>
+               </ce:section>
+               <ce:section id="s0015" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="st0035">Experimental procedure</ce:section-title>
+                  <ce:para id="p0065" view="all">All polishing work was performed on an Araca APD-500 polisher, which is capable of measuring shear force and down forces in real-time. The polisher and its associated hardware for tribometry have been described in details elsewhere <ce:cross-refs id="cf0100" refid="bb0070 bb0075">[14–15]</ce:cross-refs>. Three different Dow IC1000 pads <ce:cross-ref id="cf0105" refid="bb0080">[16]</ce:cross-ref> were used each one with a different concentric groove pattern. The groove width and depth, as well as the land area width are listed in <ce:cross-ref id="cf0110" refid="t0005">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="t0005"/>. The three pads have the same land area width and groove depth, but different groove width (see <ce:cross-ref id="cf0115" refid="f0010">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="f0010"/>).</ce:para>
+                  <ce:para id="p0070" view="all">Blanket 200-mm silicon wafers were used as the polishing substrate. A 3M A165 diamond disk <ce:cross-ref id="cf0120" refid="bb0085">[17]</ce:cross-ref> was used to condition the pads. Prior to polishing, each pad was conditioned at a down force of 25.8<ce:hsp sp="0.25"/>N for 30<ce:hsp sp="0.25"/>min with deionized (DI) water at a flow rate of 150<ce:hsp sp="0.25"/>mL/min. The conditioner rotated at 95<ce:hsp sp="0.25"/>RPM and swept across the pad surface 10 times per minute. The same rotational velocity and oscillation frequency were used for <ce:italic>in-situ</ce:italic> conditioning. During polishing, a Hitachi Chemical ceria slurry was applied near the pad center at a fixed flow rate of 200<ce:hsp sp="0.25"/>mL/min. The distance between the slurry application point to the wafer carrier was about 2.5<ce:hsp sp="0.25"/>cm. The silicon wafers were polished at 3 and 5 PSI at a sliding velocity of 0.83<ce:hsp sp="0.25"/>m/s (<ce:italic>i.e.</ce:italic> 55<ce:hsp sp="0.25"/>RPM). Both the carrier head and platen rotated counter-clockwise at the rotational velocity.</ce:para>
+                  <ce:para id="p0075" view="all">For each experiment, a wafer was first polished with the ceria slurry containing 1<ce:hsp sp="0.25"/>wt% abrasives until a stable frictional force was achieved. Then the 1<ce:hsp sp="0.25"/>wt% initial fluid was switched instantaneously to 0.1<ce:hsp sp="0.25"/>wt% ceria slurry. A 70-second polish was performed after switching to the 0.1<ce:hsp sp="0.25"/>wt% slurry to allow the system to achieve a new steady state. Throughout this entire process, COF was measured at 1000<ce:hsp sp="0.25"/>Hz in real-time and recorded as a function of time. To confirm the experimental reproducibility, at each pressure, 2 wafers were polished.</ce:para>
+               </ce:section>
+               <ce:section id="s0020" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="st0040">Results and discussion</ce:section-title>
+                  <ce:para id="p0080" view="all">As an example, <ce:cross-ref id="cf0125" refid="f0015">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="f0015"/> shows the calibration curves obtained for three pads at 5 PSI at four different ceria concentrations (<ce:italic>e.g.</ce:italic> 0.1, 0.25, 0.5 and 1.0<ce:hsp sp="0.25"/>wt%). As seen from the shape of the best fitting curve, the relationship between COF and ceria concentration is non-linear. Exponential series is used to best fit the calibration curves. The best fitting equations for the fitting curves for Pads A, B and C are <ce:italic>y</ce:italic>
+                     <ce:hsp sp="0.12"/>=<ce:hsp sp="0.12"/>0.424<ce:italic>x</ce:italic>
+                     <ce:sup loc="post">−<ce:hsp sp="0.10"/>0.028</ce:sup>
+                     <ce:hsp sp="0.12"/>,<ce:hsp sp="0.12"/>
+                     <ce:italic>y</ce:italic>
+                     <ce:hsp sp="0.12"/>=<ce:hsp sp="0.12"/>0.419<ce:italic>x</ce:italic>
+                     <ce:sup loc="post">−<ce:hsp sp="0.10"/>0.034</ce:sup>
+                     <ce:hsp sp="0.12"/>,<ce:hsp sp="0.12"/>and<ce:hsp sp="0.25"/>
+                     <ce:italic>y</ce:italic>
+                     <ce:hsp sp="0.12"/>=<ce:hsp sp="0.12"/>0.415<ce:italic>x</ce:italic>
+                     <ce:sup loc="post">−<ce:hsp sp="0.10"/>0.032</ce:sup> respectively.</ce:para>
+                  <ce:para id="p0085" view="all">
+                     <ce:cross-ref id="cf0130" refid="f0020">Fig. 4</ce:cross-ref>(a)<ce:float-anchor refid="f0020"/> shows how COF changes with time during RTD experiment for Pad A at 3 PSI. Initially, polishing is done with a ceria slurry containing 1<ce:hsp sp="0.25"/>wt% abrasives which allows the system to reach steady state with respect to COF in about 60<ce:hsp sp="0.25"/>s. Starting at 60<ce:hsp sp="0.25"/>s and continuing until 130<ce:hsp sp="0.25"/>s, the process is switched to a 0.1<ce:hsp sp="0.25"/>wt% ceria slurry and eventually results in a new steady state to be reached with respect to COF at or about 130<ce:hsp sp="0.25"/>s. A 5-point moving average method is used to smoothen the raw data. The curve in <ce:cross-ref id="cf0135" refid="f0020">Fig. 4</ce:cross-ref>(a) combined with the correlation plot of <ce:cross-ref id="cf0140" refid="f0015">Fig. 3</ce:cross-ref> is then used to construct abrasive concentration <ce:italic>vs.</ce:italic> time curve as shown in <ce:cross-ref id="cf0145" refid="f0020">Fig. 4</ce:cross-ref>(b).</ce:para>
+                  <ce:para id="p0090" view="all">By normalizing the results such that time is zero (<ce:italic>t</ce:italic>
+                     <ce:hsp sp="0.25"/>
+                     <ce:italic>=</ce:italic>
+                     <ce:hsp sp="0.25"/>0) at the moment the more concentrated slurry is introduced, and by compiling the concentration of the tracer in the exit stream as (<ce:italic>C<ce:hsp sp="0.10"/>−<ce:hsp sp="0.10"/>C</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>i</ce:italic>
+                     </ce:inf>)<ce:hsp sp="0.25"/>/<ce:hsp sp="0.25"/>(<ce:italic>C</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>f</ce:italic>
+                     </ce:inf>
+                     <ce:italic>
+                        <ce:hsp sp="0.10"/>−<ce:hsp sp="0.10"/>C</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>i</ce:italic>
+                     </ce:inf>), where <ce:italic>C</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>i</ce:italic>
+                     </ce:inf> is the average slurry abrasive concentration at the first steady state and <ce:italic>C</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>f</ce:italic>
+                     </ce:inf> is the average slurry abrasive concentration at second steady state, such that the resulting curves all rise from 0 to 1 over time (<ce:italic>i.e.</ce:italic> the F-curve shown in <ce:cross-ref id="cf0150" refid="f0025">Fig. 5</ce:cross-ref>
+                     <ce:float-anchor refid="f0025"/>). Then the F curve fitting is obtained by using 6th order polynomial fit with R<ce:sup loc="post">2</ce:sup>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.997. Eqs. <ce:cross-refs id="cf0155" refid="fo0005 fo0010">(1) and (2)</ce:cross-refs> allow the construction of the E-Curve and the analytical integration of the respective MRTs.</ce:para>
+                  <ce:para id="p0095" view="all">
+                     <ce:cross-ref id="cf0160" refid="f0030">Fig. 6</ce:cross-ref>
+                     <ce:float-anchor refid="f0030"/> shows the slurry MRT for the three pads as a function of polishing pressure. Results indicate a general increase in slurry MRT with increasing groove width at a given pressure. At both 3 and 5 PSI, the pad with the widest groove design (Pad C) results in the longest MRT, while the pad with the narrowest groove design (Pad A) generates the shortest MRT. This is consistent with the results simulated by Muldowney, which shows a longer time is required to renew the slurry in the pad–wafer gap for a pad with larger groove pitch and wider and deeper groove design <ce:cross-ref id="cf0165" refid="bb0050">[10]</ce:cross-ref>. The positive correlation between the MRT and groove width can be explained using classical reactor design theory. In a typical CMP process, the reactor volume can be approximated by the slurry holding capacity underneath a wafer <ce:cross-refs id="cf0170" refid="bb0090 bb0095">[18–19]</ce:cross-refs>. The total reactor volume <ce:italic>V</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>total</ce:italic>
+                     </ce:inf> consists of two parts, <ce:italic>V</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>land</ce:italic>
+                     </ce:inf> and <ce:italic>V</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>groove</ce:italic>
+                     </ce:inf>, as shown in <ce:cross-ref id="cf0175" refid="f0035">Fig. 7</ce:cross-ref>
+                     <ce:float-anchor refid="f0035"/>. The film thickness of slurry between the wafer and pad depends on various factors such as wafer pressure, pad–wafer sliding velocity and slurry flow rate <ce:cross-refs id="cf0180" refid="bb0100 bb0105 bb0110 bb0115">[20–23]</ce:cross-refs>. For the purpose of estimating the contribution of <ce:italic>V</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>land</ce:italic>
+                     </ce:inf> and <ce:italic>V</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>groove</ce:italic>
+                     </ce:inf> to <ce:italic>V</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>total</ce:italic>
+                     </ce:inf>, a reasonable assumption is made by assuming the film thickness to be 15<ce:hsp sp="0.25"/>μm at 3 PSI and 10<ce:hsp sp="0.25"/>μm at 5 PSI <ce:cross-ref id="cf0185" refid="bb0100">[20]</ce:cross-ref>. Using the pad parameters listed in <ce:cross-ref id="cf0190" refid="t0005">Table 1</ce:cross-ref>, the estimated volumes for the three pads are calculated at each applied wafer pressure and listed in <ce:cross-ref id="cf0195" refid="t0010">Table 2</ce:cross-ref>
+                     <ce:float-anchor refid="t0010"/>. Considering the fact that <ce:italic>h</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>groove</ce:italic>
+                     </ce:inf> is much larger than <ce:italic>h</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>land</ce:italic>
+                     </ce:inf> (400<ce:hsp sp="0.25"/>μm <ce:italic>vs.</ce:italic> 10–15<ce:hsp sp="0.25"/>μm), the contribution of <ce:italic>V</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>groove</ce:italic>
+                     </ce:inf> to <ce:italic>V</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>total</ce:italic>
+                     </ce:inf> may be considered to be dominant. As a result, the <ce:italic>V</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>groove</ce:italic>
+                     </ce:inf> and <ce:italic>V</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>total</ce:italic>
+                     </ce:inf> of Pad C are larger than those of Pad A and Pad B. Because MRT is equal to the ratio of reactor volume to the actual slurry flow rate beneath the wafer (see Eq. <ce:cross-ref id="cf0200" refid="fo0015">(3)</ce:cross-ref>), the pad with a larger <ce:italic>V</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>total</ce:italic>
+                     </ce:inf> exhibits a longer slurry MRT at a given slurry flow rate. This explains why the slurry MRT increases with increasing groove width at both wafer pressures as shown in <ce:cross-ref id="cf0205" refid="f0025">Fig. 5</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0100" view="all">
+                     <ce:cross-ref id="cf0210" refid="f0025">Fig. 5</ce:cross-ref> also shows that slurry MRT observed at 5 PSI is generally shorter than that at 3 PSI. This negative trend between MRT and wafer pressure has also observed in a previous study using somewhat similar polishing conditions (<ce:italic>i.e.</ce:italic>, pad–wafer sliding velocity of 0.93 and 1.24<ce:hsp sp="0.25"/>m/s, and wafer pressure of 4 and 6 PSI) <ce:cross-ref id="cf0215" refid="bb0095">[19]</ce:cross-ref>. As the slurry film thickness between the wafer and pad decreases at a higher wafer pressure, less time is required to replace the spent slurry with the fresh slurry, thus resulting in a shorter slurry MRT.</ce:para>
+                  <ce:para id="p0105" view="all">In a CMP process, only a small percentage of slurry introduced to the pad actually reaches the pad–wafer interface and participates in wafer polish <ce:cross-ref id="cf0220" refid="bb0120">[24]</ce:cross-ref>. Slurry utilization efficiency (<ce:italic>η</ce:italic>) can be defined as:<ce:display>
+                        <ce:formula id="fo0020">
+                           <ce:label>(4)</ce:label>
+                           <mml:math altimg="si4.gif" overflow="scroll">
+                              <mml:mi>η</mml:mi>
+                              <mml:mo>=</mml:mo>
+                              <mml:mfrac>
+                                 <mml:msub>
+                                    <mml:mi>q</mml:mi>
+                                    <mml:mi mathvariant="italic">actual</mml:mi>
+                                 </mml:msub>
+                                 <mml:msub>
+                                    <mml:mi>q</mml:mi>
+                                    <mml:mi mathvariant="italic">total</mml:mi>
+                                 </mml:msub>
+                              </mml:mfrac>
+                              <mml:mo>×</mml:mo>
+                              <mml:mn>100</mml:mn>
+                              <mml:mo>%</mml:mo>
+                              <mml:mo>,</mml:mo>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where <ce:italic>q</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>actual</ce:italic>
+                     </ce:inf> is the slurry flow rate beneath the wafer and <ce:italic>q</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>total</ce:italic>
+                     </ce:inf> is the total slurry flow rate introduced onto the pad. In this study, <ce:italic>q</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>total</ce:italic>
+                     </ce:inf> is kept constant at 200<ce:hsp sp="0.25"/>mL/min. Based on Equation <ce:cross-ref id="cf0225" refid="bb0015">[3]</ce:cross-ref>, <ce:italic>q</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>actual</ce:italic>
+                     </ce:inf> can be obtained by:<ce:display>
+                        <ce:formula id="fo0025">
+                           <ce:label>(5)</ce:label>
+                           <mml:math altimg="si5.gif" overflow="scroll">
+                              <mml:msub>
+                                 <mml:mi>q</mml:mi>
+                                 <mml:mi mathvariant="italic">actual</mml:mi>
+                              </mml:msub>
+                              <mml:mo>=</mml:mo>
+                              <mml:mfrac>
+                                 <mml:msub>
+                                    <mml:mi>V</mml:mi>
+                                    <mml:mi mathvariant="italic">total</mml:mi>
+                                 </mml:msub>
+                                 <mml:mi>τ</mml:mi>
+                              </mml:mfrac>
+                              <mml:mo>,</mml:mo>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>
+                  </ce:para>
+                  <ce:para id="p0110" view="all">where <ce:italic>V</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>total</ce:italic>
+                     </ce:inf> is the total reactor volume calculated in <ce:cross-ref id="cf0230" refid="t0010">Table 2</ce:cross-ref> and <ce:italic>τ</ce:italic> is the measured slurry MRT shown in <ce:cross-ref id="cf0235" refid="f0025">Fig. 5</ce:cross-ref>. The calculated values of <ce:italic>q</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>actual</ce:italic>
+                     </ce:inf> are listed in <ce:cross-ref id="cf0240" refid="t0015">Table 3</ce:cross-ref>
+                     <ce:float-anchor refid="t0015"/>. Using Eq. <ce:cross-ref id="cf0245" refid="fo0020">(4)</ce:cross-ref>, the average slurry utilization efficiency (<ce:italic>η</ce:italic>) for each pad is then calculated and listed in <ce:cross-ref id="cf0250" refid="t0015">Table 3</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0115" view="all">When pad groove width increases from 300 to 600<ce:hsp sp="0.25"/>μm (from Pad A to Pad B), <ce:italic>η</ce:italic> increases by 35% and 39% at 3 and 5 PSI, respectively. This doubling of the pad groove width increases <ce:italic>V</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>groove</ce:italic>
+                     </ce:inf> significantly which in turn leads to a significant increase in <ce:italic>V</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>total</ce:italic>
+                     </ce:inf> and <ce:italic>η</ce:italic>. On the other hand, when groove width increases further from 600 to 900<ce:hsp sp="0.25"/>μm (from Pad B to Pad C), <ce:italic>η</ce:italic> does not change significantly. This is due to the fact that both <ce:italic>V</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>total</ce:italic>
+                     </ce:inf> and <ce:italic>τ</ce:italic> increase significantly for Pad C (<ce:cross-ref id="cf0255" refid="t0015">Table 3</ce:cross-ref>). Comparing Pad B and Pad C, their ratios of <ce:italic>V</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>total</ce:italic>
+                     </ce:inf> to <ce:italic>τ</ce:italic> (<ce:italic>i.e.</ce:italic>, <ce:italic>q</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>actual</ce:italic>
+                     </ce:inf>) are similar. Therefore, Pad B and Pad C result in similar values of slurry utilization efficiency. In summary, the slurry utilization efficiency first increases with pad groove width and then reaches a plateau with further increases in groove width in the range of parameters used in this study.</ce:para>
+                  <ce:para id="p0120" view="all">
+                     <ce:cross-ref id="cf0260" refid="t0015">Table 3</ce:cross-ref> also shows that for all three pads, both <ce:italic>V</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>total</ce:italic>
+                     </ce:inf> and <ce:italic>τ</ce:italic> decrease when the wafer pressure increases from 3 to 5 PSI. As the slurry film thickness between the wafer and pad decreases at 5 PSI, less time is required to replace the spent slurry with the fresh one. While both <ce:italic>V</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>total</ce:italic>
+                     </ce:inf> and <ce:italic>τ</ce:italic> decrease at 5 PSI, the ratio (<ce:italic>i.e.</ce:italic>, <ce:italic>q</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>actual</ce:italic>
+                     </ce:inf>) does not change significantly, resulting in similar values of slurry utilization efficiency at 3 and 5 PSI. This indicates that the wafer pressure has little effect on the slurry utilization efficiency in the range of parameters used in this study.</ce:para>
+               </ce:section>
+               <ce:section id="s0025" view="all">
+                  <ce:label>5</ce:label>
+                  <ce:section-title id="st0045">Conclusions</ce:section-title>
+                  <ce:para id="p0125" view="all">Using the residence time distribution technique and classical reactor design theory, slurry mean residence time (MRT) and slurry utilization efficiency (<ce:italic>η</ce:italic>) were investigated for three pads with different groove widths. When groove width increased from 300 to 600 and then to 900<ce:hsp sp="0.25"/>μm, total reactor volume bound between the pad and wafer increased significantly, leading to an increase in MRT. For all three pads, MRT was reduced at a higher wafer pressure as slurry film thickness between the wafer and pad decreased. The analysis on slurry utilization efficiency showed that wafer pressure had little effect on <ce:italic>η</ce:italic> in the range of parameters chosen for this study. On the other hand, when the groove width increased from 300 to 600<ce:hsp sp="0.25"/>μm, <ce:italic>η</ce:italic> increased significantly, but when the groove width was increased further to 900<ce:hsp sp="0.25"/>μm, <ce:italic>η</ce:italic> did not change. The above results indicate that pad groove width can be optimized to achieve shorter slurry MRT and higher slurry utilization efficiency for CMP processes.</ce:para>
+               </ce:section>
+            </ce:sections>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi0005" view="all">
+               <ce:section-title id="st0050">References</ce:section-title>
+               <ce:bibliography-sec id="bs0005" view="all">
+                  <ce:bib-reference id="bb0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="rf0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Stein</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Hetherington</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Dugger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Stout</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electron. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1623</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="rf0010">
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>R.L.</ce:given-name>
+                                    <ce:surname>Opila</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>C.R.</ce:given-name>
+                                    <ce:surname>Simpson</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>K.B.</ce:given-name>
+                                    <ce:surname>Sundaram</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>I.</ce:given-name>
+                                    <ce:surname>Ali</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>Y.A.</ce:given-name>
+                                    <ce:surname>Arimoto</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>Y.</ce:given-name>
+                                    <ce:surname>Homma</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>The Proceedings Series</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>99-37</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1999</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Electrochemical Society</sb:name>
+                                 <sb:location>Pennington, NJ</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>402</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="rf0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Sikder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Giglio</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wood</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Anthony</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electron. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>30</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1520</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="rf0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Rosales-Yeomans</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Doi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kinoshita</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Suzuki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Philipossian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>152</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>G62</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="rf0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Doi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Seshimo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Suzuki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Philipossian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kinoshita</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>151</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>G196</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="rf0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Rosales-Yeomans</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Doy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kinoshita</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Suzuki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Philipossian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>152</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>G62</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="rf0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Rosales-Yeomans</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>DeNardis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Borucki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Suzuki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Philipossian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>155</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>H750</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="rf0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Rosales-Yeomans</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>DeNardis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Borucki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Philipossian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>155</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>H797</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="rf0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Rosales-Yeomans</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>DeNardis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Borucki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Suzuki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Sampurno</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Philipossian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>155</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>H812</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="rf0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.P.</ce:given-name>
+                                 <ce:surname>Muldowney</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Res. Soc. Symp. Proc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>816</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>K5.3.1</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="rf0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Levenspiel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical Reaction Engineering</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1972</sb:date>
+                              <sb:publisher>
+                                 <sb:name>John Wiley &amp; Sons, Inc.</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="rf0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Froment</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Bischoff</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical Reactor Analysis and Design</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1979</sb:date>
+                              <sb:publisher>
+                                 <sb:name>John Wiley Sons, Inc.</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="rf0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kwon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Cho</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Venkatesh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>International Conference on Planarization/CMP Technology Proceedings</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>391</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>2012</sb:date>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0070">
+                     <ce:label>[14]</ce:label>
+                     <ce:other-ref id="or0005">
+                        <ce:textref id="tr0005">Y. Sampurno, (Ph.D. Dissertation), University of Arizona, Tucson, AZ (2008).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0075">
+                     <ce:label>[15]</ce:label>
+                     <ce:other-ref id="or0010">
+                        <ce:textref id="tr0010">
+                           <ce:inter-ref xlink:href="http://aracainc.com/media/pubs/Polisher_and_Tribometer_200mm.pdf" id="ir0005" xlink:type="simple">http://aracainc.com/media/pubs/Polisher_and_Tribometer_200mm.pdf</ce:inter-ref>
+                        </ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0080">
+                     <ce:label>[16]</ce:label>
+                     <ce:other-ref id="or0015">
+                        <ce:textref id="tr0015">
+                           <ce:inter-ref xlink:href="http://www.gmtlcd.com/images/IC-1000pad.pdf" id="ir0010" xlink:type="simple">http://www.gmtlcd.com/images/IC-1000pad.pdf</ce:inter-ref>
+                        </ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0085">
+                     <ce:label>[17]</ce:label>
+                     <ce:other-ref id="or0020">
+                        <ce:textref id="tr0020">
+                           <ce:inter-ref xlink:href="http://multimedia.3m.com/mws/media/960641O/3mtm-diamond-pad-conditioner-a165.pdf" id="ir0015" xlink:type="simple">http://multimedia.3m.com/mws/media/960641O/3mtm-diamond-pad-conditioner-a165.pdf</ce:inter-ref>
+                        </ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="rf0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Philipossian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Mitchell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>150</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>G854</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="rf0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Philipossian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Mitchell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>151</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>G402</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="rf0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Borucki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhuang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Sampurno</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Sudargho</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Anjur</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Philipossian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Jpn. J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>026501</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="rf0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Liao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Sampurno</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhuang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Rice</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Sudargho</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Philipossian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wargo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Microelectron. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>98</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>70</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0110">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="rf0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Rosales-Yeomans</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Suzuki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Philipossian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Thin Solid Films</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>520</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2224</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0115">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="rf0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.A.</ce:given-name>
+                                 <ce:surname>Sampurno</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhuang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Dittler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Meled</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wargo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Stankowski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Philipossian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochem. Solid-State Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>H119</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0120">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="rf0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Philipossian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Mitchell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Jpn. J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7259</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

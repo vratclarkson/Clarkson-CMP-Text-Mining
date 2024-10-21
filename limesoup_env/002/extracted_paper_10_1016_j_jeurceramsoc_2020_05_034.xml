@@ -1,0 +1,2550 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S095522192030385X</prism:url><dc:identifier>doi:10.1016/j.jeurceramsoc.2020.05.034</dc:identifier><eid>1-s2.0-S095522192030385X</eid><prism:doi>10.1016/j.jeurceramsoc.2020.05.034</prism:doi><pii>S0955-2219(20)30385-X</pii><dc:title>Hierarchically porous ceria with tunable pore structure from particle-stabilized foams </dc:title><prism:publicationName>Journal of the European Ceramic Society</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>sco</pubType><prism:issn>09552219</prism:issn><prism:volume>40</prism:volume><prism:issueIdentifier>12</prism:issueIdentifier><prism:startingPage>4366</prism:startingPage><prism:endingPage>4372</prism:endingPage><prism:pageRange>4366-4372</prism:pageRange><prism:number>12</prism:number><dc:format>application/xml</dc:format><prism:coverDate>2020-09-30</prism:coverDate><prism:coverDisplayDate>September 2020</prism:coverDisplayDate><prism:copyright>© 2020 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Zhang, Xiaoyan</dc:creator><dc:creator>Zhang, Youfei</dc:creator><dc:creator>Lu, Yuju</dc:creator><dc:creator>Zhang, Shuhao</dc:creator><dc:creator>Yang, Jinlong</dc:creator><dc:description>
+                  We firstly fabricated CeO2 ceramic foams with tunable structure by using particle-stabilized bubbles as template, and designed their interconnected porous structure and even hierarchically porous structure, which endows them the penetration ability for gases or liquids. Hollow spheres with single-layer shell were innovatively selected as the pore-former, which allows for the formation of open pores on the cell wall. Moreover, 3D printing CeO2 particle-stabilized foams are realized with the aid of direct ink writing, which enables the production of CeO2 ceramic foams with complex shape. Highly porous CeO2 with relatively high compressive strength have been fabricated, the porosity of which varies from 81.0% to 92.0% while their excellent compressive strength ranges from 5.0 MPa to 20.0 MPa. Attributed to the hierarchical porous structure, uniform pore size distribution as well as densely assembled cell wall, 3D printing CeO2 ceramic foams possess superior mechanical performance at high porosity level.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>CeO2
+                  </dcterms:subject><dcterms:subject>Particle-stabilized foams</dcterms:subject><dcterms:subject>Open pores</dcterms:subject><dcterms:subject>Direct ink writing</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S095522192030385X" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S095522192030385X" rel="scidir"/></coredata><objects><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="678" height="480" size="116093">https://api.elsevier.com/content/object/eid/1-s2.0-S095522192030385X-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="678" height="462" size="137107">https://api.elsevier.com/content/object/eid/1-s2.0-S095522192030385X-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="678" height="727" size="177806">https://api.elsevier.com/content/object/eid/1-s2.0-S095522192030385X-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="602" height="432" size="64534">https://api.elsevier.com/content/object/eid/1-s2.0-S095522192030385X-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="753" height="382" size="65107">https://api.elsevier.com/content/object/eid/1-s2.0-S095522192030385X-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="155" size="20270">https://api.elsevier.com/content/object/eid/1-s2.0-S095522192030385X-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="149" size="25631">https://api.elsevier.com/content/object/eid/1-s2.0-S095522192030385X-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="153" height="164" size="17342">https://api.elsevier.com/content/object/eid/1-s2.0-S095522192030385X-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="157" size="20327">https://api.elsevier.com/content/object/eid/1-s2.0-S095522192030385X-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="111" size="8313">https://api.elsevier.com/content/object/eid/1-s2.0-S095522192030385X-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3000" height="2122" size="1191939">https://api.elsevier.com/content/object/eid/1-s2.0-S095522192030385X-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3000" height="2043" size="1594834">https://api.elsevier.com/content/object/eid/1-s2.0-S095522192030385X-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3000" height="3215" size="2200373">https://api.elsevier.com/content/object/eid/1-s2.0-S095522192030385X-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2667" height="1914" size="548869">https://api.elsevier.com/content/object/eid/1-s2.0-S095522192030385X-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3333" height="1693" size="432866">https://api.elsevier.com/content/object/eid/1-s2.0-S095522192030385X-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="9800">https://api.elsevier.com/content/object/eid/1-s2.0-S095522192030385X-si1.svg?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="1308">https://api.elsevier.com/content/object/eid/1-s2.0-S095522192030385X-si2.svg?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="2190">https://api.elsevier.com/content/object/eid/1-s2.0-S095522192030385X-si3.svg?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="1354853">https://api.elsevier.com/content/object/eid/1-s2.0-S095522192030385X-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85085055802</scopus-id><scopus-eid>2-s2.0-85085055802</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85085055802" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271630</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291788</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Journal of the European Ceramic Society</xocs:srctitle>
+      <xocs:normalized-srctitle>JOURNALEUROPEANCERAMICSOCIETY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20200516">2020-05-16</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20200516">2020-05-16</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20200618">2020-06-18</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20200618">2020-06-18</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2020-06-18T22:55:37</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S095522192030385X</xocs:eid>
+      <xocs:pii-formatted>S0955-2219(20)30385-X</xocs:pii-formatted>
+      <xocs:pii-unformatted>S095522192030385X</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.jeurceramsoc.2020.05.034</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0955221920X00100</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20200813">2020-08-13T20:56:23.442868Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20200901</xocs:date-search-begin>
+      <xocs:date-search-end>20200930</xocs:date-search-end>
+      <xocs:year-nav>2020</xocs:year-nav>
+      <xocs:indexeddate epoch="1589672695">2020-05-16T23:44:55.636142Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor grantsponsorid orcid primabst pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0955-2219</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>09552219</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>40</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>40</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>12</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>12</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 40, Issue 12</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>65</xocs:sort-order>
+      <xocs:first-fp>4366</xocs:first-fp>
+      <xocs:last-lp>4372</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>4366</xocs:first-page>
+         <xocs:last-page>4372</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202009</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>September 2020</xocs:cover-date-text>
+      <xocs:cover-date-start>2020-09-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2020-09-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2020</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Short Communications</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>sco</xocs:document-subtype>
+      <xocs:copyright-line>© 2020 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>HIERARCHICALLYPOROUSCERIATUNABLEPORESTRUCTUREPARTICLESTABILIZEDFOAMS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>ZHANG</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>X</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experiment and characterization</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Materials</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Synthesis of hierarchically porous CeO<ce:inf loc="post">2</ce:inf> ceramic</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Characterization</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Disclosure statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0005">
+            <xocs:ref-normalized-surname>XU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>126</xocs:ref-first-fp>
+            <xocs:ref-last-lp>132</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0010">
+            <xocs:ref-normalized-surname>CHUEH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1876</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1882</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0015">
+            <xocs:ref-normalized-surname>HOES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-article-number>1900484</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0020">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2367</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2373</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0025">
+            <xocs:ref-normalized-surname>QI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>935</xocs:ref-first-fp>
+            <xocs:ref-last-lp>938</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0030">
+            <xocs:ref-normalized-surname>CARRASCO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5352</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5360</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0035">
+            <xocs:ref-normalized-surname>ACKERMANN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>16452</xocs:ref-first-fp>
+            <xocs:ref-last-lp>16461</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0040">
+            <xocs:ref-normalized-surname>MOSER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>123</xocs:ref-first-fp>
+            <xocs:ref-last-lp>131</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0045">
+            <xocs:ref-normalized-surname>MURRAY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>649</xocs:ref-first-fp>
+            <xocs:ref-last-lp>651</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0050">
+            <xocs:ref-normalized-surname>STEVEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4845</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4865</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0055">
+            <xocs:ref-normalized-surname>PHILIPP</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>10503</xocs:ref-first-fp>
+            <xocs:ref-last-lp>10511</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0060">
+            <xocs:ref-normalized-surname>VENSTROM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-article-number>011005</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0065">
+            <xocs:ref-normalized-surname>PETKOVICH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>21022</xocs:ref-first-fp>
+            <xocs:ref-last-lp>21033</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0070">
+            <xocs:ref-normalized-surname>LAKES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>511</xocs:ref-first-fp>
+            <xocs:ref-last-lp>515</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0075">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>842</xocs:ref-first-fp>
+            <xocs:ref-last-lp>852</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="oref0080"/>
+         <xocs:ref-info refid="sbref0085">
+            <xocs:ref-normalized-surname>PUGLIESE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7051</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7059</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0090">
+            <xocs:ref-normalized-surname>HAEUSSLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>311</xocs:ref-first-fp>
+            <xocs:ref-last-lp>323</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0095">
+            <xocs:ref-normalized-surname>VAKIFAHMETOGLU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>30</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0100">
+            <xocs:ref-normalized-surname>STUDART</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1771</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1789</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0105">
+            <xocs:ref-normalized-surname>CHAPARROGARNICA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>36763</xocs:ref-first-fp>
+            <xocs:ref-last-lp>36773</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0110">
+            <xocs:ref-normalized-surname>FENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>13843</xocs:ref-first-fp>
+            <xocs:ref-last-lp>13851</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0115">
+            <xocs:ref-normalized-surname>LUCENTINI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>117382</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0120">
+            <xocs:ref-normalized-surname>ALISON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>409</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0125">
+            <xocs:ref-normalized-surname>MINAS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9993</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9999</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0130">
+            <xocs:ref-normalized-surname>BINKS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>21</xocs:ref-first-fp>
+            <xocs:ref-last-lp>41</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0135">
+            <xocs:ref-normalized-surname>GONZENBACH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>10983</xocs:ref-first-fp>
+            <xocs:ref-last-lp>10988</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>U</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0140">
+            <xocs:ref-normalized-surname>HUO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4163</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4170</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0145">
+            <xocs:ref-normalized-surname>GONZENBACH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>16</xocs:ref-first-fp>
+            <xocs:ref-last-lp>22</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>U</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0150">
+            <xocs:ref-normalized-surname>TAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7510</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7516</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0155">
+            <xocs:ref-normalized-surname>SOMMER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1794</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1803</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0160">
+            <xocs:ref-normalized-surname>KOKKINIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8643</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0165">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>930</xocs:ref-first-fp>
+            <xocs:ref-last-lp>934</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0170">
+            <xocs:ref-normalized-surname>COLOMBO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>381</xocs:ref-first-fp>
+            <xocs:ref-last-lp>383</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0175">
+            <xocs:ref-normalized-surname>RYSHKEWITCH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1953</xocs:ref-pub-year>
+            <xocs:ref-first-fp>65</xocs:ref-first-fp>
+            <xocs:ref-last-lp>68</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0180">
+            <xocs:ref-normalized-surname>KNUDSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1959</xocs:ref-pub-year>
+            <xocs:ref-first-fp>376</xocs:ref-first-fp>
+            <xocs:ref-last-lp>387</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0185">
+            <xocs:ref-normalized-surname>RICE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2187</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2190</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>ZHANGX2020X4366</xocs:refkey3>
+         <xocs:refkey4lp>ZHANGX2020X4366X4372</xocs:refkey4lp>
+         <xocs:refkey4ai>ZHANGX2020X4366XX</xocs:refkey4ai>
+         <xocs:refkey5>ZHANGX2020X4366X4372XX</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2022-06-18T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2022-06-18T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2020 Elsevier Ltd. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2020-05-18T10:17:41.886Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/eoas</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency-acronym>NSFC</xocs:funding-agency-acronym>
+            <xocs:funding-agency>National Natural Science Foundation of China</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100001809</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1814991</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency>Fundamental Research Funds for the Central Universities</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100012226</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1814991</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency>China Postdoctoral Science Foundation</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100002858</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1814991</xocs:funding-agency-country>
+         </xocs:funding>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0955-2219(20)30385-X</xocs:pii-formatted>
+         <xocs:pii-unformatted>S095522192030385X</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S095522192030385X</xocs:eid>
+         <xocs:doi>10.1016/j.jeurceramsoc.2020.05.034</xocs:doi>
+         <xocs:cid>271630</xocs:cid>
+         <xocs:timestamp>2020-08-13T20:56:23.442868Z</xocs:timestamp>
+         <xocs:cover-date-start>2020-09-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2020-09-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S095522192030385X-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S095522192030385X/MAIN/application/pdf/4a376625db2d73134cd74695e1eef180/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>4305490</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S095522192030385X-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S095522192030385X/PREVIEW/image/png/cfbec3fdefc28751f32aa216d195100f/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>57240</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S095522192030385X-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S095522192030385X/gr1/DOWNSAMPLED/image/jpeg/e0aa3b3e8bafbff3646f9fd559a259bf/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>116093</xocs:filesize>
+               <xocs:pixel-height>480</xocs:pixel-height>
+               <xocs:pixel-width>678</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S095522192030385X-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S095522192030385X/gr2/DOWNSAMPLED/image/jpeg/d88279e4ad32fbd55f86a5a296c6185b/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>137107</xocs:filesize>
+               <xocs:pixel-height>462</xocs:pixel-height>
+               <xocs:pixel-width>678</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S095522192030385X-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S095522192030385X/gr3/DOWNSAMPLED/image/jpeg/57a9fab0a594415946909922bc0e3e59/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>177806</xocs:filesize>
+               <xocs:pixel-height>727</xocs:pixel-height>
+               <xocs:pixel-width>678</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S095522192030385X-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S095522192030385X/gr4/DOWNSAMPLED/image/jpeg/3be61b045203f4910a22f79571e12473/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>64534</xocs:filesize>
+               <xocs:pixel-height>432</xocs:pixel-height>
+               <xocs:pixel-width>602</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S095522192030385X-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S095522192030385X/gr5/DOWNSAMPLED/image/jpeg/65dae6f6d4c89a10b5c1cfbeb8dba3f0/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>65107</xocs:filesize>
+               <xocs:pixel-height>382</xocs:pixel-height>
+               <xocs:pixel-width>753</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S095522192030385X-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S095522192030385X/gr1/THUMBNAIL/image/gif/5a2b15190609e8212bb9793d3e492df8/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>20270</xocs:filesize>
+               <xocs:pixel-height>155</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S095522192030385X-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S095522192030385X/gr2/THUMBNAIL/image/gif/2182402d38620469f45ad67ee859cd00/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>25631</xocs:filesize>
+               <xocs:pixel-height>149</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S095522192030385X-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S095522192030385X/gr3/THUMBNAIL/image/gif/61150280dacf54f015e587c98a0273c4/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>17342</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>153</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S095522192030385X-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S095522192030385X/gr4/THUMBNAIL/image/gif/9482350eaf442770a8d3b1ba15f80751/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>20327</xocs:filesize>
+               <xocs:pixel-height>157</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S095522192030385X-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S095522192030385X/gr5/THUMBNAIL/image/gif/14887e174e0896d1f200b2cb6b0da45a/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8313</xocs:filesize>
+               <xocs:pixel-height>111</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S095522192030385X-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S095522192030385X/gr1/HIGHRES/image/jpeg/d004b660646e36559d5d2415741888b4/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1191939</xocs:filesize>
+               <xocs:pixel-height>2122</xocs:pixel-height>
+               <xocs:pixel-width>3000</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S095522192030385X-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S095522192030385X/gr2/HIGHRES/image/jpeg/c26b777728bbbcf8d0a10b31c0f3cf83/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1594834</xocs:filesize>
+               <xocs:pixel-height>2043</xocs:pixel-height>
+               <xocs:pixel-width>3000</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S095522192030385X-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S095522192030385X/gr3/HIGHRES/image/jpeg/60022c7044ea3c88c5881551d9891c92/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>2200373</xocs:filesize>
+               <xocs:pixel-height>3215</xocs:pixel-height>
+               <xocs:pixel-width>3000</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S095522192030385X-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S095522192030385X/gr4/HIGHRES/image/jpeg/03f6e1db0426f774fd9adbe5f1e0a8de/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>548869</xocs:filesize>
+               <xocs:pixel-height>1914</xocs:pixel-height>
+               <xocs:pixel-width>2667</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S095522192030385X-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S095522192030385X/gr5/HIGHRES/image/jpeg/21f8ef65b8aa538679abde6aed7d6175/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>432866</xocs:filesize>
+               <xocs:pixel-height>1693</xocs:pixel-height>
+               <xocs:pixel-width>3333</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S095522192030385X-si1.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S095522192030385X/STRIPIN/image/svg+xml/4462f4f75b380f3116cde557cfa67697/si1.svg</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>9800</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S095522192030385X-si2.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S095522192030385X/STRIPIN/image/svg+xml/b30a30c6c9c1870d8bb1b8a2268b9637/si2.svg</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>1308</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S095522192030385X-si3.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S095522192030385X/STRIPIN/image/svg+xml/341a2556287f11ff7bc7da6c5d6e8734/si3.svg</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>2190</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S095522192030385X-am.pdf</xocs:attachment-eid>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:filesize>1354853</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:1063Q2SC2X3/MAIN/application/pdf/122c510768be068da9dd2c6b1ce5daf0/am.pdf</xocs:ucs-locator>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.6" xml:lang="en" docsubtype="sco">
+         <item-info>
+            <jid>JECS</jid>
+            <aid>13279</aid>
+            <ce:pii>S0955-2219(20)30385-X</ce:pii>
+            <ce:doi>10.1016/j.jeurceramsoc.2020.05.034</ce:doi>
+            <ce:copyright type="full-transfer" year="2020">Elsevier Ltd</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0005">
+                  <ce:simple-para id="spar0005" view="all">(a) SEM image of CeO<ce:inf loc="post">2</ce:inf> particles after ball milling, (b) zeta potential of CeO<ce:inf loc="post">2</ce:inf> as a function of pH value, (c) size distribution of silica hollow spheres, (d) SEM image of silica hollow spheres.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0260" role="short">Fig. 1</ce:alt-text>
+               <ce:link locator="gr1" xlink:href="pii:S095522192030385X/gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="spar0010" view="all">(a) SEM images of green body with photograph in the inset and (b) cell wall assembled by CeO<ce:inf loc="post">2</ce:inf> particles, (c) SEM images of CeO<ce:inf loc="post">2</ce:inf> ceramic foams sintered at 1500 °C and their cell wall shown in (d).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0265" role="short">Fig. 2</ce:alt-text>
+               <ce:link locator="gr2" xlink:href="pii:S095522192030385X/gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="spar0015" view="all">(a) SEM image of dried CeO<ce:inf loc="post">2</ce:inf> foams involving silica hollow sphere (50 wt% CeO<ce:inf loc="post">2</ce:inf>, 5 wt% silica hollow spheres), (b, c) SEM images of CeO<ce:inf loc="post">2</ce:inf>-based ceramic foams sintered at 1500 °C with open pores on cell wall and (d) high-magnification SEM image of cell wall, (e) pore size distribution of pores derived from air bubbles and the open pore size distribution shown in (f).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0270" role="short">Fig. 3</ce:alt-text>
+               <ce:link locator="gr3" xlink:href="pii:S095522192030385X/gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="spar0020" view="all">(a) Viscosity of CeO<ce:inf loc="post">2</ce:inf>-based foams as a function of shear stress, (b) storage and loss modulus of CeO<ce:inf loc="post">2</ce:inf>-based foams, (c) DIW printing of CeO<ce:inf loc="post">2</ce:inf>-based foams (50.0 wt% CeO<ce:inf loc="post">2</ce:inf>, 3.0 wt% boehmite nanoparticles, 5.0 wt% silica hollow spheres), (d) photograph of CeO<ce:inf loc="post">2</ce:inf>-based ceramic foams from DIW (sintered at 1500 °C).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0275" role="short">Fig. 4</ce:alt-text>
+               <ce:link locator="gr4" xlink:href="pii:S095522192030385X/gr4" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="fig0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="spar0025" view="all">(a) XRD patterns of CeO<ce:inf loc="post">2</ce:inf>-based ceramic foams with different compositions (sintered at 1500℃ for 2 h; “silica hollow spheres” is abbreviated to “HS”), (b) compressive strength of CeO<ce:inf loc="post">2</ce:inf>-based ceramic foams as a function of porosity and fitting plots of compressive strength vs. porosity in (c) CeO<ce:inf loc="post">2</ce:inf> ceramic foams without silica hollow spheres, (d) CeO<ce:inf loc="post">2</ce:inf>-based ceramic foams with silica hollow spheres and (e) 3D printing CeO<ce:inf loc="post">2</ce:inf>-based ceramic foams.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0280" role="short">Fig. 5</ce:alt-text>
+               <ce:link locator="gr5" xlink:href="pii:S095522192030385X/gr5" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:dochead id="doh0005">
+               <ce:textfn>Short communication</ce:textfn>
+            </ce:dochead>
+            <ce:title id="tit0005">Hierarchically porous ceria with tunable pore structure from particle-stabilized foams</ce:title>
+            <ce:author-group id="aug0005">
+               <ce:author id="aut0005" orcid="0000-0002-7662-8940" author-id="S095522192030385X-76427d74900d00e1fd8d599ada8ae406">
+                  <ce:given-name>Xiaoyan</ce:given-name>
+                  <ce:surname>Zhang</ce:surname>
+                  <ce:cross-ref id="crf0005" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0010" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0015" refid="cor0005">*</ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="aut0010" author-id="S095522192030385X-0857a7e3502e824ef3706ecd5e83efc8">
+                  <ce:given-name>Youfei</ce:given-name>
+                  <ce:surname>Zhang</ce:surname>
+                  <ce:cross-ref id="crf0020" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0015" author-id="S095522192030385X-49949b6b6280f73550c94fcca3d17e84">
+                  <ce:given-name>Yuju</ce:given-name>
+                  <ce:surname>Lu</ce:surname>
+                  <ce:cross-ref id="crf0025" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0020" author-id="S095522192030385X-a669b7754e88786e2b6a114e5a04705c">
+                  <ce:given-name>Shuhao</ce:given-name>
+                  <ce:surname>Zhang</ce:surname>
+                  <ce:cross-ref id="crf0030" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0025" author-id="S095522192030385X-fc2f87c845dcf87620438ebc72d4f0d3">
+                  <ce:given-name>Jinlong</ce:given-name>
+                  <ce:surname>Yang</ce:surname>
+                  <ce:cross-ref id="crf0035" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0040" refid="cor0005">*</ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0005" affiliation-id="S095522192030385X-51dacb3bd355535c00d79d3ce5afda37">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Institute for Advanced Materials and Technology, University of Science and Technology Beijing, Beijing, 100083, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Institute for Advanced Materials and Technology</sa:organization>
+                     <sa:organization>University of Science and Technology Beijing</sa:organization>
+                     <sa:city>Beijing</sa:city>
+                     <sa:postal-code>100083</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sot1355">Institute for Advanced Materials and Technology, University of Science and Technology Beijing, Beijing 100083, China</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff0010" affiliation-id="S095522192030385X-4a407fca4732320ded7319cb42ac67c7">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>State Key Lab of New Ceramics and Fine Processing, School of Materials Science and Engineering, Tsinghua University, Beijing, 100084, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>State Key Lab of New Ceramics and Fine Processing</sa:organization>
+                     <sa:organization>School of Materials Science and Engineering</sa:organization>
+                     <sa:organization>Tsinghua University</sa:organization>
+                     <sa:city>Beijing</sa:city>
+                     <sa:postal-code>100084</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sot1360">State Key Lab of New Ceramics and Fine Processing, School of Materials Science and Engineering, Tsinghua University, Beijing 100084, P. R. China</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding authors.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="18" month="10" year="2019"/>
+            <ce:date-revised day="11" month="5" year="2020"/>
+            <ce:date-accepted day="12" month="5" year="2020"/>
+            <ce:abstract id="abs0005" view="all" class="author"><ce:abstract-sec id="abst0005" view="all">
+                  <ce:simple-para id="spar0030" view="all">We firstly fabricated CeO<ce:inf loc="post">2</ce:inf> ceramic foams with tunable structure by using particle-stabilized bubbles as template, and designed their interconnected porous structure and even hierarchically porous structure, which endows them the penetration ability for gases or liquids. Hollow spheres with single-layer shell were innovatively selected as the pore-former, which allows for the formation of open pores on the cell wall. Moreover, 3D printing CeO<ce:inf loc="post">2</ce:inf> particle-stabilized foams are realized with the aid of direct ink writing, which enables the production of CeO<ce:inf loc="post">2</ce:inf> ceramic foams with complex shape. Highly porous CeO<ce:inf loc="post">2</ce:inf> with relatively high compressive strength have been fabricated, the porosity of which varies from 81.0% to 92.0% while their excellent compressive strength ranges from 5.0 MPa to 20.0 MPa. Attributed to the hierarchical porous structure, uniform pore size distribution as well as densely assembled cell wall, 3D printing CeO<ce:inf loc="post">2</ce:inf> ceramic foams possess superior mechanical performance at high porosity level.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords id="kwd0005" class="keyword" view="all">
+               <ce:section-title id="sect0010">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text>CeO<ce:inf loc="post">2</ce:inf>
+                  </ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text>Particle-stabilized foams</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text>Open pores</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text>Direct ink writing</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec0005" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sect0015">Introduction</ce:section-title>
+                  <ce:para id="par0005" view="all">As one of the most vital rare earth elements, cerium presents remarkable optical, magnetic and electrical properties, mainly due to the fact that there is an unpaired electron on cerium’s 4f orbital, which exhibits large atomic magnetic distance as well as extremely high electron energy level [<ce:cross-ref id="crf0045" refid="bib0005">1</ce:cross-ref>]. Ceria (CeO<ce:inf loc="post">2</ce:inf>) has become well-known candidates when catalytically active surfaces and high ionic conductivity are essential, owing to their ability to store and release oxygen (by creating oxygen vacancies), low redox potential between cerium ions (Ce<ce:sup loc="post">3+</ce:sup> and Ce<ce:sup loc="post">4+</ce:sup>), morphological stability, capacity to disperse metal nanoparticles and prevent its sintering, fast kinetics at high temperature [<ce:cross-ref id="crf0050" refid="bib0010">2</ce:cross-ref>,<ce:cross-ref id="crf0055" refid="bib0015">3</ce:cross-ref>]. Therefore, ceria (CeO<ce:inf loc="post">2</ce:inf>) has been applied to a wide range of fields including ethanol steam dissociation, water-gas shift reaction, selective hydrogenation of alkynes, H<ce:inf loc="post">2</ce:inf>O and CO<ce:inf loc="post">2</ce:inf> splitting, oxidative catalysis, solid oxide fuel cells (SOFC), and biomedical technology such as free radical scavenger [<ce:cross-refs id="crfs0005" refid="bib0020 bib0025 bib0030 bib0035 bib0040 bib0045 bib0050">4–10</ce:cross-refs>].</ce:para>
+                  <ce:para id="par0010" view="all">In order to enhance the reaction kinetics and promote the oxidation process of CeO<ce:inf loc="post">2</ce:inf>, the introduction of porous structure, especially the open-pore structure, is undoubtedly the optimal approach, which will facilitate the increase of accessible surface area and improvement of heat and mass transfer performance, finally contributing to better catalytic effect [<ce:cross-refs id="crfs0010" refid="bib0055 bib0060 bib0065">11–13</ce:cross-refs>]. Accordingly, the fabrication of porous CeO<ce:inf loc="post">2</ce:inf> is attracting more and more attention in view of their preferable performance in comparison to dense counterparts. Moreover, hierarchically porous structure with multi-scale pore size, pore distribution and pore morphology will break the limitations of porous materials with single pore structure, and display unprecedentedly multi-functionalities such as the combination of high permeability and specific surface area as well as excellent mechanical properties, thus evolving as a trend recently [<ce:cross-ref id="crf0060" refid="bib0070">14</ce:cross-ref>]. Three-dimensionally ordered microporous ceria with mesoporous walls was synthesized by dual-templating method, that is polymethyl methacrylate as the hard template as well as triblock copolymer Pluronic F127 as the soft template, which display better low-temperature reducibility than that of the bulk counterpart [<ce:cross-ref id="crf0065" refid="bib0075">15</ce:cross-ref>].</ce:para>
+                  <ce:para id="par0015" view="all">As is well known, replica method is a versatile, facile and commonly selected technique to fabricate reticulated ceria-based foams, which is realized by the polymeric sponge dipping into the ceria slurry, followed by compressing, drying and sintering processes [<ce:cross-ref id="crf0070" refid="bib0055">11</ce:cross-ref>,<ce:cross-refs id="crfs0015" refid="bib0080 bib0085 bib0090">16–18</ce:cross-refs>]. A primary disadvantage of the replica technique is that the mechanical strength of the porous scaffolds is not favorable, because it is difficult to avoid the formation of microcracks in the struts during the template removal process [<ce:cross-ref id="crf0075" refid="bib0095">19</ce:cross-ref>]. Meanwhile, the slow sintering route for the elimination of polymer sponge will cause large energy consumption and missions. It is important to point out that the pore size of the final product is restricted to some extent, normally ranging from tens of microns to several millimeters, because it is difficult to dip the suspension uniformly without plugging up the pores when the pore size of polymer scaffold is decreased to micron scale [<ce:cross-ref id="crf0080" refid="bib0100">20</ce:cross-ref>].</ce:para>
+                  <ce:para id="par0020" view="all">In contrast, 3D printing technique is an alternative approach for ceria-based foams with open-cells, and it has been employed to build materials with dense scaffolds, complex geometries and high resolution via additive manufacturing. In Chaparro-Garnica CY’s research [<ce:cross-ref id="crf0085" refid="bib0105">21</ce:cross-ref>], 3D printing has been utilized to prepare porous polymeric monolith with honeycomb-like geometries firstly, and consecutively CuO/CeO<ce:inf loc="post">2</ce:inf> catalysts were loaded onto the modified supports. With the assistance of direct ink writing method (DIW), thin and dense Sm-doped ceria composite electrolyte layers [<ce:cross-ref id="crf0090" refid="bib0110">22</ce:cross-ref>] and Ni doped CeO<ce:inf loc="post">2</ce:inf> with lattice-shape but dense scaffolds [<ce:cross-ref id="crf0095" refid="bib0115">23</ce:cross-ref>] have also been prepared. However, the involving of secondary pores on the scaffolds, especially open pores, remains full of challenge. To construct hierarchically porous structure, sacrificial template method or particle-stabilized foams/emulsions method were merged together with DIW [<ce:cross-ref id="crf0100" refid="bib0120">24</ce:cross-ref>,<ce:cross-ref id="crf0105" refid="bib0125">25</ce:cross-ref>]. Particle-stabilized foams method employing bubbles as pore template is quite rewarding, offering superiorities such as environmental friendliness, high porosity level, free of binder removal step, uniform pore structure and high specific strength, but it is normally adopted to achieve closed pores [<ce:cross-refs id="crfs0020" refid="bib0130 bib0135 bib0140 bib0145">26–29</ce:cross-refs>].</ce:para>
+                  <ce:para id="par0025" view="all">To overcome the above dilemma and obtain ceria foams with hierarchically porous structure as well as excellent mechanical performance, we herein report the design of novel CeO<ce:inf loc="post">2</ce:inf> ceramic foams in the form of open or closed pores based on CeO<ce:inf loc="post">2</ce:inf> particle-stabilized colloidal foams. Furthermore, 3D printing CeO<ce:inf loc="post">2</ce:inf> ceramic foams with lattice geometry are realized by direct ink writing (DIW) technique, which supply macroscopic interconnected pores to allow for the easy flow of gas or liquid, and thus providing a new perspective for catalysts.</ce:para>
+               </ce:section>
+               <ce:section id="sec0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sect0020">Experiment and characterization</ce:section-title>
+                  <ce:section id="sec0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="sect0025">Materials</ce:section-title>
+                     <ce:para id="par0030" view="all">In this research, the employed CeO<ce:inf loc="post">2</ce:inf> powder with average particle size of 5 μm was provided from Shanghai Yaotian Co., Ltd., China, which was firstly subjected to ball milling process to obtain with particle size smaller than 1 μm, as shown in <ce:cross-ref id="crf0110" refid="fig0005">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig0005"/>(a). Silica hollow spheres with median diameter of 24 μm (see <ce:cross-ref id="crf0115" refid="fig0005">Fig. 1</ce:cross-ref>(c)) were purchased from Forsman Scientific (Beijing) Co., Ltd., China. Their perfectly spherical morphology and single-layer shell as well as the large-volume cavity are well presented in <ce:cross-ref id="crf0120" refid="fig0005">Fig. 1</ce:cross-ref>(d), which play an important role as pore former. To realize printability of CeO<ce:inf loc="post">2</ce:inf> particle-stabilized foams, boehmite nanoparticles with particle size of 10−20 nm and specific surface area of 250 m<ce:sup loc="post">2</ce:sup>/g, provided by Hangzhou Zhihuajie Technology Co., Ltd., China, were employed to endow suitable rheological behavior for DIW printing. As the hydrophobic modifier for CeO<ce:inf loc="post">2</ce:inf> particles and foaming agent, long-chain surfactant sodium dodecyl sulfate (abbreviated to SDS) was selected in this research, which was purchased from Sinopharm Chemical Reagent Co., Ltd., Shanghai, China. The pH value of suspension was adjusted via 1 mol/L HCl and ammonia solution (NH<ce:inf loc="post">3</ce:inf> concentration, 25 %). Throughout the study, deionized water was served as the dispersion solvent.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="sect0030">Synthesis of hierarchically porous CeO<ce:inf loc="post">2</ce:inf> ceramic</ce:section-title>
+                     <ce:para id="par0035" view="all">Firstly, to prepare homogeneously colloidal suspension with solid loading of 50.0 wt.%, CeO<ce:inf loc="post">2</ce:inf> powder and deionized water was mixed together and underwent planetary ball milling for 48 h with a rotation speed of 300 rpm, which could effectively decrease the particle size. Then, CeO<ce:inf loc="post">2</ce:inf> particles were in-situ hydrophobized by adding 3.0 wt.% SDS solution (base on the total mass of suspension, SDS solution with concentration of 5.0 wt.%) at pH range of 5.0–7.0, accompanied by mechanically stirring at a low speed of 500 rpm. To achieve open pore structure, 2.0 wt.%-5.0 wt.% silica hollow spheres (base on the total mass of suspension) were introduced into the abovementioned CeO<ce:inf loc="post">2</ce:inf> suspension, retained at the pore wall after foaming. Subsequently, agitating with high speed of 2000 rpm was performed for 10 min to fabricate ultra-stable foams, followed by casting into square mold and demolding.</ce:para>
+                     <ce:para id="par0040" view="all">Before direct ink writing technique (DIW), 3.0 wt.% boehmite nanoparticles were added into CeO<ce:inf loc="post">2</ce:inf> suspension before frothing. The prepared stable CeO<ce:inf loc="post">2</ce:inf> foams were 3D printed onto glass sheet coated by Vaseline. The DIW process was conducted by Ultimaker 3D printer with nozzle size of 1.98 mm, filament spacing of 5 mm and printing speed of 20 mm/s. Finally, stable CeO<ce:inf loc="post">2</ce:inf> foams with different compositions or complex shapes were dried at room temperature and then sintered at 1400−1500 °C with heating rate of 3 °C/min and holding time of 2 h.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0025" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="sect0035">Characterization</ce:section-title>
+                     <ce:para id="par0045" view="all">The particle size of ball-milled CeO<ce:inf loc="post">2</ce:inf> powder and as-received hollow spheres were measured by a laser particle analyzer (Mastersizer 2000, Malvern Instruments, UK). Zeta potential of CeO<ce:inf loc="post">2</ce:inf> powder was measured by a Zeta Potential Analyzer (CD-7020, Colloidal Dynamics Co., Ltd., Ponte Vedra Beach, FL, USA). The rheological properties were tested by a rheometer (KINEXUS PRO, Malvern Instruments, Worcestershire, UK) equipped with C25 R0634 SS spindle and PC25 C0138 AL cylinder. The shear rates were in the range of 0.1–1000 s<ce:sup loc="post">−1</ce:sup> in viscosity measurement, and storage and loss modulus of CeO<ce:inf loc="post">2</ce:inf> foams were obtained from oscillatory measurements with gap size of 1.5 mm. The apparent densities were calculated by the ratio of mass to dimensions of machined specimens. The microstructures of CeO<ce:inf loc="post">2</ce:inf> powders, green body and ceramic foams were observed by scanning electron microscope (MERLIN VP Compact, Carl Zeiss, Jena, Germany). The average pore size and grain size were analyzed using the line counting method through Nano Measurer software. The phase composition of ceramic foams was characterized through X-ray diffraction using Cu Kα radiation (XRD, D8 ADVANCE, Bruker, Karlsruhe, Germany). Compressive strength of CeO<ce:inf loc="post">2</ce:inf> foams was measured by a versatile material testing machine (AG-IC 20 kN/50 kN, Shimadzu, Japan) with crosshead speed of 1 mm/min, where more than five samples with cubic shape and dimensions at the range of 10−20 mm were adopted to achieve the average value.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec0030" role="discussion" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sect0040">Results and discussions</ce:section-title>
+                  <ce:para id="par0050" view="all">
+                     <ce:cross-ref id="crf0125" refid="fig0005">Fig. 1</ce:cross-ref>(b) demonstrates that CeO<ce:inf loc="post">2</ce:inf> particle possesses isoelectric point around 9.0, and exhibits strong positive surface charge higher than 20 mV when pH value is below 7.8. We herein employ anionic surfactant SDS to modify CeO<ce:inf loc="post">2</ce:inf> particles to improve surface hydrophobicity, depending on the electrostatic attraction between positively charged anchoring group (－H<ce:inf loc="post">3</ce:inf>O<ce:sup loc="post">+</ce:sup>) on CeO<ce:inf loc="post">2</ce:inf> surface and negatively charged C<ce:inf loc="post">12</ce:inf>H<ce:inf loc="post">25</ce:inf>SO<ce:inf loc="post">4</ce:inf>
+                     <ce:sup loc="post">－</ce:sup>. The wet foams show excellent ability of shape retention and no extra curing process is required (see the inset of <ce:cross-ref id="crf0130" refid="fig0010">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="fig0010"/>(a)). As the inherent feature of particle-stabilized foams, the obtained foams exhibit closed pore structure, pore size in the range of 20−150 μm and uniform pore wall with the micron sized thickness consisting of uniform and fine CeO<ce:inf loc="post">2</ce:inf> particles less than 1 μm, as shown in <ce:cross-ref id="crf0135" refid="fig0010">Fig. 2</ce:cross-ref>(a, b). After sintering at 1500℃, the microstructure of homogeneous pores distribution was retained. Closely connected equiaxial grains with mean size of 3.7 μm have formed, generating several voids around 1 μm during grain growth process. The porosity, pore size and pore morphology of final CeO<ce:inf loc="post">2</ce:inf> ceramic foams can be regulated by adjusting the properties of colloidal foams, by controlling solid loading, particle size, surfactant concentration, and so on. In fact, CeO<ce:inf loc="post">2</ce:inf> is not only multifunctional ceramic, but also important structural ceramics due to its excellent mechanical properties, which is also widely used to improve mechanical strength of composite ceramics, e. g. zirconia toughened alumina ceramics [<ce:cross-ref id="crf0140" refid="bib0150">30</ce:cross-ref>]. Notably, the intrinsic thermal conductivity of CeO<ce:inf loc="post">2</ce:inf> is very low, around 0.8–1.5 W/(m K), and the well-defined closed-cell pore structure can suppress air convection effectively. Therefore, the highly porous CeO<ce:inf loc="post">2</ce:inf> is a promising thermal insulation material in the field of high temperature refractory.</ce:para>
+                  <ce:para id="par0055" view="all">The above results prove the feasibility of fabricating CeO<ce:inf loc="post">2</ce:inf> ceramic foams via particle-stabilized foams method. However, the microstructure with closed-cell due to the close assembly of CeO<ce:inf loc="post">2</ce:inf> particles at bubble interfaces can’t enable the easy penetration of air and liquid through it, which limits its application in a wide range of fields as functional materials. In order to realize CeO<ce:inf loc="post">2</ce:inf> ceramic foams with open pore structure, here we adopt ultra-light silica hollow spheres with thin shell as pore-former to impart open pores on the cell wall. Silica hollow spheres with average size of 24 μm and splendid morphology in form of thin shell as well as large-volume of cavity, could perfectly occupy the considerable area on the cell wall under the premise of less introduced impurities, as is well illustrated in <ce:cross-ref id="crf0145" refid="fig0015">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="fig0015"/>(a). After sintering at 1500℃, porous ceria with uniform pore distribution has been fabricated (see <ce:cross-ref id="crf0150" refid="fig0015">Fig. 3</ce:cross-ref>(b, c)). Silica hollow spheres would soften and merge with the matrix surrounded them, leaving anomalous holes on the cell wall as the open window, which is labeled by green arrows in <ce:cross-ref id="crf0155" refid="fig0015">Fig. 3</ce:cross-ref>(c). <ce:cross-ref id="crf0160" refid="fig0015">Fig. 3</ce:cross-ref>(d) shows that the existing pore wall is dense as the grains are closely connected with each other. In comparison with the cell wall from ceria ceramic foams free of silica hollow spheres, the grain boundary is indistinct but the grain size of 3.9 μm is similar, which could be explained by that the forming of viscous silica under high temperature of 1500℃ promotes the densification of cell wall meanwhile acts as binder of the grains. This could favor the mechanical properties, contributing to the application in specific fields required load capacity. In general, with the assistance of silica hollow spheres, porous ceria with pores in two size scales have been obtained, that is, the micropores of 35−105 μm (with average diameter of 62.2 μm) derived from the air bubbles in the CeO<ce:inf loc="post">2</ce:inf> particle-stabilized foams, and the windows in the range of 5−65 μm (with average diameter of 19.6 μm) on the pore wall templated from silica hollow spheres, which has been clearly demonstrated in <ce:cross-ref id="crf0165" refid="fig0015">Fig. 3</ce:cross-ref>(e, f). The formation of open windows in the cell wall makes the bubble-evolved pores interconnected, and allows for an easy flow of fluids.</ce:para>
+                  <ce:para id="par0060" view="all">Such a strategy endows porous CeO<ce:inf loc="post">2</ce:inf> excellent permeability and robust mechanical strength in comparison to traditional method, due to the small pore size, thin cell wall, open-window structure as well as closely assembled grains on cell wall. With the development of specific hi-tech, lightweight ceramics with complex shape is desirable in a vast range of applications, but still remains an open challenge. DIW technique offers a powerful route for preparing complex-shaped structures, including space-filling solids, and structures with high aspect ratio filament, and free-standing spanning. Studart AR et al. [<ce:cross-ref id="crf0170" refid="bib0125">25</ce:cross-ref>] have printed particle stabilized foams/emulsions into hierarchical ceramics structured by porous filaments through DIW for the first time. Herein, we have also explored the possibility of 3D printing CeO<ce:inf loc="post">2</ce:inf> foams into lattice shape ceramics via DIW technique. <ce:cross-ref id="crf0175" refid="fig0020">Fig. 4</ce:cross-ref>
+                     <ce:float-anchor refid="fig0020"/>(a) illustrate that CeO<ce:inf loc="post">2</ce:inf> particle-stabilized foams exhibit shear-thinning property, which is a basic prerequisite for DIW technique by extrusion of foams. Besides, sufficient yield stress and storage modulus ensuring good shape retention and distortion resistance are also required for successful DIW [<ce:cross-ref id="crf0180" refid="bib0155">31</ce:cross-ref>]. It is found that the storage modulus display superiority than the loss modulus at lower shear stress. The yield stress is defined as the point of intersection between storage modulus (G’) and loss modulus (G’’) curves from the oscillatory rheological experiments [<ce:cross-ref id="crf0185" refid="bib0160">32</ce:cross-ref>]. Due to the addition of boehmite nanoparticles, the storage and loss modulus of CeO<ce:inf loc="post">2</ce:inf>-based foams keep stable in a wide range of shear stress, while their yield stress was increased to 249.2 Pa from less than 100 Pa, as shown in <ce:cross-ref id="crf0190" refid="fig0020">Fig. 4</ce:cross-ref>(b). This could be attributed to the elastic gel network formed by the gelation of boehmite [<ce:cross-ref id="crf0195" refid="bib0155">31</ce:cross-ref>,<ce:cross-ref id="crf0200" refid="bib0165">33</ce:cross-ref>]. As a result, the CeO<ce:inf loc="post">2</ce:inf>-based foams possess favorable printability (see <ce:cross-ref id="crf0205" refid="fig0020">Fig. 4</ce:cross-ref>(c, d)). Favored by DIW technique, macropores with mm-size (0.5–7.0 mm) could be constructed by the path of DIW’s nozzle, providing another class of pores apart from the micropores produced by the template of bubbles and silica hollow spheres. Notably, boehmite nanoparticles not only endows CeO<ce:inf loc="post">2</ce:inf> foams good printability, but also relatively good strength of dried body via building closely assembled nanoparticle-network. As a result, various size ranges of opening pores covering from millimeter to micron scales endow CeO<ce:inf loc="post">2</ce:inf>-based ceramic foams outstanding capacity to penetrate gas/liquid, enabling the porous matrix to play the role of active phase.</ce:para>
+                  <ce:para id="par0065" view="all">The 3D printed CeO<ce:inf loc="post">2</ce:inf>-based ceramic foams exhibit hierarchically porous structure in three levels of length scale, that is, macroscope pores defined by printed scaffolds, cell pores evolved from the bubbles, open windows in cell wall deriving from the hollow spheres. The macropores defined by 3D printed filaments are essential characteristic for filters which satisfy an easy flow of fluids, and the interconnected micropores contribute to enlarge the accessible specific surface area [<ce:cross-ref id="crf0210" refid="bib0170">34</ce:cross-ref>]. The hierarchical pores with multi-length scale and the capability of 3D printing opens up the possibility of fast synthesis of complex-shaped CeO<ce:inf loc="post">2</ce:inf> ceramic foams components with potential applications in the fields of filtration, lightweight structural components, oxidative catalysis and oxide fuel cells, etc. It is worth noting that the addition of silica hollow spheres only introduced small amount of cristobalite phase, apart from which, cerianite phase dominate in the samples with hollow spheres and even become the only crystalline phase in the samples without hollow spheres or with both hollow spheres and boehmite for DIW process, as illustrated in <ce:cross-ref id="crf0215" refid="fig0025">Fig. 5</ce:cross-ref>
+                     <ce:float-anchor refid="fig0025"/>(a). Moreover, the compressive strength of CeO<ce:inf loc="post">2</ce:inf>-based ceramic foams with different porous structure is present in <ce:cross-ref id="crf0220" refid="fig0025">Fig. 5</ce:cross-ref>(b–e). It is found that highly porous CeO<ce:inf loc="post">2</ce:inf> with porosity range from 81.0 % to 92.0 % could be synthesized in this work, along with excellent compressive strength ranging from 5.0 MPa to 20.0 MPa, which enables them to be applied in the areas requiring bearing capacity. As is well known, Rice model is one of the most selected models for fitting the relationship between compressive strength and porosity for porous ceramics, as shown in Eq. <ce:cross-ref id="crf0225" refid="eq0005">(1)</ce:cross-ref> [<ce:cross-refs id="crfs0025" refid="bib0175 bib0180 bib0185">35–37</ce:cross-refs>]. <ce:cross-ref id="crf0230" refid="fig0025">Fig. 5</ce:cross-ref>(c–e) illustrate that the compressive strength of 3D printing CeO<ce:inf loc="post">2</ce:inf>-based ceramic foams fits better with Rice model, the fitting factor <ce:italic>r</ce:italic>
+                     <ce:sup loc="post">2</ce:sup> of which is 0.95 and the value of <ce:italic>b</ce:italic> is 0.0995. Although the introduction of more pores definitely causes the attenuation of mechanical strength, the hierarchical porous structure would slow down this loss to some extent, which could be verified by the weak loss at higher porosity level in the samples with more classes of pores, especially evident in the 3D printing CeO<ce:inf loc="post">2</ce:inf>-based ceramic foams [<ce:cross-ref id="crf0235" refid="bib0175">35</ce:cross-ref>].<ce:display>
+                        <ce:formula id="eq0005">
+                           <ce:label>(1)</ce:label>
+                           <mml:math altimg="si1.svg">
+                              <mml:mi>σ</mml:mi>
+                              <mml:mo>=</mml:mo>
+                              <mml:msub>
+                                 <mml:mi>σ</mml:mi>
+                                 <mml:mn>0</mml:mn>
+                              </mml:msub>
+                              <mml:mtext>e</mml:mtext>
+                              <mml:mtext>x</mml:mtext>
+                              <mml:mtext>p</mml:mtext>
+                              <mml:mo stretchy="false">(</mml:mo>
+                              <mml:mo>-</mml:mo>
+                              <mml:mi>b</mml:mi>
+                              <mml:mi>P</mml:mi>
+                              <mml:mo stretchy="false">)</mml:mo>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>Where <mml:math altimg="si2.svg">
+                        <mml:mi>σ</mml:mi>
+                     </mml:math> and <mml:math altimg="si3.svg">
+                        <mml:msub>
+                           <mml:mi>σ</mml:mi>
+                           <mml:mn>0</mml:mn>
+                        </mml:msub>
+                     </mml:math> represent the compressive strength of porous or dense materials, respectively, <ce:italic>b</ce:italic> is an empirical constant and <ce:italic>P</ce:italic> means the porosity of specimens.</ce:para>
+               </ce:section>
+               <ce:section id="sec0035" role="conclusion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sect0045">Conclusions</ce:section-title>
+                  <ce:para id="par0070" view="all">CeO<ce:inf loc="post">2</ce:inf>-based ceramic foams with hierarchical morphology have been designed and synthesized based on the CeO<ce:inf loc="post">2</ce:inf> particle-stabilized foams method. Tunable pore structures with both closed-cell and open-cell are realized. Silica hollow microspheres with single-layer shell and large-volume cavity are employed as pore-former to create open windows on the cell wall for the first time, which enable the interconnection of bubble-evolved pores. Furthermore, highly porous CeO<ce:inf loc="post">2</ce:inf> ceramics have been produced by DIW printing CeO<ce:inf loc="post">2</ce:inf>-based colloidal foams, which exhibit hierarchically porous structure in three levels of length scale. Notably, different classes of pores would effectively disperse the stress and improve the mechanical efficiency. The robust mechanical strength, hierarchical pores with multi-length scales, and the capability of programmable shape-design of 3D printing opens up the possibility of fast production of CeO<ce:inf loc="post">2</ce:inf> ceramic components with hierarchically porous scaffolds, complex geometries and high performance, enlarging their potential applications in the fields of filtration, lightweight structural components, oxidative catalysis and oxide fuel cells, etc.</ce:para>
+               </ce:section>
+               <ce:section id="sec0040" view="all">
+                  <ce:section-title id="sect0050">Disclosure statement</ce:section-title>
+                  <ce:para id="par0075" view="all">The manuscript was written through contributions of all authors. All authors have given approval to the final version of the manuscript. The authors declare no competing financial interest.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi0010" view="all">
+               <ce:section-title id="sect0055">Declaration of Competing Interest</ce:section-title>
+               <ce:para id="par0080" view="all">The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</ce:para>
+            </ce:conflict-of-interest>
+            <ce:acknowledgment id="ack0005" view="all">
+               <ce:section-title id="sect0060">Acknowledgments</ce:section-title>
+               <ce:para id="par0085" view="all">We are grateful for the financially support from <ce:grant-sponsor id="gs0005" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Fundamental Research Funds</ce:grant-sponsor> for the Central Universities (Grant no. <ce:grant-number refid="gs0005">06500141</ce:grant-number>, <ce:grant-number refid="gs0005">FRF-GF-19-032B</ce:grant-number>), <ce:grant-sponsor id="gs0010" sponsor-id="https://doi.org/10.13039/501100001809" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">National Natural Science Foundation of China</ce:grant-sponsor> (Grant no. <ce:grant-number refid="gs0010">51672024</ce:grant-number>), <ce:grant-sponsor id="gs0015" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">China Postdoctoral Science Foundation, China</ce:grant-sponsor> (Grant no. <ce:grant-number refid="gs0015">2019T120086</ce:grant-number>, <ce:grant-number refid="gs0015">2018M631492</ce:grant-number> and <ce:grant-number refid="gs0015">2018M630154</ce:grant-number>).</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bibl0005" view="all">
+               <ce:section-title id="sect0065">References</ce:section-title>
+               <ce:bibliography-sec id="bibs0005" view="all">
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sbref0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Yuan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Ming</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Ohno</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Morphology control and characterization of broom-like porous CeO2</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Eng. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>260</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>126</sb:first-page>
+                              <sb:last-page>132</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot1365">Xu B, Zhang Q, Yuan S, Ming Z, Ohno T. Morphology control and characterization of broom-like porous CeO2. Chemical Engineering Journal. 2015, 260(6):126-132.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sbref0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.C.</ce:given-name>
+                                 <ce:surname>Chueh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.H.</ce:given-name>
+                                 <ce:surname>Mcdaniel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.E.</ce:given-name>
+                                 <ce:surname>Grass</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Jabeen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhi</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Highly enhanced concentration and stability of reactive Ce3+ on doped CeO2 surface revealed in Operando</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>10</sb:issue-nr>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1876</sb:first-page>
+                              <sb:last-page>1882</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot1370">Chueh WC, Mcdaniel AH, Grass ME, Yong H, Jabeen N, Zhi L, et al. Highly enhanced concentration and stability of reactive Ce3+ on doped CeO2 surface revealed in Operando. Chemistry of Materials. 2012, 24(10):1876-1882.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sbref0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Hoes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ackermann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Theiler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Furler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Steinfeld</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Additive-manufactured ordered porous structures made of ceria for concentrating solar applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:article-number>1900484</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot1375">Hoes M, Ackermann S, Theiler D, Furler P, Steinfeld A. Additive-manufactured ordered porous structures made of ceria for concentrating solar applications. Energy Technology. 2019, 7: 1900484.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sbref0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Yong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hydrogen production from steam reforming of ethanol and glycerol over ceria-supported metal catalysts</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>13</sb:issue-nr>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2367</sb:first-page>
+                              <sb:last-page>2373</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot1380">Zhang B, Tang X, Yong L, Xu Y, Shen W. Hydrogen production from steam reforming of ethanol and glycerol over ceria-supported metal catalysts. International Journal of Hydrogen Energy. 2007, 32(13):2367-2373.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sbref0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Qi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Saltsburg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Flytzani-Stephanopoulos</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Active nonmetallic Au and Pt species on ceria-based water-gas shift catalysts</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>301</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5635</sb:issue-nr>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>935</sb:first-page>
+                              <sb:last-page>938</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot1385">Qi F, Saltsburg H, Flytzani-Stephanopoulos M. Active nonmetallic Au and Pt species on ceria-based water-gas shift catalysts. Science. 2003, 301(5635): 935-938.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sbref0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Carrasco</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Vilé</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Fernández-Torre</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Pérez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Pérez-Ramírez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.V.</ce:given-name>
+                                 <ce:surname>Ganduglia-Pirovano</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Molecular-level understanding of CeO2 as a catalyst for partial alkyne hydrogenation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem. C</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>118</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>10</sb:issue-nr>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5352</sb:first-page>
+                              <sb:last-page>5360</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot1390">Carrasco J, Vilé G, Fernández-Torre D, Pérez R, Pérez-Ramírez J, Ganduglia-Pirovano MV. Molecular-level understanding of CeO2 as a catalyst for partial alkyne hydrogenation. Journal of Physical Chemistry C. 2014, 118(10):5352-5360.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sbref0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ackermann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Sauvin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Castiglioni</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Rupp</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Scheffe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Steinfeld</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Kinetics of CO2 reduction over nonstoichiometric ceria</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem. C Nanomater. Interfaces</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>119</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>29</sb:issue-nr>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>16452</sb:first-page>
+                              <sb:last-page>16461</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot1395">Ackermann S, Sauvin L, Castiglioni R, Rupp JL, Scheffe JR, Steinfeld A. Kinetics of CO2 reduction over nonstoichiometric ceria. Journal of Physical Chemistry C Nanomaterials &amp; Interfaces. 2015, 119(29): 16452–16461.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sbref0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Moser</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Mondelli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Schmidt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Girgsdies</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.E.</ce:given-name>
+                                 <ce:surname>Schuster</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Farra</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Supported CeO2 catalysts in technical form for sustainable chlorine production</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Catal. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>132–133</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>9</sb:issue-nr>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>123</sb:first-page>
+                              <sb:last-page>131</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot1400">Moser M, Mondelli C, Schmidt T, Girgsdies F, Schuster ME, Farra R, et al. Supported CeO2 catalysts in technical form for sustainable chlorine production. Applied Catalysis B Environmental. 2013, 132-133(9):123-131.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sbref0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.P.</ce:given-name>
+                                 <ce:surname>Murray</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Tsai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Barnett</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A direct-methane fuel cell with a ceria-based anode</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>400</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6745</sb:issue-nr>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>649</sb:first-page>
+                              <sb:last-page>651</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot1405">Murray EP, Tsai T, Barnett SA. A direct-methane fuel cell with a ceria-based anode. Nature. 2016, 400(6745):649-651.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sbref0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.I.</ce:given-name>
+                                 <ce:surname>Steven</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Gorte</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Direct hydrocarbon solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>104</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>10</sb:issue-nr>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4845</sb:first-page>
+                              <sb:last-page>4865</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot1410">Steven MI, Gorte RJ. Direct hydrocarbon solid oxide fuel cells. Chemical Reviews. 2004, 104(10):4845-4865.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sbref0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Philipp</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Jonathan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Daniel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Michal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Alexander</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Ulrich</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thermochemical CO2 splitting via redox cycling of ceria reticulated foam structures with dual-scale porosities</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Chem. Chem. Phys. Pccp.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>22</sb:issue-nr>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>10503</sb:first-page>
+                              <sb:last-page>10511</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot1415">Philipp F, Jonathan S, Daniel M, Michal G, Alexander B, Ulrich V, et al. Thermochemical CO2 splitting via redox cycling of ceria reticulated foam structures with dual-scale porosities. Physical Chemistry Chemical Physics Pccp. 2014, 16(22):10503-10511.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sbref0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Venstrom</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Petkovich</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Rudisill</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Stein</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Davidson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The effects of morphology on the oxidation of ceria by water and carbon dioxide</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Sol. Energy Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>134</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:article-number>011005</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot1420">Venstrom LJ, Petkovich N, Rudisill S, Stein A, Davidson JH. The effects of morphology on the oxidation of ceria by water and carbon dioxide. Journal of solar energy engineering. 2012, 134(1): 011005.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sbref0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.D.</ce:given-name>
+                                 <ce:surname>Petkovich</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.G.</ce:given-name>
+                                 <ce:surname>Rudisill</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Venstrom</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.B.</ce:given-name>
+                                 <ce:surname>Boman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Davidson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Stein</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Control of heterogeneity in nanostructured Ce1–xZrxO2 binary oxides for enhanced thermal stability and water splitting activity</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem. C</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>115</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>43</sb:issue-nr>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>21022</sb:first-page>
+                              <sb:last-page>21033</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot1425">Petkovich ND, Rudisill SG, Venstrom LJ, Boman DB, Davidson JH, Stein A. Control of heterogeneity in nanostructured Ce1–xZrxO2 binary oxides for enhanced thermal stability and water splitting activity. The Journal of Physical Chemistry C. 2011, 115(43): 21022-21033.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sbref0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Lakes</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Materials with structural hierarchy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>361</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6412</sb:issue-nr>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>511</sb:first-page>
+                              <sb:last-page>515</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot1430">Lakes R. Materials with structural hierarchy. Nature, 1993, 361(6412): 511-515.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sbref0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Deng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Shi</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Dual-templating preparation and enhanced low-temperature reducibility of three-dimensionally ordered macroporous ceria with mesoporous walls</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chinese J. Catal.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>842</sb:first-page>
+                              <sb:last-page>852</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot1435">Zhang H, Zhang L, Deng J, Liu Y, Jiang H, Shi F, et al. Dual-templating preparation and enhanced low-temperature reducibility of three-dimensionally ordered macroporous ceria with mesoporous walls. Chinese Journal of Catalysis. 2011, 32(5): 842-852.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0080">
+                     <ce:label>[16]</ce:label>
+                     <ce:other-ref id="oref0080">
+                        <ce:textref>Karl S., Somers A.V. Method of making porous ceramic articles. Google Patents; 1963.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sbref0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Pugliese</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Ruberto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.M.</ce:given-name>
+                                 <ce:surname>Perrella</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Cappannoli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Bruno</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Martelli</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Solar thermochemical CO2 splitting utilizing a reticulated porous ceria redox system</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy Fuels</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>11</sb:issue-nr>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7051</sb:first-page>
+                              <sb:last-page>7059</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot1445">Pugliese F, Ruberto F, Perrella SM, Cappannoli A, Bruno K, Martelli S, et al. Solar thermochemical CO2 splitting utilizing a reticulated porous ceria redox system. Energy &amp; Fuels. 2012, 26(11): 7051-7059.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sbref0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Haeussler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Abanades</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Julbe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Jouannaux</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Drobek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Ayral</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Remarkable performance of microstructured ceria foams for thermochemical splitting of H2O and CO2 in a novel high–temperature solar reactor</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Eng. Res. Des.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>156</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>311</sb:first-page>
+                              <sb:last-page>323</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot1450">Haeussler A, Abanades S, Julbe A, Jouannaux J, Drobek M, Ayral A, et al. Remarkable performance of microstructured ceria foams for thermochemical splitting of H2O and CO2 in a novel high–temperature solar reactor. Chemical Engineering Research and Design. 2020, 156: 311-323.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sbref0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Vakifahmetoglu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Zeydanli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Colombo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Porous polymer derived ceramics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. R.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>106</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>30</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot1455">Vakifahmetoglu C, Zeydanli D, Colombo P. Porous polymer derived ceramics. Materials Science and Engineering R. 2016, 106: 1-30.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sbref0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.R.</ce:given-name>
+                                 <ce:surname>Studart</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.T.</ce:given-name>
+                                 <ce:surname>Gonzenbach</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Tervoort</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Gauckler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Processing routes to macroporous ceramics: a review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1771</sb:first-page>
+                              <sb:last-page>1789</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot1460">Studart AR, Gonzenbach UT, Tervoort E, Gauckler LJ. Processing routes to macroporous ceramics: A review. Journal of the American Ceramic Society. 2006, 89(6): 1771–1789.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sbref0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.Y.</ce:given-name>
+                                 <ce:surname>Chaparro-Garnica</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Davo-Quinonero</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Bailon-Garcia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Lozano-Castello</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bueno-Lopez</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Design of monolithic supports by 3D printing for its application in the preferential oxidation of CO (CO-PrOx)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Appl. Mater. Interf.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>36763</sb:first-page>
+                              <sb:last-page>36773</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot1465">Chaparro-Garnica CY, Davo-Quinonero A, Bailon-Garcia E, Lozano-Castello D, Bueno-Lopez A. Design of monolithic supports by 3D printing for its application in the preferential oxidation of CO (CO-PrOx). ACS Applied Materrials ＆ Interfaces. 2019, 11: 36763-36773.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0110">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sbref0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Feng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>3D printed Sm-doped ceria composite electrolyte membrane for low temperature solid oxide fuel cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>13843</sb:first-page>
+                              <sb:last-page>13851</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot1470">Feng Z, Liu L, Li L, Chen J, Liu Y, Li Y, et al. 3D printed Sm-doped ceria composite electrolyte membrane for low temperature solid oxide fuel cells. International Journal of Hydrogen Energy. 2019, 44: 13843-13851.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0115">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sbref0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Lucentini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Serrano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Soler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.J.</ce:given-name>
+                                 <ce:surname>Divins</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Llorcan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ammonia decomposition over 3D-printed CeO2 structures loaded with Ni</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Catal. A Gen.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>591</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>117382</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot1475">Lucentini I, Serrano I, Soler L, Divins NJ, Llorcan J. Ammonia decomposition over 3D-printed CeO2 structures loaded with Ni. Applied Catalysis A, General. 2020, 591: 117382.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0120">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sbref0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Alison</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Menasce</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Bouville</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Tervoort</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Mattich</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Ofner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.R.</ce:given-name>
+                                 <ce:surname>Studart</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>3D printing of sacrificial templates into hierarchical porous materials</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Rep.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>409</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot1480">Alison L, Menasce S, Bouville F, Tervoort E, Mattich I, Ofner A, Studart AR. 3D printing of sacrificial templates into hierarchical porous materials. Scientific Reports. 2019, 9: 409.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0125">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sbref0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Minas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Carnelli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Tervoort</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.R.</ce:given-name>
+                                 <ce:surname>Studart</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>3D printing of emulsions and foams into hierarchical porous ceramics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>45</sb:issue-nr>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9993</sb:first-page>
+                              <sb:last-page>9999</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot1485">Minas C, Carnelli D, Tervoort E, Studart AR. 3D printing of emulsions and foams into hierarchical porous ceramics. Advanced Materials. 2016, 28(45): 9993-9999.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0130">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="sbref0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.P.</ce:given-name>
+                                 <ce:surname>Binks</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Particles as surfactants—similarities and differences</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Curr. Opin. Colloid Interface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1–2</sb:issue-nr>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>21</sb:first-page>
+                              <sb:last-page>41</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot1490">Binks BP. Particles as surfactants—similarities and differences. Current Opinion in Colloid &amp; Interface Science. 2002, 7(1-2):21-41.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0135">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="sbref0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>U.T.</ce:given-name>
+                                 <ce:surname>Gonzenbach</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.R.</ce:given-name>
+                                 <ce:surname>Studart</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Elena Tervoort</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Gauckler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Stabilization of foams with inorganic colloidal particles</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Langmuir</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>26</sb:issue-nr>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>10983</sb:first-page>
+                              <sb:last-page>10988</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot1495">Gonzenbach UT, Studart AR, Elena Tervoort A, Gauckler LJ. Stabilization of foams with inorganic colloidal particles. Langmuir. 2006, 22(26): 10983-10988.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0140">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="sbref0140">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.L.</ce:given-name>
+                                 <ce:surname>Huo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Qi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Gan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.N.</ce:given-name>
+                                 <ce:surname>Qu</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ultralight alumina ceramic foams with single-grain wall using sodium dodecyl sulfate as long-chain surfactant</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Eur. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>16</sb:issue-nr>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4163</sb:first-page>
+                              <sb:last-page>4170</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot1500">Huo WL, Qi F, Zhang XY, Ma N, Gan K, Qu YN, et al. Ultralight alumina ceramic foams with single-grain wall using sodium dodecyl sulfate as long-chain surfactant. Journal of the European Ceramic Society. 2016, 36(16):4163-4170.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0145">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="sbref0145">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>U.T.</ce:given-name>
+                                 <ce:surname>Gonzenbach</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.R.</ce:given-name>
+                                 <ce:surname>Studart</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Tervoort</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Gauckler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Macroporous ceramics from particle‐stabilized wet foams</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>90</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>16</sb:first-page>
+                              <sb:last-page>22</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot1505">Gonzenbach UT, Studart AR, Tervoort E, Gauckler LJ. Macroporous ceramics from particle‐stabilized wet foams. Journal of the American Ceramic Society. 2006, 90(1): 16-22.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0150">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference id="sbref0150">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Tan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Sui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Influence of CeO2 addition on the microstructure and mechanical properties of zirconia-toughened alumina (ZTA) composite</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ceram. Int.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7510</sb:first-page>
+                              <sb:last-page>7516</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot1510">Tan P, Yang Y, Sui Y, Jiang Y. Influence of CeO2 addition on the microstructure and mechanical properties of zirconia-toughened alumina (ZTA) composite. Ceramics International. 2020, 46(6): 7510-7516.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0155">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference id="sbref0155">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.R.</ce:given-name>
+                                 <ce:surname>Sommer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Alison</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Minas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Tervoort</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Ruhs</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.R.</ce:given-name>
+                                 <ce:surname>Studart</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>3D printing of concentrated emulsions into multiphase biocompatible soft materials</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Soft Matter</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1794</sb:first-page>
+                              <sb:last-page>1803</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot1515">Sommer MR, Alison L, Minas C, Tervoort E, Ruhs PA, Studart AR. 3D printing of concentrated emulsions into multiphase biocompatible soft materials. Soft Matter, 2017, 13: 1794-1803.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0160">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference id="sbref0160">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Kokkinis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Schaffner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.R.</ce:given-name>
+                                 <ce:surname>Studart</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Multimaterial magnetically assisted 3D printing of composite materials</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8643</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot1520">Kokkinis D, Schaffner M, Studart AR. Multimaterial magnetically assisted 3D printing of composite materials. Nature Communications. 2015, 6: 8643.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0165">
+                     <ce:label>[33]</ce:label>
+                     <sb:reference id="sbref0165">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Huo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>3D printing boehmite gel foams into lightweight porous ceramics with hierarchical pore structure</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Eur. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>930</sb:first-page>
+                              <sb:last-page>934</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot1525">Zhang X, Huo W, Liu J, Zhang Y, Zhang S, Yang J. 3D printing boehmite gel foams into lightweight porous ceramics with hierarchical pore structure. Journal of the European Ceramic Society. 2020, 40: 930-934.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0170">
+                     <ce:label>[34]</ce:label>
+                     <sb:reference id="sbref0170">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Colombo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Materials science. In praise of pores</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>322</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5900</sb:issue-nr>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>381</sb:first-page>
+                              <sb:last-page>383</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot1530">Colombo P. Materials science. In praise of pores. Science. 2008, 322(5900): 381-383.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0175">
+                     <ce:label>[35]</ce:label>
+                     <sb:reference id="sbref0175">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Ryshkewitch</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Compression strength of porous sintered alumina and zirconia</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>1953</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>65</sb:first-page>
+                              <sb:last-page>68</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot1535">Ryshkewitch E. Compression strength of porous sintered alumina and zirconia. Journal of the American Ceramic Society. 1953, 36(2): 65-68.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0180">
+                     <ce:label>[36]</ce:label>
+                     <sb:reference id="sbref0180">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.P.</ce:given-name>
+                                 <ce:surname>Knudsen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Dependence of mechanical strength of brittle polycrystalline specimens on porosity and grain size</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>8</sb:issue-nr>
+                              <sb:date>1959</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>376</sb:first-page>
+                              <sb:last-page>387</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot1540">Knudsen FP. Dependence of mechanical strength of brittle polycrystalline specimens on porosity and grain size. Journal of the American Ceramic Society. 1959, 42(8): 376-387.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0185">
+                     <ce:label>[37]</ce:label>
+                     <sb:reference id="sbref0185">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Rice</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Comparison of stress concentration versus minimum solid area based mechanical property-porosity relations</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>8</sb:issue-nr>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2187</sb:first-page>
+                              <sb:last-page>2190</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot1545">Rice R. Comparison of stress concentration versus minimum solid area based mechanical property-porosity relations. Journal of Materials Science. 1993, 28(8): 2187-2190.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

@@ -1,0 +1,1959 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/B9780128217917000447</prism:url><dc:identifier>doi:10.1016/B978-0-12-821791-7.00044-7</dc:identifier><eid>3-s2.0-B9780128217917000447</eid><prism:doi>10.1016/B978-0-12-821791-7.00044-7</prism:doi><pii>B978-0-12-821791-7.00044-7</pii><dc:title>Index </dc:title><prism:publicationName>Advances in Chemical Mechanical Planarization (CMP)</prism:publicationName><prism:aggregationType>EBook</prism:aggregationType><pubType>ind</pubType><prism:isbn>9780128217917</prism:isbn><prism:edition>Second Edition</prism:edition><prism:startingPage>627</prism:startingPage><prism:endingPage>632</prism:endingPage><prism:pageRange>627-632</prism:pageRange><dcterms:isPartOf>urn:isbn:978-0-12-821791-7</dcterms:isPartOf><dc:format>application/xml</dc:format><prism:coverDate>2022-12-31</prism:coverDate><prism:coverDisplayDate>2022</prism:coverDisplayDate><prism:copyright>Copyright © 2022 Elsevier Ltd. Published by Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd. Published by Elsevier Ltd.</prism:publisher><dc:description>Unknown</dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/B9780128217917000447" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/B9780128217917000447" rel="scidir"/></coredata><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>nonserial</xocs:content-family>
+      <xocs:content-type>BK</xocs:content-type>
+      <xocs:cid>780890</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291718</xocs:ssid>
+         <xocs:ssid type="subj">291892</xocs:ssid>
+         <xocs:ssid type="content">35</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Advances in Chemical Mechanical Planarization (CMP)</xocs:srctitle>
+      <xocs:normalized-srctitle>ADVANCESINCHEMICALMECHANICALPLANARIZATIONCMP</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20210910">2021-09-10</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20210917">2021-09-17</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20210910">2021-09-10</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20210917">2021-09-17</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2021-09-10T17:12:41</xocs:ew-transaction-id>
+      <xocs:eid>3-s2.0-B9780128217917000447</xocs:eid>
+      <xocs:pii-formatted>B978-0-12-821791-7.00044-7</xocs:pii-formatted>
+      <xocs:pii-unformatted>B9780128217917000447</xocs:pii-unformatted>
+      <xocs:doi>10.1016/B978-0-12-821791-7.00044-7</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>3-s2.0-C20190037211</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20240809">2024-08-09T12:08:05.133451Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20220101</xocs:date-search-begin>
+      <xocs:date-search-end>20221231</xocs:date-search-end>
+      <xocs:year-nav>2022</xocs:year-nav>
+      <xocs:indexeddate epoch="1631294244">2021-09-10T17:17:24.972005Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm cid cids confeditor contenttype copyright dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi edition eid ewtransactionid hubeid indexeddate indextype isbn isbns isbnnorm isbnsnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr seriesname sortorder srctitle srctitlenorm srctype ssids content subj tomb webpdf webpdfpagecount yearnav articletitle</xocs:articleinfo>
+      <xocs:isbns>
+         <xocs:isbn-primary-formatted purpose="PAPERBACK">978-0-12-821791-7</xocs:isbn-primary-formatted>
+         <xocs:isbn-primary-unformatted purpose="PAPERBACK">9780128217917</xocs:isbn-primary-unformatted>
+         <xocs:isbn-formatted purpose="ONLINE">978-0-12-821819-8</xocs:isbn-formatted>
+         <xocs:isbn-unformatted purpose="ONLINE">9780128218198</xocs:isbn-unformatted>
+      </xocs:isbns>
+      <xocs:series-metadata>
+         <xocs:series-name>Woodhead Publishing Series in Electronic and Optical Materials</xocs:series-name>
+      </xocs:series-metadata>
+      <xocs:display-name>Advances in Chemical Mechanical Planarization (CMP)  (Second Edition)</xocs:display-name>
+      <xocs:edition>Second Edition</xocs:edition>
+      <xocs:index-type>subject</xocs:index-type>
+      <xocs:sort-order>31</xocs:sort-order>
+      <xocs:heading-nav>A|B|C|D|E|F|G|H|I|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z</xocs:heading-nav>
+      <xocs:first-fp>627</xocs:first-fp>
+      <xocs:last-lp>632</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>627</xocs:first-page>
+         <xocs:last-page>632</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-text>2022</xocs:cover-date-text>
+      <xocs:cover-date-start>2022-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2022-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2022</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:editors>
+               <ce:author-group id="aug10">
+                  <ce:author id="au1" author-id="C20190037211-ba4b933936b1cda3b1302ed3ea632439">
+                     <ce:given-name>Suryadevara</ce:given-name>
+                     <ce:surname>Babu</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:document-type>index</xocs:document-type>
+      <xocs:document-subtype>ind</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2022 Elsevier Ltd. Published by Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>INDEX</xocs:normalized-article-title>
+      <xocs:refkeys/>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>B978-0-12-821791-7.00044-7</xocs:pii-formatted>
+         <xocs:pii-unformatted>B9780128217917000447</xocs:pii-unformatted>
+         <xocs:eid>3-s2.0-B9780128217917000447</xocs:eid>
+         <xocs:doi>10.1016/B978-0-12-821791-7.00044-7</xocs:doi>
+         <xocs:cid>780890</xocs:cid>
+         <xocs:timestamp>2021-09-17T06:18:25.362245Z</xocs:timestamp>
+         <xocs:cover-date-start>2022-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2022-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>3-s2.0-B9780128217917000447-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780128217917000447/MAIN/application/pdf/f5b8ab4fd12e83d9be946b3a15ec8b0c/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>226340</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>3-s2.0-B9780128217917000447-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780128217917000447/PREVIEW/image/png/b6eecf8d1f09d0240bde9e53a165a1c9/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>52343</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:nonserial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <index xmlns="http://www.elsevier.com/xml/bk/dtd" docsubtype="ind" id="idx00001" version="5.6" xml:lang="en">
+         <info>
+            <ce:pii>B978-0-12-821791-7.00044-7</ce:pii>
+            <ce:doi>10.1016/B978-0-12-821791-7.00044-7</ce:doi>
+            <ce:isbn>978-0-12-821791-7</ce:isbn>
+            <ce:copyright type="limited-transfer" year="2022">Elsevier Ltd</ce:copyright>
+         </info>
+         <ce:title id="title0010">Index</ce:title>
+         <ce:index role="subject" id="index0010" view="all">
+            <ce:abstract id="intro0010a" view="all"><ce:para id="para0001s" view="all">Page numbers followed by “<ce:italic>f</ce:italic>” and “<ce:italic>t</ce:italic>” indicate, figures and tables respectively.</ce:para></ce:abstract>
+            <ce:index-sec id="indexA" view="all">
+               <ce:section-title id="indsect0001">A</ce:section-title>
+               <ce:index-entry id="idx0001">
+                  <ce:index-heading>
+                     <ce:italic>Ab-initio</ce:italic> model</ce:index-heading>
+                  <ce:intra-ref id="intraref0001" xlink:href="pii:B978-0-12-821791-7.00007-1" xlink:type="simple">246</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0002">
+                  <ce:index-heading>Abrasive particle</ce:index-heading>
+                  <ce:intra-ref id="intraref0002" xlink:href="pii:B978-0-12-821791-7.00017-4" xlink:type="simple">358</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0003">
+                  <ce:index-heading>Abrasive trapping scale</ce:index-heading>
+                  <ce:intra-ref id="intraref0003" xlink:href="pii:B978-0-12-821791-7.00019-8" xlink:type="simple">143</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0004">
+                  <ce:index-heading>Abrasive-free</ce:index-heading>
+                  <ce:index-entry id="idx0005">
+                     <ce:index-heading>formulations</ce:index-heading>
+                     <ce:intra-ref id="intraref0004" xlink:href="pii:B978-0-12-821791-7.00018-6" xlink:type="simple">226</ce:intra-ref>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0006">
+                     <ce:index-heading>polishing slurry</ce:index-heading>
+                     <ce:intra-ref id="intraref0005" xlink:href="pii:B978-0-12-821791-7.00012-5" xlink:type="simple">10<ce:italic>f</ce:italic>
+                     </ce:intra-ref>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0007">
+                     <ce:index-heading>processes</ce:index-heading>
+                     <ce:intra-ref id="intraref0006" xlink:href="pii:B978-0-12-821791-7.00018-6" xlink:type="simple">226</ce:intra-ref>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0008">
+                     <ce:index-heading>slurry approach</ce:index-heading>
+                     <ce:intra-ref id="intraref0007" xlink:href="pii:B978-0-12-821791-7.00018-6" xlink:type="simple">226</ce:intra-ref>
+                  </ce:index-entry>
+               </ce:index-entry>
+               <ce:index-entry id="idx0009">
+                  <ce:index-heading>Advanced oxidation processes (AOP)</ce:index-heading>
+                  <ce:intra-ref id="intraref0008" xlink:href="pii:B978-0-12-821791-7.00002-2" xlink:type="simple">299</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0010">
+                  <ce:index-heading>Agglomerated particles</ce:index-heading>
+                  <ce:intra-ref id="intraref0009" xlink:href="pii:B978-0-12-821791-7.00017-4" xlink:type="simple">367</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0011">
+                  <ce:index-heading>Air-gap interconnects</ce:index-heading>
+                  <ce:intra-ref id="intraref0010" xlink:href="pii:B978-0-12-821791-7.00016-2" xlink:type="simple">35</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0012">
+                  <ce:index-heading>Ammonia-peroxide-mixture (APM)</ce:index-heading>
+                  <ce:intra-ref id="intraref0011" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">503</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0013">
+                  <ce:index-heading>Amorphous SiC (a-SiC) thin films</ce:index-heading>
+                  <ce:intra-ref id="intraref0012" xlink:href="pii:B978-0-12-821791-7.00003-4" xlink:type="simple">179</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0014">
+                  <ce:index-heading>Angle control, by magnetic bearing</ce:index-heading>
+                  <ce:intra-ref id="intraref0014" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">460</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0015">
+                  <ce:index-heading>Angle of incidence (AOI)</ce:index-heading>
+                  <ce:intra-ref id="intraref0015" xlink:href="pii:B978-0-12-821791-7.00008-3" xlink:type="simple">421</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0016">
+                  <ce:index-heading>Atomic force microscope (AFM)</ce:index-heading>
+                  <ce:intra-ref id="intraref0016" xlink:href="pii:B978-0-12-821791-7.00013-7" xlink:type="simple">212</ce:intra-ref>
+                  <ce:intra-ref id="intraref0017" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">521</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0017">
+                  <ce:index-heading>Atomic layer deposition (ALD)</ce:index-heading>
+                  <ce:intra-ref id="intraref0018" xlink:href="pii:B978-0-12-821791-7.00016-2" xlink:type="simple">36</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0018">
+                  <ce:index-heading>ATR configurations</ce:index-heading>
+                  <ce:intra-ref id="intraref0019" xlink:href="pii:B978-0-12-821791-7.00008-3" xlink:type="simple">423<ce:italic>f</ce:italic>
+                  </ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0019">
+                  <ce:index-heading>ATR spectroscopy</ce:index-heading>
+                  <ce:intra-ref id="intraref0020" xlink:href="pii:B978-0-12-821791-7.00008-3" xlink:type="simple">422</ce:intra-ref>
+                  <ce:intra-ref id="intraref0021" xlink:href="pii:B978-0-12-821791-7.00008-3" xlink:type="simple">434</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0020">
+                  <ce:index-heading>ATR technique</ce:index-heading>
+                  <ce:intra-ref id="intraref0022" xlink:href="pii:B978-0-12-821791-7.00008-3" xlink:type="simple">425</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0021">
+                  <ce:index-heading>ATR-absorbance spectra</ce:index-heading>
+                  <ce:intra-ref id="intraref0023" xlink:href="pii:B978-0-12-821791-7.00008-3" xlink:type="simple">438<ce:italic>f</ce:italic>
+                  </ce:intra-ref>
+                  <ce:intra-ref id="intraref0024" xlink:href="pii:B978-0-12-821791-7.00008-3" xlink:type="simple">437</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0022">
+                  <ce:index-heading>ATR-FTIR spectroscopy</ce:index-heading>
+                  <ce:intra-ref id="intraref0025" xlink:href="pii:B978-0-12-821791-7.00008-3" xlink:type="simple">425</ce:intra-ref>
+                  <ce:intra-ref id="intraref0026" xlink:href="pii:B978-0-12-821791-7.00008-3" xlink:type="simple">436</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0023">
+                  <ce:index-heading>Average removal rate model</ce:index-heading>
+                  <ce:intra-ref id="intraref0027" xlink:href="pii:B978-0-12-821791-7.00007-1" xlink:type="simple">239</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0024">
+                  <ce:index-heading>Azoles</ce:index-heading>
+                  <ce:intra-ref id="intraref0028" xlink:href="pii:B978-0-12-821791-7.00002-2" xlink:type="simple">297</ce:intra-ref>
+                  <ce:intra-ref id="intraref0029" xlink:href="pii:B978-0-12-821791-7.00002-2" xlink:type="simple">304</ce:intra-ref>
+               </ce:index-entry>
+            </ce:index-sec>
+            <ce:index-sec id="indexB" view="all">
+               <ce:section-title id="indsect0002">B</ce:section-title>
+               <ce:index-entry id="idx0025">
+                  <ce:index-heading>Back side pressure</ce:index-heading>
+                  <ce:intra-ref id="intraref0030" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">460</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0026">
+                  <ce:index-heading>Back side topography</ce:index-heading>
+                  <ce:intra-ref id="intraref0031" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">460</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0027">
+                  <ce:index-heading>Back-end-of-line (BEOL)</ce:index-heading>
+                  <ce:intra-ref id="intraref0032" xlink:href="pii:B978-0-12-821791-7.00012-5" xlink:type="simple">3</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0028">
+                  <ce:index-heading>Backing film</ce:index-heading>
+                  <ce:intra-ref id="intraref0034" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">457</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0029">
+                  <ce:index-heading>Bench-top <ce:italic>versus</ce:italic> in-line measurement</ce:index-heading>
+                  <ce:intra-ref id="intraref0035" xlink:href="pii:B978-0-12-821791-7.00017-4" xlink:type="simple">379</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0030">
+                  <ce:index-heading>Benzotriazole (BTA)</ce:index-heading>
+                  <ce:intra-ref id="intraref0036" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">472</ce:intra-ref>
+                  <ce:intra-ref id="intraref0037" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">490</ce:intra-ref>
+                  <ce:index-entry id="idx0031">
+                     <ce:index-heading>adsorption capacities</ce:index-heading>
+                     <ce:intra-ref id="intraref0038" xlink:href="pii:B978-0-12-821791-7.00002-2" xlink:type="simple">304<ce:italic>t</ce:italic>
+                     </ce:intra-ref>
+                  </ce:index-entry>
+               </ce:index-entry>
+               <ce:index-entry id="idx0032">
+                  <ce:index-heading>Bimetallic contacts</ce:index-heading>
+                  <ce:intra-ref id="intraref0039" xlink:href="pii:B978-0-12-821791-7.00009-5" xlink:type="simple">58</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0033">
+                  <ce:index-heading>Black Diamond dielectric</ce:index-heading>
+                  <ce:intra-ref id="intraref0040" xlink:href="pii:B978-0-12-821791-7.00018-6" xlink:type="simple">226</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0034">
+                  <ce:index-heading>Blended rinse-chemical conductivity data</ce:index-heading>
+                  <ce:intra-ref id="intraref0041" xlink:href="pii:B978-0-12-821791-7.00017-4" xlink:type="simple">379<ce:italic>f</ce:italic>
+                  </ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0035">
+                  <ce:index-heading>Brush operating parameters</ce:index-heading>
+                  <ce:intra-ref id="intraref0042" xlink:href="pii:B978-0-12-821791-7.00004-6" xlink:type="simple">601</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0036">
+                  <ce:index-heading>Buff clean process</ce:index-heading>
+                  <ce:intra-ref id="intraref0043" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">484</ce:intra-ref>
+               </ce:index-entry>
+            </ce:index-sec>
+            <ce:index-sec id="indexC" view="all">
+               <ce:section-title id="indsect0003">C</ce:section-title>
+               <ce:index-entry id="idx0037">
+                  <ce:index-heading>Carrier, roles of</ce:index-heading>
+                  <ce:intra-ref id="intraref0044" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">456</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0038">
+                  <ce:index-heading>Catalyst referred etching (CARE)</ce:index-heading>
+                  <ce:intra-ref id="intraref0045" xlink:href="pii:B978-0-12-821791-7.00003-4" xlink:type="simple">178</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0039">
+                  <ce:index-heading>Categorical Standards</ce:index-heading>
+                  <ce:intra-ref id="intraref0046" xlink:href="pii:B978-0-12-821791-7.00002-2" xlink:type="simple">260</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0040">
+                  <ce:index-heading>Ceria (CeO2)-based slurries</ce:index-heading>
+                  <ce:intra-ref id="intraref0047" xlink:href="pii:B978-0-12-821791-7.00008-3" xlink:type="simple">439</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0041">
+                  <ce:index-heading>Ceria particles</ce:index-heading>
+                  <ce:intra-ref id="intraref0048" xlink:href="pii:B978-0-12-821791-7.00002-2" xlink:type="simple">277</ce:intra-ref>
+                  <ce:intra-ref id="intraref0049" xlink:href="pii:B978-0-12-821791-7.00002-2" xlink:type="simple">278</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0042">
+                  <ce:index-heading>Cerium (IV) ammonium nitrate</ce:index-heading>
+                  <ce:intra-ref id="intraref0050" xlink:href="pii:B978-0-12-821791-7.00003-4" xlink:type="simple">183</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0043">
+                  <ce:index-heading>Chatter marks scratches</ce:index-heading>
+                  <ce:intra-ref id="intraref0051" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">475<ce:italic>f</ce:italic>
+                  </ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0044">
+                  <ce:index-heading>Chelating agent</ce:index-heading>
+                  <ce:intra-ref id="intraref0052" xlink:href="pii:B978-0-12-821791-7.00005-8" xlink:type="simple">337</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0045">
+                  <ce:index-heading>Chelating Ion Exchange Resin</ce:index-heading>
+                  <ce:intra-ref id="intraref0053" xlink:href="pii:B978-0-12-821791-7.00002-2" xlink:type="simple">296</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0046">
+                  <ce:index-heading>Chemical mechanical polishing (CMP)</ce:index-heading>
+                  <ce:intra-ref id="intraref0054" xlink:href="pii:B978-0-12-821791-7.00021-6" xlink:type="simple">96</ce:intra-ref>
+                  <ce:intra-ref id="intraref0055" xlink:href="pii:B978-0-12-821791-7.00019-8" xlink:type="simple">143</ce:intra-ref>
+                  <ce:intra-ref id="intraref0056" xlink:href="pii:B978-0-12-821791-7.00013-7" xlink:type="simple">196</ce:intra-ref>
+                  <ce:intra-ref id="intraref0057" xlink:href="pii:B978-0-12-821791-7.00018-6" xlink:type="simple">221</ce:intra-ref>
+                  <ce:intra-ref id="intraref0058" xlink:href="pii:B978-0-12-821791-7.00002-2" xlink:type="simple">257</ce:intra-ref>
+                  <ce:intra-ref id="intraref0059" xlink:href="pii:B978-0-12-821791-7.00012-5" xlink:type="simple">3</ce:intra-ref>
+                  <ce:intra-ref id="intraref0060" xlink:href="pii:B978-0-12-821791-7.00017-4" xlink:type="simple">355</ce:intra-ref>
+                  <ce:intra-ref id="intraref0061" xlink:href="pii:B978-0-12-821791-7.00004-6" xlink:type="simple">591</ce:intra-ref>
+                  <ce:intra-ref id="intraref0062" xlink:href="pii:B978-0-12-821791-7.00014-9" xlink:type="simple">383</ce:intra-ref>
+                  <ce:index-entry id="idx0047">
+                     <ce:index-heading>applications</ce:index-heading>
+                     <ce:intra-ref id="intraref0063" xlink:href="pii:B978-0-12-821791-7.00001-0" xlink:type="simple">538</ce:intra-ref>
+                     <ce:index-entry id="idx0048">
+                        <ce:index-heading>MEMS devices</ce:index-heading>
+                        <ce:intra-ref id="intraref0064" xlink:href="pii:B978-0-12-821791-7.00001-0" xlink:type="simple">544</ce:intra-ref>
+                     </ce:index-entry>
+                     <ce:index-entry id="idx0049">
+                        <ce:index-heading>micro-opto devices</ce:index-heading>
+                        <ce:intra-ref id="intraref0065" xlink:href="pii:B978-0-12-821791-7.00001-0" xlink:type="simple">551</ce:intra-ref>
+                     </ce:index-entry>
+                     <ce:index-entry id="idx0050">
+                        <ce:index-heading>power devices</ce:index-heading>
+                        <ce:intra-ref id="intraref0066" xlink:href="pii:B978-0-12-821791-7.00001-0" xlink:type="simple">538</ce:intra-ref>
+                     </ce:index-entry>
+                     <ce:index-entry id="idx0051">
+                        <ce:index-heading>wafer bonding</ce:index-heading>
+                        <ce:intra-ref id="intraref0067" xlink:href="pii:B978-0-12-821791-7.00001-0" xlink:type="simple">552</ce:intra-ref>
+                     </ce:index-entry>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0052">
+                     <ce:index-heading>carrier and roles of carrier parameters</ce:index-heading>
+                     <ce:intra-ref id="intraref0068" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">456</ce:intra-ref>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0053">
+                     <ce:index-heading>cleaning formulations, experimental techniques to evaluate post</ce:index-heading>
+                     <ce:intra-ref id="intraref0069" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">521</ce:intra-ref>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0054">
+                     <ce:index-heading>cleaning solutions, traditional post</ce:index-heading>
+                     <ce:intra-ref id="intraref0070" xlink:href="pii:B978-0-12-821791-7.00010-1#cesectitle0002a" xlink:type="simple">503</ce:intra-ref>
+                     <ce:index-entry id="idx0055">
+                        <ce:index-heading>APM, SPM, and HF</ce:index-heading>
+                        <ce:intra-ref id="intraref0071" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">505</ce:intra-ref>
+                     </ce:index-entry>
+                     <ce:index-entry id="idx0056">
+                        <ce:index-heading>cobalt (Co) post-CMP cleaning</ce:index-heading>
+                        <ce:intra-ref id="intraref0072" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">512</ce:intra-ref>
+                     </ce:index-entry>
+                     <ce:index-entry id="idx0057">
+                        <ce:index-heading>copper (Cu) post-CMP cleaning</ce:index-heading>
+                        <ce:intra-ref id="intraref0073" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">515</ce:intra-ref>
+                     </ce:index-entry>
+                     <ce:index-entry id="idx0058">
+                        <ce:index-heading>for FEOL, MOL, and BEOL applications</ce:index-heading>
+                        <ce:intra-ref id="intraref0074" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">504</ce:intra-ref>
+                     </ce:index-entry>
+                     <ce:index-entry id="idx0059">
+                        <ce:index-heading>future directions for</ce:index-heading>
+                        <ce:intra-ref id="intraref0075" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">523</ce:intra-ref>
+                     </ce:index-entry>
+                     <ce:index-entry id="idx0060">
+                        <ce:index-heading>new materials post-CMP cleaning</ce:index-heading>
+                        <ce:intra-ref id="intraref0076" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">519</ce:intra-ref>
+                     </ce:index-entry>
+                     <ce:index-entry id="idx0061">
+                        <ce:index-heading>non-traditional cleaning solutions</ce:index-heading>
+                        <ce:intra-ref id="intraref0077" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">507</ce:intra-ref>
+                     </ce:index-entry>
+                     <ce:index-entry id="idx0062">
+                        <ce:index-heading>poly-Si post-CMP cleaning</ce:index-heading>
+                        <ce:intra-ref id="intraref0078" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">509</ce:intra-ref>
+                     </ce:index-entry>
+                     <ce:index-entry id="idx0063">
+                        <ce:index-heading>tungsten (W) post-CMP cleaning</ce:index-heading>
+                        <ce:intra-ref id="intraref0079" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">510</ce:intra-ref>
+                     </ce:index-entry>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0064">
+                     <ce:index-heading>component of</ce:index-heading>
+                     <ce:intra-ref id="intraref0080" xlink:href="pii:B978-0-12-821791-7.00009-5" xlink:type="simple">52</ce:intra-ref>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0065">
+                     <ce:index-heading>consumables</ce:index-heading>
+                     <ce:intra-ref id="intraref0081" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">471<ce:italic>f</ce:italic>
+                     </ce:intra-ref>
+                     <ce:intra-ref id="intraref0082" xlink:href="pii:B978-0-12-821791-7.00001-0" xlink:type="simple">537</ce:intra-ref>
+                     <ce:index-entry id="idx0066">
+                        <ce:index-heading>high removal rate slurries</ce:index-heading>
+                        <ce:intra-ref id="intraref0083" xlink:href="pii:B978-0-12-821791-7.00001-0" xlink:type="simple">537</ce:intra-ref>
+                     </ce:index-entry>
+                     <ce:index-entry id="idx0067">
+                        <ce:index-heading>PR and FM defects from</ce:index-heading>
+                        <ce:intra-ref id="intraref0084" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">471<ce:italic>f</ce:italic>
+                        </ce:intra-ref>
+                     </ce:index-entry>
+                     <ce:index-entry id="idx0068">
+                        <ce:index-heading>slurries with tunable selectivity</ce:index-heading>
+                        <ce:intra-ref id="intraref0085" xlink:href="pii:B978-0-12-821791-7.00001-0" xlink:type="simple">538</ce:intra-ref>
+                     </ce:index-entry>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0069">
+                     <ce:index-heading>corrosion and dendrite defects from</ce:index-heading>
+                     <ce:intra-ref id="intraref0086" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">479</ce:intra-ref>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0070">
+                     <ce:index-heading>defect mitigation and reduction</ce:index-heading>
+                     <ce:intra-ref id="intraref0087" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">480</ce:intra-ref>
+                     <ce:index-entry id="idx0071">
+                        <ce:index-heading>corrosion-related defects</ce:index-heading>
+                        <ce:intra-ref id="intraref0088" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">490</ce:intra-ref>
+                     </ce:index-entry>
+                     <ce:index-entry id="idx0072">
+                        <ce:index-heading>dielectric constant</ce:index-heading>
+                        <ce:intra-ref id="intraref0089" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">494</ce:intra-ref>
+                     </ce:index-entry>
+                     <ce:index-entry id="idx0073">
+                        <ce:index-heading>PR and FM defects</ce:index-heading>
+                        <ce:intra-ref id="intraref0090" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">480</ce:intra-ref>
+                     </ce:index-entry>
+                     <ce:index-entry id="idx0074">
+                        <ce:index-heading>scratch mitigation and prevention</ce:index-heading>
+                        <ce:intra-ref id="intraref0091" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">487</ce:intra-ref>
+                     </ce:index-entry>
+                     <ce:index-entry id="idx0075">
+                        <ce:index-heading>trace metal ions</ce:index-heading>
+                        <ce:intra-ref id="intraref0092" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">494</ce:intra-ref>
+                     </ce:index-entry>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0076">
+                     <ce:index-heading>design elements and material properties</ce:index-heading>
+                     <ce:intra-ref id="intraref0093" xlink:href="pii:B978-0-12-821791-7.00011-3" xlink:type="simple">568</ce:intra-ref>
+                     <ce:index-entry id="idx0077">
+                        <ce:index-heading>pad taxonomy</ce:index-heading>
+                        <ce:intra-ref id="intraref0094" xlink:href="pii:B978-0-12-821791-7.00011-3" xlink:type="simple">568</ce:intra-ref>
+                     </ce:index-entry>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0078">
+                     <ce:index-heading>equipment</ce:index-heading>
+                     <ce:intra-ref id="intraref0095" xlink:href="pii:B978-0-12-821791-7.00008-3" xlink:type="simple">429</ce:intra-ref>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0079">
+                     <ce:index-heading>future challenges</ce:index-heading>
+                     <ce:intra-ref id="intraref0096" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">496</ce:intra-ref>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0080">
+                     <ce:index-heading>GST polishing mechanism</ce:index-heading>
+                     <ce:intra-ref id="intraref0097" xlink:href="pii:B978-0-12-821791-7.00022-8" xlink:type="simple">562</ce:intra-ref>
+                     <ce:index-entry id="idx0081">
+                        <ce:index-heading>polishing mechanism</ce:index-heading>
+                        <ce:intra-ref id="intraref0098" xlink:href="pii:B978-0-12-821791-7.00022-8" xlink:type="simple">563</ce:intra-ref>
+                     </ce:index-entry>
+                     <ce:index-entry id="idx0082">
+                        <ce:index-heading>role of oxidation</ce:index-heading>
+                        <ce:intra-ref id="intraref0099" xlink:href="pii:B978-0-12-821791-7.00022-8" xlink:type="simple">562</ce:intra-ref>
+                     </ce:index-entry>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0083">
+                     <ce:index-heading>issues, GST</ce:index-heading>
+                     <ce:intra-ref id="intraref0100" xlink:href="pii:B978-0-12-821791-7.00022-8" xlink:type="simple">558</ce:intra-ref>
+                     <ce:index-entry id="idx0084">
+                        <ce:index-heading>corrosion</ce:index-heading>
+                        <ce:intra-ref id="intraref0101" xlink:href="pii:B978-0-12-821791-7.00022-8" xlink:type="simple">558</ce:intra-ref>
+                     </ce:index-entry>
+                     <ce:index-entry id="idx0085">
+                        <ce:index-heading>GST dishing</ce:index-heading>
+                        <ce:intra-ref id="intraref0102" xlink:href="pii:B978-0-12-821791-7.00022-8" xlink:type="simple">560</ce:intra-ref>
+                     </ce:index-entry>
+                     <ce:index-entry id="idx0086">
+                        <ce:index-heading>missing GST and photo-assisted corrosion</ce:index-heading>
+                        <ce:intra-ref id="intraref0103" xlink:href="pii:B978-0-12-821791-7.00022-8" xlink:type="simple">561</ce:intra-ref>
+                     </ce:index-entry>
+                     <ce:index-entry id="idx0087">
+                        <ce:index-heading>residue</ce:index-heading>
+                        <ce:intra-ref id="intraref0104" xlink:href="pii:B978-0-12-821791-7.00022-8" xlink:type="simple">559</ce:intra-ref>
+                     </ce:index-entry>
+                     <ce:index-entry id="idx0088">
+                        <ce:index-heading>scratch</ce:index-heading>
+                        <ce:intra-ref id="intraref0105" xlink:href="pii:B978-0-12-821791-7.00022-8" xlink:type="simple">558</ce:intra-ref>
+                     </ce:index-entry>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0089">
+                     <ce:index-heading>models</ce:index-heading>
+                     <ce:intra-ref id="intraref0106" xlink:href="pii:B978-0-12-821791-7.00019-8" xlink:type="simple">146</ce:intra-ref>
+                     <ce:intra-ref id="intraref0107" xlink:href="pii:B978-0-12-821791-7.00019-8" xlink:type="simple">143</ce:intra-ref>
+                     <ce:intra-ref id="intraref0108" xlink:href="pii:B978-0-12-821791-7.00019-8" xlink:type="simple">160</ce:intra-ref>
+                     <ce:intra-ref id="intraref0109" xlink:href="pii:B978-0-12-821791-7.00019-8" xlink:type="simple">167</ce:intra-ref>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0090">
+                     <ce:index-heading>pad design, elements of</ce:index-heading>
+                     <ce:intra-ref id="intraref0110" xlink:href="pii:B978-0-12-821791-7.00011-3" xlink:type="simple">569</ce:intra-ref>
+                     <ce:index-entry id="idx0091">
+                        <ce:index-heading>global compliance</ce:index-heading>
+                        <ce:intra-ref id="intraref0111" xlink:href="pii:B978-0-12-821791-7.00011-3" xlink:type="simple">571</ce:intra-ref>
+                     </ce:index-entry>
+                     <ce:index-entry id="idx0092">
+                        <ce:index-heading>pads and microstructure</ce:index-heading>
+                        <ce:intra-ref id="intraref0112" xlink:href="pii:B978-0-12-821791-7.00011-3" xlink:type="simple">570</ce:intra-ref>
+                     </ce:index-entry>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0093">
+                     <ce:index-heading>parameters</ce:index-heading>
+                     <ce:intra-ref id="intraref0113" xlink:href="pii:B978-0-12-821791-7.00020-4" xlink:type="simple">136</ce:intra-ref>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0094">
+                     <ce:index-heading>planarization processes</ce:index-heading>
+                     <ce:intra-ref id="intraref0114" xlink:href="pii:B978-0-12-821791-7.00019-8" xlink:type="simple">152</ce:intra-ref>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0095">
+                     <ce:index-heading>polishing environment</ce:index-heading>
+                     <ce:intra-ref id="intraref0115" xlink:href="pii:B978-0-12-821791-7.00011-3" xlink:type="simple">568</ce:intra-ref>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0096">
+                     <ce:index-heading>process</ce:index-heading>
+                     <ce:intra-ref id="intraref0116" xlink:href="pii:B978-0-12-821791-7.00012-5" xlink:type="simple">23</ce:intra-ref>
+                     <ce:intra-ref id="intraref0117" xlink:href="pii:B978-0-12-821791-7.00021-6" xlink:type="simple">112</ce:intra-ref>
+                     <ce:intra-ref id="intraref0118" xlink:href="pii:B978-0-12-821791-7.00020-4" xlink:type="simple">135</ce:intra-ref>
+                     <ce:intra-ref id="intraref0120" xlink:href="pii:B978-0-12-821791-7.00019-8" xlink:type="simple">145</ce:intra-ref>
+                     <ce:index-entry id="idx0097">
+                        <ce:index-heading>Cu</ce:index-heading>
+                        <ce:intra-ref id="intraref0121" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">470<ce:italic>f</ce:italic>
+                        </ce:intra-ref>
+                     </ce:index-entry>
+                     <ce:index-entry id="idx0098">
+                        <ce:index-heading>requirements</ce:index-heading>
+                        <ce:intra-ref id="intraref0122" xlink:href="pii:B978-0-12-821791-7.00001-0" xlink:type="simple">535</ce:intra-ref>
+                     </ce:index-entry>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0099">
+                     <ce:index-heading>profile control</ce:index-heading>
+                     <ce:intra-ref id="intraref0123" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">460</ce:intra-ref>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0100">
+                     <ce:index-heading>projected STI</ce:index-heading>
+                     <ce:intra-ref id="intraref0124" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">468</ce:intra-ref>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0101">
+                     <ce:index-heading>removal rate uniformity</ce:index-heading>
+                     <ce:intra-ref id="intraref0125" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">454</ce:intra-ref>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0102">
+                     <ce:index-heading>requirements for GST</ce:index-heading>
+                     <ce:intra-ref id="intraref0126" xlink:href="pii:B978-0-12-821791-7.00022-8" xlink:type="simple">557</ce:intra-ref>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0103">
+                     <ce:index-heading>role of</ce:index-heading>
+                     <ce:intra-ref id="intraref0127" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">451</ce:intra-ref>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0104">
+                     <ce:index-heading>rotary table method in</ce:index-heading>
+                     <ce:intra-ref id="intraref0128" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">451</ce:intra-ref>
+                     <ce:index-entry id="idx0105">
+                        <ce:index-heading>electrical chemical mechanical polish method</ce:index-heading>
+                        <ce:intra-ref id="intraref0129" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">453</ce:intra-ref>
+                     </ce:index-entry>
+                     <ce:index-entry id="idx0106">
+                        <ce:index-heading>fixed abrasive method</ce:index-heading>
+                        <ce:intra-ref id="intraref0130" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">453</ce:intra-ref>
+                     </ce:index-entry>
+                     <ce:index-entry id="idx0107">
+                        <ce:index-heading>linear method</ce:index-heading>
+                        <ce:intra-ref id="intraref0131" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">453</ce:intra-ref>
+                     </ce:index-entry>
+                     <ce:index-entry id="idx0108">
+                        <ce:index-heading>small head method</ce:index-heading>
+                        <ce:intra-ref id="intraref0132" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">453</ce:intra-ref>
+                     </ce:index-entry>
+                     <ce:index-entry id="idx0109">
+                        <ce:index-heading>small table method</ce:index-heading>
+                        <ce:intra-ref id="intraref0133" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">453</ce:intra-ref>
+                     </ce:index-entry>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0110">
+                     <ce:index-heading>slurry suppliers</ce:index-heading>
+                     <ce:intra-ref id="intraref0134" xlink:href="pii:B978-0-12-821791-7.00020-4" xlink:type="simple">135</ce:intra-ref>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0111">
+                     <ce:index-heading>source and characterization</ce:index-heading>
+                     <ce:intra-ref id="intraref0135" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">467</ce:intra-ref>
+                     <ce:index-entry id="idx0112">
+                        <ce:index-heading>corrosion and chemical attack</ce:index-heading>
+                        <ce:intra-ref id="intraref0136" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">477</ce:intra-ref>
+                     </ce:index-entry>
+                     <ce:index-entry id="idx0113">
+                        <ce:index-heading>defects and yield impacts</ce:index-heading>
+                        <ce:intra-ref id="intraref0137" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">467</ce:intra-ref>
+                        <ce:intra-ref id="intraref0138" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">468<ce:italic>f</ce:italic>
+                        </ce:intra-ref>
+                     </ce:index-entry>
+                     <ce:index-entry id="idx0114">
+                        <ce:index-heading>foreign materials and polish residues</ce:index-heading>
+                        <ce:intra-ref id="intraref0139" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">471</ce:intra-ref>
+                     </ce:index-entry>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0115">
+                     <ce:index-heading>technology</ce:index-heading>
+                     <ce:intra-ref id="intraref0140" xlink:href="pii:B978-0-12-821791-7.00012-5" xlink:type="simple">26<ce:italic>f</ce:italic>
+                     </ce:intra-ref>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0116">
+                     <ce:index-heading>tool model</ce:index-heading>
+                     <ce:intra-ref id="intraref0141" xlink:href="pii:B978-0-12-821791-7.00007-1" xlink:type="simple">253</ce:intra-ref>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0117">
+                     <ce:index-heading>top pads, properties of</ce:index-heading>
+                     <ce:intra-ref id="intraref0142" xlink:href="pii:B978-0-12-821791-7.00011-3" xlink:type="simple">573</ce:intra-ref>
+                     <ce:index-entry id="idx0118">
+                        <ce:index-heading>effect of water</ce:index-heading>
+                        <ce:intra-ref id="intraref0143" xlink:href="pii:B978-0-12-821791-7.00011-3" xlink:type="simple">577</ce:intra-ref>
+                     </ce:index-entry>
+                     <ce:index-entry id="idx0119">
+                        <ce:index-heading>pad conditioning and impact</ce:index-heading>
+                        <ce:intra-ref id="intraref0144" xlink:href="pii:B978-0-12-821791-7.00011-3" xlink:type="simple">578</ce:intra-ref>
+                     </ce:index-entry>
+                     <ce:index-entry id="idx0120">
+                        <ce:index-heading>pad-slurry interactions</ce:index-heading>
+                        <ce:intra-ref id="intraref0145" xlink:href="pii:B978-0-12-821791-7.00011-3" xlink:type="simple">579</ce:intra-ref>
+                     </ce:index-entry>
+                     <ce:index-entry id="idx0121">
+                        <ce:index-heading>thermal effects</ce:index-heading>
+                        <ce:intra-ref id="intraref0146" xlink:href="pii:B978-0-12-821791-7.00011-3" xlink:type="simple">576</ce:intra-ref>
+                     </ce:index-entry>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0122">
+                     <ce:index-heading>tying things together</ce:index-heading>
+                     <ce:intra-ref id="intraref0147" xlink:href="pii:B978-0-12-821791-7.00011-3" xlink:type="simple">583</ce:intra-ref>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0123">
+                     <ce:index-heading>wastewater treatment processes</ce:index-heading>
+                     <ce:intra-ref id="intraref0148" xlink:href="pii:B978-0-12-821791-7.00002-2" xlink:type="simple">275</ce:intra-ref>
+                  </ce:index-entry>
+               </ce:index-entry>
+               <ce:index-entry id="idx0124">
+                  <ce:index-heading>Chemical vapor deposition (CVD)</ce:index-heading>
+                  <ce:intra-ref id="intraref0149" xlink:href="pii:B978-0-12-821791-7.00016-2" xlink:type="simple">36</ce:intra-ref>
+                  <ce:intra-ref id="intraref0150" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">525</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0125">
+                  <ce:index-heading>Chemical-less slurry</ce:index-heading>
+                  <ce:intra-ref id="intraref0151" xlink:href="pii:B978-0-12-821791-7.00012-5" xlink:type="simple">9</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0126">
+                  <ce:index-heading>Chemical-mechanical planarization (CMP)</ce:index-heading>
+                  <ce:intra-ref id="intraref0152" xlink:href="pii:B978-0-12-821791-7.00007-1" xlink:type="simple">237</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0127">
+                  <ce:index-heading>Circular ring scratches</ce:index-heading>
+                  <ce:intra-ref id="intraref0153" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">476<ce:italic>f</ce:italic>
+                  </ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0128">
+                  <ce:index-heading>Closed loop control (CLC)</ce:index-heading>
+                  <ce:intra-ref id="intraref0154" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">459</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0129">
+                  <ce:index-heading>Cobalt (Co) post-CMP cleaning</ce:index-heading>
+                  <ce:intra-ref id="intraref0155" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">512</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0130">
+                  <ce:index-heading>Colloidal silica abrasives</ce:index-heading>
+                  <ce:intra-ref id="intraref0156" xlink:href="pii:B978-0-12-821791-7.00018-6" xlink:type="simple">222</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0131">
+                  <ce:index-heading>Complementary metal-oxide semiconductor (CMOS)</ce:index-heading>
+                  <ce:intra-ref id="intraref0157" xlink:href="pii:B978-0-12-821791-7.00020-4" xlink:type="simple">125</ce:intra-ref>
+                  <ce:index-entry id="idx0132">
+                     <ce:index-heading>devices</ce:index-heading>
+                     <ce:intra-ref id="intraref0158" xlink:href="pii:B978-0-12-821791-7.00016-2" xlink:type="simple">29</ce:intra-ref>
+                     <ce:intra-ref id="intraref0159" xlink:href="pii:B978-0-12-821791-7.00020-4" xlink:type="simple">133</ce:intra-ref>
+                     <ce:intra-ref id="intraref0160" xlink:href="pii:B978-0-12-821791-7.00020-4" xlink:type="simple">138</ce:intra-ref>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0133">
+                     <ce:index-heading>technology</ce:index-heading>
+                     <ce:intra-ref id="intraref0161" xlink:href="pii:B978-0-12-821791-7.00016-2" xlink:type="simple">29</ce:intra-ref>
+                  </ce:index-entry>
+               </ce:index-entry>
+               <ce:index-entry id="idx0134">
+                  <ce:index-heading>Complex nonlinear least squares (CNLS)</ce:index-heading>
+                  <ce:intra-ref id="intraref0162" xlink:href="pii:B978-0-12-821791-7.00009-5" xlink:type="simple">63</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0135">
+                  <ce:index-heading>Conductivity</ce:index-heading>
+                  <ce:intra-ref id="intraref0163" xlink:href="pii:B978-0-12-821791-7.00017-4" xlink:type="simple">369</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0136">
+                  <ce:index-heading>Contact angle measurement</ce:index-heading>
+                  <ce:intra-ref id="intraref0164" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">521</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0137">
+                  <ce:index-heading>Copper (Cu) post-CMP cleaning</ce:index-heading>
+                  <ce:intra-ref id="intraref0165" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">515</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0138">
+                  <ce:index-heading>Coriolis force sensor</ce:index-heading>
+                  <ce:intra-ref id="intraref0166" xlink:href="pii:B978-0-12-821791-7.00001-0" xlink:type="simple">545</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0139">
+                  <ce:index-heading>Corrosion-related defects, control of</ce:index-heading>
+                  <ce:intra-ref id="intraref0167" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">490</ce:intra-ref>
+                  <ce:see-also refid="idx0046">Chemical mechanical polishing (CMP)</ce:see-also>
+               </ce:index-entry>
+               <ce:index-entry id="idx0140">
+                  <ce:index-heading>Crystal processing technology</ce:index-heading>
+                  <ce:intra-ref id="intraref0168" xlink:href="pii:B978-0-12-821791-7.00013-7" xlink:type="simple">196</ce:intra-ref>
+               </ce:index-entry>
+            </ce:index-sec>
+            <ce:index-sec id="indexD" view="all">
+               <ce:section-title id="indsect0004">D</ce:section-title>
+               <ce:index-entry id="idx0141">
+                  <ce:index-heading>Deep reactive ion etching (DRIE)</ce:index-heading>
+                  <ce:intra-ref id="intraref0169" xlink:href="pii:B978-0-12-821791-7.00001-0" xlink:type="simple">545</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0142">
+                  <ce:index-heading>Deionized wafer (DIW)</ce:index-heading>
+                  <ce:intra-ref id="intraref0170" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">484</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0143">
+                  <ce:index-heading>Deionized water</ce:index-heading>
+                  <ce:intra-ref id="intraref0171" xlink:href="pii:B978-0-12-821791-7.00021-6" xlink:type="simple">112</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0144">
+                  <ce:index-heading>Dendrites (DE)</ce:index-heading>
+                  <ce:intra-ref id="intraref0172" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">478</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0145">
+                  <ce:index-heading>Density functional theory (DFT) calculation</ce:index-heading>
+                  <ce:intra-ref id="intraref0173" xlink:href="pii:B978-0-12-821791-7.00005-8" xlink:type="simple">344</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0146">
+                  <ce:index-heading>Diamond disc</ce:index-heading>
+                  <ce:intra-ref id="intraref0174" xlink:href="pii:B978-0-12-821791-7.00014-9" xlink:type="simple">390</ce:intra-ref>
+                  <ce:index-entry id="idx0147">
+                     <ce:index-heading>conditioner</ce:index-heading>
+                     <ce:intra-ref id="intraref0175" xlink:href="pii:B978-0-12-821791-7.00014-9" xlink:type="simple">385<ce:italic>f</ce:italic>
+                     </ce:intra-ref>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0148">
+                     <ce:index-heading>evolution</ce:index-heading>
+                     <ce:intra-ref id="intraref0176" xlink:href="pii:B978-0-12-821791-7.00014-9" xlink:type="simple">387<ce:italic>f</ce:italic>
+                     </ce:intra-ref>
+                     <ce:intra-ref id="intraref0177" xlink:href="pii:B978-0-12-821791-7.00014-9" xlink:type="simple">387</ce:intra-ref>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0149">
+                     <ce:index-heading>pad</ce:index-heading>
+                     <ce:intra-ref id="intraref0178" xlink:href="pii:B978-0-12-821791-7.00014-9" xlink:type="simple">390</ce:intra-ref>
+                     <ce:intra-ref id="intraref0179" xlink:href="pii:B978-0-12-821791-7.00014-9" xlink:type="simple">396</ce:intra-ref>
+                     <ce:intra-ref id="intraref0180" xlink:href="pii:B978-0-12-821791-7.00014-9" xlink:type="simple">385<ce:italic>f</ce:italic>
+                     </ce:intra-ref>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0150">
+                     <ce:index-heading>structure</ce:index-heading>
+                     <ce:intra-ref id="intraref0181" xlink:href="pii:B978-0-12-821791-7.00014-9" xlink:type="simple">390<ce:italic>f</ce:italic>
+                     </ce:intra-ref>
+                  </ce:index-entry>
+               </ce:index-entry>
+               <ce:index-entry id="idx0151">
+                  <ce:index-heading>Die-level models</ce:index-heading>
+                  <ce:intra-ref id="intraref0182" xlink:href="pii:B978-0-12-821791-7.00019-8" xlink:type="simple">153</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0152">
+                  <ce:index-heading>Dielectric CMP</ce:index-heading>
+                  <ce:intra-ref id="intraref0183" xlink:href="pii:B978-0-12-821791-7.00012-5" xlink:type="simple">3</ce:intra-ref>
+                  <ce:intra-ref id="intraref0184" xlink:href="pii:B978-0-12-821791-7.00012-5" xlink:type="simple">16</ce:intra-ref>
+                  <ce:index-entry id="idx0153">
+                     <ce:index-heading>defectivity of</ce:index-heading>
+                     <ce:intra-ref id="intraref0185" xlink:href="pii:B978-0-12-821791-7.00012-5" xlink:type="simple">11</ce:intra-ref>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0154">
+                     <ce:index-heading>future of</ce:index-heading>
+                     <ce:intra-ref id="intraref0186" xlink:href="pii:B978-0-12-821791-7.00012-5" xlink:type="simple">25</ce:intra-ref>
+                  </ce:index-entry>
+               </ce:index-entry>
+               <ce:index-entry id="idx0155">
+                  <ce:index-heading>Dielectric constant and chemical mechanical polishing</ce:index-heading>
+                  <ce:intra-ref id="intraref0187" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">494</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0156">
+                  <ce:index-heading>Dielectric material</ce:index-heading>
+                  <ce:intra-ref id="intraref0188" xlink:href="pii:B978-0-12-821791-7.00012-5" xlink:type="simple">3</ce:intra-ref>
+                  <ce:index-entry id="idx0157">
+                     <ce:index-heading>mechanism of</ce:index-heading>
+                     <ce:intra-ref id="intraref0189" xlink:href="pii:B978-0-12-821791-7.00012-5" xlink:type="simple">4</ce:intra-ref>
+                  </ce:index-entry>
+               </ce:index-entry>
+               <ce:index-entry id="idx0158">
+                  <ce:index-heading>Direct wafer bonding (DWB)</ce:index-heading>
+                  <ce:intra-ref id="intraref0190" xlink:href="pii:B978-0-12-821791-7.00020-4" xlink:type="simple">126</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0159">
+                  <ce:index-heading>Disc design.</ce:index-heading>
+                  <ce:intra-ref id="intraref0191" xlink:href="pii:B978-0-12-821791-7.00014-9" xlink:type="simple">389<ce:italic>t</ce:italic>
+                  </ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0160">
+                  <ce:index-heading>Dispersants</ce:index-heading>
+                  <ce:intra-ref id="intraref0192" xlink:href="pii:B978-0-12-821791-7.00005-8" xlink:type="simple">327</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0161">
+                  <ce:index-heading>Divot formation</ce:index-heading>
+                  <ce:intra-ref id="intraref0193" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">480<ce:italic>f</ce:italic>
+                  </ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0162">
+                  <ce:index-heading>DLVO repulsive forces</ce:index-heading>
+                  <ce:intra-ref id="intraref0194" xlink:href="pii:B978-0-12-821791-7.00002-2" xlink:type="simple">276</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0163">
+                  <ce:index-heading>DLVO theory</ce:index-heading>
+                  <ce:intra-ref id="intraref0195" xlink:href="pii:B978-0-12-821791-7.00002-2" xlink:type="simple">272</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0164">
+                  <ce:index-heading>Dry etching</ce:index-heading>
+                  <ce:intra-ref id="intraref0196" xlink:href="pii:B978-0-12-821791-7.00013-7" xlink:type="simple">212</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0165">
+                  <ce:index-heading>Dual-damascene structures</ce:index-heading>
+                  <ce:intra-ref id="intraref0197" xlink:href="pii:B978-0-12-821791-7.00021-6" xlink:type="simple">118</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0166">
+                  <ce:index-heading>Dynamic light scattering (DLS)</ce:index-heading>
+                  <ce:intra-ref id="intraref0198" xlink:href="pii:B978-0-12-821791-7.00002-2" xlink:type="simple">275</ce:intra-ref>
+               </ce:index-entry>
+            </ce:index-sec>
+            <ce:index-sec id="indexE" view="all">
+               <ce:section-title id="indsect0005">E</ce:section-title>
+               <ce:index-entry id="idx0167">
+                  <ce:index-heading>Eddy current method</ce:index-heading>
+                  <ce:intra-ref id="intraref0199" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">462</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0168">
+                  <ce:index-heading>Electrochemical mechanical planarization (ECMP)</ce:index-heading>
+                  <ce:intra-ref id="intraref0200" xlink:href="pii:B978-0-12-821791-7.00003-4" xlink:type="simple">177</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0169">
+                  <ce:index-heading>Electrochemical noise (ECN) analysis</ce:index-heading>
+                  <ce:intra-ref id="intraref0201" xlink:href="pii:B978-0-12-821791-7.00009-5" xlink:type="simple">81</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0170">
+                  <ce:index-heading>Electrocoagulation processes</ce:index-heading>
+                  <ce:intra-ref id="intraref0202" xlink:href="pii:B978-0-12-821791-7.00002-2" xlink:type="simple">289</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0171">
+                  <ce:index-heading>Electrophoretic mobility measurements</ce:index-heading>
+                  <ce:intra-ref id="intraref0203" xlink:href="pii:B978-0-12-821791-7.00002-2" xlink:type="simple">269</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0172">
+                  <ce:index-heading>Electroplating (ECP)</ce:index-heading>
+                  <ce:intra-ref id="intraref0204" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">525</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0173">
+                  <ce:index-heading>Empirical die-level models</ce:index-heading>
+                  <ce:intra-ref id="intraref0205" xlink:href="pii:B978-0-12-821791-7.00019-8" xlink:type="simple">154</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0174">
+                  <ce:index-heading>Endpoint detection (EPD) systems</ce:index-heading>
+                  <ce:intra-ref id="intraref0206" xlink:href="pii:B978-0-12-821791-7.00008-3" xlink:type="simple">413</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0175">
+                  <ce:index-heading>Energy dispersive X-ray analysis (EDAX)</ce:index-heading>
+                  <ce:intra-ref id="intraref0207" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">471</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0176">
+                  <ce:index-heading>Environment, health, and safety (EHS) risk</ce:index-heading>
+                  <ce:intra-ref id="intraref0208" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">520</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0177">
+                  <ce:index-heading>Environmentally friendly post-CMP cleaning</ce:index-heading>
+                  <ce:intra-ref id="intraref0209" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">525</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0178">
+                  <ce:index-heading>Epitaxial layers</ce:index-heading>
+                  <ce:intra-ref id="intraref0210" xlink:href="pii:B978-0-12-821791-7.00020-4" xlink:type="simple">126</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0179">
+                  <ce:index-heading>Ethylenediaminetetraacetic acid (EDTA)</ce:index-heading>
+                  <ce:intra-ref id="intraref0211" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">472</ce:intra-ref>
+                  <ce:intra-ref id="intraref0212" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">509</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0180">
+                  <ce:index-heading>Evanescent wave (EW) microscopy</ce:index-heading>
+                  <ce:intra-ref id="intraref0213" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">523</ce:intra-ref>
+               </ce:index-entry>
+            </ce:index-sec>
+            <ce:index-sec id="indexF" view="all">
+               <ce:section-title id="indsect0006">F</ce:section-title>
+               <ce:index-entry id="idx0181">
+                  <ce:index-heading>Fabry–Pérot filter detectors</ce:index-heading>
+                  <ce:intra-ref id="intraref0214" xlink:href="pii:B978-0-12-821791-7.00008-3" xlink:type="simple">419</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0182">
+                  <ce:index-heading>Feature-level models</ce:index-heading>
+                  <ce:intra-ref id="intraref0215" xlink:href="pii:B978-0-12-821791-7.00019-8" xlink:type="simple">152</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0183">
+                  <ce:index-heading>Fenton method</ce:index-heading>
+                  <ce:intra-ref id="intraref0216" xlink:href="pii:B978-0-12-821791-7.00002-2" xlink:type="simple">301</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0184">
+                  <ce:index-heading>Fenton processes</ce:index-heading>
+                  <ce:intra-ref id="intraref0217" xlink:href="pii:B978-0-12-821791-7.00002-2" xlink:type="simple">300</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0185">
+                  <ce:index-heading>Fenton reaction</ce:index-heading>
+                  <ce:intra-ref id="intraref0218" xlink:href="pii:B978-0-12-821791-7.00002-2" xlink:type="simple">301</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0186">
+                  <ce:index-heading>Fenton-like reaction</ce:index-heading>
+                  <ce:intra-ref id="intraref0219" xlink:href="pii:B978-0-12-821791-7.00005-8" xlink:type="simple">344</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0187">
+                  <ce:index-heading>FINFET devices</ce:index-heading>
+                  <ce:intra-ref id="intraref0220" xlink:href="pii:B978-0-12-821791-7.00020-4" xlink:type="simple">131</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0188">
+                  <ce:index-heading>Finite element method (FEM)</ce:index-heading>
+                  <ce:intra-ref id="intraref0221" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">464<ce:italic>f</ce:italic>
+                  </ce:intra-ref>
+                  <ce:intra-ref id="intraref0222" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">463</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0189">
+                  <ce:index-heading>Foreign materials (FM) and polish residues (PR)</ce:index-heading>
+                  <ce:intra-ref id="intraref0223" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">471</ce:intra-ref>
+                  <ce:see-also refid="idx0046">Chemical mechanical polishing (CMP)</ce:see-also>
+                  <ce:index-entry id="idx0190">
+                     <ce:index-heading>evolution of</ce:index-heading>
+                     <ce:intra-ref id="intraref0224" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">473<ce:italic>f</ce:italic>
+                     </ce:intra-ref>
+                  </ce:index-entry>
+               </ce:index-entry>
+               <ce:index-entry id="idx0191">
+                  <ce:index-heading>Fourier-transform (FT)</ce:index-heading>
+                  <ce:intra-ref id="intraref0225" xlink:href="pii:B978-0-12-821791-7.00008-3" xlink:type="simple">419</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0192">
+                  <ce:index-heading>Fourier-transform infrared (FTIR) spectroscopy</ce:index-heading>
+                  <ce:intra-ref id="intraref0226" xlink:href="pii:B978-0-12-821791-7.00008-3" xlink:type="simple">413</ce:intra-ref>
+                  <ce:index-entry id="idx0193">
+                     <ce:index-heading>sampling techniques</ce:index-heading>
+                     <ce:intra-ref id="intraref0227" xlink:href="pii:B978-0-12-821791-7.00008-3" xlink:type="simple">420</ce:intra-ref>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0194">
+                     <ce:index-heading>spectra</ce:index-heading>
+                     <ce:intra-ref id="intraref0228" xlink:href="pii:B978-0-12-821791-7.00021-6" xlink:type="simple">116</ce:intra-ref>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0195">
+                     <ce:index-heading>spectroscopy</ce:index-heading>
+                     <ce:intra-ref id="intraref0229" xlink:href="pii:B978-0-12-821791-7.00008-3" xlink:type="simple">420</ce:intra-ref>
+                  </ce:index-entry>
+               </ce:index-entry>
+               <ce:index-entry id="idx0196">
+                  <ce:index-heading>Freundlich adsorption models</ce:index-heading>
+                  <ce:intra-ref id="intraref0230" xlink:href="pii:B978-0-12-821791-7.00005-8" xlink:type="simple">327</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0197">
+                  <ce:index-heading>Friction force measurement</ce:index-heading>
+                  <ce:intra-ref id="intraref0231" xlink:href="pii:B978-0-12-821791-7.00012-5" xlink:type="simple">6<ce:italic>f</ce:italic>
+                  </ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0198">
+                  <ce:index-heading>Front-end-of- line (FEOL)</ce:index-heading>
+                  <ce:intra-ref id="intraref0232" xlink:href="pii:B978-0-12-821791-7.00012-5" xlink:type="simple">3</ce:intra-ref>
+                  <ce:intra-ref id="intraref0233" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">504</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0199">
+                  <ce:index-heading>FS–MS model</ce:index-heading>
+                  <ce:intra-ref id="intraref0234" xlink:href="pii:B978-0-12-821791-7.00016-2" xlink:type="simple">33<ce:italic>f</ce:italic>
+                  </ce:intra-ref>
+               </ce:index-entry>
+            </ce:index-sec>
+            <ce:index-sec id="indexG" view="all">
+               <ce:section-title id="indsect0007">G</ce:section-title>
+               <ce:index-entry id="idx0200">
+                  <ce:index-heading>Galvanic corrosion</ce:index-heading>
+                  <ce:intra-ref id="intraref0235" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">478</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0201">
+                  <ce:index-heading>Gap-filling process</ce:index-heading>
+                  <ce:intra-ref id="intraref0236" xlink:href="pii:B978-0-12-821791-7.00017-4" xlink:type="simple">357</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0202">
+                  <ce:index-heading>Gas concentrations</ce:index-heading>
+                  <ce:intra-ref id="intraref0237" xlink:href="pii:B978-0-12-821791-7.00020-4" xlink:type="simple">137</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0203">
+                  <ce:index-heading>Ge-on-insulator wafers</ce:index-heading>
+                  <ce:intra-ref id="intraref0238" xlink:href="pii:B978-0-12-821791-7.00020-4" xlink:type="simple">129</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0204">
+                  <ce:index-heading>Gedanken model</ce:index-heading>
+                  <ce:intra-ref id="intraref0239" xlink:href="pii:B978-0-12-821791-7.00016-2" xlink:type="simple">29</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0205">
+                  <ce:index-heading>Gimbal mechanism</ce:index-heading>
+                  <ce:intra-ref id="intraref0240" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">457</ce:intra-ref>
+                  <ce:intra-ref id="intraref0241" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">458</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0206">
+                  <ce:index-heading>Glycine</ce:index-heading>
+                  <ce:intra-ref id="intraref0242" xlink:href="pii:B978-0-12-821791-7.00002-2" xlink:type="simple">295</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0207">
+                  <ce:index-heading>Green's function</ce:index-heading>
+                  <ce:intra-ref id="intraref0243" xlink:href="pii:B978-0-12-821791-7.00019-8" xlink:type="simple">158</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0208">
+                  <ce:index-heading>Greenwood and Williamson model</ce:index-heading>
+                  <ce:intra-ref id="intraref0244" xlink:href="pii:B978-0-12-821791-7.00007-1" xlink:type="simple">242</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0209">
+                  <ce:index-heading>Gyroscopes</ce:index-heading>
+                  <ce:intra-ref id="intraref0245" xlink:href="pii:B978-0-12-821791-7.00001-0" xlink:type="simple">545</ce:intra-ref>
+               </ce:index-entry>
+            </ce:index-sec>
+            <ce:index-sec id="indexH" view="all">
+               <ce:section-title id="indsect0008">H</ce:section-title>
+               <ce:index-entry id="idx0210">
+                  <ce:index-heading>Hamaker constant</ce:index-heading>
+                  <ce:intra-ref id="intraref0246" xlink:href="pii:B978-0-12-821791-7.00002-2" xlink:type="simple">271</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0211">
+                  <ce:index-heading>Hersey number</ce:index-heading>
+                  <ce:intra-ref id="intraref0247" xlink:href="pii:B978-0-12-821791-7.00012-5" xlink:type="simple">5</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0212">
+                  <ce:index-heading>Hertzian contact</ce:index-heading>
+                  <ce:intra-ref id="intraref0248" xlink:href="pii:B978-0-12-821791-7.00019-8" xlink:type="simple">164</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0213">
+                  <ce:index-heading>Heterogeneous Fenton system</ce:index-heading>
+                  <ce:intra-ref id="intraref0249" xlink:href="pii:B978-0-12-821791-7.00002-2" xlink:type="simple">301</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0214">
+                  <ce:index-heading>High mobility channel materials</ce:index-heading>
+                  <ce:intra-ref id="intraref0250" xlink:href="pii:B978-0-12-821791-7.00020-4" xlink:type="simple">131</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0215">
+                  <ce:index-heading>High removal rate slurries</ce:index-heading>
+                  <ce:intra-ref id="intraref0251" xlink:href="pii:B978-0-12-821791-7.00001-0" xlink:type="simple">537</ce:intra-ref>
+                  <ce:see-also refid="idx0046">Chemical mechanical polishing/planarization (CMP)</ce:see-also>
+               </ce:index-entry>
+               <ce:index-entry id="idx0216">
+                  <ce:index-heading>High resolution profilometry (HRP)</ce:index-heading>
+                  <ce:intra-ref id="intraref0252" xlink:href="pii:B978-0-12-821791-7.00020-4" xlink:type="simple">130</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0217">
+                  <ce:index-heading>Hollow metal (HM)</ce:index-heading>
+                  <ce:intra-ref id="intraref0253" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">477</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0218">
+                  <ce:index-heading>Hybrid clean process, for defect reduction</ce:index-heading>
+                  <ce:intra-ref id="intraref0254" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">486<ce:italic>f</ce:italic>
+                  </ce:intra-ref>
+               </ce:index-entry>
+            </ce:index-sec>
+            <ce:index-sec id="indexI" view="all">
+               <ce:section-title id="indsect0009">I</ce:section-title>
+               <ce:index-entry id="idx0219">
+                  <ce:index-heading>Indentation process</ce:index-heading>
+                  <ce:intra-ref id="intraref0255" xlink:href="pii:B978-0-12-821791-7.00012-5" xlink:type="simple">5</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0220">
+                  <ce:index-heading>Infrared spectroscopy</ce:index-heading>
+                  <ce:intra-ref id="intraref0256" xlink:href="pii:B978-0-12-821791-7.00008-3" xlink:type="simple">418</ce:intra-ref>
+                  <ce:index-entry id="idx0221">
+                     <ce:index-heading>structure of</ce:index-heading>
+                     <ce:intra-ref id="intraref0257" xlink:href="pii:B978-0-12-821791-7.00008-3" xlink:type="simple">419</ce:intra-ref>
+                  </ce:index-entry>
+               </ce:index-entry>
+               <ce:index-entry id="idx0222">
+                  <ce:index-heading>Instantaneous removal rate model parameterization</ce:index-heading>
+                  <ce:intra-ref id="intraref0258" xlink:href="pii:B978-0-12-821791-7.00007-1" xlink:type="simple">246</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0223">
+                  <ce:index-heading>Insulated-gate bipolar transistors (IGBT)</ce:index-heading>
+                  <ce:intra-ref id="intraref0259" xlink:href="pii:B978-0-12-821791-7.00001-0" xlink:type="simple">542</ce:intra-ref>
+                  <ce:intra-ref id="intraref0260" xlink:href="pii:B978-0-12-821791-7.00001-0" xlink:type="simple">538</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0224">
+                  <ce:index-heading>Integrated circuit (IC)</ce:index-heading>
+                  <ce:intra-ref id="intraref0261" xlink:href="pii:B978-0-12-821791-7.00019-8" xlink:type="simple">143</ce:intra-ref>
+                  <ce:intra-ref id="intraref0262" xlink:href="pii:B978-0-12-821791-7.00001-0" xlink:type="simple">533</ce:intra-ref>
+                  <ce:index-entry id="idx0225">
+                     <ce:index-heading>chip</ce:index-heading>
+                     <ce:intra-ref id="intraref0263" xlink:href="pii:B978-0-12-821791-7.00019-8" xlink:type="simple">153</ce:intra-ref>
+                  </ce:index-entry>
+               </ce:index-entry>
+               <ce:index-entry id="idx0226">
+                  <ce:index-heading>Interlayer dielectric (ILD)</ce:index-heading>
+                  <ce:intra-ref id="intraref0264" xlink:href="pii:B978-0-12-821791-7.00012-5" xlink:type="simple">3</ce:intra-ref>
+                  <ce:intra-ref id="intraref0265" xlink:href="pii:B978-0-12-821791-7.00019-8" xlink:type="simple">145</ce:intra-ref>
+                  <ce:intra-ref id="intraref0266" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">505</ce:intra-ref>
+                  <ce:intra-ref id="intraref0267" xlink:href="pii:B978-0-12-821791-7.00001-0" xlink:type="simple">540</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0227">
+                  <ce:index-heading>Internal reflection element (IRE)</ce:index-heading>
+                  <ce:intra-ref id="intraref0268" xlink:href="pii:B978-0-12-821791-7.00008-3" xlink:type="simple">422</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0228">
+                  <ce:index-heading>Ion trap, for quantum computing</ce:index-heading>
+                  <ce:intra-ref id="intraref0269" xlink:href="pii:B978-0-12-821791-7.00001-0" xlink:type="simple">549</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0229">
+                  <ce:index-heading>IR reflection absorption spectroscopy (IRRAS)</ce:index-heading>
+                  <ce:intra-ref id="intraref0270" xlink:href="pii:B978-0-12-821791-7.00008-3" xlink:type="simple">421</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0230">
+                  <ce:index-heading>IR-transparent potassium bromide</ce:index-heading>
+                  <ce:intra-ref id="intraref0271" xlink:href="pii:B978-0-12-821791-7.00008-3" xlink:type="simple">421</ce:intra-ref>
+               </ce:index-entry>
+            </ce:index-sec>
+            <ce:index-sec id="indexJ" view="all">
+               <ce:section-title id="indsect0010">K</ce:section-title>
+               <ce:index-entry id="idx0231">
+                  <ce:index-heading>Kinematic approach</ce:index-heading>
+                  <ce:intra-ref id="intraref0272" xlink:href="pii:B978-0-12-821791-7.00014-9" xlink:type="simple">396</ce:intra-ref>
+               </ce:index-entry>
+            </ce:index-sec>
+            <ce:index-sec id="indexK" view="all">
+               <ce:section-title id="indsect0011">L</ce:section-title>
+               <ce:index-entry id="idx0232">
+                  <ce:index-heading>Lambert–Beer's law</ce:index-heading>
+                  <ce:intra-ref id="intraref0273" xlink:href="pii:B978-0-12-821791-7.00008-3" xlink:type="simple">434</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0233">
+                  <ce:index-heading>Langmuir adsorption models</ce:index-heading>
+                  <ce:intra-ref id="intraref0274" xlink:href="pii:B978-0-12-821791-7.00005-8" xlink:type="simple">327</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0234">
+                  <ce:index-heading>Large particle concentration (LPC)</ce:index-heading>
+                  <ce:intra-ref id="intraref0275" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">488</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0235">
+                  <ce:index-heading>Laser focus displacement meter</ce:index-heading>
+                  <ce:intra-ref id="intraref0276" xlink:href="pii:B978-0-12-821791-7.00014-9" xlink:type="simple">393</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0236">
+                  <ce:index-heading>Laser sensor-based pad-monitoring device</ce:index-heading>
+                  <ce:intra-ref id="intraref0277" xlink:href="pii:B978-0-12-821791-7.00014-9" xlink:type="simple">394<ce:italic>f</ce:italic>
+                  </ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0237">
+                  <ce:index-heading>Laser sensor-based pad-monitoring method</ce:index-heading>
+                  <ce:intra-ref id="intraref0278" xlink:href="pii:B978-0-12-821791-7.00014-9" xlink:type="simple">393<ce:italic>f</ce:italic>
+                  </ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0238">
+                  <ce:index-heading>LELE approach</ce:index-heading>
+                  <ce:intra-ref id="intraref0279" xlink:href="pii:B978-0-12-821791-7.00016-2" xlink:type="simple">30</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0239">
+                  <ce:index-heading>Like-charged particles</ce:index-heading>
+                  <ce:intra-ref id="intraref0280" xlink:href="pii:B978-0-12-821791-7.00002-2" xlink:type="simple">268</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0240">
+                  <ce:index-heading>Linear multidimensional scanning device</ce:index-heading>
+                  <ce:intra-ref id="intraref0281" xlink:href="pii:B978-0-12-821791-7.00014-9" xlink:type="simple">394<ce:italic>f</ce:italic>
+                  </ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0241">
+                  <ce:index-heading>Linear polarization resistance</ce:index-heading>
+                  <ce:intra-ref id="intraref0282" xlink:href="pii:B978-0-12-821791-7.00009-5" xlink:type="simple">75</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0242">
+                  <ce:index-heading>Liquid particle count (LPC)</ce:index-heading>
+                  <ce:intra-ref id="intraref0283" xlink:href="pii:B978-0-12-821791-7.00004-6" xlink:type="simple">612</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0243">
+                  <ce:index-heading>Lubrication film</ce:index-heading>
+                  <ce:intra-ref id="intraref0284" xlink:href="pii:B978-0-12-821791-7.00012-5" xlink:type="simple">5</ce:intra-ref>
+               </ce:index-entry>
+            </ce:index-sec>
+            <ce:index-sec id="indexL" view="all">
+               <ce:section-title id="indsect0012">M</ce:section-title>
+               <ce:index-entry id="idx0244">
+                  <ce:index-heading>Mass-based concentration measurements</ce:index-heading>
+                  <ce:intra-ref id="intraref0285" xlink:href="pii:B978-0-12-821791-7.00002-2" xlink:type="simple">266</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0245">
+                  <ce:index-heading>Material removal mechanism</ce:index-heading>
+                  <ce:intra-ref id="intraref0286" xlink:href="pii:B978-0-12-821791-7.00012-5" xlink:type="simple">12<ce:italic>f</ce:italic>
+                  </ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0246">
+                  <ce:index-heading>Material removal rate (MRR)</ce:index-heading>
+                  <ce:intra-ref id="intraref0287" xlink:href="pii:B978-0-12-821791-7.00012-5" xlink:type="simple">4</ce:intra-ref>
+                  <ce:intra-ref id="intraref0288" xlink:href="pii:B978-0-12-821791-7.00017-4" xlink:type="simple">359<ce:italic>f</ce:italic>
+                  </ce:intra-ref>
+                  <ce:intra-ref id="intraref0289" xlink:href="pii:B978-0-12-821791-7.00017-4" xlink:type="simple">358</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0247">
+                  <ce:index-heading>Material removal scale</ce:index-heading>
+                  <ce:intra-ref id="intraref0290" xlink:href="pii:B978-0-12-821791-7.00019-8" xlink:type="simple">144</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0248">
+                  <ce:index-heading>Megasonic energy, usage of</ce:index-heading>
+                  <ce:intra-ref id="intraref0291" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">505</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0249">
+                  <ce:index-heading>Membrane distillation</ce:index-heading>
+                  <ce:intra-ref id="intraref0292" xlink:href="pii:B978-0-12-821791-7.00002-2" xlink:type="simple">288</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0250">
+                  <ce:index-heading>Membrane filtration (MF)</ce:index-heading>
+                  <ce:intra-ref id="intraref0293" xlink:href="pii:B978-0-12-821791-7.00002-2" xlink:type="simple">283</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0251">
+                  <ce:index-heading>Membrane regeneration</ce:index-heading>
+                  <ce:intra-ref id="intraref0294" xlink:href="pii:B978-0-12-821791-7.00002-2" xlink:type="simple">286</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0252">
+                  <ce:index-heading>Metal Organic Frameworks (MOF)</ce:index-heading>
+                  <ce:intra-ref id="intraref0295" xlink:href="pii:B978-0-12-821791-7.00002-2" xlink:type="simple">303</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0253">
+                  <ce:index-heading>Metal-oxide semiconductor field-effect transistor (MOSFET)</ce:index-heading>
+                  <ce:intra-ref id="intraref0296" xlink:href="pii:B978-0-12-821791-7.00016-2" xlink:type="simple">29</ce:intra-ref>
+                  <ce:intra-ref id="intraref0297" xlink:href="pii:B978-0-12-821791-7.00018-6" xlink:type="simple">222</ce:intra-ref>
+                  <ce:intra-ref id="intraref0298" xlink:href="pii:B978-0-12-821791-7.00001-0" xlink:type="simple">538</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0254">
+                  <ce:index-heading>Methylsilsesquioxane (MSQ)</ce:index-heading>
+                  <ce:intra-ref id="intraref0299" xlink:href="pii:B978-0-12-821791-7.00021-6" xlink:type="simple">97</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0255">
+                  <ce:index-heading>Micro Electro-Mechanical Systems (MEMS)</ce:index-heading>
+                  <ce:intra-ref id="intraref0300" xlink:href="pii:B978-0-12-821791-7.00003-4" xlink:type="simple">175</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0256">
+                  <ce:index-heading>Micro-opto devices, CMP application in</ce:index-heading>
+                  <ce:intra-ref id="intraref0301" xlink:href="pii:B978-0-12-821791-7.00001-0" xlink:type="simple">551</ce:intra-ref>
+                  <ce:index-entry id="idx0257">
+                     <ce:index-heading>micro displays</ce:index-heading>
+                     <ce:intra-ref id="intraref0302" xlink:href="pii:B978-0-12-821791-7.00001-0" xlink:type="simple">551</ce:intra-ref>
+                  </ce:index-entry>
+               </ce:index-entry>
+               <ce:index-entry id="idx0258">
+                  <ce:index-heading>Micro-structured single-reflection elements</ce:index-heading>
+                  <ce:intra-ref id="intraref0303" xlink:href="pii:B978-0-12-821791-7.00008-3" xlink:type="simple">427</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0259">
+                  <ce:index-heading>Microelectromechanical systems (MEMS)</ce:index-heading>
+                  <ce:intra-ref id="intraref0304" xlink:href="pii:B978-0-12-821791-7.00001-0" xlink:type="simple">533</ce:intra-ref>
+                  <ce:index-entry id="idx0260">
+                     <ce:index-heading>devices</ce:index-heading>
+                     <ce:intra-ref id="intraref0305" xlink:href="pii:B978-0-12-821791-7.00001-0" xlink:type="simple">544</ce:intra-ref>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0261">
+                     <ce:index-heading>mirror-based laser scanning projector</ce:index-heading>
+                     <ce:intra-ref id="intraref0306" xlink:href="pii:B978-0-12-821791-7.00001-0" xlink:type="simple">548</ce:intra-ref>
+                  </ce:index-entry>
+               </ce:index-entry>
+               <ce:index-entry id="idx0262">
+                  <ce:index-heading>Microoptoelelectromechanical systems (MOEMS)</ce:index-heading>
+                  <ce:intra-ref id="intraref0307" xlink:href="pii:B978-0-12-821791-7.00001-0" xlink:type="simple">533</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0263">
+                  <ce:index-heading>Middle-of-line (MOL)</ce:index-heading>
+                  <ce:intra-ref id="intraref0308" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">504</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0264">
+                  <ce:index-heading>Mixed abrasive slurry</ce:index-heading>
+                  <ce:intra-ref id="intraref0309" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">488</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0265">
+                  <ce:index-heading>Monitors, types of</ce:index-heading>
+                  <ce:intra-ref id="intraref0310" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">461<ce:italic>f</ce:italic>
+                  </ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0266">
+                  <ce:index-heading>Moore's law</ce:index-heading>
+                  <ce:intra-ref id="intraref0311" xlink:href="pii:B978-0-12-821791-7.00016-2" xlink:type="simple">29</ce:intra-ref>
+                  <ce:intra-ref id="intraref0312" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">467</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0267">
+                  <ce:index-heading>MOSFET technology</ce:index-heading>
+                  <ce:intra-ref id="intraref0313" xlink:href="pii:B978-0-12-821791-7.00016-2" xlink:type="simple">29</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0268">
+                  <ce:index-heading>Multiple internal reflection (MIR) elements</ce:index-heading>
+                  <ce:intra-ref id="intraref0314" xlink:href="pii:B978-0-12-821791-7.00008-3" xlink:type="simple">426</ce:intra-ref>
+               </ce:index-entry>
+            </ce:index-sec>
+            <ce:index-sec id="indexM" view="all">
+               <ce:section-title id="indsect0013">N</ce:section-title>
+               <ce:index-entry id="idx0269">
+                  <ce:index-heading>Nano electro-mechanical systems (NEMS)</ce:index-heading>
+                  <ce:intra-ref id="intraref0315" xlink:href="pii:B978-0-12-821791-7.00003-4" xlink:type="simple">175</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0270">
+                  <ce:index-heading>Non-traditional cleaning solutions, for CMP cleaning</ce:index-heading>
+                  <ce:intra-ref id="intraref0316" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">507</ce:intra-ref>
+               </ce:index-entry>
+            </ce:index-sec>
+            <ce:index-sec id="indexN" view="all">
+               <ce:section-title id="indsect0014">O</ce:section-title>
+               <ce:index-entry id="idx0271">
+                  <ce:index-heading>Open circuit potential (OCP)</ce:index-heading>
+                  <ce:intra-ref id="intraref0317" xlink:href="pii:B978-0-12-821791-7.00009-5" xlink:type="simple">53</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0272">
+                  <ce:index-heading>Optical particle counter</ce:index-heading>
+                  <ce:intra-ref id="intraref0318" xlink:href="pii:B978-0-12-821791-7.00017-4" xlink:type="simple">363</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0273">
+                  <ce:index-heading>Organic precipitating agent</ce:index-heading>
+                  <ce:intra-ref id="intraref0319" xlink:href="pii:B978-0-12-821791-7.00002-2" xlink:type="simple">296</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0274">
+                  <ce:index-heading>Oxide ILD CMP</ce:index-heading>
+                  <ce:intra-ref id="intraref0320" xlink:href="pii:B978-0-12-821791-7.00012-5" xlink:type="simple">20</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0275">
+                  <ce:index-heading>Oxidizers</ce:index-heading>
+                  <ce:intra-ref id="intraref0321" xlink:href="pii:B978-0-12-821791-7.00005-8" xlink:type="simple">333</ce:intra-ref>
+               </ce:index-entry>
+            </ce:index-sec>
+            <ce:index-sec id="indexO" view="all">
+               <ce:section-title id="indsect0015">P</ce:section-title>
+               <ce:index-entry id="idx0276">
+                  <ce:index-heading>“Pad bulk”</ce:index-heading>
+                  <ce:intra-ref id="intraref0322" xlink:href="pii:B978-0-12-821791-7.00019-8" xlink:type="simple">157</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0277">
+                  <ce:index-heading>Pad bulk deformation</ce:index-heading>
+                  <ce:intra-ref id="intraref0323" xlink:href="pii:B978-0-12-821791-7.00019-8" xlink:type="simple">158</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0278">
+                  <ce:index-heading>Pad–wafer contact scale</ce:index-heading>
+                  <ce:intra-ref id="intraref0324" xlink:href="pii:B978-0-12-821791-7.00019-8" xlink:type="simple">143</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0279">
+                  <ce:index-heading>Particle size distribution (PSD)</ce:index-heading>
+                  <ce:intra-ref id="intraref0325" xlink:href="pii:B978-0-12-821791-7.00017-4" xlink:type="simple">355</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0280">
+                  <ce:index-heading>Passivation agents</ce:index-heading>
+                  <ce:intra-ref id="intraref0326" xlink:href="pii:B978-0-12-821791-7.00005-8" xlink:type="simple">331</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0281">
+                  <ce:index-heading>Pattern-density step height (PDSH)</ce:index-heading>
+                  <ce:intra-ref id="intraref0327" xlink:href="pii:B978-0-12-821791-7.00019-8" xlink:type="simple">155</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0282">
+                  <ce:index-heading>Photo-Fenton process</ce:index-heading>
+                  <ce:intra-ref id="intraref0328" xlink:href="pii:B978-0-12-821791-7.00002-2" xlink:type="simple">301</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0283">
+                  <ce:index-heading>Physical die-level models</ce:index-heading>
+                  <ce:intra-ref id="intraref0329" xlink:href="pii:B978-0-12-821791-7.00019-8" xlink:type="simple">157</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0284">
+                  <ce:index-heading>Physical vapor deposition (PVD)</ce:index-heading>
+                  <ce:intra-ref id="intraref0330" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">525</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0285">
+                  <ce:index-heading>Piranha solution</ce:index-heading>
+                  <ce:intra-ref id="intraref0331" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">504</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0286">
+                  <ce:index-heading>Plasma chemical vaporization machining (PCVM)</ce:index-heading>
+                  <ce:intra-ref id="intraref0332" xlink:href="pii:B978-0-12-821791-7.00013-7" xlink:type="simple">200</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0287">
+                  <ce:index-heading>Plasma enhanced ALD (PEALD)</ce:index-heading>
+                  <ce:intra-ref id="intraref0333" xlink:href="pii:B978-0-12-821791-7.00016-2" xlink:type="simple">36</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0288">
+                  <ce:index-heading>Plasma enhanced chemical vapor deposition (PECVD)</ce:index-heading>
+                  <ce:intra-ref id="intraref0334a" xlink:href="pii:B978-0-12-821791-7.00021-6" xlink:type="simple">97</ce:intra-ref>
+                  <ce:index-entry id="idx0289">
+                     <ce:index-heading>films</ce:index-heading>
+                     <ce:intra-ref id="intraref0334" xlink:href="pii:B978-0-12-821791-7.00021-6" xlink:type="simple">97</ce:intra-ref>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0290">
+                     <ce:index-heading>growth systems</ce:index-heading>
+                     <ce:intra-ref id="intraref0335" xlink:href="pii:B978-0-12-821791-7.00021-6" xlink:type="simple">97</ce:intra-ref>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0291">
+                     <ce:index-heading>process</ce:index-heading>
+                     <ce:intra-ref id="intraref0336" xlink:href="pii:B978-0-12-821791-7.00003-4" xlink:type="simple">179</ce:intra-ref>
+                  </ce:index-entry>
+               </ce:index-entry>
+               <ce:index-entry id="idx0292">
+                  <ce:index-heading>Plasma-based RIE process</ce:index-heading>
+                  <ce:intra-ref id="intraref0337" xlink:href="pii:B978-0-12-821791-7.00021-6" xlink:type="simple">96</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0293">
+                  <ce:index-heading>Poisson's ratio</ce:index-heading>
+                  <ce:intra-ref id="intraref0338" xlink:href="pii:B978-0-12-821791-7.00019-8" xlink:type="simple">152</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0294">
+                  <ce:index-heading>Polish rates and selectivity</ce:index-heading>
+                  <ce:intra-ref id="intraref0339" xlink:href="pii:B978-0-12-821791-7.00003-4" xlink:type="simple">188</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0295">
+                  <ce:index-heading>Polish, principle of</ce:index-heading>
+                  <ce:intra-ref id="intraref0340" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">454<ce:italic>f</ce:italic>
+                  </ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0296">
+                  <ce:index-heading>Polishing process</ce:index-heading>
+                  <ce:intra-ref id="intraref0341" xlink:href="pii:B978-0-12-821791-7.00012-5" xlink:type="simple">9</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0297">
+                  <ce:index-heading>Polishing scratch mechanism</ce:index-heading>
+                  <ce:intra-ref id="intraref0342" xlink:href="pii:B978-0-12-821791-7.00012-5" xlink:type="simple">16<ce:italic>f</ce:italic>
+                  </ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0298">
+                  <ce:index-heading>Polishing tests</ce:index-heading>
+                  <ce:intra-ref id="intraref0343" xlink:href="pii:B978-0-12-821791-7.00019-8" xlink:type="simple">167</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0299">
+                  <ce:index-heading>Poly open CMP (POC) process</ce:index-heading>
+                  <ce:intra-ref id="intraref0344" xlink:href="pii:B978-0-12-821791-7.00012-5" xlink:type="simple">21</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0300">
+                  <ce:index-heading>Poly(acrylic acid)</ce:index-heading>
+                  <ce:intra-ref id="intraref0345" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">511</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0301">
+                  <ce:index-heading>Poly-Si angular rate sensor</ce:index-heading>
+                  <ce:intra-ref id="intraref0346" xlink:href="pii:B978-0-12-821791-7.00001-0" xlink:type="simple">545</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0302">
+                  <ce:index-heading>Poly-Si post-CMP cleaning</ce:index-heading>
+                  <ce:intra-ref id="intraref0347" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">509</ce:intra-ref>
+                  <ce:see-also refid="idx0046">Chemical mechanical polishing (CMP)</ce:see-also>
+               </ce:index-entry>
+               <ce:index-entry id="idx0303">
+                  <ce:index-heading>Polysilicon (poly-Si) films</ce:index-heading>
+                  <ce:intra-ref id="intraref0348" xlink:href="pii:B978-0-12-821791-7.00018-6" xlink:type="simple">222</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0304">
+                  <ce:index-heading>Polyvinyl acetal (PVA)</ce:index-heading>
+                  <ce:intra-ref id="intraref0349" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">486</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0305">
+                  <ce:index-heading>Polyvinyl alcohol</ce:index-heading>
+                  <ce:intra-ref id="intraref0350" xlink:href="pii:B978-0-12-821791-7.00009-5" xlink:type="simple">82</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0306">
+                  <ce:index-heading>Polyvinyl pyrrolidone (PVP)</ce:index-heading>
+                  <ce:intra-ref id="intraref0351" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">507</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0307">
+                  <ce:index-heading>Positron annihilation lifetime spectroscopy (PALS)</ce:index-heading>
+                  <ce:intra-ref id="intraref0352" xlink:href="pii:B978-0-12-821791-7.00021-6" xlink:type="simple">99</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0308">
+                  <ce:index-heading>Potential of zero charge (PZC)</ce:index-heading>
+                  <ce:intra-ref id="intraref0353" xlink:href="pii:B978-0-12-821791-7.00009-5" xlink:type="simple">68</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0309">
+                  <ce:index-heading>Potentiodynamic polarization</ce:index-heading>
+                  <ce:intra-ref id="intraref0354" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">523</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0310">
+                  <ce:index-heading>Pourbaix diagrams</ce:index-heading>
+                  <ce:intra-ref id="intraref0355" xlink:href="pii:B978-0-12-821791-7.00016-2" xlink:type="simple">39</ce:intra-ref>
+                  <ce:intra-ref id="intraref0356" xlink:href="pii:B978-0-12-821791-7.00009-5" xlink:type="simple">59</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0311">
+                  <ce:index-heading>Power devices, CMP application in</ce:index-heading>
+                  <ce:intra-ref id="intraref0357" xlink:href="pii:B978-0-12-821791-7.00001-0" xlink:type="simple">538</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0312">
+                  <ce:index-heading>Power MOS transistors</ce:index-heading>
+                  <ce:intra-ref id="intraref0358" xlink:href="pii:B978-0-12-821791-7.00001-0" xlink:type="simple">539</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0313">
+                  <ce:index-heading>Pressure-driven membrane separation processes</ce:index-heading>
+                  <ce:intra-ref id="intraref0359" xlink:href="pii:B978-0-12-821791-7.00002-2" xlink:type="simple">285<ce:italic>t</ce:italic>
+                  </ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0314">
+                  <ce:index-heading>Preston's constant</ce:index-heading>
+                  <ce:intra-ref id="intraref0360" xlink:href="pii:B978-0-12-821791-7.00019-8" xlink:type="simple">145</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0315">
+                  <ce:index-heading>Preston's equation</ce:index-heading>
+                  <ce:intra-ref id="intraref0361" xlink:href="pii:B978-0-12-821791-7.00019-8" xlink:type="simple">145</ce:intra-ref>
+                  <ce:intra-ref id="intraref0362" xlink:href="pii:B978-0-12-821791-7.00019-8" xlink:type="simple">154</ce:intra-ref>
+                  <ce:intra-ref id="intraref0363" xlink:href="pii:B978-0-12-821791-7.00014-9" xlink:type="simple">396</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0316">
+                  <ce:index-heading>Preston's law</ce:index-heading>
+                  <ce:intra-ref id="intraref0364" xlink:href="pii:B978-0-12-821791-7.00019-8" xlink:type="simple">166</ce:intra-ref>
+                  <ce:intra-ref id="intraref0365" xlink:href="pii:B978-0-12-821791-7.00003-4" xlink:type="simple">176</ce:intra-ref>
+                  <ce:intra-ref id="intraref0366" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">451</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0317">
+                  <ce:index-heading>Probability density function (PDF)</ce:index-heading>
+                  <ce:intra-ref id="intraref0367" xlink:href="pii:B978-0-12-821791-7.00007-1" xlink:type="simple">242</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0318">
+                  <ce:index-heading>Profile control</ce:index-heading>
+                  <ce:intra-ref id="intraref0368" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">460</ce:intra-ref>
+                  <ce:see-also refid="idx0046">Chemical mechanical polishing (CMP)</ce:see-also>
+               </ce:index-entry>
+               <ce:index-entry id="idx0319">
+                  <ce:index-heading>PVA brush</ce:index-heading>
+                  <ce:intra-ref id="intraref0369" xlink:href="pii:B978-0-12-821791-7.00004-6" xlink:type="simple">595</ce:intra-ref>
+               </ce:index-entry>
+            </ce:index-sec>
+            <ce:index-sec id="indexP" view="all">
+               <ce:section-title id="indsect0016">Q</ce:section-title>
+               <ce:index-entry id="idx0320">
+                  <ce:index-heading>Quartz crystal microbalance-dissipation (QCM-D)</ce:index-heading>
+                  <ce:intra-ref id="intraref0370" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">523</ce:intra-ref>
+               </ce:index-entry>
+            </ce:index-sec>
+            <ce:index-sec id="indexQ" view="all">
+               <ce:section-title id="indsect0017">R</ce:section-title>
+               <ce:index-entry id="idx0321">
+                  <ce:index-heading>Raman spectra</ce:index-heading>
+                  <ce:intra-ref id="intraref0371" xlink:href="pii:B978-0-12-821791-7.00005-8" xlink:type="simple">344</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0322">
+                  <ce:index-heading>Raman spectroscopy</ce:index-heading>
+                  <ce:intra-ref id="intraref0372" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">472</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0323">
+                  <ce:index-heading>RCA clean, in electronics and semiconductor industry</ce:index-heading>
+                  <ce:intra-ref id="intraref0373" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">480</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0324">
+                  <ce:index-heading>Rebound control, for Pad</ce:index-heading>
+                  <ce:intra-ref id="intraref0374" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">459<ce:italic>f</ce:italic>
+                  </ce:intra-ref>
+                  <ce:intra-ref id="intraref0375" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">459</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0325">
+                  <ce:index-heading>Removal rate model</ce:index-heading>
+                  <ce:intra-ref id="intraref0376" xlink:href="pii:B978-0-12-821791-7.00007-1" xlink:type="simple">237</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0326">
+                  <ce:index-heading>Replacement metal gates (RMG)</ce:index-heading>
+                  <ce:intra-ref id="intraref0377" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">510</ce:intra-ref>
+                  <ce:intra-ref id="intraref0378" xlink:href="pii:B978-0-12-821791-7.00001-0" xlink:type="simple">534</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0327">
+                  <ce:index-heading>Retainer ring</ce:index-heading>
+                  <ce:intra-ref id="intraref0379" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">459</ce:intra-ref>
+                  <ce:intra-ref id="intraref0380" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">460</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0328">
+                  <ce:index-heading>Rotary table method, in chemical mechanical polishing</ce:index-heading>
+                  <ce:intra-ref id="intraref0381" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">451</ce:intra-ref>
+               </ce:index-entry>
+            </ce:index-sec>
+            <ce:index-sec id="indexR" view="all">
+               <ce:section-title id="indsect0018">S</ce:section-title>
+               <ce:index-entry id="idx0329">
+                  <ce:index-heading>Saturated calomel electrode (SCE)</ce:index-heading>
+                  <ce:intra-ref id="intraref0382" xlink:href="pii:B978-0-12-821791-7.00009-5" xlink:type="simple">63</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0330">
+                  <ce:index-heading>Scanning electron microscope (SEM)</ce:index-heading>
+                  <ce:intra-ref id="intraref0383" xlink:href="pii:B978-0-12-821791-7.00012-5" xlink:type="simple">11</ce:intra-ref>
+                  <ce:intra-ref id="intraref0384" xlink:href="pii:B978-0-12-821791-7.00016-2" xlink:type="simple">38<ce:italic>f</ce:italic>
+                  </ce:intra-ref>
+                  <ce:intra-ref id="intraref0385" xlink:href="pii:B978-0-12-821791-7.00008-3" xlink:type="simple">438</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0331">
+                  <ce:index-heading>Scanning transmission electron microscope (STEM)</ce:index-heading>
+                  <ce:intra-ref id="intraref0386" xlink:href="pii:B978-0-12-821791-7.00016-2" xlink:type="simple">38</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0332">
+                  <ce:index-heading>Scratch mitigation and prevention</ce:index-heading>
+                  <ce:intra-ref id="intraref0387" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">487</ce:intra-ref>
+                  <ce:see-also refid="idx0046">Chemical mechanical polishing (CMP)</ce:see-also>
+               </ce:index-entry>
+               <ce:index-entry id="idx0333">
+                  <ce:index-heading>Scrubbing roller brushes, for post CMP cleaning</ce:index-heading>
+                  <ce:intra-ref id="intraref0388" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">486<ce:italic>f</ce:italic>
+                  </ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0334">
+                  <ce:index-heading>Sedimentation vessels</ce:index-heading>
+                  <ce:intra-ref id="intraref0389" xlink:href="pii:B978-0-12-821791-7.00002-2" xlink:type="simple">281</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0335">
+                  <ce:index-heading>Self-aligned contact (SAC) modules</ce:index-heading>
+                  <ce:intra-ref id="intraref0390" xlink:href="pii:B978-0-12-821791-7.00012-5" xlink:type="simple">3</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0336">
+                  <ce:index-heading>Shallow trench isolation (STI)</ce:index-heading>
+                  <ce:intra-ref id="intraref0391" xlink:href="pii:B978-0-12-821791-7.00012-5" xlink:type="simple">3</ce:intra-ref>
+                  <ce:intra-ref id="intraref0392" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">456</ce:intra-ref>
+                  <ce:intra-ref id="intraref0393" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">505</ce:intra-ref>
+                  <ce:index-entry id="idx0337">
+                     <ce:index-heading>chemical mechanical polishing</ce:index-heading>
+                     <ce:intra-ref id="intraref0394" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">507</ce:intra-ref>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0338">
+                     <ce:index-heading>technology requirements</ce:index-heading>
+                     <ce:intra-ref id="intraref0395" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">469</ce:intra-ref>
+                  </ce:index-entry>
+               </ce:index-entry>
+               <ce:index-entry id="idx0339">
+                  <ce:index-heading>SiC substrates</ce:index-heading>
+                  <ce:intra-ref id="intraref0396" xlink:href="pii:B978-0-12-821791-7.00003-4" xlink:type="simple">179</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0340">
+                  <ce:index-heading>SiC surfaces</ce:index-heading>
+                  <ce:intra-ref id="intraref0397" xlink:href="pii:B978-0-12-821791-7.00003-4" xlink:type="simple">180</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0341">
+                  <ce:index-heading>Silica and ceria slurries</ce:index-heading>
+                  <ce:intra-ref id="intraref0398" xlink:href="pii:B978-0-12-821791-7.00004-6" xlink:type="simple">602</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0342">
+                  <ce:index-heading>Silica-based slurries</ce:index-heading>
+                  <ce:intra-ref id="intraref0399" xlink:href="pii:B978-0-12-821791-7.00008-3" xlink:type="simple">437</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0343">
+                  <ce:index-heading>Silicon carbide</ce:index-heading>
+                  <ce:intra-ref id="intraref0400" xlink:href="pii:B978-0-12-821791-7.00003-4" xlink:type="simple">175</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0344">
+                  <ce:index-heading>Silicon nitride <ce:italic>(SiN)</ce:italic> CMP process</ce:index-heading>
+                  <ce:intra-ref id="intraref0401" xlink:href="pii:B978-0-12-821791-7.00012-5" xlink:type="simple">24<ce:italic>f</ce:italic>
+                  </ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0345">
+                  <ce:index-heading>Slurry flow models</ce:index-heading>
+                  <ce:intra-ref id="intraref0402" xlink:href="pii:B978-0-12-821791-7.00007-1" xlink:type="simple">252</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0346">
+                  <ce:index-heading>Slurry particle count measurement</ce:index-heading>
+                  <ce:intra-ref id="intraref0403" xlink:href="pii:B978-0-12-821791-7.00017-4" xlink:type="simple">364</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0347">
+                  <ce:index-heading>Sodium dodecyl sulfate (SDS)</ce:index-heading>
+                  <ce:intra-ref id="intraref0404" xlink:href="pii:B978-0-12-821791-7.00005-8" xlink:type="simple">328</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0348">
+                  <ce:index-heading>Sodium dodecylbenzenesulfonate (SDBS)</ce:index-heading>
+                  <ce:intra-ref id="intraref0405" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">513</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0349">
+                  <ce:index-heading>Solid–liquid separation process</ce:index-heading>
+                  <ce:intra-ref id="intraref0406" xlink:href="pii:B978-0-12-821791-7.00002-2" xlink:type="simple">288</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0350">
+                  <ce:index-heading>Speed control</ce:index-heading>
+                  <ce:intra-ref id="intraref0407" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">460</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0351">
+                  <ce:index-heading>Stokes settling velocity</ce:index-heading>
+                  <ce:intra-ref id="intraref0408" xlink:href="pii:B978-0-12-821791-7.00002-2" xlink:type="simple">267</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0352">
+                  <ce:index-heading>Strain-relaxed buffer (SRB)</ce:index-heading>
+                  <ce:intra-ref id="intraref0409" xlink:href="pii:B978-0-12-821791-7.00020-4" xlink:type="simple">126</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0353">
+                  <ce:index-heading>
+                     <ce:italic>Strain-relaxed buffers</ce:italic>
+                  </ce:index-heading>
+                  <ce:intra-ref id="intraref0410" xlink:href="pii:B978-0-12-821791-7.00020-4" xlink:type="simple">126</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0354">
+                  <ce:index-heading>Stribeck curve</ce:index-heading>
+                  <ce:intra-ref id="intraref0411" xlink:href="pii:B978-0-12-821791-7.00012-5" xlink:type="simple">7<ce:italic>f</ce:italic>
+                  </ce:intra-ref>
+                  <ce:intra-ref id="intraref0412" xlink:href="pii:B978-0-12-821791-7.00012-5" xlink:type="simple">5</ce:intra-ref>
+                  <ce:intra-ref id="intraref0414" xlink:href="pii:B978-0-12-821791-7.00017-4" xlink:type="simple">370</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0355">
+                  <ce:index-heading>Struers Benchtop Polisher</ce:index-heading>
+                  <ce:intra-ref id="intraref0415" xlink:href="pii:B978-0-12-821791-7.00009-5" xlink:type="simple">64</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0356">
+                  <ce:index-heading>Sulfuric acid-peroxide mixture (SPM)</ce:index-heading>
+                  <ce:intra-ref id="intraref0416" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">504</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0357">
+                  <ce:index-heading>Synthetic diamonds</ce:index-heading>
+                  <ce:intra-ref id="intraref0417" xlink:href="pii:B978-0-12-821791-7.00014-9" xlink:type="simple">388</ce:intra-ref>
+               </ce:index-entry>
+            </ce:index-sec>
+            <ce:index-sec id="indexS" view="all">
+               <ce:section-title id="indsect0019">T</ce:section-title>
+               <ce:index-entry id="idx0358">
+                  <ce:index-heading>Table topography, control by</ce:index-heading>
+                  <ce:intra-ref id="intraref0418" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">465<ce:italic>f</ce:italic>
+                  </ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0359">
+                  <ce:index-heading>Tetraethylammonium hydroxide (TEAH)</ce:index-heading>
+                  <ce:intra-ref id="intraref0419" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">507</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0360">
+                  <ce:index-heading>Tetramethylammonium hydroxide (TMAH)</ce:index-heading>
+                  <ce:intra-ref id="intraref0420" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">481<ce:italic>f</ce:italic>
+                  </ce:intra-ref>
+                  <ce:intra-ref id="intraref0421" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">482</ce:intra-ref>
+                  <ce:intra-ref id="intraref0422" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">509</ce:intra-ref>
+                  <ce:index-entry id="idx0361">
+                     <ce:index-heading>free cleaning solution</ce:index-heading>
+                     <ce:intra-ref id="intraref0423" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">525</ce:intra-ref>
+                  </ce:index-entry>
+               </ce:index-entry>
+               <ce:index-entry id="idx0362">
+                  <ce:index-heading>Three-body contact scale</ce:index-heading>
+                  <ce:intra-ref id="intraref0424" xlink:href="pii:B978-0-12-821791-7.00019-8" xlink:type="simple">144</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0363">
+                  <ce:index-heading>Time-dependent dielectric breakdown (TDDB)</ce:index-heading>
+                  <ce:intra-ref id="intraref0425" xlink:href="pii:B978-0-12-821791-7.00021-6" xlink:type="simple">119</ce:intra-ref>
+                  <ce:intra-ref id="intraref0426" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">474</ce:intra-ref>
+                  <ce:intra-ref id="intraref0427" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">494</ce:intra-ref>
+                  <ce:intra-ref id="intraref0428" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">515</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0364">
+                  <ce:index-heading>Titration</ce:index-heading>
+                  <ce:intra-ref id="intraref0429" xlink:href="pii:B978-0-12-821791-7.00017-4" xlink:type="simple">370</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0365">
+                  <ce:index-heading>Tool scale</ce:index-heading>
+                  <ce:intra-ref id="intraref0430" xlink:href="pii:B978-0-12-821791-7.00019-8" xlink:type="simple">143</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0366">
+                  <ce:index-heading>Trace metal ions and chemical mechanical polishing</ce:index-heading>
+                  <ce:intra-ref id="intraref0431" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">494</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0367">
+                  <ce:index-heading>Traditional cleaning solutions and conditions</ce:index-heading>
+                  <ce:intra-ref id="intraref0432" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">504</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0368">
+                  <ce:index-heading>Transient removal rate</ce:index-heading>
+                  <ce:intra-ref id="intraref0433" xlink:href="pii:B978-0-12-821791-7.00007-1" xlink:type="simple">246</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0369">
+                  <ce:index-heading>Transmembrane pressure (TMP)</ce:index-heading>
+                  <ce:intra-ref id="intraref0434" xlink:href="pii:B978-0-12-821791-7.00002-2" xlink:type="simple">283</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0370">
+                  <ce:index-heading>Transmission electron microscope (TEM)</ce:index-heading>
+                  <ce:intra-ref id="intraref0435" xlink:href="pii:B978-0-12-821791-7.00016-2" xlink:type="simple">37</ce:intra-ref>
+                  <ce:intra-ref id="intraref0436" xlink:href="pii:B978-0-12-821791-7.00008-3" xlink:type="simple">438</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0371">
+                  <ce:index-heading>Tribo-controlled experiments</ce:index-heading>
+                  <ce:intra-ref id="intraref0437" xlink:href="pii:B978-0-12-821791-7.00009-5" xlink:type="simple">65</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0372">
+                  <ce:index-heading>Tribo-electrochemistry</ce:index-heading>
+                  <ce:intra-ref id="intraref0438" xlink:href="pii:B978-0-12-821791-7.00009-5" xlink:type="simple">60</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0373">
+                  <ce:index-heading>Triton X-100</ce:index-heading>
+                  <ce:intra-ref id="intraref0439" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">508</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0374">
+                  <ce:index-heading>Ttetramethylcyclotetrasiloxane (TMCTS)</ce:index-heading>
+                  <ce:intra-ref id="intraref0440" xlink:href="pii:B978-0-12-821791-7.00021-6" xlink:type="simple">98</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0375">
+                  <ce:index-heading>Tungsten (W) post-CMP cleaning</ce:index-heading>
+                  <ce:intra-ref id="intraref0441" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">510</ce:intra-ref>
+                  <ce:see-also refid="idx0046">Chemical mechanical polishing (CMP)</ce:see-also>
+               </ce:index-entry>
+            </ce:index-sec>
+            <ce:index-sec id="indexT" view="all">
+               <ce:section-title id="indsect0020">U</ce:section-title>
+               <ce:index-entry id="idx0376">
+                  <ce:index-heading>ULK dielectrics</ce:index-heading>
+                  <ce:intra-ref id="intraref0442" xlink:href="pii:B978-0-12-821791-7.00021-6" xlink:type="simple">100</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0377">
+                  <ce:index-heading>ULK film</ce:index-heading>
+                  <ce:intra-ref id="intraref0443" xlink:href="pii:B978-0-12-821791-7.00021-6" xlink:type="simple">103<ce:italic>f</ce:italic>
+                  </ce:intra-ref>
+                  <ce:intra-ref id="intraref0444" xlink:href="pii:B978-0-12-821791-7.00021-6" xlink:type="simple">101</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0378">
+                  <ce:index-heading>ULK films</ce:index-heading>
+                  <ce:intra-ref id="intraref0445" xlink:href="pii:B978-0-12-821791-7.00021-6" xlink:type="simple">98</ce:intra-ref>
+                  <ce:intra-ref id="intraref0446" xlink:href="pii:B978-0-12-821791-7.00021-6" xlink:type="simple">108</ce:intra-ref>
+                  <ce:intra-ref id="intraref0447" xlink:href="pii:B978-0-12-821791-7.00021-6" xlink:type="simple">114</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0379">
+                  <ce:index-heading>Universal cleaning solution, CMP in</ce:index-heading>
+                  <ce:intra-ref id="intraref0448" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">523</ce:intra-ref>
+               </ce:index-entry>
+            </ce:index-sec>
+            <ce:index-sec id="indexU" view="all">
+               <ce:section-title id="indsect0021">V</ce:section-title>
+               <ce:index-entry id="idx0380">
+                  <ce:index-heading>Van der Waals attraction</ce:index-heading>
+                  <ce:intra-ref id="intraref0449" xlink:href="pii:B978-0-12-821791-7.00002-2" xlink:type="simple">271</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0381">
+                  <ce:index-heading>Viscosity</ce:index-heading>
+                  <ce:intra-ref id="intraref0450" xlink:href="pii:B978-0-12-821791-7.00017-4" xlink:type="simple">375</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0382">
+                  <ce:index-heading>Volatile organic compounds (VOC)</ce:index-heading>
+                  <ce:intra-ref id="intraref0451" xlink:href="pii:B978-0-12-821791-7.00006-X" xlink:type="simple">492</ce:intra-ref>
+               </ce:index-entry>
+            </ce:index-sec>
+            <ce:index-sec id="indexV" view="all">
+               <ce:section-title id="indsect0022">W</ce:section-title>
+               <ce:index-entry id="idx0383">
+                  <ce:index-heading>W void defect</ce:index-heading>
+                  <ce:intra-ref id="intraref0452" xlink:href="pii:B978-0-12-821791-7.00004-6" xlink:type="simple">604</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0384">
+                  <ce:index-heading>Wafer bonding, CMP applications in</ce:index-heading>
+                  <ce:intra-ref id="intraref0453" xlink:href="pii:B978-0-12-821791-7.00001-0" xlink:type="simple">552</ce:intra-ref>
+                  <ce:index-entry id="idx0385">
+                     <ce:index-heading>stacked devices</ce:index-heading>
+                     <ce:intra-ref id="intraref0454" xlink:href="pii:B978-0-12-821791-7.00001-0" xlink:type="simple">552</ce:intra-ref>
+                  </ce:index-entry>
+                  <ce:index-entry id="idx0386">
+                     <ce:index-heading>wafer-level packaging</ce:index-heading>
+                     <ce:intra-ref id="intraref0455" xlink:href="pii:B978-0-12-821791-7.00001-0" xlink:type="simple">553</ce:intra-ref>
+                  </ce:index-entry>
+               </ce:index-entry>
+               <ce:index-entry id="idx0387">
+                  <ce:index-heading>Wafer guide</ce:index-heading>
+                  <ce:intra-ref id="intraref0456" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">458</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0388">
+                  <ce:index-heading>Wafer level packaging (WLP)</ce:index-heading>
+                  <ce:intra-ref id="intraref0457" xlink:href="pii:B978-0-12-821791-7.00001-0" xlink:type="simple">538</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0389">
+                  <ce:index-heading>Wafer processing sequence</ce:index-heading>
+                  <ce:intra-ref id="intraref0458" xlink:href="pii:B978-0-12-821791-7.00013-7" xlink:type="simple">196<ce:italic>f</ce:italic>
+                  </ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0390">
+                  <ce:index-heading>Wafer temperature</ce:index-heading>
+                  <ce:intra-ref id="intraref0459" xlink:href="pii:B978-0-12-821791-7.00007-1" xlink:type="simple">240</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0391">
+                  <ce:index-heading>Wafer-based Si multi-reflection elements</ce:index-heading>
+                  <ce:intra-ref id="intraref0460" xlink:href="pii:B978-0-12-821791-7.00008-3" xlink:type="simple">427</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0392">
+                  <ce:index-heading>Wafer–abrasive–pad</ce:index-heading>
+                  <ce:intra-ref id="intraref0461" xlink:href="pii:B978-0-12-821791-7.00018-6" xlink:type="simple">221</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0393">
+                  <ce:index-heading>Wafer to wafer (WTW)</ce:index-heading>
+                  <ce:intra-ref id="intraref0462" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">451</ce:intra-ref>
+                  <ce:index-entry id="idx0394">
+                     <ce:index-heading>nonuniformity</ce:index-heading>
+                     <ce:intra-ref id="intraref0463" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">456</ce:intra-ref>
+                  </ce:index-entry>
+               </ce:index-entry>
+               <ce:index-entry id="idx0395">
+                  <ce:index-heading>Wastewater generation</ce:index-heading>
+                  <ce:intra-ref id="intraref0464" xlink:href="pii:B978-0-12-821791-7.00002-2" xlink:type="simple">257</ce:intra-ref>
+                  <ce:index-entry id="idx0396">
+                     <ce:index-heading>flowpaths and discharge requirements</ce:index-heading>
+                     <ce:intra-ref id="intraref0465" xlink:href="pii:B978-0-12-821791-7.00002-2" xlink:type="simple">260</ce:intra-ref>
+                  </ce:index-entry>
+               </ce:index-entry>
+               <ce:index-entry id="idx0397">
+                  <ce:index-heading>Weak adsorption energy</ce:index-heading>
+                  <ce:intra-ref id="intraref0466" xlink:href="pii:B978-0-12-821791-7.00005-8" xlink:type="simple">327</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0398">
+                  <ce:index-heading>Within die (WID)</ce:index-heading>
+                  <ce:intra-ref id="intraref0467" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">451</ce:intra-ref>
+                  <ce:index-entry id="idx0399">
+                     <ce:index-heading>planarity</ce:index-heading>
+                     <ce:intra-ref id="intraref0468" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">456<ce:italic>f</ce:italic>
+                     </ce:intra-ref>
+                     <ce:intra-ref id="intraref0469" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">451</ce:intra-ref>
+                     <ce:intra-ref id="intraref0470" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">451</ce:intra-ref>
+                  </ce:index-entry>
+               </ce:index-entry>
+               <ce:index-entry id="idx0400">
+                  <ce:index-heading>Within wafer (WIW)</ce:index-heading>
+                  <ce:intra-ref id="intraref0471" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">451</ce:intra-ref>
+                  <ce:index-entry id="idx0401">
+                     <ce:index-heading>nonuniformity</ce:index-heading>
+                     <ce:intra-ref id="intraref0472" xlink:href="pii:B978-0-12-821791-7.00015-0" xlink:type="simple">456</ce:intra-ref>
+                  </ce:index-entry>
+               </ce:index-entry>
+               <ce:index-entry id="idx0402">
+                  <ce:index-heading>Within-wafer non-uniformities (WIWNU)</ce:index-heading>
+                  <ce:intra-ref id="intraref0473" xlink:href="pii:B978-0-12-821791-7.00001-0" xlink:type="simple">536</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0403">
+                  <ce:index-heading>Withindie nonuniformity (WIDNU)</ce:index-heading>
+                  <ce:intra-ref id="intraref0474" xlink:href="pii:B978-0-12-821791-7.00019-8" xlink:type="simple">145</ce:intra-ref>
+               </ce:index-entry>
+            </ce:index-sec>
+            <ce:index-sec id="indexW" view="all">
+               <ce:section-title id="indsect0023">X</ce:section-title>
+               <ce:index-entry id="idx0404">
+                  <ce:index-heading>X-ray diffraction (XRD)</ce:index-heading>
+                  <ce:intra-ref id="intraref0475" xlink:href="pii:B978-0-12-821791-7.00013-7" xlink:type="simple">204</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0405">
+                  <ce:index-heading>X-ray fluorescence (XRF)</ce:index-heading>
+                  <ce:intra-ref id="intraref0476" xlink:href="pii:B978-0-12-821791-7.00010-1" xlink:type="simple">521</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0406">
+                  <ce:index-heading>X-ray photoelectron spectroscopy</ce:index-heading>
+                  <ce:intra-ref id="intraref0477" xlink:href="pii:B978-0-12-821791-7.00008-3" xlink:type="simple">438</ce:intra-ref>
+               </ce:index-entry>
+               <ce:index-entry id="idx0407">
+                  <ce:index-heading>X-ray photoelectron spectroscopy analysis</ce:index-heading>
+                  <ce:intra-ref id="intraref0478" xlink:href="pii:B978-0-12-821791-7.00016-2" xlink:type="simple">42</ce:intra-ref>
+               </ce:index-entry>
+            </ce:index-sec>
+            <ce:index-sec id="indexX" view="all">
+               <ce:section-title id="indsect0024">Y</ce:section-title>
+               <ce:index-entry id="idx0408">
+                  <ce:index-heading>Young's modulus</ce:index-heading>
+                  <ce:intra-ref id="intraref0479" xlink:href="pii:B978-0-12-821791-7.00008-3" xlink:type="simple">414</ce:intra-ref>
+               </ce:index-entry>
+            </ce:index-sec>
+            <ce:index-sec id="indexY" view="all">
+               <ce:section-title id="indsect0025">Z</ce:section-title>
+               <ce:index-entry id="idx0409">
+                  <ce:index-heading>Zeta potential</ce:index-heading>
+                  <ce:intra-ref id="intraref0480" xlink:href="pii:B978-0-12-821791-7.00017-4" xlink:type="simple">367</ce:intra-ref>
+                  <ce:intra-ref id="intraref0481" xlink:href="pii:B978-0-12-821791-7.00017-4" xlink:type="simple">368</ce:intra-ref>
+               </ce:index-entry>
+            </ce:index-sec>
+         </ce:index>
+      </index>
+   </xocs:nonserial-item></xocs:doc></originalText></full-text-retrieval-response>

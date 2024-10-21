@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0141635910001443</prism:url><dc:identifier>doi:10.1016/j.precisioneng.2010.10.001</dc:identifier><eid>1-s2.0-S0141635910001443</eid><prism:doi>10.1016/j.precisioneng.2010.10.001</prism:doi><pii>S0141-6359(10)00144-3</pii><dc:title>Corrective polishing of complex ceramics geometries </dc:title><prism:publicationName>Precision Engineering</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>01416359</prism:issn><prism:volume>35</prism:volume><prism:issueIdentifier>2</prism:issueIdentifier><prism:startingPage>258</prism:startingPage><prism:endingPage>261</prism:endingPage><prism:pageRange>258-261</prism:pageRange><prism:number>2</prism:number><dc:format>application/xml</dc:format><prism:coverDate>2011-04-30</prism:coverDate><prism:coverDisplayDate>April 2011</prism:coverDisplayDate><prism:copyright>Copyright © 2010 Elsevier Inc. All rights reserved.</prism:copyright><prism:publisher>Elsevier Inc.</prism:publisher><dc:creator>Klocke, F.</dc:creator><dc:creator>Brecher, C.</dc:creator><dc:creator>Zunke, R.</dc:creator><dc:creator>Tuecks, R.</dc:creator><dc:description>
+                  High quality surfaces in terms of low roughness and high form accuracy are achieved by polishing as the essential finishing step. Polishing of brittle materials is an established process in science and industry. However, the machining is limited to planar or spherical geometries. The objective of this paper is to present first results to overcome this limitations indicated by processing advanced ceramics.
+                  In order to finish complex surfaces, a technological transfer of known parameters and conditions of 2-dimensional to zonal polishing is undertaken. To shorten the development of stable and reproducible processes the knowledge and understanding of the complex interactions of the 2-dimensional process is used. The applicability of these conditions is evaluated by extensive research on the zonal polishing setup. The used machine tool is capable of adjusting significant process factors, such as free controlled force and heterodyne velocity profiles. By use of a small tool the material removal is only affecting a zonal area of a complex surface. Based on preliminary investigations concerning the material removal function the scientific insight on zonal processes is extended. This first approach will be used for corrective polishing of zonal form deviations.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Chemo-mechanical Polishing</dcterms:subject><dcterms:subject>Advanced ceramics</dcterms:subject><dcterms:subject>Computer controlled polishing</dcterms:subject><dcterms:subject>Zonal polishing</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0141635910001443" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0141635910001443" rel="scidir"/></coredata><objects><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="126" height="14" size="466">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635910001443-si1.gif?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="558" height="414" size="90184">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635910001443-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="163" size="18257">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635910001443-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="376" height="236" size="39737">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635910001443-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="138" size="4801">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635910001443-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="344" height="362" size="47880">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635910001443-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="156" height="164" size="3768">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635910001443-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="339" height="198" size="29192">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635910001443-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="128" size="3216">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635910001443-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="339" height="185" size="29999">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635910001443-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="119" size="3201">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635910001443-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="488" height="218" size="33335">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635910001443-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="98" size="5732">https://api.elsevier.com/content/object/eid/1-s2.0-S0141635910001443-gr6.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>79751525415</scopus-id><scopus-eid>2-s2.0-79751525415</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/79751525415" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271963</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291787</xocs:ssid>
+         <xocs:ssid type="subj">291885</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Precision Engineering</xocs:srctitle>
+      <xocs:normalized-srctitle>PRECISIONENGINEERING</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20101010">2010-10-10</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20101010">2010-10-10</xocs:available-online-date>
+      <xocs:ew-transaction-id>2011-02-07T22:15:15</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0141635910001443</xocs:eid>
+      <xocs:pii-formatted>S0141-6359(10)00144-3</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0141635910001443</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.precisioneng.2010.10.001</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0141635911X00028</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T04:11:00.105838-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20110401</xocs:date-search-begin>
+      <xocs:date-search-end>20110430</xocs:date-search-end>
+      <xocs:year-nav>2011</xocs:year-nav>
+      <xocs:indexeddate epoch="1286668800">2010-10-10T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0141-6359</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>01416359</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>35</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>35</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>2</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>2</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 35, Issue 2</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>11</xocs:sort-order>
+      <xocs:first-fp>258</xocs:first-fp>
+      <xocs:last-lp>261</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>258</xocs:first-page>
+         <xocs:last-page>261</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201104</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>April 2011</xocs:cover-date-text>
+      <xocs:cover-date-start>2011-04-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2011-04-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2011</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Original Articles</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2010 Elsevier Inc. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>CORRECTIVEPOLISHINGCOMPLEXCERAMICSGEOMETRIES</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>KLOCKE</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>F</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental setup</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Materials</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Methods</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Machine</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Metrology</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Removal mechanisms</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Tool influence function by zonal polishing</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Investigations of typical process parameters</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>First steps towards corrective polishing</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="bib0005">
+            <xocs:ref-normalized-surname>BINGHAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>445</xocs:ref-first-fp>
+            <xocs:ref-last-lp>450</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0010">
+            <xocs:ref-normalized-surname>YI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>156</xocs:ref-first-fp>
+            <xocs:ref-last-lp>162</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0015">
+            <xocs:ref-normalized-surname>EVANS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>611</xocs:ref-first-fp>
+            <xocs:ref-last-lp>633</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0020">
+            <xocs:ref-normalized-surname>BRECHER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>23</xocs:ref-first-fp>
+            <xocs:ref-last-lp>26</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0025">
+            <xocs:ref-normalized-surname>WECK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>95</xocs:ref-first-fp>
+            <xocs:ref-last-lp>98</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0030">
+            <xocs:ref-normalized-surname>KLOCKE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>356</xocs:ref-first-fp>
+            <xocs:ref-last-lp>359</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0035">
+            <xocs:ref-normalized-surname>JIANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>267</xocs:ref-first-fp>
+            <xocs:ref-last-lp>278</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0040">
+            <xocs:ref-normalized-surname>HU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3919</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3925</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>KLOCKEX2011X258</xocs:refkey3>
+         <xocs:refkey4lp>KLOCKEX2011X258X261</xocs:refkey4lp>
+         <xocs:refkey4ai>KLOCKEX2011X258XF</xocs:refkey4ai>
+         <xocs:refkey5>KLOCKEX2011X258X261XF</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0141-6359(10)00144-3</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0141635910001443</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0141635910001443</xocs:eid>
+         <xocs:doi>10.1016/j.precisioneng.2010.10.001</xocs:doi>
+         <xocs:cid>271963</xocs:cid>
+         <xocs:timestamp>2011-02-09T11:38:28.371919-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2011-04-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2011-04-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0141635910001443-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141635910001443/MAIN/application/pdf/8ff73f7fb9929c448eb1554f0d9cfc94/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0141635910001443/MAIN/application/pdf/8ff73f7fb9929c448eb1554f0d9cfc94/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>728836</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0141635910001443-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0141635910001443/PREVIEW/image/png/58bbc3baf8fbcfe9c60402f6d924450f/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141635910001443/PREVIEW/image/png/58bbc3baf8fbcfe9c60402f6d924450f/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>55894</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635910001443-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141635910001443/STRIPIN/image/gif/25b9c56485a9642a78c3c796defcb698/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0141635910001443/STRIPIN/image/gif/25b9c56485a9642a78c3c796defcb698/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>466</xocs:filesize>
+               <xocs:pixel-height>14</xocs:pixel-height>
+               <xocs:pixel-width>126</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635910001443-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141635910001443/gr1/DOWNSAMPLED/image/jpeg/22c2d5f7c4925da7f5d31de84d03a078/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0141635910001443/gr1/DOWNSAMPLED/image/jpeg/22c2d5f7c4925da7f5d31de84d03a078/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>90184</xocs:filesize>
+               <xocs:pixel-height>414</xocs:pixel-height>
+               <xocs:pixel-width>558</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635910001443-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141635910001443/gr1/THUMBNAIL/image/gif/b91471007d5ae46d5709c55b7f66fe07/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0141635910001443/gr1/THUMBNAIL/image/gif/b91471007d5ae46d5709c55b7f66fe07/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>18257</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635910001443-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141635910001443/gr2/DOWNSAMPLED/image/jpeg/b25af0608e3fcb62a6035d0574a4c678/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0141635910001443/gr2/DOWNSAMPLED/image/jpeg/b25af0608e3fcb62a6035d0574a4c678/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>39737</xocs:filesize>
+               <xocs:pixel-height>236</xocs:pixel-height>
+               <xocs:pixel-width>376</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635910001443-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141635910001443/gr2/THUMBNAIL/image/gif/29c8742bf51bb9412ff4997c7128ad2f/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0141635910001443/gr2/THUMBNAIL/image/gif/29c8742bf51bb9412ff4997c7128ad2f/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4801</xocs:filesize>
+               <xocs:pixel-height>138</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635910001443-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141635910001443/gr3/DOWNSAMPLED/image/jpeg/afd962f5a3b67978e72f561f8d0913c4/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0141635910001443/gr3/DOWNSAMPLED/image/jpeg/afd962f5a3b67978e72f561f8d0913c4/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>47880</xocs:filesize>
+               <xocs:pixel-height>362</xocs:pixel-height>
+               <xocs:pixel-width>344</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635910001443-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141635910001443/gr3/THUMBNAIL/image/gif/e40133623732bb3c9b086a283eeae70e/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0141635910001443/gr3/THUMBNAIL/image/gif/e40133623732bb3c9b086a283eeae70e/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3768</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>156</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635910001443-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141635910001443/gr4/DOWNSAMPLED/image/jpeg/a404c6ebaaf491583487c442049e601d/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0141635910001443/gr4/DOWNSAMPLED/image/jpeg/a404c6ebaaf491583487c442049e601d/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>29192</xocs:filesize>
+               <xocs:pixel-height>198</xocs:pixel-height>
+               <xocs:pixel-width>339</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635910001443-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141635910001443/gr4/THUMBNAIL/image/gif/f44b2d8a12d09b090793c9b1fa894cb7/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0141635910001443/gr4/THUMBNAIL/image/gif/f44b2d8a12d09b090793c9b1fa894cb7/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3216</xocs:filesize>
+               <xocs:pixel-height>128</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635910001443-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141635910001443/gr5/DOWNSAMPLED/image/jpeg/ade0736e410e16d0052183889e5989ac/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0141635910001443/gr5/DOWNSAMPLED/image/jpeg/ade0736e410e16d0052183889e5989ac/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>29999</xocs:filesize>
+               <xocs:pixel-height>185</xocs:pixel-height>
+               <xocs:pixel-width>339</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635910001443-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141635910001443/gr5/THUMBNAIL/image/gif/323ad262407504dab19ab29cc4d09217/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0141635910001443/gr5/THUMBNAIL/image/gif/323ad262407504dab19ab29cc4d09217/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3201</xocs:filesize>
+               <xocs:pixel-height>119</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635910001443-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141635910001443/gr6/DOWNSAMPLED/image/jpeg/7f840a311952f6c280fa4d16942aa1c9/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0141635910001443/gr6/DOWNSAMPLED/image/jpeg/7f840a311952f6c280fa4d16942aa1c9/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>33335</xocs:filesize>
+               <xocs:pixel-height>218</xocs:pixel-height>
+               <xocs:pixel-width>488</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0141635910001443-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0141635910001443/gr6/THUMBNAIL/image/gif/6db93be69d8ae977f2356fa95178b012/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0141635910001443/gr6/THUMBNAIL/image/gif/6db93be69d8ae977f2356fa95178b012/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5732</xocs:filesize>
+               <xocs:pixel-height>98</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.1" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>PRE</jid>
+            <aid>5789</aid>
+            <ce:pii>S0141-6359(10)00144-3</ce:pii>
+            <ce:doi>10.1016/j.precisioneng.2010.10.001</ce:doi>
+            <ce:copyright type="full-transfer" year="2010">Elsevier Inc.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="spar0015" view="all">(a) Polishing machine, (b) closer view of process zone and (c) tool with polyurethane foil.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="fig0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="spar0020" view="all">Assumed removal mechanisms of polishing silicon nitride with ceria slurry.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="fig0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="spar0025" view="all">(a) Determination of eccentric radius as the main parameter for achieving the required and (b) Gaussian profile of the influence function.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="fig0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="spar0030" view="all">Evaluation of process stability.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="fig0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="spar0035" view="all">Dependency of material removal on (a) relative velocity <ce:italic>v</ce:italic>
+                     <ce:inf loc="post">r</ce:inf> and (b) process force <ce:italic>F</ce:italic>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="fig0030">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="spar0040" view="all">Correction of spherical form deviation on a planar workpiece out of silicon nitride by zonal polishing.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl0005" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="spar0045" view="all">Parameter range for the DoE.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="2">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" valign="middle">Polishing force <italic>F</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" valign="middle">0.5–20<hsp sp="0.25"/>N</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" valign="middle">Force increment</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" valign="middle">0.2<hsp sp="0.25"/>N</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" valign="middle">Eccentric frequency <italic>f</italic>
+                           <inf loc="post">ecc</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" valign="middle">1–10<hsp sp="0.25"/>Hz</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" valign="middle">Eccentric radius <italic>r</italic>
+                           <inf loc="post">ecc</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" valign="middle">0.2–4<hsp sp="0.25"/>mm</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" valign="middle">Spindle revolutions <italic>n</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" valign="middle">500–5000<hsp sp="0.25"/>min<sup loc="post">−1</sup>
+                        </entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title>Corrective polishing of complex ceramics geometries</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>F.</ce:given-name>
+                  <ce:surname>Klocke</ce:surname>
+                  <ce:cross-ref refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>C.</ce:given-name>
+                  <ce:surname>Brecher</ce:surname>
+                  <ce:cross-ref refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>R.</ce:given-name>
+                  <ce:surname>Zunke</ce:surname>
+                  <ce:cross-ref refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>R.</ce:given-name>
+                  <ce:surname>Tuecks</ce:surname>
+                  <ce:cross-ref refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff0005">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Department of Process Technology, Fraunhofer Institute for Production Technology, Steinbachstr. 17, 52064 Aachen, Germany</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff0010">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Department of Production Machines, Fraunhofer Institute for Production Technology, Aachen, Germany</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="31" month="7" year="2008"/>
+            <ce:date-accepted day="3" month="10" year="2010"/>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para id="spar0005" view="all">High quality surfaces in terms of low roughness and high form accuracy are achieved by polishing as the essential finishing step. Polishing of brittle materials is an established process in science and industry. However, the machining is limited to planar or spherical geometries. The objective of this paper is to present first results to overcome this limitations indicated by processing advanced ceramics.</ce:simple-para>
+                  <ce:simple-para id="spar0010" view="all">In order to finish complex surfaces, a technological transfer of known parameters and conditions of 2-dimensional to zonal polishing is undertaken. To shorten the development of stable and reproducible processes the knowledge and understanding of the complex interactions of the 2-dimensional process is used. The applicability of these conditions is evaluated by extensive research on the zonal polishing setup. The used machine tool is capable of adjusting significant process factors, such as free controlled force and heterodyne velocity profiles. By use of a small tool the material removal is only affecting a zonal area of a complex surface. Based on preliminary investigations concerning the material removal function the scientific insight on zonal processes is extended. This first approach will be used for corrective polishing of zonal form deviations.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Chemo-mechanical Polishing</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Advanced ceramics</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Computer controlled polishing</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Zonal polishing</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para id="par0005" view="all">Advanced ceramics are primarily used in adverse environments and applications, due to their high hardness, remarkable corrosion resistance, low thermal expansion, high thermal shock resistance and low weight. Representatives are silicon nitride balls in bearing components and silicon carbide mirrors for astronomical optics devices. Furthermore, these non-oxide ceramics can be used by mold manufacturers for molding complex optics components out of glass. In order to obtain the low roughness requirements of the optical systems, a defect free surface and an accurate form is indispensable. Despite diverse scientific investigations and developments, today's process strategies for computer controlled polishing <ce:cross-refs refid="bib0005 bib0010 bib0015">[1–3]</ce:cross-refs> are still insufficient. The high amount of time and effort needed for the design of robust strategies, especially for small samples and free formed geometries turn out as the biggest deficits.</ce:para>
+                  <ce:para id="par0010" view="all">The main ambition of the ongoing scientific investigations is an efficient design of polishing strategies (process parameters and polishing system) for a computer controlled process (referred to as zonal polishing). This paper presents the methodology which leads to a successful technology transfer from a conventional process (referred to as 2-dimensional) to a zonal polishing process. Important issues are the determination of stable process conditions with reliably high material removal rates (MRR) for the zonal correction of form deviations of complex geometries.</ce:para>
+               </ce:section>
+               <ce:section id="sec0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Experimental setup</ce:section-title>
+                  <ce:section id="sec0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title>Materials</ce:section-title>
+                     <ce:para id="par0015" view="all">The transfer of process strategies from “2-dimensional to zonal” is exemplified by processing of hot isostatically pressed silicon nitride as one of the most popular non-oxide ceramics. The specimen was ground using diamond grinding wheels (2-dimensional) and polished for the investigations of influence functions (zonal), respectively. The default polishing systems use polyurethane foils as tools and ceria slurry based on deionized water.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title>Methods</ce:section-title>
+                     <ce:para id="par0020" view="all">Compared to zonal polishing the 2-dimensional process has a number of advantages in terms of relatively simplified process development and scientific investigations, such as high MRR, clearly measurable or even visible effects with respect to technological interactions and straightforward use of metrology of the processing results. Hence, the scientific understanding of process technological aspects can be elaborated with reasonable efforts and used to develop polishing strategies for commonly used materials.</ce:para>
+                     <ce:para id="par0025" view="all">However, this specific process is not capable of polishing free form surfaces which becomes more and more important in a variety of innovative applications. To overcome these limitations, the zonal polishing process can be used. Unfortunately, an apparent lack of understanding and the intricate procedure of investigations hinder the holistic development of polishing strategies for the zonal process. Therefore, the approach of this paper is to use the polishing strategies developed with an established, conventional polishing process (2-dimensional) and transfer these to a zonal polishing machine tool.</ce:para>
+                     <ce:para id="par0030" view="all">Based on theoretical considerations the optimization of the zonal process includes practical investigations concerning the formation and stability of the influence function and the so called “foot-print”, respectively. For this purpose, experiments with varying process parameters as pressure and relative speed as well as specific zonal process parameters, such as eccentric frequency and radius, were conducted. These preliminary investigations are of vital importance for establishing a stable correction process of form deviations of complex geometries as former investigations in steel polishing proved <ce:cross-ref refid="bib0020">[4]</ce:cross-ref>.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0025" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title>Machine</ce:section-title>
+                     <ce:para id="par0035" view="all">The presented studies were carried out on a CNC-controlled polishing machine (2-dimensional process) and an adaptable 5-axes polishing module (zonal process) which was developed at Fraunhofer IPT <ce:cross-refs refid="bib0020 bib0025">[4,5]</ce:cross-refs>. The required flexibility is ensured by the adaption of the polishing module to a 3-axes machine (<ce:cross-ref refid="fig0005">Fig. 1</ce:cross-ref>a)<ce:float-anchor refid="fig0005"/>. Due to the double V-kinematic structure featuring 5 degrees of freedom the module is capable of adjusting its alignment to continuously ensure a perpendicular angle of contact between tool and surface. Furthermore, an individual eccentric movement can be superimposed to the rotating polishing tool at different angles (<ce:cross-ref refid="fig0005">Fig. 1</ce:cross-ref>b), decisively influencing the characteristic removal profile of the tool. The applied polishing tools (<ce:cross-ref refid="fig0005">Fig. 1</ce:cross-ref>c) feature a flat plastic base body with a diameter of 12<ce:hsp sp="0.25"/>mm and can be covered with various polishing foils. In addition to the position-controlled mode of the <ce:italic>z</ce:italic>-axis, the system can change to force-controlled mode in order to permanently assure a steady allocation of pressure in the process zone.</ce:para>
+                     <ce:para id="par0040" view="all">In order to realize a corrective zonal polishing process a dwell-time based algorithm is used. As input data for this algorithm, the desired geometry is needed. In addition, a form measurement taken either by tactile or optical metrology is used to determine the local form deviation. The third input is the influence function of the zonal polishing tool which depends on process parameters and polishing system. The subsequent calculation results in a dwell-time controlled path of the polishing tool over the sample and particular process parameters of the polishing process. In order to allow corrections of form deviations on complex geometries a stable, reproducible and deterministically adjustable influence function is of great importance. <ce:cross-ref refid="tbl0005">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="tbl0005"/> shows the parameter range of the polishing module for the design of experiments (DoE).</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0030" view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title>Metrology</ce:section-title>
+                     <ce:para id="par0045" view="all">The MRR for developing efficient polishing strategies are quantified by weight measurements of the samples (2-dimensional process) and mathematically estimated by measuring the geometry of the influence function (zonal process), respectively. The latter is realized using a Form TalySurf (tactical) measurement device. The surface quality was determined by a white light interferometer (optical).</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec0035" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results and discussion</ce:section-title>
+                  <ce:section id="sec0040" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title>Removal mechanisms</ce:section-title>
+                     <ce:para id="par0050" view="all">Former investigations <ce:cross-ref refid="bib0030">[6]</ce:cross-ref> reveal satisfying results using ceria and diamond based slurries in a conventional polishing process of silicon nitride. Achievable MRR are up to 0.3<ce:hsp sp="0.25"/>μm/min. The surface qualities of both polishing processes are highly reproducible and yield to optical surfaces (Ra 1–2<ce:hsp sp="0.25"/>nm, Rt 20–30<ce:hsp sp="0.25"/>nm). However, the use of ceria slurry results in a more efficient process compared to diamond slurry due to less machining efforts. While applying the same applied pressure, less spindle revolutions and certainly less monetary effort are needed. It can be assumed that the advantage of ceria slurry is based on an interaction of chemical and mechanical removal mechanisms as outlined in <ce:cross-ref refid="fig0010">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="fig0010"/>. The beneficial process conditions can be explained by hydrolysis of the silicon nitride surface in aqueous solutions in combination with the so called “chemical tooth” ability of ceria <ce:cross-refs refid="bib0015 bib0030 bib0035 bib0040">[3,6–8]</ce:cross-refs>. An indicator of the oxidation of silicon nitride by forming sodium hydroxide is shown by an increase of pH (<ce:cross-ref refid="fig0010">Fig. 2</ce:cross-ref>).</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0045" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title>Tool influence function by zonal polishing</ce:section-title>
+                     <ce:para id="par0055" view="all">The previously identified polishing strategies are used for first experiments regarding the influence function of the zonal process. Taking the Preston hypothesis for granted (Eq. <ce:cross-ref refid="eq0005">(1)</ce:cross-ref>), a linear increase of the MRR should be realized starting from the center of the rotating tool. <ce:cross-ref refid="fig0015">Fig. 3</ce:cross-ref>a<ce:float-anchor refid="fig0015"/> shows the characteristic W-profile by the adjusted parameters pressure <ce:italic>p</ce:italic> and relative velocity <ce:italic>v</ce:italic>
+                        <ce:inf loc="post">r</ce:inf>. The Preston coefficient <ce:italic>K</ce:italic>
+                        <ce:inf loc="post">P</ce:inf> represents various other influences on the process.<ce:display>
+                           <ce:formula id="eq0005">
+                              <ce:label>(1)</ce:label>
+                              <mml:math altimg="si1.gif" overflow="scroll">
+                                 <mml:mrow>
+                                    <mml:mi>M</mml:mi>
+                                    <mml:mi>R</mml:mi>
+                                    <mml:mi>R</mml:mi>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:msub>
+                                       <mml:mi>K</mml:mi>
+                                       <mml:mtext>P</mml:mtext>
+                                    </mml:msub>
+                                    <mml:mo>⋅</mml:mo>
+                                    <mml:mi>p</mml:mi>
+                                    <mml:mo>⋅</mml:mo>
+                                    <mml:msub>
+                                       <mml:mi>v</mml:mi>
+                                       <mml:mtext>r</mml:mtext>
+                                    </mml:msub>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>
+                     </ce:para>
+                     <ce:para id="par0060" view="all">However, the maximum material removal is not found on the outer diameter but at one half to two thirds of the radius of the polishing tool, forming the influence function. Looking further towards the boundary of the influence function, the removal depth declines steadily. This simple trial emphasizes the fact that either an inhomogeneous pressure profile or an influence of the relative velocity in the gap between tool and sample is responsible for the removal profile. The influence function is characterized by depth <ce:italic>d</ce:italic>
+                        <ce:inf loc="post">IF</ce:inf> and radius <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">IF</ce:inf>. Preliminary investigations on steel polishing have shown that <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">IF</ce:inf> can be used for adjusting the eccentricity of the polishing tool movement in order to achieve a Gaussian profile of the influence function <ce:cross-ref refid="bib0010">[2]</ce:cross-ref>. The investigations allowed to determine the ratio of <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">IF</ce:inf> and eccentric radius <ce:italic>r</ce:italic>
+                        <ce:inf loc="post">ecc</ce:inf> to 1:2. By using this value and an experimentally identified value for the eccentric frequency <ce:italic>f</ce:italic>
+                        <ce:inf loc="post">ecc</ce:inf> of 4<ce:hsp sp="0.25"/>Hz the required Gaussian profile can be achieved (<ce:cross-ref refid="fig0015">Fig. 3</ce:cross-ref>b). The appropriate volume of removed material V<ce:inf loc="post">IF</ce:inf> was computed by importing the 2D-graph of a Form TalySurf in a specially developed Matlab program and amounts to 0.005<ce:hsp sp="0.25"/>mm<ce:sup loc="post">3</ce:sup> on average (after polishing time of 240<ce:hsp sp="0.25"/>s).</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0050" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title>Investigations of typical process parameters</ce:section-title>
+                     <ce:para id="par0065" view="all">As the process parameters lead to reproducible Gaussian profiles the time related stability and corresponding MRR are verified. <ce:cross-ref refid="fig0020">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="fig0020"/> shows a slight non-linearity between the removed material V<ce:inf loc="post">IF</ce:inf> after 120<ce:hsp sp="0.25"/>s and 240<ce:hsp sp="0.25"/>s, which can be explained by incomplete saturation of the polishing foil with ceria slurry after a process duration of 120<ce:hsp sp="0.25"/>s.</ce:para>
+                     <ce:para id="par0070" view="all">Therefore, a preparation of the polishing tool before starting the intrinsic polishing process was established. A linear increase of the material removal with increasing dwell-time (<ce:cross-ref refid="fig0020">Fig. 4</ce:cross-ref>) is a main requirement for a form correction. The overall process stability was proven by up to 3<ce:hsp sp="0.25"/>h. For further understanding, a variation of the tool revolutions over constant applied pressure and vice versa has been conducted. Unlike the results of investigations of the steel polishing process <ce:cross-ref refid="bib0020">[4]</ce:cross-ref>, the influence of changes of relative velocity on MRR is far more sensitive. Increasing revolutions lead to an increase of the MRR (<ce:cross-ref refid="fig0025">Fig. 5</ce:cross-ref>a)<ce:float-anchor refid="fig0025"/>. Furthermore, <ce:cross-ref refid="fig0025">Fig. 5</ce:cross-ref>b shows that an increase of normal force and applied pressure, respectively, leads to rising MRR. The behavior is approximately linear.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0055" view="all">
+                     <ce:label>3.4</ce:label>
+                     <ce:section-title>First steps towards corrective polishing</ce:section-title>
+                     <ce:para id="par0075" view="all">Taking advantage of the shown process stability and reproducibility the potential of first steps towards corrective polishing is given. Based on the above mentioned process parameters a stable Gaussian profile of the influence function can be secured. Together with the measured form deviation as well as the desired planar surface the algorithm provides a dwell-time based CNC-program. <ce:cross-ref refid="fig0030">Fig. 6</ce:cross-ref>
+                        <ce:float-anchor refid="fig0030"/> reveals first results of the zonal polishing process of silicon nitride using polyurethane foils and ceria slurry.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec0060" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusion</ce:section-title>
+                  <ce:para id="par0080" view="all">This paper showed the results of scientific studies with the goal of shortening the development of a stable and reproducible polishing process for corrective machining of complex ceramics samples. The transfer was successful by rendering unnecessary intensive preparatory work on polishing strategies and resulted in satisfying overall results with a high and reproducible MRR and surface quality. In terms of the machine parameters, the eccentric frequency shows only a small impact for the profile formation. However, the eccentric radius, the applied normal force and the relative velocity do have significant impact on the formation of the influence function determining the process efficiency. These technological insights were used to accomplish a first corrective polishing by the zonal process. The ongoing research does include the expanding of geometrical complexity up to free formed surfaces of various advanced ceramics. The results will be presented in future publications.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgements</ce:section-title>
+               <ce:para id="par0085" view="all">We sincerely thank the <ce:grant-sponsor xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">German Research Foundation</ce:grant-sponsor> (DFG) for financial support of the Collaborative Research Center SFB/TR4 (RWTH Aachen and University Bremen (Germany), Oklahoma State University at Stillwater (USA)).</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bibl0005" view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibs0005">
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.G.</ce:given-name>
+                                 <ce:surname>Bingham</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.D.</ce:given-name>
+                                 <ce:surname>Walker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Brooks</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Freemann</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A novel automated process for aspheric surfaces</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc SPIE</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4093</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>445</sb:first-page>
+                              <sb:last-page>450</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Yi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Hezlep</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Pol</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A computer controlled optical pin polishing machine</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Mater Proc Technol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>146</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>156</sb:first-page>
+                              <sb:last-page>162</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Evans</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Paul</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Dornfeld</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Lucca</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Byrne</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Tricard</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Material removal mechanisms in lapping and polishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>CIRP Ann</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>611</sb:first-page>
+                              <sb:last-page>633</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Brecher</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wenzel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Kinematic influences on the formation of the footprint during local polishing of steel</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>WGP Ann</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>XIII</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>23</sb:first-page>
+                              <sb:last-page>26</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Weck</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wenzel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Adaptable 5-axes polishing machine-head</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Prod Eng</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>95</sb:first-page>
+                              <sb:last-page>98</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Klocke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Zunke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Dambon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemo-mechanical polishing of silicon nitride</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc euSPEN</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>356</sb:first-page>
+                              <sb:last-page>359</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Komanduri</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>On the finishing of Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> balls for bearing applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Wear</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>215</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>267</sb:first-page>
+                              <sb:last-page>278</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.Z.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Gutmann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.P.</ce:given-name>
+                                 <ce:surname>Chow</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Silicon nitride chemical–mechanical polishing mechanisms</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Electrochem Soc</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>145</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3919</sb:first-page>
+                              <sb:last-page>3925</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

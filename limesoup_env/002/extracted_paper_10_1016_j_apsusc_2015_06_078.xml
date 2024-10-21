@@ -1,0 +1,2118 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0169433215014221</prism:url><dc:identifier>doi:10.1016/j.apsusc.2015.06.078</dc:identifier><eid>1-s2.0-S0169433215014221</eid><prism:doi>10.1016/j.apsusc.2015.06.078</prism:doi><pii>S0169-4332(15)01422-1</pii><dc:title>Interpolymer complexes of poly(acrylic acid) and poly(ethylene glycol) for low dishing in STI CMP </dc:title><prism:publicationName>Applied Surface Science</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>01694332</prism:issn><prism:volume>353</prism:volume><prism:startingPage>499</prism:startingPage><prism:endingPage>503</prism:endingPage><prism:pageRange>499-503</prism:pageRange><dc:format>application/xml</dc:format><prism:coverDate>2015-10-30</prism:coverDate><prism:coverDisplayDate>30 October 2015</prism:coverDisplayDate><prism:copyright>Copyright © 2015 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Seo, Jihoon</dc:creator><dc:creator>Moon, Jinok</dc:creator><dc:creator>Moon, Sunho</dc:creator><dc:creator>Paik, Ungyu</dc:creator><dc:description>
+                  Although poly(acrylic acid) (PAA) has been used as a passivation agent for high polish rate selectivity between SiO2 and Si3N4 in STI CMP, it causes severe dishing during the over-polishing step. Here, we fabricated interpolymer complexes of PAA and poly(ethylene glycol) (PEG) as passivation agent for low dishing as well as high selectivity. PAA and PEG form a cross-linked network structure through H-bonding, which is called an “interpolymer complex”. During the over-polishing step, the cross-linked network structure of the PAA-PEG interpolymer complex prevents abrasives from polishing SiO2 in the trenches, resulting in a significant decrease in dishing. These results provide researchers with a new approach toward passivation agents to provide low dishing in STI CMP.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Passivation agent</dcterms:subject><dcterms:subject>PAA</dcterms:subject><dcterms:subject>PEG</dcterms:subject><dcterms:subject>Interpolymer complexes</dcterms:subject><dcterms:subject>Dishing</dcterms:subject><dcterms:subject>CMP</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0169433215014221" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0169433215014221" rel="scidir"/></coredata><objects><object ref="fx1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="155" size="11519">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215014221-fx1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="128" height="164" size="16396">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215014221-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="86" size="7386">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215014221-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="80" size="6752">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215014221-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="158" size="10501">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215014221-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="81" size="6219">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215014221-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="fx1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="282" height="200" size="18949">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215014221-fx1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="376" height="480" size="75697">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215014221-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="753" height="296" size="63259">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215014221-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="753" height="276" size="60623">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215014221-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="357" height="257" size="26687">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215014221-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="753" height="279" size="54980">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215014221-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="1104570">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215014221-mmc1.docx?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="97" height="44" size="644">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215014221-si1.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>84941952201</scopus-id><scopus-eid>2-s2.0-84941952201</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84941952201" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271533</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291719</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291893</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Applied Surface Science</xocs:srctitle>
+      <xocs:normalized-srctitle>APPLIEDSURFACESCIENCE</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20150622">2015-06-22</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20150622">2015-06-22</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20150706">2015-07-06</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20150706">2015-07-06</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2016-04-15T06:22:52</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0169433215014221</xocs:eid>
+      <xocs:pii-formatted>S0169-4332(15)01422-1</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0169433215014221</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.apsusc.2015.06.078</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0169433215X00249</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160902">2016-09-02T11:56:12.844616-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20151030</xocs:date-search-begin>
+      <xocs:year-nav>2015</xocs:year-nav>
+      <xocs:indexeddate epoch="1434990898">2015-06-22T16:34:58.056919Z</xocs:indexeddate>
+      <xocs:articleinfo>absattachment articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table e-component body mmlmath acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast grantsponsor grantsponsorid highlightsabst primabst ref specialabst</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0169-4332</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>01694332</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>353</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>353</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 353</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>65</xocs:sort-order>
+      <xocs:first-fp>499</xocs:first-fp>
+      <xocs:last-lp>503</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>499</xocs:first-page>
+         <xocs:last-page>503</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20151030</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>30 October 2015</xocs:cover-date-text>
+      <xocs:cover-date-start>2015-10-30</xocs:cover-date-start>
+      <xocs:cover-date-year>2015</xocs:cover-date-year>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2015 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>INTERPOLYMERCOMPLEXESPOLYACRYLICACIDPOLYETHYLENEGLYCOLFORLOWDISHINGINSTICMP</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>SEO</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Suspension preparations</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Characterization methods</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Chemical mechanical planarization (CMP)</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Summary</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary data</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0160">
+            <xocs:ref-normalized-surname>OLIVER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CHEMICALMECHANICALPLANARIZATIONSEMICONDUCTORMATERIALS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0165">
+            <xocs:ref-normalized-surname>STEIGERWALD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CHEMICALMECHANICALPLANARIZATIONMICROELECTRONICMATERIALS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0170">
+            <xocs:ref-normalized-surname>SINGH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>743</xocs:ref-first-fp>
+            <xocs:ref-last-lp>751</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0175">
+            <xocs:ref-normalized-surname>LIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1751</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1754</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0180">
+            <xocs:ref-normalized-surname>SEO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4351</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4356</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0185">
+            <xocs:ref-normalized-surname>CHO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>473</xocs:ref-first-fp>
+            <xocs:ref-last-lp>479</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0190">
+            <xocs:ref-normalized-surname>CARTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>G218</xocs:ref-first-fp>
+            <xocs:ref-last-lp>G221</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0195">
+            <xocs:ref-normalized-surname>NISHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>HANDBOOKSEMICONDUCTORMANUFACTURINGTECHNOLOGY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0200">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>49</xocs:ref-first-fp>
+            <xocs:ref-last-lp>54</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0205">
+            <xocs:ref-normalized-surname>KANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>777</xocs:ref-first-fp>
+            <xocs:ref-last-lp>787</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0210">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>48</xocs:ref-first-fp>
+            <xocs:ref-last-lp>52</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0215">
+            <xocs:ref-normalized-surname>HACKLEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2315</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2325</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0220">
+            <xocs:ref-normalized-surname>IKAWA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1505</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1514</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0225">
+            <xocs:ref-normalized-surname>ILIOPOULOS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>171</xocs:ref-first-fp>
+            <xocs:ref-last-lp>178</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0230">
+            <xocs:ref-normalized-surname>KHUTORYANSKIY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3785</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3790</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0235">
+            <xocs:ref-normalized-surname>EUSTACE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>707</xocs:ref-first-fp>
+            <xocs:ref-last-lp>716</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0240">
+            <xocs:ref-normalized-surname>NURKEEVA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>365</xocs:ref-first-fp>
+            <xocs:ref-last-lp>369</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0245">
+            <xocs:ref-normalized-surname>MUN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>282</xocs:ref-first-fp>
+            <xocs:ref-last-lp>289</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0250">
+            <xocs:ref-normalized-surname>ILIOPOULOS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>171</xocs:ref-first-fp>
+            <xocs:ref-last-lp>175</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0255">
+            <xocs:ref-normalized-surname>PENTA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>986</xocs:ref-first-fp>
+            <xocs:ref-last-lp>992</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0260">
+            <xocs:ref-normalized-surname>KRIMM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1976</xocs:ref-pub-year>
+            <xocs:ref-first-fp>121</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>JOURNALPOLYMERSCIENCEPOLYMERLETTERSEDITION</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>INFRAREDSPECTRACOMPLEXMOLECULESVOL13RDED</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0265">
+            <xocs:ref-normalized-surname>LU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3022</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3029</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0270">
+            <xocs:ref-normalized-surname>LAXTON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9268</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9272</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0275">
+            <xocs:ref-normalized-surname>EDWARDS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>243</xocs:ref-first-fp>
+            <xocs:ref-last-lp>297</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0280">
+            <xocs:ref-normalized-surname>CASTELLETTO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1492</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1501</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0285">
+            <xocs:ref-normalized-surname>MATHUR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>92</xocs:ref-first-fp>
+            <xocs:ref-last-lp>98</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0290">
+            <xocs:ref-normalized-surname>JOO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>12</xocs:ref-first-fp>
+            <xocs:ref-last-lp>18</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0295">
+            <xocs:ref-normalized-surname>HE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>475</xocs:ref-first-fp>
+            <xocs:ref-last-lp>572</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0300">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>64</xocs:ref-first-fp>
+            <xocs:ref-last-lp>67</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0305">
+            <xocs:ref-normalized-surname>PEDDETI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>H254</xocs:ref-first-fp>
+            <xocs:ref-last-lp>H257</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0310">
+            <xocs:ref-normalized-surname>PEDDETI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>61</xocs:ref-first-fp>
+            <xocs:ref-last-lp>66</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>SEOX2015X499</xocs:refkey3>
+         <xocs:refkey4lp>SEOX2015X499X503</xocs:refkey4lp>
+         <xocs:refkey4ai>SEOX2015X499XJ</xocs:refkey4ai>
+         <xocs:refkey5>SEOX2015X499X503XJ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-embargo-status>UnderEmbargo</xocs:sa-embargo-status>
+         <xocs:sa-start-date>2017-07-06T00:00:00Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0169-4332(15)01422-1</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0169433215014221</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0169433215014221</xocs:eid>
+         <xocs:doi>10.1016/j.apsusc.2015.06.078</xocs:doi>
+         <xocs:cid>271533</xocs:cid>
+         <xocs:timestamp>2016-04-15T01:52:04.60421-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2015-10-30</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0169433215014221-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433215014221/MAIN/application/pdf/bb0d72d5c58e6812d325cb929835640d/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215014221/MAIN/application/pdf/bb0d72d5c58e6812d325cb929835640d/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>857051</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0169433215014221-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433215014221/PREVIEW/image/png/92fef5c8e5c4ad8426e576c2e47eaa4e/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215014221/PREVIEW/image/png/92fef5c8e5c4ad8426e576c2e47eaa4e/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>57076</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215014221-fx1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433215014221/fx1/THUMBNAIL/image/gif/ccffefd87a4e3db0cc1c1370c3d69680/fx1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215014221/fx1/THUMBNAIL/image/gif/ccffefd87a4e3db0cc1c1370c3d69680/fx1.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11519</xocs:filesize>
+               <xocs:pixel-height>155</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215014221-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433215014221/gr1/THUMBNAIL/image/gif/ae0286294fbb646a2cf61143cdf71480/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215014221/gr1/THUMBNAIL/image/gif/ae0286294fbb646a2cf61143cdf71480/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>16396</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>128</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215014221-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433215014221/gr2/THUMBNAIL/image/gif/8a7bd2d5bbdc9289da2fef1acde48ec8/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215014221/gr2/THUMBNAIL/image/gif/8a7bd2d5bbdc9289da2fef1acde48ec8/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7386</xocs:filesize>
+               <xocs:pixel-height>86</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215014221-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433215014221/gr3/THUMBNAIL/image/gif/0799ada537216c1d5bd2cdaf9cb85e76/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215014221/gr3/THUMBNAIL/image/gif/0799ada537216c1d5bd2cdaf9cb85e76/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6752</xocs:filesize>
+               <xocs:pixel-height>80</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215014221-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433215014221/gr4/THUMBNAIL/image/gif/b9fda5277a0e855c95a66742620d1251/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215014221/gr4/THUMBNAIL/image/gif/b9fda5277a0e855c95a66742620d1251/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10501</xocs:filesize>
+               <xocs:pixel-height>158</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215014221-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433215014221/gr5/THUMBNAIL/image/gif/692da25868e32727eb0ca83e9f48f707/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215014221/gr5/THUMBNAIL/image/gif/692da25868e32727eb0ca83e9f48f707/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6219</xocs:filesize>
+               <xocs:pixel-height>81</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215014221-fx1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433215014221/fx1/DOWNSAMPLED/image/jpeg/63b3c6a0e13b24ca0aebb85b8506b652/fx1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215014221/fx1/DOWNSAMPLED/image/jpeg/63b3c6a0e13b24ca0aebb85b8506b652/fx1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>18949</xocs:filesize>
+               <xocs:pixel-height>200</xocs:pixel-height>
+               <xocs:pixel-width>282</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215014221-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433215014221/gr1/DOWNSAMPLED/image/jpeg/935a86698f89ed73bbf965c5784f9e8d/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215014221/gr1/DOWNSAMPLED/image/jpeg/935a86698f89ed73bbf965c5784f9e8d/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>75697</xocs:filesize>
+               <xocs:pixel-height>480</xocs:pixel-height>
+               <xocs:pixel-width>376</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215014221-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433215014221/gr2/DOWNSAMPLED/image/jpeg/1e3f57f4e5cf57a523920c79e19037ae/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215014221/gr2/DOWNSAMPLED/image/jpeg/1e3f57f4e5cf57a523920c79e19037ae/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>63259</xocs:filesize>
+               <xocs:pixel-height>296</xocs:pixel-height>
+               <xocs:pixel-width>753</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215014221-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433215014221/gr3/DOWNSAMPLED/image/jpeg/238466917ae47d23d6170c855490edc1/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215014221/gr3/DOWNSAMPLED/image/jpeg/238466917ae47d23d6170c855490edc1/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>60623</xocs:filesize>
+               <xocs:pixel-height>276</xocs:pixel-height>
+               <xocs:pixel-width>753</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215014221-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433215014221/gr4/DOWNSAMPLED/image/jpeg/e7d215e8fe127b8f1b812175f974f904/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215014221/gr4/DOWNSAMPLED/image/jpeg/e7d215e8fe127b8f1b812175f974f904/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>26687</xocs:filesize>
+               <xocs:pixel-height>257</xocs:pixel-height>
+               <xocs:pixel-width>357</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215014221-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433215014221/gr5/DOWNSAMPLED/image/jpeg/a66be3a59d8809dacdc17ef49226292c/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215014221/gr5/DOWNSAMPLED/image/jpeg/a66be3a59d8809dacdc17ef49226292c/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>54980</xocs:filesize>
+               <xocs:pixel-height>279</xocs:pixel-height>
+               <xocs:pixel-width>753</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215014221-mmc1.docx</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433215014221/mmc1/MAIN/application/msword/c1246a01ec5d933f82d405af520de1b9/mmc1.docx</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215014221/mmc1/MAIN/application/msword/c1246a01ec5d933f82d405af520de1b9/mmc1.docx</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.docx</xocs:filename>
+               <xocs:extension>docx</xocs:extension>
+               <xocs:filesize>1104570</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215014221-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433215014221/STRIPIN/image/gif/5cb2b252e84a677ced2b8e4637044b2f/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215014221/STRIPIN/image/gif/5cb2b252e84a677ced2b8e4637044b2f/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>644</xocs:filesize>
+               <xocs:pixel-height>44</xocs:pixel-height>
+               <xocs:pixel-width>97</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.2" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>APSUSC</jid>
+            <aid>30598</aid>
+            <ce:pii>S0169-4332(15)01422-1</ce:pii>
+            <ce:doi>10.1016/j.apsusc.2015.06.078</ce:doi>
+            <ce:copyright type="full-transfer" year="2015">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0005">
+                  <ce:simple-para id="spar0020" view="all">Schematic illustrations of (a) PAA and (b) PAA-PEG interpolymer complex as passivation agents in STI CMP.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="fig0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="spar0025" view="all">The FT-IR spectra of the PAA-PEG interpolymer complex at the frequency range of (a) 500–4000<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> and (b) 1000–2000<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="fig0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="spar0030" view="all">(a) Strain-dependent storage <ce:italic>G</ce:italic>′(<ce:italic>γ</ce:italic>) and loss modulus <ce:italic>G</ce:italic>′′(<ce:italic>γ</ce:italic>) of the PAA-PEG interpolymer complex measured at fixed frequency <ce:italic>ω</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>1<ce:hsp sp="0.25"/>rad/s. (b) At the linear visco-elastic region (constant strain of <ce:italic>γ</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>10%), storage <ce:italic>G</ce:italic>′(<ce:italic>γ</ce:italic>) and loss modulus <ce:italic>G</ce:italic>′′(<ce:italic>γ</ce:italic>) as a function of frequency <ce:italic>ω</ce:italic>. We expressed the storage <ce:italic>G</ce:italic>′(<ce:italic>γ</ce:italic>) and loss modulus <ce:italic>G</ce:italic>′′(<ce:italic>γ</ce:italic>) as filled symbols and open symbols, respectively.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="fig0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="spar0035" view="all">The blanket removal rates of SiO<ce:inf loc="post">2</ce:inf> and Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> film using the PAA-PEG interpolymer complex.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="fig0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="spar0040" view="all">The dishing of the 100<ce:hsp sp="0.25"/>μm line width (a) as a function of PEG concentration and (b) pattern density using the PAA-PEG interpolymer complex.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl0005" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="spar0045" view="all">CMP conditions.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="2">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <thead valign="top">
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col2" rowsep="1" align="left">Experimental conditions</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Slurry</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">KCS3100</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Solid concentration of slurry</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1.0<hsp sp="0.25"/>wt%</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Pad</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">IC 1000/Suba IV</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Spindle/Table speed</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">70/70<hsp sp="0.25"/>rpm</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Down force</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2<hsp sp="0.25"/>psi</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Polishing time</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">60<hsp sp="0.25"/>s</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Flow rate</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Slurry 50<hsp sp="0.25"/>mL/min; Additive 50<hsp sp="0.25"/>mL/min</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="tit0005">Interpolymer complexes of poly(acrylic acid) and poly(ethylene glycol) for low dishing in STI CMP</ce:title>
+            <ce:author-group id="aug0005">
+               <ce:author id="aut0005">
+                  <ce:given-name>Jihoon</ce:given-name>
+                  <ce:surname>Seo</ce:surname>
+                  <ce:cross-ref id="crf0005" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0010">
+                  <ce:given-name>Jinok</ce:given-name>
+                  <ce:surname>Moon</ce:surname>
+                  <ce:cross-ref id="crf0010" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0015" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0015">
+                  <ce:given-name>Sunho</ce:given-name>
+                  <ce:surname>Moon</ce:surname>
+                  <ce:cross-ref id="crf0020" refid="aff0015">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0020">
+                  <ce:given-name>Ungyu</ce:given-name>
+                  <ce:surname>Paik</ce:surname>
+                  <ce:cross-ref id="crf0025" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0030" refid="cor0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0005">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Department of Energy Engineering, Hanyang University, Seoul 133-791, South Korea</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Energy Engineering, Hanyang University</sa:organization>
+                     <sa:city>Seoul</sa:city>
+                     <sa:postal-code>133-791</sa:postal-code>
+                     <sa:country>South Korea</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0010">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Clean/CMP Technology Team, Memory, Samsung Electronics, Gyeonggi-Do 445-701, South Korea</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Clean/CMP Technology Team, Memory, Samsung Electronics</sa:organization>
+                     <sa:city>Gyeonggi-Do</sa:city>
+                     <sa:postal-code>445-701</sa:postal-code>
+                     <sa:country>South Korea</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0015">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Clean/CMP Technology Team, S.LSI, Samsung Electronics, Gyeonggi-Do 445-701, South Korea</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Clean/CMP Technology Team, S.LSI, Samsung Electronics</sa:organization>
+                     <sa:city>Gyeonggi-Do</sa:city>
+                     <sa:postal-code>445-701</sa:postal-code>
+                     <sa:country>South Korea</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author. Tel.: +82 2 2220 0502; fax: +82 2 2281 0502.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="29" month="12" year="2014"/>
+            <ce:date-revised day="15" month="6" year="2015"/>
+            <ce:date-accepted day="16" month="6" year="2015"/>
+            <ce:abstract id="abs0005" class="graphical" view="all">
+               <ce:section-title id="sect0005">Graphical abstract</ce:section-title>
+               <ce:abstract-sec id="abst0005" view="all">
+                  <ce:simple-para id="spar0005" view="all"/>
+               </ce:abstract-sec>
+               <ce:figure id="fig0030">
+                  <ce:link locator="fx1"/>
+               </ce:figure>
+            </ce:abstract>
+            
+            <ce:abstract id="abs0015" view="all" class="author"><ce:abstract-sec id="abst0015" view="all">
+                  <ce:simple-para id="spar0015" view="all">Although poly(acrylic acid) (PAA) has been used as a passivation agent for high polish rate selectivity between SiO<ce:inf loc="post">2</ce:inf> and Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> in STI CMP, it causes severe dishing during the over-polishing step. Here, we fabricated interpolymer complexes of PAA and poly(ethylene glycol) (PEG) as passivation agent for low dishing as well as high selectivity. PAA and PEG form a cross-linked network structure through H-bonding, which is called an “interpolymer complex”. During the over-polishing step, the cross-linked network structure of the PAA-PEG interpolymer complex prevents abrasives from polishing SiO<ce:inf loc="post">2</ce:inf> in the trenches, resulting in a significant decrease in dishing. These results provide researchers with a new approach toward passivation agents to provide low dishing in STI CMP.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords id="kwd0005" class="keyword" view="all">
+               <ce:section-title id="sect0020">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text>Passivation agent</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text>PAA</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text>PEG</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text>Interpolymer complexes</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0025">
+                  <ce:text>Dishing</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0030">
+                  <ce:text>CMP</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec0005" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sect0025">Introduction</ce:section-title>
+                  <ce:para id="par0020" view="all">Shallow trench isolation (STI) is a crucial technology for enhancing the device packing density in ultra-large-scale integration (ULSI) fabrication <ce:cross-refs id="crfs0005" refid="bib0160 bib0165 bib0170">[1–3]</ce:cross-refs>. Traditionally, in order to form STI structure, shallow trenches are made between active devices, and gap-filling materials such as SiO<ce:inf loc="post">2</ce:inf> are deposited over the trenches. After these processes, the step height of gap-filling materials is inevitably formed due to the different pattern density, which needs to be removed. Chemical mechanical planarization (CMP) process removes the step height of the gap-filling materials <ce:cross-refs id="crfs0010" refid="bib0175 bib0180">[4,5]</ce:cross-refs>, and it is stopped on the Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> film <ce:cross-refs id="crfs0015" refid="bib0185 bib0190">[6,7]</ce:cross-refs>. Contrary to these former STI CMP processes, current processes require an over-polishing step to completely remove SiO<ce:inf loc="post">2</ce:inf> on Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> film because the number of maximum permissible defects has been decreased with recent developments in 40<ce:hsp sp="0.25"/>nm node devices and beyond. Insufficient over-polishing leaves residual SiO<ce:inf loc="post">2</ce:inf> on the Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> film, which causes transistor failure due to the remaining Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> after the Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> strip <ce:cross-ref id="crf0035" refid="bib0195">[8]</ce:cross-ref>. On the other hand, excessive over-polishing produces dishing because the removal rate of SiO<ce:inf loc="post">2</ce:inf> in the trenches is much higher than that of Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> 
+                     <ce:cross-ref id="crf0040" refid="bib0195">[8]</ce:cross-ref>. As the design rule decreases, the requirements on CMP performance have become more stringent. Dishing, which has a significant influence on device performance, must be suppressed to improve device yield.</ce:para>
+                  <ce:para id="par0025" view="all">Poly(acrylic acid) (PAA), a water-soluble anionic polymer, has been widely used as a passivation agent for high polish rate selectivity between SiO<ce:inf loc="post">2</ce:inf> and Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> 
+                     <ce:cross-refs id="crfs0020" refid="bib0185 bib0200 bib0205 bib0210">[6,9–11]</ce:cross-refs>. It is preferentially adsorbed on the Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> film through the attractive electrostatic force <ce:cross-ref id="crf0045" refid="bib0215">[12]</ce:cross-ref>, resulting in the high selectivity between SiO<ce:inf loc="post">2</ce:inf> and Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf>. However, a significant difference in the removal rate between SiO<ce:inf loc="post">2</ce:inf> and Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> causes a severe dishing during the over-polishing step.</ce:para>
+                  <ce:para id="par0030" view="all">Herein, we propose the PAA-poly(ethylene glycol) (PEG) interpolymer complex as a passivation agent for low dishing with high selectivity between SiO<ce:inf loc="post">2</ce:inf> and Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf>. PAA in aqueous solutions is sensitive to the changes in its physicochemical conditions including pH, ionic strength, and concentration. With mixtures of complementary polymers such as PEG <ce:cross-refs id="crfs0025" refid="bib0220 bib0225 bib0230">[13–15]</ce:cross-refs>, poly(acrylamides) <ce:cross-ref id="crf0050" refid="bib0235">[16]</ce:cross-ref>, and poly(vinyl ethers) <ce:cross-refs id="crfs0030" refid="bib0240 bib0245">[17,18]</ce:cross-refs>, it enables to the formation of the cross-linked network structures through the H-bonding, which is called “interpolymer complexes”. At pH values higher than 5.0, the interpolymer complex is dissociated due to the increase in the negatively charged carboxyl groups (noncomplexable sites) in the PAA <ce:cross-refs id="crfs0035" refid="bib0225 bib0250">[14,19]</ce:cross-refs>. On the other hand, at pH values lower than 3–3.5, the fraction of negatively charged carboxyl groups that significantly influence the solubility of the complexes decreases considerably, leading to the formation of precipitates. In this study, we have prepared the PAA-PEG interpolymer complexes at pH 5.0 considering their solubility and adsorption properties on the Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> film.</ce:para>
+                  <ce:para id="par0035" view="all">
+                     <ce:cross-ref id="crf0055" refid="fig0005">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="fig0005"/> describes the schematic passivation mechanism to enable low dishing in STI CMP. PAA preferentially adsorbs on Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> film, leading to the high selectivity between SiO<ce:inf loc="post">2</ce:inf> and Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf>. However, the SiO<ce:inf loc="post">2</ce:inf> in the trenches is removed during over-polishing, which causes a significant dishing. Contrary to PAA, we expect that the PAA-PEG interpolymer complex can prevent abrasives from polishing SiO<ce:inf loc="post">2</ce:inf> in the trenches. When the Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> film is exposed during polishing, the noncomplexable negatively charged carboxyl sites in the PAA-PEG interpolymer complex adsorb on the highly positively charged Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> film at pH 5.0 through the attractive electrostatic force <ce:cross-refs id="crfs0040" refid="bib0215 bib0255">[12,20]</ce:cross-refs>. During polishing, it is difficult for the abrasives to penetrate the cross-linked network of the interpolymer complexes, which leads to the low removal rate of SiO<ce:inf loc="post">2</ce:inf> in the trenches. As a result, dishing is significantly decreased.</ce:para>
+               </ce:section>
+               <ce:section id="sec0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sect0030">Experimental</ce:section-title>
+                  <ce:section id="sec0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="sect0035">Suspension preparations</ce:section-title>
+                     <ce:para id="par0040" view="all">PAA (<ce:italic>M</ce:italic>
+                        <ce:inf loc="post">w</ce:inf>
+                        <ce:hsp sp="0.25"/>≈<ce:hsp sp="0.25"/>5000, Polyscience, Inc.) and PEG (<ce:italic>M</ce:italic>
+                        <ce:inf loc="post">n</ce:inf>
+                        <ce:hsp sp="0.25"/>≈<ce:hsp sp="0.25"/>4600, Sigma-Aldrich) were used as received without further purification. PAA-PEG interpolymer complex solutions were prepared at 0.8<ce:hsp sp="0.25"/>wt% PAA as a function of PEG concentration (0, 0.1, 0.2, and 0.3<ce:hsp sp="0.25"/>wt%). The pH was adjusted to 5.0 by addition of NH<ce:inf loc="post">4</ce:inf>OH solution. The solutions were aged for 12<ce:hsp sp="0.25"/>h at room temperature using a mixer (Ball mill, Nanointech, Korea). Solid-state ceria slurry (KCS3100, Korea) was obtained from K.C.Tech Co., Ltd. Transmission electron microscopy (TEM) image of solid-state ceria is shown in Fig. S1 in the Supplementary data.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="sect0040">Characterization methods</ce:section-title>
+                     <ce:para id="par0045" view="all">To identify the characteristics of PAA-PEG interpolymer complexes, Fourier-transform infrared spectra were recorded in the range 4000–500<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> with a FT-IR Spectrometer (Nicolet 5700, ThermoElectron, US) using KBr pellet method. Four different interpolymer complex solutions were dropped on KBr powder, and then dried in an oven during 6<ce:hsp sp="0.25"/>h at 80<ce:hsp sp="0.25"/>°C. Samples were grounded into a fine powder using agate mortar and pestle, and pellets were made from them.</ce:para>
+                     <ce:para id="par0050" view="all">The viscoelastic properties of PAA-PEG interpolymer complexes were measured by rheometer (MCR 501, Anton Paar, Germany) at 25<ce:hsp sp="0.25"/>°C using the cylindrical double-gap configuration (DG-26.7). An oscillation strain sweep was carried out in a strain range from 0.1% to 1000% (logarithmically) at 1<ce:hsp sp="0.25"/>rad/s angular frequency (<ce:italic>ω</ce:italic>). The storage modulus <ce:italic>G</ce:italic>′ and the loss modulus <ce:italic>G</ce:italic>′′ were examined in the range of ω from 0.1 to 100<ce:hsp sp="0.25"/>rad/s at the linear visco-elastic region (constant strain of <ce:italic>γ</ce:italic>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>10%).</ce:para>
+                     <ce:para id="par0055" view="all">TEM image of solid-state ceria was observed using a field emission TEM (JEM-2100F, JEOL, Japan). Particle size distribution of solid-state ceria slurry without and with PAA-PEG interpolymer complex solutions was determined by dynamic light scattering (DLS) at a scattering angle of 173° (Zetasizer Nano-ZS, Malvern, UK) at 25<ce:hsp sp="0.25"/>°C.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0025" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="sect0045">Chemical mechanical planarization (CMP)</ce:section-title>
+                     <ce:para id="par0060" view="all">The blanket SiO<ce:inf loc="post">2</ce:inf> and Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> films were prepared by deposition on the 200<ce:hsp sp="0.25"/>mm Si wafers using plasma enhanced tetraethyl orthosilicate (PETEOS) and low pressure chemical vapor deposition (LPCVD), respectively. To prepare STI patterned wafer, 800<ce:hsp sp="0.25"/>Å Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> films were deposited on the 200<ce:hsp sp="0.25"/>mm Si wafers using LPCVD, etched about 1000<ce:hsp sp="0.25"/>Å to fabricate the trenches. And SiO<ce:inf loc="post">2</ce:inf> were deposited 2000<ce:hsp sp="0.25"/>Å using PETEOS method. To remove the step height of SiO<ce:inf loc="post">2</ce:inf>, the patterned wafers were polished using commercial slurry (KCS1200MS, K.C.Tech Co., Ltd., Korea) for step height reduction. These wafers were cut into 6<ce:hsp sp="0.25"/>cm<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>6<ce:hsp sp="0.25"/>cm pieces for coupon-polishing.</ce:para>
+                     <ce:para id="par0065" view="all">The wafer pieces were polished for 1<ce:hsp sp="0.25"/>min in CMP tool (POLI-300, G&amp;P Tech. Inc., Korea) with an industry standard CMP pad (IC 1000/Suba IV, Rohm and Haas Electronic Materials, USA). The CMP evaluations were performed using four different PAA-PEG interpolymer complex solutions with the commercial solid-state ceria slurry. Down pressure and spindle/table speed was 2<ce:hsp sp="0.25"/>psi and 70/70<ce:hsp sp="0.25"/>rpm, respectively. Both flow rates of slurry and chemical solutions were 50<ce:hsp sp="0.25"/>mL/min, and the polishing time was 60<ce:hsp sp="0.25"/>s. Each CMP evaluation was repeated 2 times. The polishing test conditions are summarized in <ce:cross-ref id="crf0060" refid="tbl0005">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="tbl0005"/>. After CMP, the wafers were cleaned in an alkaline environment and then dried. The removal rates of the blanket SiO<ce:inf loc="post">2</ce:inf> and Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> films were determined by measuring before and after film thickness using an ellipsometer (MM-16, Horiba Jobin Yvon, France). The dishing of the patterned wafers were measured by a multimode atomic force microscope (XE-150, Parksystem, Korea) with an Al coated PPP-NCHR cantilever in non-contact (NC-AFM) mode. Surface properties such as microscratches and defects of the polished films were observed by a light microscope (BX51, Olympus, Japan).</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec0030" role="discussion" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sect0050">Results and discussion</ce:section-title>
+                  <ce:para id="par0070" view="all">We prepared the PAA-PEG interpolymer complex at pH 5.0. <ce:cross-ref id="crf0065" refid="fig0010">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="fig0010"/> shows the FT–IR spectra of the PAA-PEG interpolymer complex. The FT–IR spectra of PAA shows the strong peaks in the range of 1700–1750<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup>, corresponding to carbonyl C<ce:glyph name="dbnd"/>O stretching <ce:cross-ref id="crf0070" refid="bib0260">[21]</ce:cross-ref>. The lower wavenumber peak (1700<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup>) associated with the intramolecular H-bonding of PAA, can form acid cyclic dimers <ce:cross-ref id="crf0075" refid="bib0265">[22]</ce:cross-ref>. The higher wavenumber peak (1710<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup>), related with intermolecular H-bonding, can form acid–ether complexes with PEG <ce:cross-ref id="crf0080" refid="bib0265">[22]</ce:cross-ref>. After the addition of PEG, the peak at 1710<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> was shifted to a higher wavenumber due to the H-bonding between PAA and PEG, indicating an increase in acid–ether complexes. The O–H stretching band in PAA, the broad stretching band from 3200 to 3600<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup>, slightly shifted to a lower wavenumber indicating formation of H-bonding from acid cyclic dimmers to acid–ether complexes <ce:cross-ref id="crf0085" refid="bib0265">[22]</ce:cross-ref>. The C–O–C stretching peak of PEG was observed at 1110<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup>. These results indicate that the PAA-PEG interpolymer complex is formed through the H-bonding between the carboxylic groups of PAA and the ether oxygen groups of PEG.</ce:para>
+                  <ce:para id="par0075" view="all">To identify the viscoelastic properties of the PAA-PEG interpolymer complex, we investigated its rheological behaviors. The storage and loss modulus, <ce:italic>G</ce:italic>′(<ce:italic>γ</ce:italic>) and <ce:italic>G</ce:italic>′′(<ce:italic>γ</ce:italic>), respectively, were measured in an oscillatory experiment as a function of the strain amplitude <ce:italic>γ</ce:italic> at fixed frequency <ce:italic>ω</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>1<ce:hsp sp="0.25"/>rad/s (<ce:cross-ref id="crf0090" refid="fig0015">Fig. 3</ce:cross-ref>a<ce:float-anchor refid="fig0015"/>). In the absence of PEG, <ce:italic>G</ce:italic>′′(<ce:italic>γ</ce:italic>) was consistently higher than <ce:italic>G</ce:italic>′(<ce:italic>γ</ce:italic>) in the entire measured <ce:italic>γ</ce:italic> range, indicating that a liquid-like behavior exists. However, with PEG, <ce:italic>G</ce:italic>′ was higher than <ce:italic>G</ce:italic>′′ at small strains. PAA formed the interpolymer complexes with PEG through H-bonding, showing a weak solid-like behavior in the linear viscoelastic regime (<ce:cross-ref id="crf0095" refid="fig0015">Fig. 3</ce:cross-ref>a). The linear viscoelastic regime ended at <ce:italic>γ</ce:italic>
+                     <ce:hsp sp="0.25"/>≈<ce:hsp sp="0.25"/>20%. As <ce:italic>γ</ce:italic> increased, <ce:italic>G</ce:italic>′′ gradually increased and became higher than <ce:italic>G</ce:italic>′⋅ By increasing the concentration of PEG, the storage modulus <ce:italic>G</ce:italic>′ increased in the linear viscoelastic regime, indicating that the solid-like behavior was stronger.</ce:para>
+                  <ce:para id="par0080" view="all">In addition, the frequency dependence of <ce:italic>G</ce:italic>′ and <ce:italic>G</ce:italic>′′ measured for the PAA-PEG interpolymer complex as a function of PEG concentration (<ce:cross-ref id="crf0100" refid="fig0015">Fig. 3</ce:cross-ref>b). These experiments were carried out in the range of <ce:italic>ω</ce:italic> from 0.1 to 100<ce:hsp sp="0.25"/>rad/s at a <ce:italic>γ</ce:italic> of 10%. The increase of <ce:italic>G</ce:italic>′ as a function of PEG concentration indicates the existence of stronger interactions between PAA and PEG. This result is due to the fact that the number of H-bonding sites in the interpolymer complex increased as the PEG concentration increased (<ce:cross-ref id="crf0105" refid="fig0010">Fig. 2</ce:cross-ref>).</ce:para>
+                  <ce:para id="par0085" view="all">
+                     <ce:italic>G</ce:italic>′, obtained at low <ce:italic>ω</ce:italic>, is correlated to the mesh spacing (<ce:italic>ξ</ce:italic>) based on the simple rubber elasticity theory. The mesh size of the interpolymer complex can be estimated as <ce:cross-refs id="crfs0045" refid="bib0270 bib0275 bib0280">[23–25]</ce:cross-refs>
+                     <ce:display>
+                        <ce:formula id="eq0005">
+                           <ce:label>(1)</ce:label>
+                           <mml:math altimg="si1.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:mi>ξ</mml:mi>
+                                 <mml:mo>≈</mml:mo>
+                                 <mml:msup>
+                                    <mml:mrow>
+                                       <mml:mfenced open="(" close=")">
+                                          <mml:mrow>
+                                             <mml:mfrac>
+                                                <mml:mrow>
+                                                   <mml:msub>
+                                                      <mml:mi>k</mml:mi>
+                                                      <mml:mtext>B</mml:mtext>
+                                                   </mml:msub>
+                                                   <mml:mi>T</mml:mi>
+                                                </mml:mrow>
+                                                <mml:msup>
+                                                   <mml:mi>G</mml:mi>
+                                                   <mml:mo>″</mml:mo>
+                                                </mml:msup>
+                                             </mml:mfrac>
+                                          </mml:mrow>
+                                       </mml:mfenced>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>1</mml:mn>
+                                       <mml:mo>/</mml:mo>
+                                       <mml:mn>3</mml:mn>
+                                    </mml:mrow>
+                                 </mml:msup>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where <ce:italic>k</ce:italic>
+                     <ce:inf loc="post">B</ce:inf> is the Boltzmann constant and <ce:italic>T</ce:italic> is the temperature. The mesh sizes of the interpolymer complex with 0.1, 0.2, and 0.3<ce:hsp sp="0.25"/>wt% PEG, obtained by complexation between PAA and PEG, are 882, 718, and 590<ce:hsp sp="0.25"/>nm, respectively. The cross-linking density of the interpolymer complexes increased as the PEG concentration increased.</ce:para>
+                  <ce:para id="par0090" view="all">To identify the effect of the addition of PAA-PEG interpolymer complex on characterization of the slurry, we measured particle size distribution of solid-state ceria slurry without and with PAA-PEG interpolymer complex using DLS method. Although the average particle size of ceria slightly increased, there is no observed agglomeration of ceria particle (Fig. S2).</ce:para>
+                  <ce:para id="par0095" view="all">The blanket removal rates of SiO<ce:inf loc="post">2</ce:inf> and Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> film as a function of the PEG concentration in the interpolymer complex at pH 5.0 are shown in <ce:cross-ref id="crf0110" refid="fig0020">Fig. 4</ce:cross-ref>
+                     <ce:float-anchor refid="fig0020"/>. As the PEG concentration increased, the removal rate of SiO<ce:inf loc="post">2</ce:inf> film slightly decreased from 842 to 769<ce:hsp sp="0.25"/>Å/min. The interpolymer complex can absorb on the SiO<ce:inf loc="post">2</ce:inf> film due to the affinity between PEG and the SiO<ce:inf loc="post">2</ce:inf> film <ce:cross-ref id="crf0115" refid="bib0285">[26]</ce:cross-ref>. This formed an adsorption layer on the SiO<ce:inf loc="post">2</ce:inf> film that prevented abrasives from polishing the film. However, PEG is weakly bound on the SiO<ce:inf loc="post">2</ce:inf> film, and it can be easily removed by abrasives during polishing. As a result, it is shown a slightly decreased SiO<ce:inf loc="post">2</ce:inf> removal rate. Contrary to the SiO<ce:inf loc="post">2</ce:inf> film, the interpolymer complex can strongly absorb on the Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> film through the highly attractive electrostatic force between PAA and the Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> film. The adsorption layer on Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> film that is denser with an increase of PEG decreases the removal rate of the Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> film from 17 to 2<ce:hsp sp="0.25"/>Å/min, resulting in increased polish rate selectivity between SiO<ce:inf loc="post">2</ce:inf> and Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> film.</ce:para>
+                  <ce:para id="par0100" view="all">Although the strong adsorption between the interpolymer complex and the films leads to high polish rate selectivity between SiO<ce:inf loc="post">2</ce:inf> and Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> film, it may cause the residual interpolymer complex on the films after CMP. As shown in Fig. S3, the FT-IR spectra of the polished films are the same with that of the bare films. This result implies that the adsorbed interpolymer complex was almost removed through post CMP cleaning in an alkaline environment. In addition, there are no visible defects or scratches on the polished films (Fig. S4).</ce:para>
+                  <ce:para id="par0105" view="all">
+                     <ce:cross-ref id="crf0120" refid="fig0025">Fig. 5</ce:cross-ref>
+                     <ce:float-anchor refid="fig0025"/> shows the dishing trends of the 100<ce:hsp sp="0.25"/>μm line width as a function of PEG concentration and pattern density. As shown in <ce:cross-ref id="crf0125" refid="fig0025">Fig. 5</ce:cross-ref>a, PAA caused significant dishing. Although it preferentially adsorbed on the Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> film through the attractive electrostatic force, the SiO<ce:inf loc="post">2</ce:inf> in the trenches was polished during the over-polishing step, resulting in the occurrence of dishing. On the other hand, the PAA-PEG interpolymer complex significantly decreased dishing. The abrasives are observed to be difficult to penetrate the interpolymer complex into the SiO<ce:inf loc="post">2</ce:inf> trenches. Thus, the removal of SiO<ce:inf loc="post">2</ce:inf> in the trenches was minimized during the over-polishing, and dishing was decreased. As the concentration of PEG increased, the cross-linking density of the interpolymer complex increased (<ce:cross-ref id="crf0130" refid="fig0015">Fig. 3</ce:cross-ref>), and the abrasives are observed to have difficulty penetrating the interpolymer complexes, leading to low dishing. In addition, these interpolymer complexes showed negligible Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> loss (<ce:cross-ref id="crf0135" refid="fig0020">Fig. 4</ce:cross-ref>). The dishing was observed to vary with the pattern density, as shown in <ce:cross-ref id="crf0140" refid="fig0025">Fig. 5</ce:cross-ref>b. The contact pressure decreased as the pattern density increased, which led to a decrease in the SiO<ce:inf loc="post">2</ce:inf> removal rate in the trenches <ce:cross-ref id="crf0145" refid="bib0290">[27]</ce:cross-ref>. Thus, small amounts of dishing occurred at low pattern densities.</ce:para>
+                  <ce:para id="par0110" view="all">With a decrease of device dimensions, CMP processes for new materials and complex structures have been developed for microelectronics applications. Thus, there is a strong need to develop new types of slurries and additives. Recently, germanium (Ge) and III–V group elements are attracting attention as potential channel materials due to their high electron mobility <ce:cross-refs id="crfs0050" refid="bib0295 bib0300">[28,29]</ce:cross-refs>. After it is deposited, Ge typically shows a very rough surface due to its epitaxial growth into the trenches. Thus, the Ge STI structures need to be polished with low dishing as well as with a high polish rate selectivity between Ge and SiO<ce:inf loc="post">2</ce:inf> 
+                     <ce:cross-refs id="crfs0055" refid="bib0305 bib0310">[30,31]</ce:cross-refs>. We will further study the interpolymer complex for low dishing with high selectivity between Ge and SiO<ce:inf loc="post">2</ce:inf>.</ce:para>
+               </ce:section>
+               <ce:section id="sec0035" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sect0055">Summary</ce:section-title>
+                  <ce:para id="par0115" view="all">We investigated a new type of passivation agent to reduce dishing in STI CMP. PAA can form an interpolymer complex with PEG through the H-bonding between the carboxylic groups of PAA and the ether oxygen groups of PEG. As the PEG concentration increased from 0.1 to 0.3<ce:hsp sp="0.25"/>wt%, the mesh size of the interpolymer complex decreased from 842 to 769<ce:hsp sp="0.25"/>nm. It was difficult for the abrasives to penetrate the dense cross-linked network structure of the PAA-PEG interpolymer complexes during the over-polishing, leading to a significant decrease in dishing. As a result, it can be concluded that the interpolymer complex effectively decreases dishing in STI CMP. New types of slurries and additives need to be developed for next-generation devices. We expect that the PAA-PEG interpolymer complexes will be one of the candidate materials for passivation agents in next-generation devices.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0005" view="all">
+               <ce:section-title id="sect0060">Acknowledgement</ce:section-title>
+               <ce:para id="par0120" view="all">This work was supported by the Global Research Laboratory (GRL) Program (K20704000003TA050000310) through the <ce:grant-sponsor id="gs1" sponsor-id="http://dx.doi.org/10.13039/501100003725" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">National Research Foundation of Korea</ce:grant-sponsor> (NRF) funded by the Ministry of Science, ICT (Information and Communication Technologies) and Future Planning.</ce:para>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section id="sec0040" view="compact-standard">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="sect0065">Supplementary data</ce:section-title>
+                  <ce:para id="par0125" view="all">Supplementary data associated with this article can be found, in the online version, at <ce:inter-ref id="intr0005" xlink:href="doi:10.1016/j.apsusc.2015.06.078" xlink:type="simple">http://dx.doi.org/10.1016/j.apsusc.2015.06.078</ce:inter-ref>.</ce:para>
+               </ce:section>
+               <ce:section id="sec0045" view="extended">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="sect0070">Supplementary data</ce:section-title>
+                  <ce:para id="par0130" view="all">The following are the supplementary data to this article:<ce:display>
+                        <ce:e-component id="upi0005">
+                           <ce:link locator="mmc1"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bibl0005" view="all">
+               <ce:section-title id="sect0075">References</ce:section-title>
+               <ce:bibliography-sec id="bibs0005" view="all">
+                  <ce:bib-reference id="bib0160">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sbref0160">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.R.</ce:given-name>
+                                 <ce:surname>Oliver</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical–mechanical Planarization of Semiconductor Materials</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2004</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0165">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sbref0165">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Steigerwald</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.P.</ce:given-name>
+                                 <ce:surname>Murarka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Gutmann</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical–mechanical Planarization of Microelectronic Materials</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2008</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Wiley-VCH</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0170">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sbref0170">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.K.</ce:given-name>
+                                 <ce:surname>Singh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Bajaj</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Advances in chemical–mechanical planarization</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>MRS Bull.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>743</sb:first-page>
+                              <sb:last-page>751</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0175">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sbref0175">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.S.</ce:given-name>
+                                 <ce:surname>Lim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Ahn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.S.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Shin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The effect of CeO<ce:inf loc="post">2</ce:inf> abrasive size on dishing and step height reduction of silicon oxide film in STI-CMP</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surf. Coat. Tech.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>200</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1751</sb:first-page>
+                              <sb:last-page>1754</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0180">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sbref0180">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Seo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Moon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                                 <ce:surname>Bae</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.S.</ce:given-name>
+                                 <ce:surname>Yoon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Sigmund</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Paik</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Control of adhesion force between ceria particles and polishing pad in shallow trench isolation chemical mechanical planarization</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Nanosci. Nanotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4351</sb:first-page>
+                              <sb:last-page>4356</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0185">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sbref0185">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Cho</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Paik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.M.</ce:given-name>
+                                 <ce:surname>Sigmund</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Atomic force microscopy study of the role of molecular weight of poly(acrylic acid) in chemical mechanical planarization for shallow trench isolation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>473</sb:first-page>
+                              <sb:last-page>479</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0190">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sbref0190">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.W.</ce:given-name>
+                                 <ce:surname>Carter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.P.</ce:given-name>
+                                 <ce:surname>Johns</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Interfacial reactivity between ceria and silicon dioxide and silicon nitride surfaces—organic additive effects</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochem. Solid State</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>G218</sb:first-page>
+                              <sb:last-page>G221</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0195">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sbref0195">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Nishi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Doering</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Handbook of Semiconductor Manufacturing Technology</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2000</sb:date>
+                              <sb:publisher>
+                                 <sb:name>CRC Press</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0200">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sbref0200">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.M.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.J.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Paik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Constraints on removal of Si3N4 film with conformation-controlled poly(acrylic acid) in shallow-trench isolation chemical–mechanical planarization (STI CMP)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>49</sb:first-page>
+                              <sb:last-page>54</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0205">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sbref0205">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.-G.</ce:given-name>
+                                 <ce:surname>Kang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.-S.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Paik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-G.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of abrasive particle size and molecular weight of poly (acrylic acid) in ceria slurry on removal selectivity of SiO<ce:inf loc="post">2</ce:inf>/Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf>, films in shallow trench isolation chemical mechanical planarization</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>777</sb:first-page>
+                              <sb:last-page>787</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0210">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sbref0210">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-H.</ce:given-name>
+                                 <ce:surname>So</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.-J.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-M.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Adsorption behavior of anionic polyelectrolyte for chemical mechanical polishing (CMP)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Colloid Interf. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>319</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>48</sb:first-page>
+                              <sb:last-page>52</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0215">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sbref0215">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.A.</ce:given-name>
+                                 <ce:surname>Hackley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Colloidal processing of silicon nitride with poly(acrylic acid) .1. Adsorption and electrostatic interactions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>80</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2315</sb:first-page>
+                              <sb:last-page>2325</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0220">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sbref0220">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Ikawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Abe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Honda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Tsuchida</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Interpolymer complex between poly(ethylene oxide) and poly(carboxylic acid)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Polym. Sci. Pol. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1505</sb:first-page>
+                              <sb:last-page>1514</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0225">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sbref0225">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Iliopoulos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Audebert</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Influence of concentration, molecular-weight and degree of neutralization of polyacrylic-acid on interpolymer complexes with polyoxyethylene</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Polym. Bull.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>171</sb:first-page>
+                              <sb:last-page>178</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0230">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sbref0230">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.V.</ce:given-name>
+                                 <ce:surname>Khutoryanskiy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.V.</ce:given-name>
+                                 <ce:surname>Dubolazov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.S.</ce:given-name>
+                                 <ce:surname>Nurkeeva</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.A.</ce:given-name>
+                                 <ce:surname>Mun</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>pH effects in the complex formation and blending of poly(acrylic acid) with poly(ethylene oxide)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Langmuir</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3785</sb:first-page>
+                              <sb:last-page>3790</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0235">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sbref0235">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Eustace</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.B.</ce:given-name>
+                                 <ce:surname>Siano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.N.</ce:given-name>
+                                 <ce:surname>Drake</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Polymer compatibility and interpolymer association in the poly(acrylic acid) polyacrylamide water ternary-system</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Polym. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>707</sb:first-page>
+                              <sb:last-page>716</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0240">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sbref0240">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.S.</ce:given-name>
+                                 <ce:surname>Nurkeeva</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.V.</ce:given-name>
+                                 <ce:surname>Khutoryanskiy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.A.</ce:given-name>
+                                 <ce:surname>Mun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.B.</ce:given-name>
+                                 <ce:surname>Bitekenova</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Complexation of poly(acrylic acid) with poly(vinyl methyl ether) in the presence of inorganic salts and lidocaine hydrochloride</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Polym. Sci. Ser. B+</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>45</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>365</sb:first-page>
+                              <sb:last-page>369</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0245">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sbref0245">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.A.</ce:given-name>
+                                 <ce:surname>Mun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.S.</ce:given-name>
+                                 <ce:surname>Nurkeeva</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.V.</ce:given-name>
+                                 <ce:surname>Khutoryanskiy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.D.</ce:given-name>
+                                 <ce:surname>Sergaziyev</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Interpolymer complexes of copolymers of vinyl ether of diethylene glycol with poly(acrylic acid)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Colloid Polym. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>280</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>282</sb:first-page>
+                              <sb:last-page>289</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0250">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sbref0250">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Iliopoulos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Audebert</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Polymer complexes stabilized through hydrogen-bonds – influence of structure defects on complex-formation – potentiometric study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Eur. Polym. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>171</sb:first-page>
+                              <sb:last-page>175</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0255">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sbref0255">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.K.</ce:given-name>
+                                 <ce:surname>Penta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.P.</ce:given-name>
+                                 <ce:surname>Amanapu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.C.</ce:given-name>
+                                 <ce:surname>Peethala</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.V.</ce:given-name>
+                                 <ce:surname>Babu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Use of anionic surfactants for selective polishing of silicon dioxide over silicon nitride films using colloidal silica-based slurries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Surf. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>283</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>986</sb:first-page>
+                              <sb:last-page>992</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0260">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sbref0260">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Krimm</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The infrared spectra of complex molecules, vol. 1 (3rd ed.)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>L.J.</ce:given-name>
+                                    <ce:surname>Bellamy</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Journal of Polymer Science: Polymer Letters Edition</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>14</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1976</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Halsted Press, a division of John Wiley &amp; Sons, Inc.</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>121</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>433 pp., $24.00</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0265">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sbref0265">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.Y.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Weiss</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Phase-behavior of blends of poly(ethylene glycol) and partially neutralized poly(acrylic acid)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Macromolecules</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3022</sb:first-page>
+                              <sb:last-page>3029</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0270">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sbref0270">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.B.</ce:given-name>
+                                 <ce:surname>Laxton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Berg</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Colloid aggregation arrested by caging within a polymer network</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Langmuir</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9268</sb:first-page>
+                              <sb:last-page>9272</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0275">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sbref0275">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.F.</ce:given-name>
+                                 <ce:surname>Edwards</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.A.</ce:given-name>
+                                 <ce:surname>Vilgis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The tube model-theory of rubber elasticity</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Rep. Prog. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>243</sb:first-page>
+                              <sb:last-page>297</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0280">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sbref0280">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Castelletto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.W.</ce:given-name>
+                                 <ce:surname>Hamley</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Xue</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Sommer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Pedersen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.D.</ce:given-name>
+                                 <ce:surname>Olmsted</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Rheological and structural characterization of hydrophobically modified polyacrylamide solutions in the semidilute regime</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Macromolecules</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1492</sb:first-page>
+                              <sb:last-page>1501</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0285">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="sbref0285">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Mathur</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.M.</ce:given-name>
+                                 <ce:surname>Moudgil</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Adsorption mechanism(s) of poly(ethylene oxide) on oxide surfaces</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Colloid Interf. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>196</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>92</sb:first-page>
+                              <sb:last-page>98</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0290">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="sbref0290">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Joo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Liang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Tribo-electrochemical characterization of copper with patterned geometry</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Microelectron. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>98</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>12</sb:first-page>
+                              <sb:last-page>18</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0295">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="sbref0295">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.Q.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.Q.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Wan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.D.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Integrations and challenges of novel high-k gate stacks in advanced CMOS technology</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Prog. Mater. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>475</sb:first-page>
+                              <sb:last-page>572</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0300">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="sbref0300">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.B.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.C.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Chin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High-field mobility metal-gate/high-kappa Ge n-MOSFETs with small equivalent-oxide-thickness</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Electron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>55</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>64</sb:first-page>
+                              <sb:last-page>67</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0305">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference id="sbref0305">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Peddeti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Ong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Leunissen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Babu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical mechanical polishing of Ge using colloidal silica particles and H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>
+                              </sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochem. Solid-state Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>H254</sb:first-page>
+                              <sb:last-page>H257</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0310">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference id="sbref0310">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Peddeti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Ong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Leunissen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Babu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical mechanical planarization of germanium shallow trench isolation structures using silica-based dispersions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Microelectron. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>93</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>61</sb:first-page>
+                              <sb:last-page>66</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

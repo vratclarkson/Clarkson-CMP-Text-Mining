@@ -1,0 +1,1265 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0169433206014462</prism:url><dc:identifier>doi:10.1016/j.apsusc.2006.10.074</dc:identifier><eid>1-s2.0-S0169433206014462</eid><prism:doi>10.1016/j.apsusc.2006.10.074</prism:doi><pii>S0169-4332(06)01446-2</pii><dc:title>Ceria concentration effect on chemical mechanical polishing of optical glass </dc:title><prism:publicationName>Applied Surface Science</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>01694332</prism:issn><prism:volume>253</prism:volume><prism:issueIdentifier>11</prism:issueIdentifier><prism:startingPage>4951</prism:startingPage><prism:endingPage>4954</prism:endingPage><prism:pageRange>4951-4954</prism:pageRange><prism:number>11</prism:number><dc:format>application/xml</dc:format><prism:coverDate>2007-03-30</prism:coverDate><prism:coverDisplayDate>30 March 2007</prism:coverDisplayDate><prism:copyright>Copyright © 2006 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Wang, Liangyong</dc:creator><dc:creator>Zhang, Kailiang</dc:creator><dc:creator>Song, Zhitang</dc:creator><dc:creator>Feng, Songlin</dc:creator><dc:description>
+                  It was found material removal rate (MRR) sharply increased from 250 to 675nm/min as the concentration decreased from 1 to 0.25wt% in optical glass chemical mechanical polishing (CMP) using ceria slurries. Scanning electron microscopy was employed to characterize the ceria abrasive used in the slurry. Atomic force microscopy results showed good surface had been got after CMP. Schematic diagrams of the CMP process were shown. Furthermore, the absorption spectra indicated a sudden change from Ce4+ to Ce3+ of the ceria surface when the concentration decreased, which revealed a quantum origin of the phenomenon.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>CMP</dcterms:subject><dcterms:subject>Ceria</dcterms:subject><dcterms:subject>Concentration</dcterms:subject><dcterms:subject>Physical model</dcterms:subject><dcterms:subject>Quantum origin</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0169433206014462" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0169433206014462" rel="scidir"/></coredata><objects><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="239" height="24" size="960">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433206014462-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="190" height="24" size="806">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433206014462-si1.gif?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="376" height="306" size="32429">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433206014462-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="115" height="93" size="2228">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433206014462-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="527" height="759" size="145156">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433206014462-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="65" height="94" size="2384">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433206014462-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="339" height="254" size="52493">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433206014462-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="94" size="2994">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433206014462-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="351" height="336" size="54421">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433206014462-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="98" height="94" size="2037">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433206014462-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="376" height="289" size="33954">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433206014462-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="122" height="94" size="2188">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433206014462-gr5.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>33847350559</scopus-id><scopus-eid>2-s2.0-33847350559</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/33847350559" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271533</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291719</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291893</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Applied Surface Science</xocs:srctitle>
+      <xocs:normalized-srctitle>APPLIEDSURFACESCIENCE</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20061211">2006-12-11</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20061211">2006-12-11</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-03-28T21:13:24</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0169433206014462</xocs:eid>
+      <xocs:pii-formatted>S0169-4332(06)01446-2</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0169433206014462</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.apsusc.2006.10.074</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0169433207X0401X</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T05:25:39.525092-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20070330</xocs:date-search-begin>
+      <xocs:year-nav>2007</xocs:year-nav>
+      <xocs:indexeddate epoch="1165795200">2006-12-11T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast otherkwds primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0169-4332</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>01694332</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>253</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>253</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>11</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>11</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 253, Issue 11</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>21</xocs:sort-order>
+      <xocs:first-fp>4951</xocs:first-fp>
+      <xocs:last-lp>4954</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>4951</xocs:first-page>
+         <xocs:last-page>4954</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20070330</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>30 March 2007</xocs:cover-date-text>
+      <xocs:cover-date-start>2007-03-30</xocs:cover-date-start>
+      <xocs:cover-date-year>2007</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>regular papers</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2006 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>CERIACONCENTRATIONEFFECTCHEMICALMECHANICALPOLISHINGOPTICALGLASS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>WANG</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>L</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental procedures</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="bib1">
+            <xocs:ref-normalized-surname>BUNLUESIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>107</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib2">
+            <xocs:ref-normalized-surname>SCHNEIDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>165</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3">
+            <xocs:ref-normalized-surname>DRESSELHAUS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>332</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info>
+            <xocs:ref-normalized-surname>HIBINO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2031</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info>
+            <xocs:ref-normalized-surname>PARK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>265</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info>
+            <xocs:ref-normalized-surname>STEELE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>345</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib5">
+            <xocs:ref-normalized-surname>SABIA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>235</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib6">
+            <xocs:ref-normalized-surname>GILLISS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>61</xocs:ref-first-fp>
+            <xocs:ref-last-lp>67</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib7">
+            <xocs:ref-normalized-surname>BABU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>288</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib8">
+            <xocs:ref-normalized-surname>ZANTYE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>89</xocs:ref-first-fp>
+            <xocs:ref-last-lp>220</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib9">
+            <xocs:ref-normalized-surname>CHIANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>185</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib10">
+            <xocs:ref-normalized-surname>KROGER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1956</xocs:ref-pub-year>
+            <xocs:ref-first-fp>307</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib11">
+            <xocs:ref-normalized-surname>SKORODUMOVA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>166601</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib12">
+            <xocs:ref-normalized-surname>POURBAIX</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1966</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ALTASELECTROCHEMICALEQUILIBRIAINAQUEOUSSOLUTIONS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib13">
+            <xocs:ref-normalized-surname>COOK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>152</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib14">
+            <xocs:ref-normalized-surname>KARYAKIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>SPEKTRALNYIANALIZREDKOZEMELNYKHOKISLOVSPECTRALANALYSISRAREEARTHOXIDES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib15">
+            <xocs:ref-normalized-surname>GREENHAUS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1957</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1531</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib16">
+            <xocs:ref-normalized-surname>ZHU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>435</xocs:ref-first-fp>
+            <xocs:ref-last-lp>440</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>WANGX2007X4951</xocs:refkey3>
+         <xocs:refkey4lp>WANGX2007X4951X4954</xocs:refkey4lp>
+         <xocs:refkey4ai>WANGX2007X4951XL</xocs:refkey4ai>
+         <xocs:refkey5>WANGX2007X4951X4954XL</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0169-4332(06)01446-2</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0169433206014462</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0169433206014462</xocs:eid>
+         <xocs:doi>10.1016/j.apsusc.2006.10.074</xocs:doi>
+         <xocs:cid>271533</xocs:cid>
+         <xocs:timestamp>2010-09-26T06:17:58.122104-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2007-03-30</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0169433206014462-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433206014462/MAIN/application/pdf/10594c2fcbce8cf5c5623006db0012b4/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433206014462/MAIN/application/pdf/10594c2fcbce8cf5c5623006db0012b4/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>684594</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0169433206014462-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433206014462/PREVIEW/image/png/ec06d5c94d4771a361abe94feec55b3a/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433206014462/PREVIEW/image/png/ec06d5c94d4771a361abe94feec55b3a/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>70143</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433206014462-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433206014462/STRIPIN/image/gif/0e0462be643af038e9e9505dfc97da5c/si2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433206014462/STRIPIN/image/gif/0e0462be643af038e9e9505dfc97da5c/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>960</xocs:filesize>
+               <xocs:pixel-height>24</xocs:pixel-height>
+               <xocs:pixel-width>239</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433206014462-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433206014462/STRIPIN/image/gif/5823a423cd38432737b26397e78fcdbb/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433206014462/STRIPIN/image/gif/5823a423cd38432737b26397e78fcdbb/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>806</xocs:filesize>
+               <xocs:pixel-height>24</xocs:pixel-height>
+               <xocs:pixel-width>190</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433206014462-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433206014462/gr1/DOWNSAMPLED/image/jpeg/11f9c1a73eca240805574f63d3cce05f/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433206014462/gr1/DOWNSAMPLED/image/jpeg/11f9c1a73eca240805574f63d3cce05f/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>32429</xocs:filesize>
+               <xocs:pixel-height>306</xocs:pixel-height>
+               <xocs:pixel-width>376</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433206014462-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433206014462/gr1/THUMBNAIL/image/gif/dc8e15f547ddc1878a528df954aaafc0/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433206014462/gr1/THUMBNAIL/image/gif/dc8e15f547ddc1878a528df954aaafc0/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2228</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>115</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433206014462-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433206014462/gr2/DOWNSAMPLED/image/jpeg/fb43064ab8cea3d0a6eed7ddc99d4eef/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433206014462/gr2/DOWNSAMPLED/image/jpeg/fb43064ab8cea3d0a6eed7ddc99d4eef/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>145156</xocs:filesize>
+               <xocs:pixel-height>759</xocs:pixel-height>
+               <xocs:pixel-width>527</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433206014462-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433206014462/gr2/THUMBNAIL/image/gif/0c0fcd0f62fb229e90dcafafed6fd4c2/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433206014462/gr2/THUMBNAIL/image/gif/0c0fcd0f62fb229e90dcafafed6fd4c2/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2384</xocs:filesize>
+               <xocs:pixel-height>94</xocs:pixel-height>
+               <xocs:pixel-width>65</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433206014462-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433206014462/gr3/DOWNSAMPLED/image/jpeg/c1ffaa29d108f9710449784b7659cbb9/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433206014462/gr3/DOWNSAMPLED/image/jpeg/c1ffaa29d108f9710449784b7659cbb9/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>52493</xocs:filesize>
+               <xocs:pixel-height>254</xocs:pixel-height>
+               <xocs:pixel-width>339</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433206014462-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433206014462/gr3/THUMBNAIL/image/gif/14d0c1dd5d993252334ac2f866155442/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433206014462/gr3/THUMBNAIL/image/gif/14d0c1dd5d993252334ac2f866155442/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2994</xocs:filesize>
+               <xocs:pixel-height>94</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433206014462-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433206014462/gr4/DOWNSAMPLED/image/jpeg/f984178eed3275a63359a2a7e27491fa/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433206014462/gr4/DOWNSAMPLED/image/jpeg/f984178eed3275a63359a2a7e27491fa/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>54421</xocs:filesize>
+               <xocs:pixel-height>336</xocs:pixel-height>
+               <xocs:pixel-width>351</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433206014462-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433206014462/gr4/THUMBNAIL/image/gif/ab6da0e067d098e93a7b2749e1ebe06f/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433206014462/gr4/THUMBNAIL/image/gif/ab6da0e067d098e93a7b2749e1ebe06f/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2037</xocs:filesize>
+               <xocs:pixel-height>94</xocs:pixel-height>
+               <xocs:pixel-width>98</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433206014462-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433206014462/gr5/DOWNSAMPLED/image/jpeg/c65556fbf3a5594c214a780f5228e08c/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433206014462/gr5/DOWNSAMPLED/image/jpeg/c65556fbf3a5594c214a780f5228e08c/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>33954</xocs:filesize>
+               <xocs:pixel-height>289</xocs:pixel-height>
+               <xocs:pixel-width>376</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433206014462-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433206014462/gr5/THUMBNAIL/image/gif/ff95591ae054678be31f18ffc9ee6d03/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0169433206014462/gr5/THUMBNAIL/image/gif/ff95591ae054678be31f18ffc9ee6d03/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2188</xocs:filesize>
+               <xocs:pixel-height>94</xocs:pixel-height>
+               <xocs:pixel-width>122</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.0" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>APSUSC</jid>
+            <aid>14770</aid>
+            <ce:pii>S0169-4332(06)01446-2</ce:pii>
+            <ce:doi>10.1016/j.apsusc.2006.10.074</ce:doi>
+            <ce:copyright type="full-transfer" year="2006">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Material removal rate (MRR) as a function of CeO<ce:inf loc="post">2</ce:inf> concentration.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Typical AFM images of the optical glass surface: (a) Pre-CMP; (b) Post-CMP.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">SEM image of CeO<ce:inf loc="post">2</ce:inf> abrasives used in a slurry.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Schematic diagrams of CMP process using the novel CeO<ce:inf loc="post">2</ce:inf> slurry in different concentrations: (a) higher concentration; (b) lower concentration.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Absorption spectra of ceria slurries in different concentration.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title>Ceria concentration effect on chemical mechanical polishing of optical glass</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Liangyong</ce:given-name>
+                  <ce:surname>Wang</ce:surname>
+                  <ce:cross-ref refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Kailiang</ce:given-name>
+                  <ce:surname>Zhang</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Zhitang</ce:given-name>
+                  <ce:surname>Song</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Songlin</ce:given-name>
+                  <ce:surname>Feng</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Laboratory of Nano Technology, Research Center of Functional Semiconductor Film Engineering &amp; Technology, Shanghai Institute of Microsystem and Information Technology, CAS, Graduate School of the Chinese Academy of Sciences, Shanghai 200050, China</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author. Fax: +86 21 62134404.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="27" month="6" year="2006"/>
+            <ce:date-revised day="3" month="10" year="2006"/>
+            <ce:date-accepted day="31" month="10" year="2006"/>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">It was found material removal rate (MRR) sharply increased from 250 to 675<ce:hsp sp="0.25"/>nm/min as the concentration decreased from 1 to 0.25<ce:hsp sp="0.25"/>wt% in optical glass chemical mechanical polishing (CMP) using ceria slurries. Scanning electron microscopy was employed to characterize the ceria abrasive used in the slurry. Atomic force microscopy results showed good surface had been got after CMP. Schematic diagrams of the CMP process were shown. Furthermore, the absorption spectra indicated a sudden change from Ce<ce:sup loc="post">4+</ce:sup> to Ce<ce:sup loc="post">3+</ce:sup> of the ceria surface when the concentration decreased, which revealed a quantum origin of the phenomenon.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="pacs">
+               <ce:section-title>PACS</ce:section-title>
+               <ce:keyword>
+                  <ce:text>81.65.Ps</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>CMP</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Ceria</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Concentration</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Physical model</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Quantum origin</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para view="all">Ceria (CeO<ce:inf loc="post">2</ce:inf>) has received much attention due to its high reactivity. It has applications for automotive emission-control catalysis <ce:cross-ref refid="bib1">[1]</ce:cross-ref> and electrolytes in solid oxide fuel cells <ce:cross-ref refid="bib2">[2]</ce:cross-ref>. It also has potential applications for catalytic converters in environmental friendly technologies <ce:cross-ref refid="bib3">[3]</ce:cross-ref> and new sources of low-emission power generation <ce:cross-ref refid="bib4">[4]</ce:cross-ref>. Recently there has been a great deal of interest in its application in chemical mechanical polishing (CMP) due to its high performance with respect to high material removal rate (MRR) and high surface quality. It is the most widely used abrasive for the CMP of silicate glasses <ce:cross-refs refid="bib5 bib6">[5,6]</ce:cross-refs>. CMP is a process that has been employed for centuries to form precise optics <ce:cross-ref refid="bib7">[7]</ce:cross-ref>. Though ceria has been widely commercially used in optical glass CMP <ce:cross-ref refid="bib8">[8]</ce:cross-ref>, yet the optical glass surface quality in terms of scratch numbers and root mean squares (RMS) after CMP and the decrease of slurry cost are still needed to be improved. In this study, it is found that MRR increased as the concentration decreased in optical glass CMP using ceria slurries within an ultralow concentration (below 1<ce:hsp sp="0.25"/>wt%). In a concentration of 0.25<ce:hsp sp="0.25"/>wt%, a MRR of 675<ce:hsp sp="0.25"/>nm/min was achieved and a good surface with a RMS 4.7<ce:hsp sp="0.25"/>Å in a 1<ce:hsp sp="0.25"/>μm<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>1<ce:hsp sp="0.25"/>μm area was obtained meanwhile. On the base of this find, it is very promising to use this ceria slurry within an ultra low concentration (below 1<ce:hsp sp="0.25"/>wt%) instead of the widely used commercial one in a concentration of 5<ce:hsp sp="0.25"/>wt% (or maybe higher) due to the low cost and well performance.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Experimental procedures</ce:section-title>
+                  <ce:para view="all">The polishing slurry was prepared by first adding a dispersant to deionized (DI) water until dissolved. Ceria abrasives (from Shanghai Gona Powder Technology Co. Ltd.) were then dispersed and treated by ultrasound for 10<ce:hsp sp="0.25"/>min. The last step of slurry preparation was adjusting the pH value to be 4 by 0.1<ce:hsp sp="0.25"/>M nitric acid. Polishing was performed with 2.5<ce:hsp sp="0.25"/>in. conventional optical glass wafers using a CMP Tester (CETR CP-4) with an IC 1000/Suba IV stacked pad (Rodel). The polishing process parameters were set as follows: pad rotation speed 150<ce:hsp sp="0.25"/>rpm, wafer rotation speed 150<ce:hsp sp="0.25"/>rpm, down force 3<ce:hsp sp="0.25"/>psi, feed rate of the slurry 100<ce:hsp sp="0.25"/>ml/min and polishing time 10<ce:hsp sp="0.25"/>min. Ceria slurries were composed of 0.1<ce:hsp sp="0.25"/>wt% dispersant, DI water and ceria, 1, 0.5 and 0.25<ce:hsp sp="0.25"/>wt%, respectively. The morphology of the abrasives was observed with Field-emission-scan-electron-microscopy (FESEM, s-4700 type, Hitachi). Atomic force microscopic (AFM) images of the surface in a 1<ce:hsp sp="0.25"/>μm<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>1<ce:hsp sp="0.25"/>μm area were obtained using an AFM Q-Scope 250 (Quesant Instrument Corporation, USA). A V-570<ce:hsp sp="0.25"/>UV/VIS/NIR Spectrophotometer (JASCO, Japan) was employed for acquisition of the absorption spectra of ceria slurries in different concentrations at room temperature.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results and discussion</ce:section-title>
+                  <ce:para view="all">
+                     <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="fig1"/> shows the MRR versus the ceria concentration. The MRR sharply increased from 250 to 675<ce:hsp sp="0.25"/>nm/min when the concentration decreased from 1 to 0.25<ce:hsp sp="0.25"/>wt%, which is quite different from the conventional concept thinking that the MRR should decrease as the concentration decreases due to the decrease of abrasive numbers. Meanwhile, good surface quality was obtained using these ceria slurries. Typical AFM images of the optical glass surface before and after CMP are shown in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="fig2"/>. The RMS of the surface was 9.7<ce:hsp sp="0.25"/>Å before CMP, but it had dropped to a number varied from about 4.7<ce:hsp sp="0.25"/>Å to approximate 5.0<ce:hsp sp="0.25"/>Å after CMP using the ceria slurry in a concentration between 0.25 and 1<ce:hsp sp="0.25"/>wt%. Some dim rotary/circular patterns appear in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>, this may be aroused by the noise during the process of the AFM test.</ce:para>
+                  <ce:para view="all">Two main reasons may account for the mentioned abnormal phenomenon. The basic one is that when the concentration reduced from 1 to 0.25<ce:hsp sp="0.25"/>wt%, functioned abrasives’ number in CMP would not reduce or at least would not reduce sharply due to the efficiency improvement. <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="fig3"/> shows the typical SEM image of ceria abrasives used in a slurry. As this image indicates, the size of most particles is about 80<ce:hsp sp="0.25"/>nm while a number of 40<ce:hsp sp="0.25"/>nm particles still exist. The ununiformity of particle size distribution in slurries reflects the extent of ceria dispersion by ultrasound. Undoubtedly, the dispersion will become better as the concentration reduces due to the particle quantity decrease and the increase of completeness of the ultrasound function, which will result in slurry with more uniform particle size in a lower concentration. On the base of this fact, schematic diagrams of the CMP process are shown in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+                     <ce:float-anchor refid="fig4"/>. When using a kind of slurry with a higher concentration, abrasives with larger size instead of all the abrasives will really work due to the direct contact of the pad and the raised parts of the wafer. In addition, because of the pressure, recesses of the pad will occur and a number of small particles will be trapped. The larger the functioned particles, the deeper the recesses will happen and the more small particles will be trapped and make no sense as be shown in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>(a). On the contrary, when using a slurry with a lower concentration, the proportion of functioned abrasives to all the abrasives in the slurry will increase due to the better uniformity of particle size, which can be seen from <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>(b). Thus, because of the enhancement of the proportion of functioned abrasives when the concentration decreased from 1 to 0.25<ce:hsp sp="0.25"/>wt%, really worked abrasives did not reduce or at least did not reduce sharply. This is the basic reason for the abnormal phenomenon that the MRR increases as the concentration deceases.</ce:para>
+                  <ce:para view="all">Another reason is that a quantum process better for optical glass CMP occurred at the ceria surface when the concentration decreased, which makes a decisive contribution to the mentioned abnormal phenomenon. In a CMP process, except for the anterior expounded mechanic tear, the performance of the slurry mainly relies on the activity of the abrasive surface. Thus, the change of surface with respect to valence state and quantum effect and so on may really result the abnormal phenomenon. Chiang et al. <ce:cross-ref refid="bib9">[9]</ce:cross-ref> showed experimentally that ultrafine polycrystals of ceria (grain size 1–20<ce:hsp sp="0.25"/>nm) required one-half the heat of reduction of a coarse-grained polycrystal (∼5<ce:hsp sp="0.25"/>μm grain size). In addition, commercially available ceria abrasives contain La impurities, which have been confirmed by direct EELS observations <ce:cross-ref refid="bib6">[6]</ce:cross-ref>. And optical glass usually contains alkali metals impurities, too. Therefore, when dispersing the ceria powders in the slurry using the ultrasound, the high energy of micro bubbles produced by the ultrasound would promote metal impurities enter ceria abrasives except for opening the conglomeration of the abrasives. Especially when the concentration of the slurry was lower, more uniform and smaller particles would be obtained due to the ultrasound's dispersion function. Meanwhile, metal impurities’ enter to the ceria structure from the surface would become more easily, because the heat needed to promote a change in the surface had been reduced due to the smaller particle size <ce:cross-ref refid="bib9">[9]</ce:cross-ref>. A simple defect model for metal doping may be written by analogy with the Kröger–Vink notation <ce:cross-ref refid="bib10">[10]</ce:cross-ref>:<ce:display>
+                        <ce:formula id="eq1">
+                           <ce:label>(1)</ce:label>
+                           <mml:math altimg="si1.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:msub>
+                                    <mml:mtext>R</mml:mtext>
+                                    <mml:mi>m</mml:mi>
+                                 </mml:msub>
+                                 <mml:msub>
+                                    <mml:mtext>O</mml:mtext>
+                                    <mml:mi>n</mml:mi>
+                                 </mml:msub>
+                                 <mml:mover>
+                                    <mml:mo stretchy="true">⟶</mml:mo>
+                                    <mml:mrow>
+                                       <mml:mtext>Ce</mml:mtext>
+                                       <mml:msub>
+                                          <mml:mtext>O</mml:mtext>
+                                          <mml:mn>2</mml:mn>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                 </mml:mover>
+                                 <mml:msub>
+                                    <mml:mover accent="true">
+                                       <mml:mi>V</mml:mi>
+                                       <mml:mo>¨</mml:mo>
+                                    </mml:mover>
+                                    <mml:mtext>O</mml:mtext>
+                                 </mml:msub>
+                                 <mml:mo>+</mml:mo>
+                                 <mml:mi>m</mml:mi>
+                                 <mml:mtext> </mml:mtext>
+                                 <mml:msub>
+                                    <mml:msup>
+                                       <mml:mtext>R</mml:mtext>
+                                       <mml:mo>′</mml:mo>
+                                    </mml:msup>
+                                    <mml:mrow>
+                                       <mml:mtext>Ce</mml:mtext>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>+</mml:mo>
+                                 <mml:mi>n</mml:mi>
+                                 <mml:mtext> </mml:mtext>
+                                 <mml:msub>
+                                    <mml:mtext>O</mml:mtext>
+                                    <mml:mn>0</mml:mn>
+                                 </mml:msub>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>Or in the case of ceria reduction:<ce:display>
+                        <ce:formula id="eq2">
+                           <ce:label>(2)</ce:label>
+                           <mml:math altimg="si2.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:mn>2</mml:mn>
+                                 <mml:mtext>Ce</mml:mtext>
+                                 <mml:msub>
+                                    <mml:mtext>O</mml:mtext>
+                                    <mml:mn>2</mml:mn>
+                                 </mml:msub>
+                                 <mml:mover>
+                                    <mml:mo stretchy="true">⟶</mml:mo>
+                                    <mml:mrow>
+                                       <mml:mtext>Ce</mml:mtext>
+                                       <mml:msub>
+                                          <mml:mtext>O</mml:mtext>
+                                          <mml:mn>2</mml:mn>
+                                       </mml:msub>
+                                       <mml:mtext> </mml:mtext>
+                                    </mml:mrow>
+                                 </mml:mover>
+                                 <mml:mn>2</mml:mn>
+                                 <mml:mtext>C</mml:mtext>
+                                 <mml:msub>
+                                    <mml:msup>
+                                       <mml:mtext>e</mml:mtext>
+                                       <mml:mo>′</mml:mo>
+                                    </mml:msup>
+                                    <mml:mrow>
+                                       <mml:mtext>Ce</mml:mtext>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>+</mml:mo>
+                                 <mml:msub>
+                                    <mml:mover accent="true">
+                                       <mml:mi>V</mml:mi>
+                                       <mml:mo>¨</mml:mo>
+                                    </mml:mover>
+                                    <mml:mtext>O</mml:mtext>
+                                 </mml:msub>
+                                 <mml:mo>+</mml:mo>
+                                 <mml:mstyle scriptlevel="1">
+                                    <mml:mfrac>
+                                       <mml:mn>1</mml:mn>
+                                       <mml:mn>2</mml:mn>
+                                    </mml:mfrac>
+                                 </mml:mstyle>
+                                 <mml:msub>
+                                    <mml:mtext>O</mml:mtext>
+                                    <mml:mn>2</mml:mn>
+                                 </mml:msub>
+                                 <mml:mo>+</mml:mo>
+                                 <mml:mn>3</mml:mn>
+                                 <mml:msub>
+                                    <mml:mtext>O</mml:mtext>
+                                    <mml:mn>0</mml:mn>
+                                 </mml:msub>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>
+                  </ce:para>
+                  <ce:para view="all">In the Eq. <ce:cross-ref refid="eq1">(1)</ce:cross-ref>, R represents metal ion impurities such as La or alkali metals and R<ce:inf loc="post">
+                        <ce:italic>m</ce:italic>
+                     </ce:inf>O<ce:inf loc="post">
+                        <ce:italic>n</ce:italic>
+                     </ce:inf> represents the corresponding oxide. When metal ion impurities entered the structure of ceria abrasives according to Eqs. <ce:cross-ref refid="eq1">(1)</ce:cross-ref> and <ce:cross-ref refid="eq2">(2)</ce:cross-ref>, oxygen-vacancy formed, which was closely coupled with a quantum effect of the location of 4f electron of cerium. In the quantum effect of the electron location, two electrons would remain when oxygen leaved the lattice (oxygen-vacancy formation) <ce:cross-ref refid="bib11">[11]</ce:cross-ref>. In another word, Ce<ce:sup loc="post">4+</ce:sup> had been changed to Ce<ce:sup loc="post">3+</ce:sup> on the abrasive surface due to the process. And the lower the concentration was, the more easily the change would happen due to the decrease of heat request in the dispersion by ultrasound. In addition, Ce(OH)<ce:inf loc="post">3</ce:inf> has been shown to be thermodynamically stable in aqueous solutions, whereas CeO<ce:inf loc="post">2</ce:inf> is thermodynamically unstable in the presence of aqueous solutions and deposes by evolving oxygen and reducing to the trivalent state <ce:cross-ref refid="bib12">[12]</ce:cross-ref>. Therefore, more Ce<ce:sup loc="post">3+</ce:sup> on the surface of the abrasive in a lower concentration would be beneficial for the CMP process due to the ease of forming a Ce(OH)<ce:inf loc="post">3</ce:inf> hydration layer which would promote the process of the CMP according to Cook's CMP model <ce:cross-ref refid="bib13">[13]</ce:cross-ref>.</ce:para>
+                  <ce:para view="all">These assumptions were indirectly confirmed by spectroscopy. <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+                     <ce:float-anchor refid="fig5"/> shows the absorption spectra of ceria slurries in different concentration. In accordance with the figure, the positions of the maxima of the absorption of Ce<ce:sup loc="post">3+</ce:sup> and Ce<ce:sup loc="post">4+</ce:sup> ions are substantially different and lie in the regions 342 and 357–377<ce:hsp sp="0.25"/>nm, respectively, which basically coincides with the published data (a little excursion in the long wavelength direction due to the abundant-electron groups’ effect) <ce:cross-refs refid="bib14 bib15 bib16">[14–16]</ce:cross-refs>. As can be seen from the figure, the ratio of Ce<ce:sup loc="post">3+</ce:sup> to Ce<ce:sup loc="post">4+</ce:sup> increased when the concentration decreased from 1 to 0.25<ce:hsp sp="0.25"/>wt%. At the concentration of 1<ce:hsp sp="0.25"/>wt%, both of the maximum absorption peak of Ce<ce:sup loc="post">3+</ce:sup> and Ce<ce:sup loc="post">4+</ce:sup> ions were high. However, when the concentration decreased to 0.25<ce:hsp sp="0.25"/>wt%, there was almost no maximum absorption for Ce<ce:sup loc="post">4+</ce:sup> ions while the absorption peak of Ce<ce:sup loc="post">3+</ce:sup> still remained high, yet the height of the sharp peak became a little lower due to the decrease of abrasives’ quantity. These facts are consistent with those assumptions mentioned in the second reason.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusion</ce:section-title>
+                  <ce:para view="all">In summary, it is found that the MRR sharply increases from 250 to 675<ce:hsp sp="0.25"/>nm/min as the concentration decreases from 1 to 0.25<ce:hsp sp="0.25"/>wt% in optical glass CMP using ceria slurries. Meanwhile, AFM results showed good surface quality had been got after CMP using these ceria slurries within ultralow concentration. On the base of the characterization of ceria abrasives by SEM, schematic diagrams of the CMP process were shown. Furthermore, the absorption spectra indicates a sudden change from Ce<ce:sup loc="post">4+</ce:sup> to Ce<ce:sup loc="post">3+</ce:sup> of the ceria surface when the concentration decreases, which reveals a quantum origin of the phenomenon.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgements</ce:section-title>
+               <ce:para view="all">This work is supported by Chinese Academy of Sciences (Y2005027), Science and Technology Council of Shanghai (0452nm012, 04ZR14154, 04JC14080, 05JC14076, AM0414, 0552nm043, AM0517, 06QA14060).</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Bunluesin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Gorte</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.W.</ce:given-name>
+                                 <ce:surname>Graham</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Catal. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>107</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Schneider</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Gödickemeier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Gauckler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electroceram.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>165</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Dresselhaus</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.L.</ce:given-name>
+                                 <ce:surname>Thomas</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature (Lond.)</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>414</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>332</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Hibino</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>288</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2031</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature (Lond.)</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>404</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>265</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.C.H.</ce:given-name>
+                                 <ce:surname>Steele</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Heinzel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature (Lond.)</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>414</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>345</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Sabia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Stevens</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mach. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>235</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.R.</ce:given-name>
+                                 <ce:surname>Gilliss</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Surf. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>241</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>61</sb:first-page>
+                              <sb:last-page>67</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.V.</ce:given-name>
+                                 <ce:surname>Babu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.C.</ce:given-name>
+                                 <ce:surname>Cadien</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yano</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Res. Soc. Symp. Proc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>671</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>288</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.B.</ce:given-name>
+                                 <ce:surname>Zantye</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.K.</ce:given-name>
+                                 <ce:surname>Sikder</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>R.45</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>89</sb:first-page>
+                              <sb:last-page>220</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.M.</ce:given-name>
+                                 <ce:surname>Chiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.B.</ce:given-name>
+                                 <ce:surname>Lavik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Kosacki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.L.</ce:given-name>
+                                 <ce:surname>Tuller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                                 <ce:surname>Ying</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>69</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>185</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.A.</ce:given-name>
+                                 <ce:surname>Kröger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Vink</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1956</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>307</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.V.</ce:given-name>
+                                 <ce:surname>Skorodumova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.I.</ce:given-name>
+                                 <ce:surname>Simak</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.I.</ce:given-name>
+                                 <ce:surname>Lundqvist</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.A.</ce:given-name>
+                                 <ce:surname>Abrikosov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Johansson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>166601</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Pourbaix</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Altas of Electrochemical Equilibria in Aqueous Solutions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>first English ed.</sb:edition>
+                              <sb:date>1966</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Pergamon Press Ltd.</sb:name>
+                                 <sb:location>London</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.M.</ce:given-name>
+                                 <ce:surname>Cook</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Non-Cryst. Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>120</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>152</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.V.</ce:given-name>
+                                 <ce:surname>Karyakin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>E.A.</ce:given-name>
+                                    <ce:surname>Bozhevol’nov</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Spektral’nyi Analiz Redkozemel’nykhokislov (Spectral Analysis of Rare-Earth Oxides)</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1974</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Nauka</sb:name>
+                                 <sb:location>Moscow</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.L.</ce:given-name>
+                                 <ce:surname>Greenhaus</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.M.</ce:given-name>
+                                 <ce:surname>Feibush</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Gordon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1957</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1531</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.W.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.Q.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.L.</ce:given-name>
+                                 <ce:surname>Cui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.L.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.C.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chin. J. Nonferrous Met.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>435</sb:first-page>
+                              <sb:last-page>440</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

@@ -1,0 +1,2159 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1369800115000669</prism:url><dc:identifier>doi:10.1016/j.mssp.2015.01.049</dc:identifier><eid>1-s2.0-S1369800115000669</eid><prism:doi>10.1016/j.mssp.2015.01.049</prism:doi><pii>S1369-8001(15)00066-9</pii><dc:title>Effect of lanthanum doping in ceria abrasives on chemical mechanical polishing selectivity for shallow trench isolation </dc:title><prism:publicationName>Materials Science in Semiconductor Processing</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>13698001</prism:issn><prism:volume>33</prism:volume><prism:startingPage>161</prism:startingPage><prism:endingPage>168</prism:endingPage><prism:pageRange>161-168</prism:pageRange><dc:format>application/xml</dc:format><prism:coverDate>2015-05-31</prism:coverDate><prism:coverDisplayDate>May 2015</prism:coverDisplayDate><prism:copyright>Copyright © 2015 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Praveen, B.V.S.</dc:creator><dc:creator>Cho, Byoung-Jun</dc:creator><dc:creator>Park, Jin-Goo</dc:creator><dc:creator>Ramanathan, S.</dc:creator><dc:description>
+                  Amino acids, when used with ceria based slurries, yield high selectivity in shallow trench isolation chemical mechanical polishing (CMP). However, the presence of impurities in the abrasives also plays a role in determining the selectivity. Experiments were performed with two different ceria abrasives, one with high purity and the other with controlled lanthanum doping. Various amino acids were evaluated in order to identify the nature of interaction between the additives and the abrasives. The abrasives were further characterized using transmission electron microscopy, X-ray diffraction and X-ray photo-electron spectroscopy. The removal rate results show that glycine and proline are sensitive to the La doping in the ceria abrasive whereas the other amino acids studied suppress the nitride removal irrespective of the purity of the abrasives. Thermo-gravimetric analysis shows that the extent of adsorption of glycine or proline on ceria depends on the presence of La doping, whereas the other amino acids adsorb equally well on ceria abrasives with or without La doping.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Shallow trench isolation</dcterms:subject><dcterms:subject>Chemical Mechanical Planarization</dcterms:subject><dcterms:subject>High selectivity</dcterms:subject><dcterms:subject>Ceria</dcterms:subject><dcterms:subject>Lanthanum</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1369800115000669" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1369800115000669" rel="scidir"/></coredata><objects><object ref="si0003" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="170" height="17" size="611">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800115000669-si0003.gif?httpAccept=%2A%2F%2A</object><object ref="si0002" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="35" height="30" size="390">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800115000669-si0002.gif?httpAccept=%2A%2F%2A</object><object ref="si0001" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="70" height="28" size="527">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800115000669-si0001.gif?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="725" height="883" size="97686">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800115000669-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="282" height="528" size="47167">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800115000669-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="725" height="494" size="101030">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800115000669-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="282" height="225" size="24783">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800115000669-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="282" height="384" size="32866">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800115000669-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="282" height="243" size="26412">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800115000669-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="134" height="163" size="3843">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800115000669-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="87" height="163" size="3393">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800115000669-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="149" size="7919">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800115000669-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="205" height="164" size="5947">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800115000669-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="120" height="163" size="5047">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800115000669-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="190" height="164" size="5766">https://api.elsevier.com/content/object/eid/1-s2.0-S1369800115000669-gr1.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>84923320592</scopus-id><scopus-eid>2-s2.0-84923320592</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84923320592" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271987</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291718</xocs:ssid>
+         <xocs:ssid type="subj">291892</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Materials Science in Semiconductor Processing</xocs:srctitle>
+      <xocs:normalized-srctitle>MATERIALSSCIENCEINSEMICONDUCTORPROCESSING</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20150219">2015-02-19</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20150219">2015-02-19</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-03-02T16:45:52</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1369800115000669</xocs:eid>
+      <xocs:pii-formatted>S1369-8001(15)00066-9</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1369800115000669</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.mssp.2015.01.049</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1369800115X00035</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150515">2015-05-15T05:55:30.792647-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20150501</xocs:date-search-begin>
+      <xocs:date-search-end>20150531</xocs:date-search-end>
+      <xocs:year-nav>2015</xocs:year-nav>
+      <xocs:indexeddate epoch="1424385460">2015-02-19T22:37:40.538758Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1369-8001</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>13698001</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>33</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>33</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 33</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>20</xocs:sort-order>
+      <xocs:first-fp>161</xocs:first-fp>
+      <xocs:last-lp>168</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>161</xocs:first-page>
+         <xocs:last-page>168</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201505</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>May 2015</xocs:cover-date-text>
+      <xocs:cover-date-start>2015-05-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2015-05-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2015</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Original Research Articles</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2015 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>EFFECTLANTHANUMDOPINGINCERIAABRASIVESCHEMICALMECHANICALPOLISHINGSELECTIVITYFORSHALLOWTRENCHISOLATION</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>PRAVEEN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>B</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental methods</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Sol–gel synthesis of ceria particles</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Chemical mechanical polishing</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Sample preparation for thermo-gravimetric analysis (TGA)</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Characterization</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussions</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>X-ray diffraction (XRD)</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Size and composition analysis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>X-ray photoelectron spectroscopy (XPS)</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Polishing results</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Thermo-gravimetric analysis (TGA)</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgment</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref1">
+            <xocs:ref-normalized-surname>STEIGERWALD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CHEMICALMECHANICALPLANARIZATIONMICROELECTRONICMATERIALS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref2">
+            <xocs:ref-normalized-surname>OLIVER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CHEMICALMECHANICALPLANARIZATIONSEMICONDUCTORMATERIALS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref3">
+            <xocs:ref-normalized-surname>AMERICA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>G327</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref4">
+            <xocs:ref-normalized-surname>NAG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>129</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref5">
+            <xocs:ref-normalized-surname>JEONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>480</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref6">
+            <xocs:ref-normalized-surname>ZANTYE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>89</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="othref0005"/>
+         <xocs:ref-info refid="othref0010"/>
+         <xocs:ref-info refid="sbref7">
+            <xocs:ref-normalized-surname>MANIVANNAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1748</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="othref0015"/>
+         <xocs:ref-info refid="othref0020"/>
+         <xocs:ref-info refid="sbref8">
+            <xocs:ref-normalized-surname>CARTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>G218</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref9">
+            <xocs:ref-normalized-surname>NAGENDRAPRASAD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>G337</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref10">
+            <xocs:ref-normalized-surname>MANIVANNAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3764</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref11">
+            <xocs:ref-normalized-surname>MANIVANNAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5737</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref12">
+            <xocs:ref-normalized-surname>PENTA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>67</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref13">
+            <xocs:ref-normalized-surname>PRAVEEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>98</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref14">
+            <xocs:ref-normalized-surname>DU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>170</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref15">
+            <xocs:ref-normalized-surname>RENUKA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>230</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref16">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>25782</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref17">
+            <xocs:ref-normalized-surname>REDDY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>467</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref18">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4192</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref19">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>74</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref20">
+            <xocs:ref-normalized-surname>BECHE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>264</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref21">
+            <xocs:ref-normalized-surname>SUNDING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>399</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref22">
+            <xocs:ref-normalized-surname>LEHNINGER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>107</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PRINCIPLESBIOCHEMISTRY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="othref0025"/>
+         <xocs:ref-info refid="sbref23">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>H128</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref24">
+            <xocs:ref-normalized-surname>DANDUVEERA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>H487</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref25">
+            <xocs:ref-normalized-surname>MENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>914</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref26">
+            <xocs:ref-normalized-surname>HU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3919</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref27">
+            <xocs:ref-normalized-surname>HU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>555</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>PRAVEENX2015X161</xocs:refkey3>
+         <xocs:refkey4lp>PRAVEENX2015X161X168</xocs:refkey4lp>
+         <xocs:refkey4ai>PRAVEENX2015X161XB</xocs:refkey4ai>
+         <xocs:refkey5>PRAVEENX2015X161X168XB</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1369-8001(15)00066-9</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1369800115000669</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1369800115000669</xocs:eid>
+         <xocs:doi>10.1016/j.mssp.2015.01.049</xocs:doi>
+         <xocs:cid>271987</xocs:cid>
+         <xocs:timestamp>2015-03-02T21:37:41.956817-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2015-05-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2015-05-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1369800115000669-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800115000669/MAIN/application/pdf/1da1fb5094d2a06588a093b9981de8c9/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369800115000669/MAIN/application/pdf/1da1fb5094d2a06588a093b9981de8c9/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>2811598</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>8</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1369800115000669-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800115000669/PREVIEW/image/png/ea80de94a692f844b415438aec6b25dd/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369800115000669/PREVIEW/image/png/ea80de94a692f844b415438aec6b25dd/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>57042</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800115000669-si0003.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800115000669/STRIPIN/image/gif/9589a69305264197127c7c1d509c1b76/si0003.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369800115000669/STRIPIN/image/gif/9589a69305264197127c7c1d509c1b76/si0003.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0003</xocs:file-basename>
+               <xocs:filename>si0003.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>611</xocs:filesize>
+               <xocs:pixel-height>17</xocs:pixel-height>
+               <xocs:pixel-width>170</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800115000669-si0002.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800115000669/STRIPIN/image/gif/0ed47ec30808f00aa224f48e6dd31a65/si0002.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369800115000669/STRIPIN/image/gif/0ed47ec30808f00aa224f48e6dd31a65/si0002.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0002</xocs:file-basename>
+               <xocs:filename>si0002.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>390</xocs:filesize>
+               <xocs:pixel-height>30</xocs:pixel-height>
+               <xocs:pixel-width>35</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800115000669-si0001.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800115000669/STRIPIN/image/gif/d89b06a30975eef6b2add1cb9dbb2675/si0001.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369800115000669/STRIPIN/image/gif/d89b06a30975eef6b2add1cb9dbb2675/si0001.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0001</xocs:file-basename>
+               <xocs:filename>si0001.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>527</xocs:filesize>
+               <xocs:pixel-height>28</xocs:pixel-height>
+               <xocs:pixel-width>70</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800115000669-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800115000669/gr6/DOWNSAMPLED/image/jpeg/fa4732b2977d08f438a90b864dcb3b95/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369800115000669/gr6/DOWNSAMPLED/image/jpeg/fa4732b2977d08f438a90b864dcb3b95/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>97686</xocs:filesize>
+               <xocs:pixel-height>883</xocs:pixel-height>
+               <xocs:pixel-width>725</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800115000669-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800115000669/gr5/DOWNSAMPLED/image/jpeg/46f9f3e22f06db12121aa331c5e7f2d2/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369800115000669/gr5/DOWNSAMPLED/image/jpeg/46f9f3e22f06db12121aa331c5e7f2d2/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>47167</xocs:filesize>
+               <xocs:pixel-height>528</xocs:pixel-height>
+               <xocs:pixel-width>282</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800115000669-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800115000669/gr4/DOWNSAMPLED/image/jpeg/e39c199f8bcb96b444ed8f786acb9d12/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369800115000669/gr4/DOWNSAMPLED/image/jpeg/e39c199f8bcb96b444ed8f786acb9d12/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>101030</xocs:filesize>
+               <xocs:pixel-height>494</xocs:pixel-height>
+               <xocs:pixel-width>725</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800115000669-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800115000669/gr3/DOWNSAMPLED/image/jpeg/2343d1880b38c771c152608955c68508/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369800115000669/gr3/DOWNSAMPLED/image/jpeg/2343d1880b38c771c152608955c68508/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>24783</xocs:filesize>
+               <xocs:pixel-height>225</xocs:pixel-height>
+               <xocs:pixel-width>282</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800115000669-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800115000669/gr2/DOWNSAMPLED/image/jpeg/fc2148f73e76b4de5feaaa8ee85f42b6/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369800115000669/gr2/DOWNSAMPLED/image/jpeg/fc2148f73e76b4de5feaaa8ee85f42b6/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>32866</xocs:filesize>
+               <xocs:pixel-height>384</xocs:pixel-height>
+               <xocs:pixel-width>282</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800115000669-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800115000669/gr1/DOWNSAMPLED/image/jpeg/08ac3ed93591a72bb27210f7b4844a34/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369800115000669/gr1/DOWNSAMPLED/image/jpeg/08ac3ed93591a72bb27210f7b4844a34/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>26412</xocs:filesize>
+               <xocs:pixel-height>243</xocs:pixel-height>
+               <xocs:pixel-width>282</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800115000669-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800115000669/gr6/THUMBNAIL/image/gif/7fdd1468273e09e3723000e870350be0/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369800115000669/gr6/THUMBNAIL/image/gif/7fdd1468273e09e3723000e870350be0/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3843</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>134</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800115000669-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800115000669/gr5/THUMBNAIL/image/gif/20f9dd4ed400144abbe137fad996ed8d/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369800115000669/gr5/THUMBNAIL/image/gif/20f9dd4ed400144abbe137fad996ed8d/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3393</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>87</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800115000669-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800115000669/gr4/THUMBNAIL/image/gif/bb4b9a16c586867022b71dcc8a479d93/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369800115000669/gr4/THUMBNAIL/image/gif/bb4b9a16c586867022b71dcc8a479d93/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7919</xocs:filesize>
+               <xocs:pixel-height>149</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800115000669-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800115000669/gr3/THUMBNAIL/image/gif/65827e6dbf3e72b2134b96c0b0f32044/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369800115000669/gr3/THUMBNAIL/image/gif/65827e6dbf3e72b2134b96c0b0f32044/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5947</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>205</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800115000669-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800115000669/gr2/THUMBNAIL/image/gif/c9ca9d09943224bfcaf9c7404026299c/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369800115000669/gr2/THUMBNAIL/image/gif/c9ca9d09943224bfcaf9c7404026299c/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5047</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>120</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369800115000669-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369800115000669/gr1/THUMBNAIL/image/gif/f8beb2092e4410a98bb9559a2819736b/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369800115000669/gr1/THUMBNAIL/image/gif/f8beb2092e4410a98bb9559a2819736b/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5766</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>190</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.2">
+         <item-info>
+            <jid>MATSCI</jid>
+            <aid>2496</aid>
+            <ce:pii>S1369-8001(15)00066-9</ce:pii>
+            <ce:doi>10.1016/j.mssp.2015.01.049</ce:doi>
+            <ce:copyright type="full-transfer" year="2015">Elsevier Ltd</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0005">
+                  <ce:simple-para id="sp0005" view="all">X-ray diffraction patterns of ceria-SG and ceria-SGL.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="sp0010" view="all">TEM image of (a) ceria-SG and (b) ceria-SGL.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="sp0015" view="all">La3d spectra of ceria-SG and ceria-SGL with peaks observed only in ceria-SGL at ~836<ce:hsp sp="0.25"/>eV and ~854<ce:hsp sp="0.25"/>eV.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="sp0020" view="all">(a) Removal rates of oxide and nitride with 0.25<ce:hsp sp="0.25"/>wt% of ceria-SG or ceria-SGL with 20<ce:hsp sp="0.25"/>mM amino acids at pH 5. Here, Glu-Glutamic acid and Asp-1-Aspartic acid. (b) Removal rates of oxide and nitride with 0.25<ce:hsp sp="0.25"/>wt% of ceria-SG or ceria-SGL with 200<ce:hsp sp="0.25"/>mM amino acids at pH 5. Here, Ser-Serine, Asp-2-Asparagine, Ala-Alanine, Ph Ala-Phenylalanine and Val-Valine. (c) Removal rates of oxide and nitride with 0.25<ce:hsp sp="0.25"/>wt% of ceria-SG or ceria-SGL with 200<ce:hsp sp="0.25"/>mM amino acids at pH 5. Here, Gly-Gycine and Pro-Proline.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="f0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="sp0025" view="all">Derivative thermograms of (a) silicon dioxide and (b) silicon nitride with different amino acids.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="f0030">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="sp0030" view="all">Derivative thermograms of ceria-SG and ceria-SGL particles, with different amino acid additives. (a) Blank, (b) L-proline, (c) Glycine, (d) Glutamic acid and (e) Phenylalanine. The concentrations of all the additives were 200<ce:hsp sp="0.25"/>mM except for glutamic acid. Glutamic acid concentration was 20<ce:hsp sp="0.25"/>mM.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0005" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="sp0035" view="all">EDS analysis of ceria particles in weight percentage and atomic percentage.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="4">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <thead>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Type of ceria</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col2" nameend="col4" rowsep="1">Elemental composition (at%)</entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Oxygen</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cerium</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Lanthanum</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ceria-SG</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">70</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">30</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ceria-SGL</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">69</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">28</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0010" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="cap0040">
+                  <ce:simple-para id="sp0040" view="all">Classification of amino acids into different groups.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="4">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Amino acid</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">pK<inf loc="post">1</inf> (–COOH)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">pK<inf loc="post">2</inf> (–NH<sup loc="post">3+</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">pK<inf loc="post">R</inf> (R group)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col4">
+                           <bold>Non</bold>-<bold>polar, aliphatic R group</bold>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Alanine</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.34</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">9.69</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Valine</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.32</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">9.62</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Proline</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.99</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">10.96</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Glycine</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.34</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">9.60</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col4">
+                           <bold>Non</bold>-<bold>polar, aromatic R group</bold>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Phenylalanine</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.83</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">9.13</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col4">
+                           <bold>Polar, uncharged R groups</bold>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Serine</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.21</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">9.15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Asparagine</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.02</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">8.80</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col4">
+                           <bold>Polar, negatively charged R groups</bold>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Aspartic acid</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.88</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">9.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.65</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Glutamic acid</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.19</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">9.67</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4.25</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col4">
+                           <bold>Polar positively charged R group</bold>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Lysine</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.18</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">8.95</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">10.53</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0015" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 3</ce:label>
+               <ce:caption id="cap0045">
+                  <ce:simple-para id="sp0045" view="all">Adsorption data for ceria-SG, ceria-SGL, silicon dioxide and silicon nitride with different amino acids.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="7">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <colspec colnum="5" colname="col5"/>
+                  <colspec colnum="6" colname="col6"/>
+                  <colspec colnum="7" colname="col7"/>
+                  <thead>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1">Type of additive</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col2" nameend="col5" rowsep="1">Number of mono-layers on</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col6" nameend="col7" rowsep="1">Ratio of surface coverage on</entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">SiO<inf loc="post">2</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Si<inf loc="post">3</inf>N<inf loc="post">4</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ceria-SG</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ceria-SGL</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <mml:math altimg="si0001.gif" overflow="scroll">
+                              <mml:mfrac>
+                                 <mml:mrow>
+                                    <mml:mtext>Ceria</mml:mtext>
+                                    <mml:mo>-</mml:mo>
+                                    <mml:mtext>FS</mml:mtext>
+                                 </mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mtext>Ceria</mml:mtext>
+                                    <mml:mo>-</mml:mo>
+                                    <mml:mtext>FSL</mml:mtext>
+                                 </mml:mrow>
+                              </mml:mfrac>
+                           </mml:math>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <mml:math altimg="si0002.gif" overflow="scroll">
+                              <mml:mfrac>
+                                 <mml:mrow>
+                                    <mml:msub>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">Si</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mn>3</mml:mn>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                    <mml:msub>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">N</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mn>4</mml:mn>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                 </mml:mrow>
+                                 <mml:mrow>
+                                    <mml:msub>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">SiO</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mn>2</mml:mn>
+                                       </mml:mrow>
+                                    </mml:msub>
+                                 </mml:mrow>
+                              </mml:mfrac>
+                           </mml:math>
+                        </entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Alanine</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.2</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Valine</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.5</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Proline</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.5</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Glycine</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.0</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Phenylalanine</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">24.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">120.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">127.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">5.7</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Serine</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.4</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Asparagine</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.4</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="tit0005">Effect of lanthanum doping in ceria abrasives on chemical mechanical polishing selectivity for shallow trench isolation</ce:title>
+            <ce:author-group id="ag0005">
+               <ce:author id="au0005">
+                  <ce:given-name>B.V.S.</ce:given-name>
+                  <ce:surname>Praveen</ce:surname>
+                  <ce:cross-ref id="cr0005" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0010">
+                  <ce:given-name>Byoung-Jun</ce:given-name>
+                  <ce:surname>Cho</ce:surname>
+                  <ce:cross-ref id="cr0010" refid="aff0015">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0015">
+                  <ce:given-name>Jin-Goo</ce:given-name>
+                  <ce:surname>Park</ce:surname>
+                  <ce:cross-ref id="cr0015" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cr0020" refid="aff0015">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0020">
+                  <ce:given-name>S.</ce:given-name>
+                  <ce:surname>Ramanathan</ce:surname>
+                  <ce:cross-ref id="cr0025" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cr0030" refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0005">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Department of Chemical Engineering, Indian Institute of Technology Madras, Chennai 600036, India</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Chemical Engineering, Indian Institute of Technology Madras</sa:organization>
+                     <sa:city>Chennai</sa:city>
+                     <sa:postal-code>600036</sa:postal-code>
+                     <sa:country>India</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0010">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Department of Materials Engineering, Hanyang University, Ansan 426 791, Republic of Korea</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Materials Engineering, Hanyang University</sa:organization>
+                     <sa:city>Ansan</sa:city>
+                     <sa:postal-code>426 791</sa:postal-code>
+                     <sa:country>Republic of Korea</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0015">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Department of Bionano Technology, Hanyang University, Ansan 426 791, Republic of Korea</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Bionano Technology, Hanyang University</sa:organization>
+                     <sa:city>Ansan</sa:city>
+                     <sa:postal-code>426 791</sa:postal-code>
+                     <sa:country>Republic of Korea</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author. Tel.: +91 44 2257 4171; fax: +91 44 2257 0509.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:abstract id="ab0005" class="author" view="all"><ce:abstract-sec id="abs0005" view="all">
+                  <ce:simple-para id="sp0050" view="all">Amino acids, when used with ceria based slurries, yield high selectivity in shallow trench isolation chemical mechanical polishing (CMP). However, the presence of impurities in the abrasives also plays a role in determining the selectivity. Experiments were performed with two different ceria abrasives, one with high purity and the other with controlled lanthanum doping. Various amino acids were evaluated in order to identify the nature of interaction between the additives and the abrasives. The abrasives were further characterized using transmission electron microscopy, X-ray diffraction and X-ray photo-electron spectroscopy. The removal rate results show that glycine and proline are sensitive to the La doping in the ceria abrasive whereas the other amino acids studied suppress the nitride removal irrespective of the purity of the abrasives. Thermo-gravimetric analysis shows that the extent of adsorption of glycine or proline on ceria depends on the presence of La doping, whereas the other amino acids adsorb equally well on ceria abrasives with or without La doping.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords id="keys0005" class="keyword" view="all">
+               <ce:section-title id="sect0010">Keywords</ce:section-title>
+               <ce:keyword id="key0005">
+                  <ce:text>Shallow trench isolation</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0010">
+                  <ce:text>Chemical Mechanical Planarization</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0015">
+                  <ce:text>High selectivity</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0020">
+                  <ce:text>Ceria</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0025">
+                  <ce:text>Lanthanum</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sect0015">Introduction</ce:section-title>
+                  <ce:para id="p0005" view="all">As the size of the devices in microelectronic chips shrinks down, the density of the transistors increases rapidly posing a stringent requirement on device isolation <ce:cross-refs id="crs0005" refid="bib1 bib2 bib3">[1–3]</ce:cross-refs>. Shallow trench isolation (STI) <ce:cross-refs id="crs0010" refid="bib4 bib5">[4–5]</ce:cross-refs> technology isolates the transistors by creating shallow trenches and filling the trenches with silicon dioxide, which acts as an insulator. The excess material deposited over the surface is removed by chemical mechanical polishing (CMP) <ce:cross-ref id="cr0035" refid="bib6">[6]</ce:cross-ref>. During CMP, the oxide has to be polished in such a way that the active areas are not damaged. Hence silicon nitride is used as a stop layer to prevent excess polishing. The selectivity, which is defined as the ratio of removal rate of silicon dioxide to silicon nitride, needs to be high for a successful STI CMP process.</ce:para>
+                  <ce:para id="p0010" view="all">Ceria based slurries are reported to yield high removal rates <ce:cross-refs id="crs0015" refid="bib7 bib8">[7–8]</ce:cross-refs>, when compared to silica based slurries <ce:cross-refs id="crs0020" refid="bib9 bib10 bib11">[9–11]</ce:cross-refs>. Even though ceria based slurries yield high polish rates, high selectivity can be achieved only when certain chemicals are added to the slurry. These additives suppress the silicon nitride removal without significantly altering the silicon dioxide removal. To explain the suppression of silicon nitride polishing by the additives, various hypotheses have been proposed in the literature. America and Babu <ce:cross-ref id="cr0040" refid="bib3">[3]</ce:cross-ref> proposed that the suppression of the nitride polish by the amino acid <ce:small-caps>l</ce:small-caps>-proline was due to the inhibition of the silicon nitride hydrolysis because of formation of hydrogen bonding between the oxygen atoms of carboxylic group and the silicon atoms on the surface. Carter and Johns <ce:cross-ref id="cr0045" refid="bib12">[12]</ce:cross-ref> proposed a site blocking mechanism on the surface of silicon nitride, which prevents further hydrolysis and subsequent Si–O<ce:sup loc="post">−</ce:sup> reactivity with ceria. Adsorption studies performed on two different amino acids (<ce:small-caps>l</ce:small-caps>-proline and <ce:small-caps>l</ce:small-caps>-arginine), on silicon dioxide and silicon nitride surfaces, showed that both the additives adsorb to equal extent on the surface of silicon dioxide as well as silicon nitride <ce:cross-ref id="cr0050" refid="bib13">[13]</ce:cross-ref>. While <ce:small-caps>l</ce:small-caps>-proline suppresses only nitride polishing, <ce:small-caps>l</ce:small-caps>-arginine suppressed both oxide and nitride polishing. This indicates that adsorption of amino acids on the nitride surface is not the sole mechanism of high selectivity. Manivannan and Ramanathan <ce:cross-ref id="cr0055" refid="bib14">[14]</ce:cross-ref> showed that hydrogen peroxide suppressed both the oxide and the nitride removal in ceria based slurries, in the pH range of 7–10. However, the removal rates were unaffected in silica based slurries with hydrogen peroxide. In another study, Manivannan and Ramanathan <ce:cross-ref id="cr0060" refid="bib15">[15]</ce:cross-ref> reported that ceria slurry with <ce:small-caps>DL</ce:small-caps> aspartic acid as additive showed suppression of oxide and nitride polish rates for pH values less than 4 and both oxide and nitride were polished when pH was maintained more than 5. At the intermediate pH, between 4 and 5, the nitride removal rate was suppressed suggesting the presence of chemically active sites on the surface of ceria which are being blocked by amino acids. Penta et al. <ce:cross-ref id="cr0065" refid="bib16">[16]</ce:cross-ref> reported that amino acid gets protonated in a selective pH range. This leads to the formation of hydrogen bond and subsequent suppression of silicon nitride polishing. They also reported that weak hydrogen bonds were formed between silicon dioxide and amino acids, resulting in enhanced oxide polishing. However, later studies showed that when nitride wafers were polished using slurries containing different ceria abrasives but with the same additives, the polishing results were different <ce:cross-ref id="cr0070" refid="bib17">[17]</ce:cross-ref>. Glutamic acid yielded high selectivity regardless of the type of abrasive used for polishing. However, <ce:small-caps>l</ce:small-caps>-proline yielded high selectivity only with certain abrasives. It was reported that the purity level of the ceria abrasives depended on the source, leading to the speculation that the presence of La in the ceria abrasive might have led to low selectivity in slurries with <ce:small-caps>l</ce:small-caps>-proline. However, the different abrasives employed in that study were not synthesized by the same process and thus other causes such as crystallinty or porosity could not be excluded. In another study, a ceria slurry containing <ce:small-caps>l</ce:small-caps>-proline was reported to polish silicon nitride, but the purity of the ceria abrasive employed in that study is not known <ce:cross-ref id="cr0075" refid="bib12">[12]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0015" view="all">In the present work, we synthesized two kinds of ceria particles, one with high purity and other containing La using identical process and with controlled reactant species. This ensured that the abrasives were similar to the maximum possible extent with only the La content being different. The abrasives were characterized using transmission electron microscopy (TEM), X-ray diffraction (XRD) and X-ray photo-electron spectroscopy (XPS). Polishing experiments were conducted using various amino acids as additives, in slurries containing both types of ceria abrasives. The polishing results show that some of the additives such as <ce:small-caps>l</ce:small-caps>-proline and glycine are sensitive while other additives are robust to the presence of impurity in providing high selectivity. Thermo-gravimetric analysis was performed to study the interaction between the additives and the ceria abrasives. The results show that the adsorption of proline or glycine on ceria depends on the La doping in ceria abrasives, where as other amino acids adsorbed equally well on both types of ceria.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sect0020">Experimental methods</ce:section-title>
+                  <ce:section id="s0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="sect0025">Sol–gel synthesis of ceria particles</ce:section-title>
+                     <ce:para id="p0020" view="all">Cerium nitrate (Ce(NO<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">3</ce:inf>·6H<ce:inf loc="post">2</ce:inf>O, Alfa Aesar, UK), citric acid (C<ce:inf loc="post">6</ce:inf>H<ce:inf loc="post">8</ce:inf>O<ce:inf loc="post">7</ce:inf>, Merck, India) and aqueous ammonia (NH<ce:inf loc="post">4</ce:inf>OH, Fischer Scientific, India) were used for the synthesis of ceria. The sol–gel synthesis process was adopted from Du et al. <ce:cross-ref id="cr0080" refid="bib18">[18]</ce:cross-ref>. Cerium nitrate and citric acid in the molar ratio of 1:3 were dissolved in deionized water (DIW) resulting in a colorless solution. The solution was mixed homogeneously using a magnetic stirrer with simultaneous addition of aqueous ammonia until the pH increases to 7. As the pH was adjusted, the solution color changed from colorless to brown. After one hour of stirring, the solution was dehydrated using a hot plate maintained at temperature of more than 150<ce:hsp sp="0.25"/>°C. As the water evaporated, a gel was formed at the bottom of the beaker. After some time, there was a sudden increase in temperature and the gel turned into a yellow color powder. This powder was collected, crushed using mortar and pestle and calcined at 350<ce:hsp sp="0.25"/>°C for 12<ce:hsp sp="0.25"/>h to remove traces of unreacted citric acid and ammonia. The powder was again calcined for 12<ce:hsp sp="0.25"/>h at 900<ce:hsp sp="0.25"/>°C to enhance the crystalline nature. The particle size was reduced by wet milling for 3<ce:hsp sp="0.25"/>h in a high-energy ball mill (Pulverisette 6, Fritsch GmbH, Germany) using tungsten carbide balls with a ball to powder weight ratio of 10:1 and toluene as a medium. The milled powder was oven dried at 85<ce:hsp sp="0.25"/>°C for 4<ce:hsp sp="0.25"/>h and used in the polishing experiments. The above process was repeated to prepare lanthanum doped ceria with a mole ratio of 1:9 of lanthanum nitrate (La(NO<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">3</ce:inf>·6H<ce:inf loc="post">2</ce:inf>O, Alfa Aesar, UK) and cerium nitrate. The sol–gel synthesized pure ceria is designated as ceria-SG and La doped ceria as ceria-SGL.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="sect0030">Chemical mechanical polishing</ce:section-title>
+                     <ce:para id="p0025" view="all">One inch couponed wafers of silicon dioxide and silicon nitride (Semi-wafer Inc., Taiwan) were polished using a bench-top Struers (Labopol-5/Laboforce-3). The carrier and turntable speed were maintained at 250<ce:hsp sp="0.25"/>rpm and 100<ce:hsp sp="0.25"/>rpm respectively. Slurries were prepared with ceria abrasives at a concentration of 0.25<ce:hsp sp="0.25"/>wt%. For most of the amino acids, the additive concentrations were maintained at 200<ce:hsp sp="0.25"/>mM, which was chosen based on trial experiments. For glutamic acid and aspartic acid, the concentrations were maintained at 20<ce:hsp sp="0.25"/>mM. Due to the low solubility limit of these two amino acids, higher concentrations were not employed. The pH of the slurry was maintained at 5 using either KOH or H<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf>. The pad was initially soaked in deionized (DI) water for a day and conditioned until consistent results were obtained. After each run, the pad was again conditioned using a silicon carbide grit paper. The slurry was fed on to the surface of the polishing pad at a flow rate of 60<ce:hsp sp="0.25"/>mL/min using a peristaltic pump. For each experimental run, polishing was done for one minute. F20-UV thin film analyzer was used to measure the thickness of the wafer before and after the polishing experiments. Polishing experiments were repeated at least three times and the average value along with standard deviation was reported.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0025" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="sect0035">Sample preparation for thermo-gravimetric analysis (TGA)</ce:section-title>
+                     <ce:para id="p0030" view="all">Thermo-gravimetric analysis is used to study the extent of adsorption of amino acids on the surface of silicon dioxide (Cabot Sanmar Ltd., India), silicon nitride (Sigma-Aldrich, USA) and ceria particles. For the TGA studies, 0.25<ce:hsp sp="0.25"/>g of ceria particles (ceria-SG and ceria-SGL) or 1<ce:hsp sp="0.25"/>g of SiO<ce:inf loc="post">2</ce:inf> or Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> particles were dispersed in 100<ce:hsp sp="0.25"/>mL of DI water along with appropriate concentrations of amino acid additives used for polishing experiments. The pH of the slurry was adjusted to 5 using KOH or H<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf>. The particles in the slurry were filtered using vacuum filtration with 0.45<ce:hsp sp="0.25"/>μm (Millipore) filter paper. The filtered particles were oven dried for 4<ce:hsp sp="0.25"/>h at 125<ce:hsp sp="0.25"/>°C, pulverized using mortar and pestle and stored in a desiccator to prevent any further adsorption of moisture.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0030" view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title id="sect0040">Characterization</ce:section-title>
+                     <ce:para id="p0035" view="all">X-ray diffraction (XRD) for powdered particles were done using an X׳pert Pro PANalytical diffractometer at a wavelength of 1.54<ce:hsp sp="0.25"/>Å of CuKα radiation and 2<ce:italic>θ</ce:italic> scan range of 20–80°. The crystallite size of the abrasives was calculated using Scherrer׳s fomula, for the main diffraction peak. The peaks were indexed using Joint Committee on Powder diffraction Standards (JCPDS). The morphology of the particles was analyzed using a transmission electron microscope (TEM) (Philips CM20) operating in the range of 20–200<ce:hsp sp="0.25"/>kV. Ceria particles were dispersed in methanol and sonicated for 15<ce:hsp sp="0.25"/>min. A drop of ceria dispersed in methanol was placed on the surface of the carbon coated copper grid, dried and used for the TEM analysis. The particle size distribution was measured using laser diffraction (Horiba LA-950 V2). X-ray photoelectron spectroscopy (XPS) measurements were carried out using Sigma probe (Thermo, UK). The base pressure was &lt;10<ce:sup loc="post">−9</ce:sup>
+                        <ce:hsp sp="0.25"/>mbar and AlKα X-rays are used as an excitation source (<ce:italic>hν</ce:italic>=1486.6<ce:hsp sp="0.25"/>eV) with step size and pass energy are 30<ce:hsp sp="0.25"/>eV and 0.1<ce:hsp sp="0.25"/>eV respectively. TA instruments SDT Q600 was utilized for thermo-gravimetric analysis to quantify the amount of adsorptions of different additives on the surface of ceria particles. The TGA experiments were conducted in the nitrogen stream. The temperature was increased at the rate of 15<ce:hsp sp="0.25"/>°C/min up to 100<ce:hsp sp="0.25"/>°C. At 100<ce:hsp sp="0.25"/>°C isothermal conditions were maintained for 30<ce:hsp sp="0.25"/>min to remove any traces of moisture present in the sample and then heated to 600<ce:hsp sp="0.25"/>°C at 15<ce:hsp sp="0.25"/>°C/min in air atmosphere. The weight loss was measured and derivative of weight loss with temperature is reported. The elemental composition of the particles was obtained using energy dispersive X-ray spectroscopy (EDS) analysis (Horiba EMAX).</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0035" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sect0045">Results and discussions</ce:section-title>
+                  <ce:section id="s0040" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="sect0050">X-ray diffraction (XRD)</ce:section-title>
+                     <ce:para id="p0040" view="all">X-ray diffraction patterns of pure ceria and lanthanum doped ceria particles were shown in <ce:float-anchor refid="f0005"/>
+                        <ce:cross-ref id="cr0085" refid="f0005">Fig. 1</ce:cross-ref>. The presence of sharp peaks shows crystalline nature of the particles synthesized. These peaks match with the fluorite structure of ceria with cubic phase <ce:cross-refs id="crs0025" refid="bib19 bib20">[19–20]</ce:cross-refs>. Ceria-SGL showed peaks similar to ceria-SG; however, shift in peaks to lower angles was observed and is shown in inset of <ce:cross-ref id="cr0090" refid="f0005">Fig. 1</ce:cross-ref>. The ionic radius of La<ce:sup loc="post">3+</ce:sup> (1.10<ce:hsp sp="0.25"/>Å) is more than Ce<ce:sup loc="post">4+</ce:sup> (0.97<ce:hsp sp="0.25"/>Å), and the incorporation of La<ce:sup loc="post">3+</ce:sup> in the place of Ce<ce:sup loc="post">4+</ce:sup> resulted in expansion of the ceria lattice and a shift in the peak position to lower angles <ce:cross-ref id="cr0095" refid="bib21">[21]</ce:cross-ref>.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0045" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="sect0055">Size and composition analysis</ce:section-title>
+                     <ce:para id="p0045" view="all">Surface morphologies of synthesized ceria-SG and ceria-SGL particles are studied using TEM images, which are given in <ce:float-anchor refid="f0010"/>
+                        <ce:cross-ref id="cr0100" refid="f0010">Fig. 2</ce:cross-ref>. The images show that the particles are highly agglomerated. The primary particle size of ceria-SGL is smaller compared to that of ceria-SG. The selected area electron diffraction (SAED) pattern suggests that the ceria particles with and without La doping are polycrystalline in nature. The mean agglomerate size, as measured by laser diffraction, was 8.6<ce:hsp sp="0.25"/>μ and 8.1<ce:hsp sp="0.25"/>μ respectively for ceria-SG and ceria-SGL. For both types of particles, the size distributions were broad with a tail on the side of large particles (&gt;50<ce:hsp sp="0.25"/>μ). The elemental composition was analyzed by EDS and the results are given in <ce:float-anchor refid="t0005"/>
+                        <ce:cross-ref id="cr0105" refid="t0005">Table 1</ce:cross-ref>. Based on the EDS data, it is seen that La doping is 3<ce:hsp sp="0.25"/>at% in ceria-SGL particles.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0050" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title id="sect0060">X-ray photoelectron spectroscopy (XPS)</ce:section-title>
+                     <ce:para id="p0050" view="all">XPS analysis is a core level spectroscopic technique used to study the electronic states of Ce<ce:sup loc="post">3+</ce:sup> and Ce<ce:sup loc="post">4+</ce:sup> using Ce3d spectra. The presence of lanthanum on the surface is also analyzed with this technique where we use La3d spectra. Deconvolution of the Ce3d spectra showed 10 peaks, of which 6 peaks (denoted as v, v″, v″′, u, u″, u″′) belonged to Ce<ce:sup loc="post">4+</ce:sup> and 4 peaks correspond to Ce<ce:sup loc="post">3+</ce:sup> (denoted as v<ce:inf loc="post">0</ce:inf>, v′, u<ce:inf loc="post">0</ce:inf>, u′) in the binding energy range of 875–925<ce:hsp sp="0.25"/>eV <ce:cross-refs id="crs0030" refid="bib19 bib22 bib23 bib24">[19,22–24]</ce:cross-refs> where u and v refer to the spin orbit components 3d<ce:inf loc="post">3/2</ce:inf> and 3d<ce:inf loc="post">5/2</ce:inf> respectively. The area under the deconvoluted peaks is used to calculate the fraction of Ce<ce:sup loc="post">3+</ce:sup> and Ce<ce:sup loc="post">4+</ce:sup> present on the abrasive surface. The percentage is calculated using the following formula <ce:cross-refs id="crs0035" refid="bib22 bib23">[22,23]</ce:cross-refs>:</ce:para>
+                     <ce:para id="p0055" view="all">
+                        <mml:math altimg="si0003.gif" overflow="scroll">
+                           <mml:msup>
+                              <mml:mrow>
+                                 <mml:mo>%</mml:mo>
+                                 <mml:mtext>Ce</mml:mtext>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mn>3</mml:mn>
+                                 <mml:mo>+</mml:mo>
+                              </mml:mrow>
+                           </mml:msup>
+                           <mml:mo>=</mml:mo>
+                           <mml:msup>
+                              <mml:mrow>
+                                 <mml:mi mathvariant="normal">Ce</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mn>3</mml:mn>
+                                 <mml:mo>+</mml:mo>
+                              </mml:mrow>
+                           </mml:msup>
+                           <mml:mo>/</mml:mo>
+                           <mml:msup>
+                              <mml:mrow>
+                                 <mml:mi mathvariant="normal">Ce</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mn>3</mml:mn>
+                                 <mml:mo>+</mml:mo>
+                              </mml:mrow>
+                           </mml:msup>
+                           <mml:mo>+</mml:mo>
+                           <mml:msup>
+                              <mml:mrow>
+                                 <mml:mi mathvariant="normal">Ce</mml:mi>
+                              </mml:mrow>
+                              <mml:mrow>
+                                 <mml:mn>4</mml:mn>
+                                 <mml:mo>+</mml:mo>
+                              </mml:mrow>
+                           </mml:msup>
+                        </mml:math>, where Ce<ce:sup loc="post">3+</ce:sup>=v<ce:inf loc="post">0</ce:inf>+v′+u<ce:inf loc="post">0</ce:inf>+u′ and Ce<ce:sup loc="post">4+</ce:sup>=v+v″+v′′′+u+u″+u′′′. The calculations showed that the fraction of Ce<ce:sup loc="post">3+</ce:sup> on the abrasive surface is about 0.34 in ceria-SG while it is about 0.4 in ceria-SGL. Thus La doping causes a slight increase in the Ce<ce:sup loc="post">3+</ce:sup> fraction on the particle surface.</ce:para>
+                     <ce:para id="p0060" view="all">The La3d spectra were analyzed to identify the presence of La on the surface of ceria particles. The binding energy range for these spectra is between 830<ce:hsp sp="0.25"/>eV and 870<ce:hsp sp="0.25"/>eV <ce:cross-refs id="crs0040" refid="bib21 bib25">[21,25]</ce:cross-refs> and is shown in <ce:float-anchor refid="f0015"/>
+                        <ce:cross-ref id="cr0110" refid="f0015">Fig. 3</ce:cross-ref>. There are no visible peaks present in the spectrum of ceria-SG particles, where as two clear distinct peaks are present in the spectrum of ceria-SGL particles at binding energy values of 836<ce:hsp sp="0.25"/>eV and 854<ce:hsp sp="0.25"/>eV indicating the presence of La <ce:cross-refs id="crs0045" refid="bib17 bib25">[17,25]</ce:cross-refs>. Thus XPS analyses clearly identify the presence of La peaks in ceria-SGL particles and also show that the fraction of Ce<ce:sup loc="post">3+</ce:sup> in the abrasive surface is slightly higher in case of ceria-SGL.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0055" view="all">
+                     <ce:label>3.4</ce:label>
+                     <ce:section-title id="sect0065">Polishing results</ce:section-title>
+                     <ce:para id="p0065" view="all">Slurries of pure (Ceria-SG) and La doped ceria (Ceria-SGL) particles were used with and without additives, to polish silicon dioxide and silicon nitride wafers. The polishing results are presented in <ce:float-anchor refid="f0020"/>
+                        <ce:cross-ref id="cr0115" refid="f0020">Fig. 4</ce:cross-ref>(a–c). A few amino acids, classified into different groups based on their polarity and type of R groups, were selected and are given in <ce:float-anchor refid="t0010"/>
+                        <ce:cross-ref id="cr0120" refid="t0010">Table 2</ce:cross-ref> 
+                        <ce:cross-ref id="cr0125" refid="bib26">[26]</ce:cross-ref>. One or more amino acids from each group were used as additives. The concentrations of additives were chosen based on trial experiments with ceria-SG based slurries. With <ce:small-caps>l</ce:small-caps>-proline, a high selectivity was obtained when a concentration of 200<ce:hsp sp="0.25"/>mM was employed. Hence other additives were used at 200<ce:hsp sp="0.25"/>mM concentrations, except for glutamic acid and <ce:small-caps>DL</ce:small-caps> aspartic acid. Slurries with glutamic acid showed a high selectivity at 20<ce:hsp sp="0.25"/>mM concentration. Since the solubility of glutamic acid is low, a higher concentration was not utilized.</ce:para>
+                     <ce:para id="p0070" view="all">The removal rates of the oxide and the nitride films in slurries containing ceria-SG or ceria-SGL, with and without polar negative charge R-group amino acids (glutamic acid and aspartic acid), are given in <ce:cross-ref id="cr0130" refid="f0020">Fig. 4</ce:cross-ref>a. In the absence of any additives, ceria-SG based slurries gave oxide and nitride polish rates of 70<ce:hsp sp="0.25"/>nm/min and 22<ce:hsp sp="0.25"/>nm/min respectively. When polished with ceria-SGL based slurries, the oxide removal rate increased to 84<ce:hsp sp="0.25"/>nm/min where as the nitride removal rate was 18<ce:hsp sp="0.25"/>nm/min. In both cases, the selectivity is very low. When glutamic acid is used as an additive, the oxide removal rates are in the range of 110<ce:hsp sp="0.25"/>nm/min for both ceria-SG and ceria-SGL slurries and there is complete suppression of nitride removal rate in both the cases.</ce:para>
+                     <ce:para id="p0075" view="all">
+                        <ce:cross-ref id="cr0135" refid="f0020">Fig. 4</ce:cross-ref>b shows the oxide and nitride removal rates when polished using slurries containing ceria-SG or ceria-SGL with another set of amino acids. These amino acids are either polar amino acids with uncharged R groups, or non-polar amino acids. The removal rates of oxide are in the range of 120<ce:hsp sp="0.25"/>nm/min when polished with either ceria-SG or ceria-SGL based slurries containing polar amino acids (serine or asparagine) as additives. When polished with non-polar amino acids with aliphatic R group (valine or alanine) or with aromatic R group (phenylalanine), the oxide removal rates increased to about 170<ce:hsp sp="0.25"/>nm/min for both ceria-SG and ceria-SGL based slurries. In all the cases, there was a complete suppression of nitride polishing when the above additives were included in the slurry.</ce:para>
+                     <ce:para id="p0080" view="all">In our experiments, two amino acids exhibited sensitivity to the purity level of the abrasives. <ce:cross-ref id="cr0140" refid="f0020">Fig. 4</ce:cross-ref>c shows the removal rate trends with <ce:small-caps>l</ce:small-caps>-proline and glycine as additives. When <ce:small-caps>l</ce:small-caps>-proline is used as additive, the oxide removal rate was 113<ce:hsp sp="0.25"/>nm/min and 124<ce:hsp sp="0.25"/>nm/min respectively in ceria-SG and ceria-SGL slurries. The nitride removal was completely suppressed in ceria-SG slurries while a polish rate of 37<ce:hsp sp="0.25"/>nm/min was observed in ceria-SGL slurries. In some of the earlier reports <ce:cross-refs id="crs0050" refid="bib3 bib7">[3,7]</ce:cross-refs>, <ce:small-caps>l</ce:small-caps>-proline was shown to suppress nitride removal, but there were also other reports <ce:cross-refs id="crs0055" refid="bib12 bib17">[12,17]</ce:cross-refs> indicating that it did not always suppress silicon nitride polishing. While the purity of the ceria employed in one of the reports <ce:cross-ref id="cr0145" refid="bib12">[12]</ce:cross-ref> is not known, commercial ceria containing La impurity was employed in the second study <ce:cross-ref id="cr0150" refid="bib17">[17]</ce:cross-ref>. With glycine, ceria-SG slurry gave an oxide removal rate of 128<ce:hsp sp="0.25"/>nm/min and a complete suppression of nitride removal was observed. With ceria-SGL slurries, the oxide removal rate was about 112<ce:hsp sp="0.25"/>nm/min and more importantly, the nitride removal rate was 24<ce:hsp sp="0.25"/>nm/min, thus resulting in low selectivity. Srinivasan et al. <ce:cross-ref id="cr0155" refid="bib7">[7]</ce:cross-ref> showed that the oxide and the nitride removal rates were 547<ce:hsp sp="0.25"/>nm/min and 34<ce:hsp sp="0.25"/>nm/min respectively for the ceria based slurries containing glycine as an additive with pH adjusted to 10. This selectivity was higher than the one obtained using slurries without additives. Carter et al. <ce:cross-ref id="cr0160" refid="bib27">[27]</ce:cross-ref> reported that the oxide removal rate and nitride removal rate were 270<ce:hsp sp="0.25"/>nm/min and 80<ce:hsp sp="0.25"/>nm/min when polished with ceria slurries with glycine as additive and pH adjusted to 5. Thus, in some studies glycine was shown to enhance the STI CMP selectivity while in other studies, glycine did not enhance the selectivity. Our results show that the choice of abrasive can alter the ability of glycine or <ce:small-caps>l</ce:small-caps>-proline to enhance the selectivity.</ce:para>
+                     <ce:para id="p0085" view="all">Experiments were also conducted using lysine as additive with 0.25<ce:hsp sp="0.25"/>wt% of pure ceria in the pH range of 5. Lysine is a polar amino acid with a positively charge R group. For 20<ce:hsp sp="0.25"/>mM concentration of lysine, the oxide removal rate was 30<ce:hsp sp="0.25"/>nm/min and the nitride removal rate was found to be practically zero. The oxide removal rate was quite low and hence the lysine concentration was reduced to 10<ce:hsp sp="0.25"/>mM. At this concentration, the oxide removal rate increased to 34<ce:hsp sp="0.25"/>nm/min, while the nitride removal rate remained at zero. Further reduction of lysine concentration to 5<ce:hsp sp="0.25"/>mM resulted in an oxide removal rate of 60<ce:hsp sp="0.25"/>nm/min and a nitride removal rate of 9<ce:hsp sp="0.25"/>nm/min. These results show that at pH 5, even with low concentrations of the additive, the oxide and the nitride removal were inhibited equally and at medium and high concentrations, both were completely suppressed. In another study <ce:cross-ref id="cr0165" refid="bib28">[28]</ce:cross-ref>, it was reported that slurry containing 0.5<ce:hsp sp="0.25"/>wt% ceria and 0.1<ce:hsp sp="0.25"/>wt% lysine at pH 5 gave oxide and nitride removal rates of 225<ce:hsp sp="0.25"/>nm/min and 37<ce:hsp sp="0.25"/>nm/min respectively. America and Babu <ce:cross-ref id="cr0170" refid="bib3">[3]</ce:cross-ref> reported an oxide and nitride removal rates of 23<ce:hsp sp="0.25"/>nm/min and 1<ce:hsp sp="0.25"/>nm/min respectively when polished with slurries prepared using 1<ce:hsp sp="0.25"/>wt% ceria and 2<ce:hsp sp="0.25"/>wt% arginine at pH of 9. In another reported Dandu Veera et al. <ce:cross-ref id="cr0175" refid="bib29">[29]</ce:cross-ref> reported the oxide and nitride removal rates as ~46<ce:hsp sp="0.25"/>nm/min and 2<ce:hsp sp="0.25"/>nm/min when polished with 1<ce:hsp sp="0.25"/>wt% ceria slurries and 1<ce:hsp sp="0.25"/>wt% arginine. When the concentration of the additive is increased to 2<ce:hsp sp="0.25"/>wt% the oxide removal rate is reduced to 23<ce:hsp sp="0.25"/>nm/min. Thus, polar positive charged amino acids are not suitable additives for enhancing the oxide to nitride removal selectivity in STI CMP.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0060" view="all">
+                     <ce:label>3.5</ce:label>
+                     <ce:section-title id="sect0070">Thermo-gravimetric analysis (TGA)</ce:section-title>
+                     <ce:para id="p0090" view="all">
+                        <ce:float-anchor refid="f0025"/>
+                        <ce:cross-ref id="cr0180" refid="f0025">Fig. 5</ce:cross-ref> shows the derivative thermograms for various amino acids adsorbed on silicon dioxide and on silicon nitride surfaces at pH 5. These can be analyzed to determine the extent of amino acid adsorption on the surface <ce:cross-refs id="crs0060" refid="bib13 bib16 bib30">[13,16,30]</ce:cross-refs>. Derivative thermograms of silicon dioxide and silicon nitride particles without any amino acids did not show any peak, indicating the absence of any adsorbed organic matter on the surface of these particles. The derivative thermograms of glutamic acid also did not show any clear peak. The concentration of glutamic acid used was low (20<ce:hsp sp="0.25"/>mM) due to its limited solubility and a small change in mass may not be detectable by thermo-gravimetric analysis. The derivative thermogram of <ce:small-caps>l</ce:small-caps>-proline adsorbed on silica showed two peaks. One relatively sharper peak was observed at a temperature of 200<ce:hsp sp="0.25"/>°C superimposed on another broad peak in the temperature range of 200<ce:hsp sp="0.25"/>°C and 250<ce:hsp sp="0.25"/>°C. The derivative thermogram of <ce:small-caps>l</ce:small-caps>-proline adsorbed on silicon nitride particles showed only one peak at 210<ce:hsp sp="0.25"/>°C. The derivative thermogram of glycine adsorbed on silicon dioxide and silicon nitride showed two peaks at temperatures of 210<ce:hsp sp="0.25"/>°C and 260<ce:hsp sp="0.25"/>°C in both cases. This agrees with the literature report <ce:cross-ref id="cr0185" refid="bib30">[30]</ce:cross-ref> where differential thermo-gravimetric profiles of glycine adsorbed on the surface of silica showed two peaks, one in the temperature range of 150–200<ce:hsp sp="0.25"/>°C and the second in the temperature range of 270–280<ce:hsp sp="0.25"/>°C. The derivative thermogram of phenylalanine adsorbed on silicon dioxide and silicon nitride also showed two peaks. While the first, short, peak was seen at 220<ce:hsp sp="0.25"/>°C on silicon dioxide and at 235<ce:hsp sp="0.25"/>°C on silicon nitride, the second, peak was seen at 340<ce:hsp sp="0.25"/>°C on both oxide and nitride surfaces. These results show that the amino acids tend to adsorb on silicon dioxide as well as on silicon nitride surface.</ce:para>
+                     <ce:para id="p0095" view="all">Earlier reports indicate that the adsorption of the additive on the work surface <ce:cross-refs id="crs0065" refid="bib3 bib12 bib31 bib32">[3,12,31–32]</ce:cross-refs>, as well as the interaction between the additive and abrasive <ce:cross-ref id="cr0190" refid="bib17">[17]</ce:cross-ref> can play a role in influencing the nitride polishing suppression and hence the selectivity. In order to understand the interaction between the abrasives and additives, derivative thermograms of amino acids adsorbed on ceria were also analyzed. <ce:float-anchor refid="f0030"/>
+                        <ce:cross-ref id="cr0195" refid="f0030">Fig. 6</ce:cross-ref> shows the derivative thermograms of different amino acids on ceria-SG and ceria-SGL particles. The derivative thermograms of blank ceria particles, i.e. without amino acids, are featureless (<ce:cross-ref id="cr0200" refid="f0030">Fig. 6</ce:cross-ref>a). This confirms the absence of any adsorbed organic additives on the particles. For <ce:small-caps>l</ce:small-caps>-proline adsorbed on ceria-SG, the derivative thermogram (<ce:cross-ref id="cr0205" refid="f0030">Fig. 6</ce:cross-ref>b) shows one sharp peak near 200<ce:hsp sp="0.25"/>°C and another broad peak between 300<ce:hsp sp="0.25"/>°C and 400<ce:hsp sp="0.25"/>°C. The derivative thermogram of <ce:small-caps>l</ce:small-caps> proline on ceria-SGL did not show any peak near 200<ce:hsp sp="0.25"/>°C. However, the peak between 300<ce:hsp sp="0.25"/>°C and 400<ce:hsp sp="0.25"/>°C was present, as shown in <ce:cross-ref id="cr0210" refid="f0030">Fig. 6</ce:cross-ref>b. The derivative thermograms of ceria particles with glycine are presented in <ce:cross-ref id="cr0215" refid="f0030">Fig. 6</ce:cross-ref>c. Here also, only one peak is seen in the derivative thermogram of glycine adsorbed on ceria-SGL, while two peaks are visible in the derivative thermograms of glycine adsorbed on ceria-SG. The results show that both proline and glycine were strongly adsorbed on the surface of ceria-SG when compared to that of ceria-SGL. The derivative thermograms of glutamic acid (<ce:cross-ref id="cr0220" refid="f0030">Fig. 6</ce:cross-ref>d) did not show any strong peaks on ceria-SG or ceria-SGL. This might be attributed to the low concentration (20<ce:hsp sp="0.25"/>mM) of glutamic acid used the adsorption studies. The derivative thermograms of phenylalanine showed two sharp peaks near 250<ce:hsp sp="0.25"/>°C and 350<ce:hsp sp="0.25"/>°C for both ceria-SG and ceria-SGL particles (<ce:cross-ref id="cr0225" refid="f0030">Fig. 6</ce:cross-ref>e).</ce:para>
+                     <ce:para id="p0100" view="all">From the thermo-gravimetric data, the quantity of amino acids adsorbed on the surface of these particles can be estimated. The extent of amino acids adsorption on ceria-SG, ceria-SGL, silicon dioxide and silicon nitride surfaces are given in <ce:float-anchor refid="t0015"/>
+                        <ce:cross-ref id="cr0230" refid="t0015">Table 3</ce:cross-ref>. Since the concentrations of glutamic acid and aspartic acid considered for the analysis are low (20<ce:hsp sp="0.25"/>mM), the surface coverage values could not be estimated. The results in <ce:cross-ref id="cr0235" refid="t0015">Table 3</ce:cross-ref> show that amino acids adsorb more on silicon nitride surface than on silicon dioxide surface. The ratio of additives adsorbed on the surface of ceria-SG to that on ceria-SGL surface is also shown in <ce:cross-ref id="cr0240" refid="t0015">Table 3</ce:cross-ref>. The values show that amino acids such as serine, asparagine, alanine, valine, phenylalanine show a ceria-SG to ceria-SGL adsorption ratio of less than one. This shows that La doping enhances the adsorption of amino acids on the ceria particles. However, the results for proline and glycine show that additives are adsorbed more on the ceria-SG surface than on ceria-SGL surface. The exact reason for this behavior is not clear, but the results suggest that at least in the case of <ce:small-caps>l</ce:small-caps>-proline or glycine, the interaction between the abrasive and additive is important in influencing the selectivity. The XRD results suggest that the crystal structure and phase do not explain the observed difference in the CMP results. The changes in the selectivity could not be explained by any significant difference in the primary particle size or the agglomerate size values either. The main difference between the two abrasives is the presence of La in ceria-SGL, which is confirmed by XPS and EDS analyses. The quantitatively larger adsorption of the amino acids on silicon nitride than on silicon dioxide shows that the additive-work surface interactions could not be neglected either.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0065" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sect0075">Conclusions</ce:section-title>
+                  <ce:para id="p0105" view="all">Polishing results of silicon dioxide and silicon nitride in the presence of different amino acid additive with ceria-SG and ceria-SGL slurries at pH 5 were studied. A comparison of these results shows that the selectivity depends on the choice of amino acid and abrasive. The adsorption of the additive onto the work surface and/or to the abrasive can result in suppression of silicon nitride polishing. While glycine and proline gave high selectivity with only ceria-SG slurries, other amino acids studied gave high selectivity with both ceria-SG and ceria-SGL slurries. It is proposed that the active sites on the surface of ceria-SGL particles are not completely blocked by glycine and proline. These results are further supported by derivative thermograms which showed that proline and glycine adsorb less on the abrasive if the particles contain La. Hence La doped ceria based slurries with <ce:small-caps>l</ce:small-caps>-proline or glycine as additives are not effective in suppression of nitride removal during CMP.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0005" view="all">
+               <ce:section-title id="sect0080">Acknowledgment</ce:section-title>
+               <ce:para id="p0110" view="all">The authors thank the <ce:grant-sponsor id="gs1" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor" xlink:type="simple">Department of Science and Technology (DST), Ministry of Science and Technology, India</ce:grant-sponsor> (<ce:grant-number refid="gs1">INT/Korea/P-01</ce:grant-number>) and <ce:grant-sponsor id="gs2" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor" xlink:type="simple">National Research Foundation (NRF), Korea</ce:grant-sponsor> (<ce:grant-number refid="gs2">2011-0027711</ce:grant-number>) for financing this joint venture project between India and Korea.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bibliog0005" view="all">
+               <ce:section-title id="sect0085">References</ce:section-title>
+               <ce:bibliography-sec id="bb0005" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sbref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Steigerwald</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.P.</ce:given-name>
+                                 <ce:surname>Murarka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Gutmann</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical Mechanical Planarization of Microelectronic Materials</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1997</sb:date>
+                              <sb:publisher>
+                                 <sb:name>John Wiley &amp; Sons</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                           <sb:pages>
+                              <sb:first-page>2</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sbref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.R.</ce:given-name>
+                                 <ce:surname>Oliver</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical Mechanical Planarization of Semiconductor Materials</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2004</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sbref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.G.</ce:given-name>
+                                 <ce:surname>America</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.V.</ce:given-name>
+                                 <ce:surname>Babu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochem. Solid-State Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>G327</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sbref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Nag</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Chatterjee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>99</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>129</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sbref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.-Y.</ce:given-name>
+                                 <ce:surname>Jeong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-Y.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.-J.</ce:given-name>
+                                 <ce:surname>Seo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Microelectron. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>66</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>480</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sbref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.B.</ce:given-name>
+                                 <ce:surname>Zantye</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.K.</ce:given-name>
+                                 <ce:surname>Sikder</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. Rep.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>45</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>89</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <ce:other-ref id="othref0005">
+                        <ce:textref>R. Srinivasan, S.V. Babu, W.G. America, Y.-S. Her, US Patent 6,468,910 B1, 2002.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <ce:other-ref id="othref0010">
+                        <ce:textref>G.S. Grover, B.L. Mueller, S. Wang, US Patent 6,689,692, 2004.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sbref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Manivannan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ramanathan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Microelectron. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>85</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1748</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <ce:other-ref id="othref0015">
+                        <ce:textref>W.R. Morrison, K.P. Hunt, European Patent 0853335, 1998.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <ce:other-ref id="othref0020">
+                        <ce:textref>D.F. Canaperi, R. Jagannathan, M. Krishnan, C.O. Morgan, T.M. Wright, US Patent 6,114,249, 2000.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sbref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.W.</ce:given-name>
+                                 <ce:surname>Carter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.P.</ce:given-name>
+                                 <ce:surname>Johns</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochem. Solid-State Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>G218</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sbref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Nagendra Prasad</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ramanathan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochem. Solid-State Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>G337</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sbref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Manivannan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ramanathan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Surf. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>255</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3764</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sbref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Manivannan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Noyel Victoria</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ramanathan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Thin Solid Films</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>518</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5737</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sbref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.K.</ce:given-name>
+                                 <ce:surname>Penta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.C.</ce:given-name>
+                                 <ce:surname>Peethala</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.P.</ce:given-name>
+                                 <ce:surname>Amanapu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Melman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.V.</ce:given-name>
+                                 <ce:surname>Babu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Colloids Surf. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>429</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>67</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sbref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.V.S.</ce:given-name>
+                                 <ce:surname>Praveen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Manivannan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.D.</ce:given-name>
+                                 <ce:surname>Umashankar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.-J.</ce:given-name>
+                                 <ce:surname>Cho</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-G.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ramanathan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Microelectron. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>114</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>98</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sbref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Du</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Feng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Haijin</ce:given-name>
+                                 <ce:surname>Zheng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Mater. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>295–297</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>170</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sbref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.K.</ce:given-name>
+                                 <ce:surname>Renuka</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Alloy. Compd.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>513</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>230</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sbref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Yuan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Ding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>110</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>25782</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sbref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.M.</ce:given-name>
+                                 <ce:surname>Reddy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Katta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Thrimurthulu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>467</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sbref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Ju</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.Y.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.D.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.N.</ce:given-name>
+                                 <ce:surname>Xie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.L.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4192</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sbref19">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Koberstein</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Khalid</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-W.</ce:given-name>
+                                 <ce:surname>Chan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surf. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>563</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>74</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sbref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Bêche</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Charvin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Perarnau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Abanades</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Flamant</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surf. Interface Anal.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>264</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sbref21">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.F.</ce:given-name>
+                                 <ce:surname>Sunding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Hadidi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Diplas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.M.</ce:given-name>
+                                 <ce:surname>Løvvik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.E.</ce:given-name>
+                                 <ce:surname>Norby</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.E.</ce:given-name>
+                                 <ce:surname>Gunnæs</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electron. Spectrosc. Relat. Phenom.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>184</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>399</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="sbref22">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.L.</ce:given-name>
+                                 <ce:surname>Lehninger</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Principles of Biochemistry</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1984</sb:date>
+                              <sb:publisher>
+                                 <sb:name>CBS Publishers</sb:name>
+                                 <sb:location>New Delhi</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                           <sb:pages>
+                              <sb:first-page>107</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib27">
+                     <ce:label>[27]</ce:label>
+                     <ce:other-ref id="othref0025">
+                        <ce:textref>P.W. Carter, T.P. Johns, U.S. Patent 0152309 A1, 2004.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib28">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="sbref23">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Feng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.V.</ce:given-name>
+                                 <ce:surname>Babu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochem. Solid-State Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>H128</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib29">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="sbref24">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.R.</ce:given-name>
+                                 <ce:surname>Dandu Veera</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Natarajan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Hegde</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.V.</ce:given-name>
+                                 <ce:surname>Babu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>156</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>H487</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib30">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference id="sbref25">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Meng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Stievano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.F.</ce:given-name>
+                                 <ce:surname>Lambert</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Langmuir</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>914</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib31">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference id="sbref26">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.Z.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Gutman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.P.</ce:given-name>
+                                 <ce:surname>Chow</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>145</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3919</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib32">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference id="sbref27">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.Z.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Gutman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.P.</ce:given-name>
+                                 <ce:surname>Chow</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Bussman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.F.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.A.</ce:given-name>
+                                 <ce:surname>Prinz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Thin Solid Films</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>308–309</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>555</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

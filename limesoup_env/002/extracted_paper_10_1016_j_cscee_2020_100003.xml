@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2666016420300013</prism:url><dc:identifier>doi:10.1016/j.cscee.2020.100003</dc:identifier><eid>1-s2.0-S2666016420300013</eid><prism:doi>10.1016/j.cscee.2020.100003</prism:doi><pii>S2666-0164(20)30001-3</pii><dc:title>Pollution prevention via recovery of cerium (IV) oxide in optics company </dc:title><prism:publicationName>Case Studies in Chemical and Environmental Engineering</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>crp</pubType><prism:issn>26660164</prism:issn><prism:volume>1</prism:volume><prism:startingPage>100003</prism:startingPage><prism:pageRange>100003</prism:pageRange><articleNumber>100003</articleNumber><dc:format>application/xml</dc:format><prism:coverDate>2020-05-31</prism:coverDate><prism:coverDisplayDate>May 2020</prism:coverDisplayDate><prism:copyright>© 2020 The Authors. Published by Elsevier Ltd.</prism:copyright><prism:publisher>The Authors. Published by Elsevier Ltd.</prism:publisher><dc:creator>Park, Eugene</dc:creator><dc:creator>Gallagher, William</dc:creator><dc:creator>Hobbs, Zachary</dc:creator><dc:creator>Mayton, Mark</dc:creator><dc:description>
+                  Pollution prevention methods were applied at an optics manufacturer in an effort to improve recovery of a valuable polishing component, cerium oxide (ceria), 77% of which was lost to dragout and sewer discharge. Centrifugation and microfiltratiion were evaluated to develop a process that would increase recovery of used ceria, which would then be sent back to the ceria supplier for reclamation and reuse. Full-scale implementation included a high-speed centrifuge that operates continuously with a microfiltration system through recirculation in a single process tank. Sydor Optics has improved ceria recovery from 23% to 48%, saving thousands of dollars annually.
+               </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>Author</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by/4.0/</openaccessUserLicense><dcterms:subject>Lens polishing</dcterms:subject><dcterms:subject>Centrifugation</dcterms:subject><dcterms:subject>Microfiltration</dcterms:subject><dcterms:subject>Ceria recovery</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S2666016420300013" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2666016420300013" rel="scidir"/></coredata><objects><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="624" height="623" size="56941">https://api.elsevier.com/content/object/eid/1-s2.0-S2666016420300013-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="164" height="164" size="4783">https://api.elsevier.com/content/object/eid/1-s2.0-S2666016420300013-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="580" height="289" size="29379">https://api.elsevier.com/content/object/eid/1-s2.0-S2666016420300013-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="109" size="4575">https://api.elsevier.com/content/object/eid/1-s2.0-S2666016420300013-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="580" height="557" size="57936">https://api.elsevier.com/content/object/eid/1-s2.0-S2666016420300013-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="170" height="163" size="8863">https://api.elsevier.com/content/object/eid/1-s2.0-S2666016420300013-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="624" height="205" size="32586">https://api.elsevier.com/content/object/eid/1-s2.0-S2666016420300013-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="72" size="6503">https://api.elsevier.com/content/object/eid/1-s2.0-S2666016420300013-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="580" height="323" size="34201">https://api.elsevier.com/content/object/eid/1-s2.0-S2666016420300013-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="122" size="5663">https://api.elsevier.com/content/object/eid/1-s2.0-S2666016420300013-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="624" height="342" size="56315">https://api.elsevier.com/content/object/eid/1-s2.0-S2666016420300013-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="120" size="7388">https://api.elsevier.com/content/object/eid/1-s2.0-S2666016420300013-gr5.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>85120881016</scopus-id><scopus-eid>2-s2.0-85120881016</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85120881016" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>321448</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291792</xocs:ssid>
+         <xocs:ssid type="subj">291800</xocs:ssid>
+         <xocs:ssid type="subj">291808</xocs:ssid>
+         <xocs:ssid type="subj">291884</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Case Studies in Chemical and Environmental Engineering</xocs:srctitle>
+      <xocs:normalized-srctitle>CASESTUDIESINCHEMICALENVIRONMENTALENGINEERING</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20200224">2020-02-24</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20200224">2020-02-24</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20200520">2020-05-20</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20200520">2020-05-20</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2020-05-20T23:55:49</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2666016420300013</xocs:eid>
+      <xocs:pii-formatted>S2666-0164(20)30001-3</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2666016420300013</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.cscee.2020.100003</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2666016420X00028</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20200520">2020-05-20T23:15:59.102397Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20200501</xocs:date-search-begin>
+      <xocs:date-search-end>20200531</xocs:date-search-end>
+      <xocs:year-nav>2020</xocs:year-nav>
+      <xocs:indexeddate epoch="1582588849">2020-02-25T00:00:49.151609Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantsponsor primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2666-0164</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>26660164</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>NONE</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>1</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>1</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 1</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>3</xocs:sort-order>
+      <xocs:first-fp>100003</xocs:first-fp>
+      <xocs:article-number>100003</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>100003</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202005</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>May 2020</xocs:cover-date-text>
+      <xocs:cover-date-start>2020-05-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2020-05-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2020</xocs:cover-date-year>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>crp</xocs:document-subtype>
+      <xocs:copyright-line>© 2020 The Authors. Published by Elsevier Ltd.</xocs:copyright-line>
+      <xocs:normalized-article-title>POLLUTIONPREVENTIONVIARECOVERYCERIUMIVOXIDEINOPTICSCOMPANY</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>PARK</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>E</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Materials and methods</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Baseline determination</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Evaluation of improvement opportunities through pilot-testing</xocs:item-toc-section-title>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.2.1</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Centrifugation</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.2.2</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Membrane filtration</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Production system design</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Implementation</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Metrics</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1"/>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-normalized-surname>TINKHAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9633</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9699</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CERIUMOXIDEPOLISHINGSLURRYRECLAMATIONPROJECTCHARACTERIZATIONTECHNIQUESRESULTS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-normalized-surname>BORRA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1075</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-normalized-surname>BOUCHAUD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>559</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref6">
+            <xocs:ref-normalized-surname>CHERYA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ULTRAFILTRATIONMICROFILTRATIONHANDBOOK</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref7">
+            <xocs:ref-normalized-surname>FRICK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>POREX</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref8">
+            <xocs:ref-normalized-surname>PARK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1527</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1542</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref9">
+            <xocs:ref-normalized-surname>BILAL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-first-fp>974</xocs:ref-first-fp>
+            <xocs:ref-last-lp>984</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref10">
+            <xocs:ref-normalized-surname>KONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1235</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1238</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>PARKX2020X100003</xocs:refkey3>
+         <xocs:refkey4ai>PARKX2020X100003XE</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2020-02-21T23:44:40Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>Author</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2020 The Authors. Published by Elsevier Ltd.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2020-02-25T15:38:44.828Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/eoas</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency-acronym>DEC</xocs:funding-agency-acronym>
+            <xocs:funding-agency>New York State Department of Environmental Conservation</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/100004855</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/6252001</xocs:funding-agency-country>
+         </xocs:funding>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2666-0164(20)30001-3</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2666016420300013</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2666016420300013</xocs:eid>
+         <xocs:doi>10.1016/j.cscee.2020.100003</xocs:doi>
+         <xocs:cid>321448</xocs:cid>
+         <xocs:timestamp>2020-05-20T23:15:59.102397Z</xocs:timestamp>
+         <xocs:cover-date-start>2020-05-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2020-05-31</xocs:cover-date-end>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>NONE</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2666016420300013-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2666016420300013/MAIN/application/pdf/8546a17d6bac6dfce643da0a10f7069b/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1434406</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2666016420300013-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2666016420300013/PREVIEW/image/png/913294e882ba849692ad74612c380a80/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>56968</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2666016420300013-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2666016420300013/gr6/DOWNSAMPLED/image/jpeg/884985c29f9f472e8390ab2c4e36dcd5/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>56941</xocs:filesize>
+               <xocs:pixel-height>623</xocs:pixel-height>
+               <xocs:pixel-width>624</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2666016420300013-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2666016420300013/gr6/THUMBNAIL/image/gif/10ce23eb3b14f20999cb8ceac14b617a/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4783</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>164</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2666016420300013-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2666016420300013/gr2/DOWNSAMPLED/image/jpeg/c9988838f903d365c808052add483e22/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>29379</xocs:filesize>
+               <xocs:pixel-height>289</xocs:pixel-height>
+               <xocs:pixel-width>580</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2666016420300013-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2666016420300013/gr2/THUMBNAIL/image/gif/cae75751a7fbda6332d027c0e9a6ba98/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4575</xocs:filesize>
+               <xocs:pixel-height>109</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2666016420300013-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2666016420300013/gr1/DOWNSAMPLED/image/jpeg/a98005609decbf1f49587ad623477666/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>57936</xocs:filesize>
+               <xocs:pixel-height>557</xocs:pixel-height>
+               <xocs:pixel-width>580</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2666016420300013-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2666016420300013/gr1/THUMBNAIL/image/gif/e9cd8c7dc581d6d7cc94e19b38da4562/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8863</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>170</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2666016420300013-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2666016420300013/gr3/DOWNSAMPLED/image/jpeg/d034faba5da72ea812bb85517033b655/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>32586</xocs:filesize>
+               <xocs:pixel-height>205</xocs:pixel-height>
+               <xocs:pixel-width>624</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2666016420300013-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2666016420300013/gr3/THUMBNAIL/image/gif/c289eacd3a4bd33390f94547228b9e76/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6503</xocs:filesize>
+               <xocs:pixel-height>72</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2666016420300013-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2666016420300013/gr4/DOWNSAMPLED/image/jpeg/f77c27a2fa9e8cb8aa37d7a312d1819b/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>34201</xocs:filesize>
+               <xocs:pixel-height>323</xocs:pixel-height>
+               <xocs:pixel-width>580</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2666016420300013-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2666016420300013/gr4/THUMBNAIL/image/gif/fb610e03e2b394afc35b27f07d6093d9/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5663</xocs:filesize>
+               <xocs:pixel-height>122</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2666016420300013-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2666016420300013/gr5/DOWNSAMPLED/image/jpeg/3dd859519be0e5618e26061fb5f913b6/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>56315</xocs:filesize>
+               <xocs:pixel-height>342</xocs:pixel-height>
+               <xocs:pixel-width>624</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2666016420300013-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2666016420300013/gr5/THUMBNAIL/image/gif/9a3a92d7b521a5a4311f053a8d6a38c1/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7388</xocs:filesize>
+               <xocs:pixel-height>120</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="crp" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>CSCEE</jid>
+            <aid>100003</aid>
+            <ce:article-number>100003</ce:article-number>
+            <ce:pii>S2666-0164(20)30001-3</ce:pii>
+            <ce:doi>10.1016/j.cscee.2020.100003</ce:doi>
+            <ce:copyright type="other" year="2020">The Authors</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="fspara0010" view="all">Particle Size Comparison of Standard Ceria vs. Reclaimed Ceria.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0010" role="short">Fig. 1</ce:alt-text>
+               <ce:link locator="gr1" xlink:href="pii:S2666016420300013/gr1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="fspara0015" view="all">Original Ceria Washwater Flow Diagram.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0015" role="short">Fig. 2</ce:alt-text>
+               <ce:link locator="gr2" xlink:href="pii:S2666016420300013/gr2" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="fspara0020" view="all">Particle size distribution of tank solution, pre-implementation.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0020" role="short">Fig. 3</ce:alt-text>
+               <ce:link locator="gr3" xlink:href="pii:S2666016420300013/gr3" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="fspara0025" view="all">Microfiltration Batch Tests.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0025" role="short">Fig. 4</ce:alt-text>
+               <ce:link locator="gr4" xlink:href="pii:S2666016420300013/gr4" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="fspara0030" view="all">Process Schematic of Final Design w/Controls.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0030" role="short">Fig. 5</ce:alt-text>
+               <ce:link locator="gr5" xlink:href="pii:S2666016420300013/gr5" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig6">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="fspara0035" view="all">Water and Ceria Mass Balances before and after System Installation.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0035" role="short">Fig. 6</ce:alt-text>
+               <ce:link locator="gr6" xlink:href="pii:S2666016420300013/gr6" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title id="title0010">Pollution prevention via recovery of cerium (IV) oxide in optics company</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author id="au1" author-id="S2666016420300013-5ba068d8690a5d8d14047dcd5525f7f7">
+                  <ce:given-name>Eugene</ce:given-name>
+                  <ce:surname>Park</ce:surname>
+                  <ce:cross-ref id="crosref0010" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crosref0015" refid="cor1">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au2" author-id="S2666016420300013-768b6c4f13e05c7c1de3917b1b710261">
+                  <ce:given-name>William</ce:given-name>
+                  <ce:surname>Gallagher</ce:surname>
+                  <ce:cross-ref id="crosref0020" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au3" author-id="S2666016420300013-776aa4c7fdedf10e171d7f2fbfdc0451">
+                  <ce:given-name>Zachary</ce:given-name>
+                  <ce:surname>Hobbs</ce:surname>
+                  <ce:cross-ref id="crosref0025" refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au4" author-id="S2666016420300013-2f4195f0ad3523eea6e20c2d29ca9dc0">
+                  <ce:given-name>Mark</ce:given-name>
+                  <ce:surname>Mayton</ce:surname>
+                  <ce:cross-ref id="crosref0030" refid="aff3">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S2666016420300013-3a14892b9c9b38aaa73e8cc613533460">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>New York State Pollution Prevention Institute, Rochester Institute of Technology, 111 Lomb Memorial Dr, Rochester, NY, 14623, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>New York State Pollution Prevention Institute</sa:organization>
+                     <sa:organization>Rochester Institute of Technology</sa:organization>
+                     <sa:address-line>111 Lomb Memorial Dr</sa:address-line>
+                     <sa:city>Rochester</sa:city>
+                     <sa:state>NY</sa:state>
+                     <sa:postal-code>14623</sa:postal-code>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0010">. New York State Pollution Prevention Institute, Rochester Institute of Technology, 111 Lomb Memorial Dr, Rochester, NY 14623 USA</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff2" affiliation-id="S2666016420300013-0575f3d44c13bc98aff6848e65e1a1ed">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Stefan Sydor Optics, 31 Jetview Dr, Rochester, NY, 14624, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Stefan Sydor Optics</sa:organization>
+                     <sa:address-line>31 Jetview Dr</sa:address-line>
+                     <sa:city>Rochester</sa:city>
+                     <sa:state>NY</sa:state>
+                     <sa:postal-code>14624</sa:postal-code>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0015">. Stefan Sydor Optics, 31 Jetview Dr, Rochester, NY 14624, USA</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff3" affiliation-id="S2666016420300013-1dd7a663d9b0a6034c2123e57589f00e">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Flint Creek Resources, 4682 State Rt. 245, Gorham, NY, 14461, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Flint Creek Resources</sa:organization>
+                     <sa:address-line>4682 State Rt. 245</sa:address-line>
+                     <sa:city>Gorham</sa:city>
+                     <sa:state>NY</sa:state>
+                     <sa:postal-code>14461</sa:postal-code>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0020">. Flint Creek Resources, 4682 State Rt. 245, Gorham, NY, 14461, USA</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="16" month="12" year="2019"/>
+            <ce:date-revised day="14" month="2" year="2020"/>
+            <ce:date-accepted day="20" month="2" year="2020"/>
+            <ce:abstract id="abs0010" xml:lang="en" view="all" class="author"><ce:abstract-sec id="abssec0010" view="all">
+                  <ce:simple-para id="abspara0010" view="all">Pollution prevention methods were applied at an optics manufacturer in an effort to improve recovery of a valuable polishing component, cerium oxide (ceria), 77% of which was lost to dragout and sewer discharge. Centrifugation and microfiltratiion were evaluated to develop a process that would increase recovery of used ceria, which would then be sent back to the ceria supplier for reclamation and reuse. Full-scale implementation included a high-speed centrifuge that operates continuously with a microfiltration system through recirculation in a single process tank. Sydor Optics has improved ceria recovery from 23% to 48%, saving thousands of dollars annually.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords id="kwrds0010" xml:lang="en" view="all" class="keyword">
+               <ce:section-title id="sectitle0015">Keywords</ce:section-title>
+               <ce:keyword id="kwrd0010">
+                  <ce:text>Lens polishing</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0015">
+                  <ce:text>Centrifugation</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0020">
+                  <ce:text>Microfiltration</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0025">
+                  <ce:text>Ceria recovery</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sectitle0020">Introduction</ce:section-title>
+                  <ce:para id="p0010" view="all">Founded in 1964, Stefan Sydor Optics (Sydor) is a flat optics manufacturer located in Rochester, NY. Optical lenses are fabricated using a variety of techniques, some of which involve the use of a rare earth compound, cerium (IV) oxide (ceria). Cerium oxide powders are used to polish a variety of glass surfaces such as those found on lenses, laser optics, light filters, mirrors, hard disk drives, photomasks, cell phone displays, and semiconductors. It is important to the military and defense industries in the development of new products. The products are used on windows for air, land, and sea vehicles, as well as night vison scopes and eye wear. Other industries where cerium oxide is used are life sciences, entertainment, high-powered laser systems, and telecommunications. Per marketing studies conducted by a ceria reclamation facility, Flint Creek Resources, the annual worldwide consumption of cerium oxide powders in 2011 was estimated to be 9,440 metric tons.</ce:para>
+                  <ce:para id="p0015" view="all">As ceria slurry is recirculated in the polishing machines at Sydor, contaminants build in concentration, eventually requiring the removal of the slurry from the machines. Due to the high cost of ceria, spent slurry solution is sent to Flint Creek Resources, where ceria is recovered for reuse at a lower purchase cost for Sydor via a patented process [<ce:cross-ref id="crosref0035" refid="bib1">1</ce:cross-ref>]. The particle size distribution as analyzed by Flint Creek of new ceria and reclaimed ceria are shown in <ce:cross-ref id="crosref0040" refid="fig1">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="fig1"/>. The tightly controlled reclamation process provides for a more uniform particle solids make-up around 1 μm.</ce:para>
+                  <ce:para id="p0020" view="all">After the ceria process solution is dumped, the polishing machines are washed with water to remove residual slurry. Until 2017, the wastewater containing spent slurry from the machine washdowns was collected and filtered to remove large contaminants, centrifuged in a small, single-pass, basket centrifuge operating at 750 G’s and 2.0 ​L/min, and the remaining liquid discharged to sewer (<ce:cross-ref id="crosref0045" refid="fig2">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="fig2"/>). Sydor realized that not all of the ceria was being recovered and a significant amount was being lost, worth approximately $15,000-$20,000/yr, also contributing to the level of total suspended solids (TSS) in the wastewater (~1,000 mg/l for the entire facility). While the sewer discharge was in compliance with local authorities, the company acknowledged that reducing solids loading to the sewer would not only benefit the environment but also avoid potential future surcharges.</ce:para>
+                  <ce:para id="p0025" view="all">In 2015, the New York State Pollution Prevention Institute (NYSP2I) began working with Sydor to focus on the recovery of the spent ceria material and reduction of solids loading into the sewer system. This paper describes the work performed to evaluate technologies, design, and implement a system to recover more ceria and reduce TSS discharge from the ceria washwater operation.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" role="materials-methods" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sectitle0025">Materials and methods</ce:section-title>
+                  <ce:para id="p0030" view="all">For the process flows described in <ce:cross-ref id="crosref0050" refid="fig2">Fig. 2</ce:cross-ref>, mass balances were performed to understand water use, wastewater generated, ceria use, and ceria losses. Data was collected using water meters and company records of ceria use which involved taking monthly data and dividing by 20 working days to obtain daily averages. Process ceria consisted of two types: new ceria and reclaimed ceria. All spent ceria that could be collected was sent to Flint Creek Resources for reclamation. Ceria losses could be attributed to unrecovered solids in the centrifuge discharge and operational losses such as spills and dragout. After implementation, the same mass balance analysis was performed to determine the extent of improvement.</ce:para>
+                  <ce:para id="p0035" view="all">Total solids in sludge and water samples were measured by taking the average of three separate aliquots for each sample. Particle size analysis of the waste washwater was performed using Zetasizer light scattering technology. To observe the effect of G-force on separation efficiency, a variable speed lab centrifuge was used on samples taken from the holding tank.</ce:para>
+                  <ce:para id="p0040" view="all">To determine membrane flux performance, batch microfiltration tests were conducted using a lab-scale system assembled with a single 12.7 mm diameter Porex microfilter tube with a nominal pore size of 0.05 μm.</ce:para>
+                  <ce:para id="p0045" view="all">Based on data collected in the lab, a production-scale system was designed that included use of a high-speed centrifuge and multi-module microfiltration system. After implementation of the larger system, the system was monitored for membrane flux performance. Final mass balance calculations were performed to quantify improvements in ceria recovery.</ce:para>
+               </ce:section>
+               <ce:section id="sec3" role="results" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sectitle0030">Results and discussion</ce:section-title>
+                  <ce:section id="sec3.1" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="sectitle0035">Baseline determination</ce:section-title>
+                     <ce:para id="p0050" view="all">In order to determine how much ceria was lost prior to 2017, a mass balance was performed only on water and ceria for the operation. Company records and sample analyses were used to generate values. Based on the total amount of new and reclaimed ceria used (31 kg/day), calculations indicate that 23.8 kg/day of ceria was lost to sewer discharge, dragout, and spills. 77% of process ceria was lost, leaving 23% of total ceria used recoverable for reclamation with the old system<ce:italic>.</ce:italic>
+                     </ce:para>
+                     <ce:para id="p0055" view="all">In order to help determine potential separation technologies, particle size analysis was performed on grab samples from the holding tank shown in <ce:cross-ref id="crosref0055" refid="fig2">Fig. 2</ce:cross-ref>, and the average size distribution can be seen in <ce:cross-ref id="crosref0060" refid="fig3">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="fig3"/>.</ce:para>
+                     <ce:para id="p0060" view="all">Most solid particles were observed to be in the 1 μm range, with no particles smaller than 0.1 μm detected. The majority of the sub-micron particles can be attributed to glass fines from the polished lenses [<ce:cross-ref id="crosref0065" refid="bib2">2</ce:cross-ref>].</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.2" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="sectitle0040">Evaluation of improvement opportunities through pilot-testing</ce:section-title>
+                     <ce:para id="p0065" view="all">While Sydor was able to recover 23% of the ceria used, opportunities to increase recovery rates were tenable. Chemical reclamation of ceria through acid leaching or flocculation, while proven to be capable of achieving up to 94% recovery of ceria [<ce:cross-ref id="crosref0070" refid="bib3">3</ce:cross-ref>,<ce:cross-ref id="crosref0075" refid="bib4">4</ce:cross-ref>], does not align with pollution prevention goals to avoid use of toxic/hazardous process chemicals. In order to ensure as much recovery of ceria as possible while minimizing environmental burden, <ce:italic>mechanical</ce:italic> separation technologies were prioritized. All of Sydor’s abrasives were ceria formed at high temperature. During normal operations, the ceria is added to water and forms cerium (IV) hydroxide which is insoluble in the abrasive solutions as operations fall well within a pH range of 3–12 [<ce:cross-ref id="crosref0080" refid="bib5">5</ce:cross-ref>]. Process temperatures stay well below 60 ​°C which keeps the insolubility of the cerium (IV) hydroxide relatively stable as well. As particulate was not expected to be dissolved in solution, gravimetric and filtration technologies were investigated for potential applicability.</ce:para>
+                     <ce:section id="sec3.2.1" view="all">
+                        <ce:label>3.2.1</ce:label>
+                        <ce:section-title id="sectitle0045">Centrifugation</ce:section-title>
+                        <ce:para id="p0070" view="all">Qualitative observations were made from bench-top tests and the results indicated that higher G forces produced less opaque supernatant, with a threshold above 1000 G’s. Hence, the conclusion was made that a centrifuge operating under higher G-forces should separate and recover more ceria.</ce:para>
+                     </ce:section>
+                     <ce:section id="sec3.2.2" view="all">
+                        <ce:label>3.2.2</ce:label>
+                        <ce:section-title id="sectitle0050">Membrane filtration</ce:section-title>
+                        <ce:para id="p0075" view="all">Membranes are a form of mechanical filtration that can separate constituents ranging from micron size microfiltration down to molecular level reverse osmosis [<ce:cross-ref id="crosref0085" refid="bib6">6</ce:cross-ref>]. Based on the information in <ce:cross-ref id="crosref0090" refid="fig3">Fig. 3</ce:cross-ref>, pilot studies on the mixing tank solution were conducted using a single 12.7 mm diameter, 0.05 μm microfiltration tube produced by Porex (TMF 1.05, PVDF [polyvinylidene difluoride] membrane/substrate, 0.07 m<ce:sup loc="post">2</ce:sup> active area). Tubular membranes are most suitable when filtering solutions with higher levels of suspended solids to minimize costly prefiltration requirements [<ce:cross-ref id="crosref0095" refid="bib6">6</ce:cross-ref>].</ce:para>
+                        <ce:para id="p0080" view="all">In order to maintain sufficient turbulence through the membrane tube and maximize the mass transfer coefficient, a minimum fluid velocity of 4 m/sec would be needed to help avoid fouling and maintain consistent flux [<ce:cross-ref id="crosref0100" refid="bib7">7</ce:cross-ref>]. Fluid velocity has been demonstrated to be a critical parameter in many applications, such as oil/water separation [<ce:cross-ref id="crosref0105" refid="bib8">8</ce:cross-ref>]. The testing design included varying feed flow rates and transmembrane pressure. The results can be seen in <ce:cross-ref id="crosref0110" refid="fig4">Fig. 4</ce:cross-ref>
+                           <ce:float-anchor refid="fig4"/> where flux is provided in liter/m<ce:sup loc="post">2</ce:sup>/hr (LMH).</ce:para>
+                        <ce:para id="p0085" view="all">The information obtained through the pilot studies was used to design the production-scale system (design flux of 250 LMH). Membrane cleaning was performed using 1% by volume hydrogen peroxide in water. Hydrogen peroxide was selected as the final chemistry after several trial cleaning cycles. The mechanism by which the membrane is cleaned is potentially related to the acidic environment that the hydrogen peroxide solution generates. In low pH solutions, cerium (IV) hydroxide has the potential to be reduced to ionic cerium (III) and water [<ce:cross-ref id="crosref0115" refid="bib9">9</ce:cross-ref>]. In addition to being the result of a potential chemical reaction, Ce<ce:sup loc="post">3+</ce:sup> can also dissolve in low pH solutions [<ce:cross-ref id="crosref0120" refid="bib5">5</ce:cross-ref>]. Therefore, the hydrogen peroxide may act as an effective chemical cleaner through redox reactions and dissolution of any cerium fouling the membranes.</ce:para>
+                     </ce:section>
+                  </ce:section>
+                  <ce:section id="sec3.3" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title id="sectitle0055">Production system design</ce:section-title>
+                     <ce:para id="p0090" view="all">A production-scale process was designed that would improve recovery of ceria and reduce TSS loadings to the sewer. A high speed Microseparator centrifuge rated at 2100 Gs was procured. Eight, 25.4 mm diameter Porex modules (TMF 1.1) were used for the membrane system which has an effective area of 1.13 m<ce:sup loc="post">2</ce:sup>. The process schematic including centrifugation, microfiltration, and controls can be seen in <ce:cross-ref id="crosref0125" refid="fig5">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="fig5"/>. A single 1,500 ​L tank was used for both the centrifuge and microfiltration process to simplify the overall operation.</ce:para>
+                     <ce:para id="p0095" view="all">Due to the tendency of cerium oxide particles to agglomerate and harden [<ce:cross-ref id="crosref0130" refid="bib10">10</ce:cross-ref>], the system had to be designed to prevent maintenance problems and equipment failure. As a result, both the centrifuge and microfiltration systems constantly recirculate fluid through the process tank while the mixer is also left on continuously in the process tank. Permeate from the system is used to flush the system every hour and each time the system is shut down.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.4" view="all">
+                     <ce:label>3.4</ce:label>
+                     <ce:section-title id="sectitle0060">Implementation</ce:section-title>
+                     <ce:para id="p0100" view="all">The entire system including process tank was installed in 2017.</ce:para>
+                     <ce:para id="p0105" view="all">Results from grab samples indicate that the steady-state solids content in the holding tank range from 0.2% to 0.5%. The high speed centrifuge is removing solids effectively and allowing the membrane system to operate under ideal conditions. Analysis indicated that average solids content of the new, higher G centrifuge sludge is 77.7% compared to 71.8% with the old centrifuge, confirming increased solids removal efficiency.</ce:para>
+                     <ce:para id="p0110" view="all">Periodic cleaning of the membranes is required to maintain acceptable flux. A 1% by volume hydrogen peroxide solution is used to clean the system on a weekly basis. Between cleanings, permeate flux typically starts at 400 LMH and decreases to 140 LMH. The average flow equates to a flux which is close to the design flux of 250 LMH. The original set of membranes were still working after 2 years of use.</ce:para>
+                     <ce:para id="p0115" view="all">In total, the system including the centrifuge, process tank, and all ancillary items cost ~$30,000. Approximate savings based on increased ceria recovery rates are nominal and explained in more detail later.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.5" view="all">
+                     <ce:label>3.5</ce:label>
+                     <ce:section-title id="sectitle0065">Metrics</ce:section-title>
+                     <ce:para id="p0120" view="all">The post-implementation mass balance for ceria and water can be seen in <ce:cross-ref id="crosref0135" refid="fig6">Fig. 6</ce:cross-ref>
+                        <ce:float-anchor refid="fig6"/>. When compared to pre-implementation a higher percent of ceria is now being reclaimed. It should be noted that Sydor modified polishing operations to use less ceria plant-wide during the implementation phase.</ce:para>
+                     <ce:para id="p0125" view="all">Prior to the installation of the upgraded recovery system, Sydor was recovering 23% of their ceria. After implementation, approximately 18 kg/day of dry ceria powder was used leading to an updated percent recovery of 48%. More than double the amount of ceria was recovered for reclamation due to the efforts of the project.</ce:para>
+                     <ce:para id="p0130" view="all">Recovery of ceria should be much higher than observed since all washwater should be contained within the process tank and only clean water discharged to sewer. Two reasons for the lower than expected percent recovery include unavoidable operational losses like dragout and spills and less than ideal equipment cleaning procedures which result in bypass of the recovery system. Sydor is aware of the need to improve cleaning protocol and as part of a continuous improvement program, the company is adopting more stringent practices that include better housekeeping and fluid handling. While more ceria is being recovered, the TSS levels of total facility water entering the sewer still remains largely unchanged due to the aforementioned housekeeping issues and presence of other non-ceria polishing operations in the facility that are discharging solids-laden water. Sydor plans to evaluate wastewater management approaches for the other operations, also as part of its continuous improvement program.</ce:para>
+                     <ce:para id="p0135" view="all">Based on current recovery rates, the company is saving approximately $8,000/year. If maximum recovery is achieved (up to 95%), approximately $15,000/year in savings would be realized. Capital investment for this project was approximately $30,000 while supplemental engineering design and implementation assistance was provided by NYSP2I. For another company that is seeking to implement the same equipment, capital costs would be approximately $60,000. From a return on investment perspective using Net Present Value calculations with a 2% inflation rate, a company would expect to recover the $60,000 investment costs after 4 years. Additional benefits of reducing solids loading to sewer would also be realized and are not accounted for in this economic analysis.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec4" role="conclusion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sectitle0070">Conclusion</ce:section-title>
+                  <ce:para id="p0140" view="all">As part of a business technical assistance project sponsored by the NY State Pollution Prevention Institute and in collaboration with Stefan Sydor Optics and Flint Creek Resources, an innovative process to increase recovery of valuable cerium oxide was developed and implemented at an optics manufacturer. Through pilot testing of centrifugation and microfiltration, a sustainable approach was validated that will allow optics manufacturers to recover more ceria and discharge cleaner water.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0010" view="all">
+               <ce:section-title id="sectitle0075">Acknowledgements</ce:section-title>
+               <ce:para id="p0145" view="all">This work was carried out with Stefan Sydor Optics and Flint Creek Resources. Funding was provided by the <ce:grant-sponsor id="gs1" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor" xlink:type="simple">NYS Pollution Prevention Institute</ce:grant-sponsor> through a grant from the NYS Department of Environmental Conservation. Any opinions, results, findings and/or interpretations of data contained herein are the responsibility of author(s) and do not necessarily represent the opinions, interpretations or policy of the NYS Pollution Prevention Institute or New York State.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0080">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <ce:other-ref id="sref1">
+                        <ce:textref>W.J. Moon, S.O. Na and H.Y. Oh, "Method for recycling cerium oxide abrasive". United States of America Patent US 8,894,733 B2, 25 November 2014.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Tinkham</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Jacobs</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Mayton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Hobbs</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.L.</ce:given-name>
+                                 <ce:surname>Marshall</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.D.</ce:given-name>
+                                 <ce:surname>Jacobs</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Cerium Oxide Polishing Slurry Reclamation Project: Characterization Techniques and Results</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2015</sb:date>
+                              <sb:publisher>
+                                 <sb:name>University of Rochester</sb:name>
+                                 <sb:location>Rochester, New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                           <sb:pages>
+                              <sb:first-page>9633</sb:first-page>
+                              <sb:last-page>9699</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0025">K. Tinkham, T. Jacobs, M. Mayton, Z. Hobbs, K. L. Marshall and S. D. Jacobs, Cerium oxide polishing slurry reclamation project: characterization techniques and results, Rochester, New York: University of Rochester, 2015, pp. 9633-9699.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.R.</ce:given-name>
+                                 <ce:surname>Borra</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.J.</ce:given-name>
+                                 <ce:surname>Vlugt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yongxiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.S.</ce:given-name>
+                                 <ce:surname>Offerman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Recovery of cerium from glass polishing waste: a critical review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Metals</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>10</sb:issue-nr>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0030">C. R. Borra, T. J. Vlugt, Y. Yongxiang and E. S. Offerman, "Recovery of Cerium from Glass Polishing Waste: A Critical Review," Metals, vol. 8, no. 10, 2018.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.S.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Byeon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.T.</ce:given-name>
+                                 <ce:surname>Hwang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.S.</ce:given-name>
+                                 <ce:surname>Cho</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Recovery of cerium from glass polishing slurry</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Rare Earths</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>11</sb:issue-nr>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1075</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0035">J.Y. Kim, U.S. Kim, M.S. Byeon, K.T. Hwang and W.S. Cho, "Recovery of cerium from glass polishing slurry," Journal of Rare Earths, vol. 29, no. 11, p. 1075, 2011.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Bouchaud</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Balmain</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Bonnet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Pedraza</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>pH-distribution of cerium species in aqueous systems</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Rare Earths</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>30</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>559</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0040">B. Bouchaud, J. Balmain, G. Bonnet and F. Pedraza, "pH-distribution of cerium species in aqueous systems," Journal of Rare Earths, vol. 30, no. 6, p. 559, 2012.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Cherya</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ultrafiltration and Microfiltration Handbook</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1998</sb:date>
+                              <sb:publisher>
+                                 <sb:name>CRC Press</sb:name>
+                                 <sb:location>Boca Raton, Floria</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0045">M. Cherya, Ultrafiltration and Microfiltration Handbook, Boca Raton, Floria: CRC Press, 1998.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Frick</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Porex</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2015</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Personal Communication</sb:name>
+                                 <sb:location>Unpublished</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0050">D. Frick, Porex, Personal Communication, Unpublished, 2015.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Barnett</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Oil/water separation using nanofiltration membrane technology</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Separ. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1527</sb:first-page>
+                              <sb:last-page>1542</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0055">E. Park and S. Barnett, "Oil/Water Separation Using Nanofiltration Membrane Technology," Separation Science and Technology, Volume 36, pp. 1527-1542, 2001.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.A.</ce:given-name>
+                                 <ce:surname>Bilal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Müller</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thermodynamic study of Ce4+/Ce3+ redox reaction in aqueous solutions at elevated temperatures: 1. Reduction potential and hydrolysis equilibria of Ce4+ in HClO4 solutions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Z. Naturforsch.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1992</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>974</sb:first-page>
+                              <sb:last-page>984</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0060">B. A. Bilal and E. Muller, "Thermodynamic Study of Ce4+/Ce3+ Redox Reaction in Aqueous Solutions at Elevated Temperatures: 1. Reduction Potential and Hydrolysis Equilibria of Ce4+ in HClO4 Solutions," Zeitschrift fur Naturforschung, vol. 47 a, pp. 974-984, 1992.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Kong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.-K.</ce:given-name>
+                                 <ce:surname>Leong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>On the flocculation and agglomeration of ceria dispersions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Dispersion Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1235</sb:first-page>
+                              <sb:last-page>1238</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0065">C. Kong and Y.-K. Leong, "On the Flocculation and Agglomeration of Ceria Dispersions," Journal of Dispersion Science and Technology, pp. 1235-1238, 2011.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

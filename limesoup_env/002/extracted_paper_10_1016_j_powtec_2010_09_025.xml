@@ -1,0 +1,1639 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0032591010005115</prism:url><dc:identifier>doi:10.1016/j.powtec.2010.09.025</dc:identifier><eid>1-s2.0-S0032591010005115</eid><prism:doi>10.1016/j.powtec.2010.09.025</prism:doi><pii>S0032-5910(10)00511-5</pii><dc:title>Polishing behaviors of ceria abrasives on silicon dioxide and silicon nitride CMP </dc:title><prism:publicationName>Powder Technology</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>00325910</prism:issn><prism:volume>206</prism:volume><prism:issueIdentifier>3</prism:issueIdentifier><prism:startingPage>239</prism:startingPage><prism:endingPage>245</prism:endingPage><prism:pageRange>239-245</prism:pageRange><prism:number>3</prism:number><dc:format>application/xml</dc:format><prism:coverDate>2011-01-30</prism:coverDate><prism:coverDisplayDate>30 January 2011</prism:coverDisplayDate><prism:copyright>Copyright © 2010 Elsevier B.V. Published by Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V. Published by Elsevier B.V.</prism:publisher><dc:creator>Oh, Myoung-Hwan</dc:creator><dc:creator>Nho, Jun-Seok</dc:creator><dc:creator>Cho, Seung-Beom</dc:creator><dc:creator>Lee, Jae-Seok</dc:creator><dc:creator>Singh, Rajiv K.</dc:creator><dc:description>
+                  The effects of ceria (CeO2) abrasives in chemical mechanical polishing (CMP) slurries were investigated on silicon dioxide (SiO2) and silicon nitride (Si3N4) polishing process. The ceria abrasives were prepared by the flux method, using potassium hydroxide (KOH) as the grain growth accelerator. The primary particle size of the ceria abrasives was controlled in the range of ~84–417nm by changing the concentration of potassium hydroxide and the calcination temperature without mechanical milling process. The removal rate of silicon dioxide film strongly depended upon abrasive size up to an optimum abrasive size (295nm) after CMP process. However, the surface uniformity deteriorated as abrasive size increases. The observed polishing results confirmed that there exists an optimum abrasive size (295nm) for maximum removal selectivity between oxide and nitride films. In this study, polishing behaviors of the ceria abrasives were discussed in terms of morphological characteristics.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Ceria</dcterms:subject><dcterms:subject>Chemical mechanical polishing (CMP)</dcterms:subject><dcterms:subject>Grain growth accelerator</dcterms:subject><dcterms:subject>Flux method</dcterms:subject><dcterms:subject>Sintering process</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0032591010005115" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0032591010005115" rel="scidir"/></coredata><objects><object ref="fx1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="153" height="112" size="16918">https://api.elsevier.com/content/object/eid/1-s2.0-S0032591010005115-fx1.jpg?httpAccept=%2A%2F%2A</object><object ref="fx1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="160" size="11202">https://api.elsevier.com/content/object/eid/1-s2.0-S0032591010005115-fx1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="312" height="264" size="21699">https://api.elsevier.com/content/object/eid/1-s2.0-S0032591010005115-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="193" height="164" size="3057">https://api.elsevier.com/content/object/eid/1-s2.0-S0032591010005115-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr10" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="390" height="302" size="25710">https://api.elsevier.com/content/object/eid/1-s2.0-S0032591010005115-gr10.jpg?httpAccept=%2A%2F%2A</object><object ref="gr10" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="211" height="164" size="3192">https://api.elsevier.com/content/object/eid/1-s2.0-S0032591010005115-gr10.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="664" height="498" size="92835">https://api.elsevier.com/content/object/eid/1-s2.0-S0032591010005115-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="218" height="164" size="11205">https://api.elsevier.com/content/object/eid/1-s2.0-S0032591010005115-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="368" height="584" size="42998">https://api.elsevier.com/content/object/eid/1-s2.0-S0032591010005115-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="103" height="164" size="2327">https://api.elsevier.com/content/object/eid/1-s2.0-S0032591010005115-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="373" height="283" size="14356">https://api.elsevier.com/content/object/eid/1-s2.0-S0032591010005115-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="216" height="164" size="2086">https://api.elsevier.com/content/object/eid/1-s2.0-S0032591010005115-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="659" height="496" size="110122">https://api.elsevier.com/content/object/eid/1-s2.0-S0032591010005115-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="218" height="164" size="12392">https://api.elsevier.com/content/object/eid/1-s2.0-S0032591010005115-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="374" height="281" size="27328">https://api.elsevier.com/content/object/eid/1-s2.0-S0032591010005115-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="218" height="164" size="3732">https://api.elsevier.com/content/object/eid/1-s2.0-S0032591010005115-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="327" height="495" size="83998">https://api.elsevier.com/content/object/eid/1-s2.0-S0032591010005115-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="108" height="163" size="7404">https://api.elsevier.com/content/object/eid/1-s2.0-S0032591010005115-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr8" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="389" height="283" size="26267">https://api.elsevier.com/content/object/eid/1-s2.0-S0032591010005115-gr8.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="160" size="3470">https://api.elsevier.com/content/object/eid/1-s2.0-S0032591010005115-gr8.sml?httpAccept=%2A%2F%2A</object><object ref="gr9" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="386" height="306" size="20526">https://api.elsevier.com/content/object/eid/1-s2.0-S0032591010005115-gr9.jpg?httpAccept=%2A%2F%2A</object><object ref="gr9" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="207" height="164" size="2515">https://api.elsevier.com/content/object/eid/1-s2.0-S0032591010005115-gr9.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>78649710945</scopus-id><scopus-eid>2-s2.0-78649710945</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/78649710945" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271376</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291777</xocs:ssid>
+         <xocs:ssid type="subj">291786</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Powder Technology</xocs:srctitle>
+      <xocs:normalized-srctitle>POWDERTECHNOLOGY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20100929">2010-09-29</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20100929">2010-09-29</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-11-29T22:41:36</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0032591010005115</xocs:eid>
+      <xocs:pii-formatted>S0032-5910(10)00511-5</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0032591010005115</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.powtec.2010.09.025</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0032591010X00201</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T02:22:05.232998-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20110130</xocs:date-search-begin>
+      <xocs:year-nav>2011</xocs:year-nav>
+      <xocs:indexeddate epoch="1285718400">2010-09-29T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav absattachment articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body affil articletitle auth authfirstini authfull authkeywords authlast primabst ref specialabst alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0032-5910</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00325910</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>206</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>206</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>3</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>3</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 206, Issue 3</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>7</xocs:sort-order>
+      <xocs:first-fp>239</xocs:first-fp>
+      <xocs:last-lp>245</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>239</xocs:first-page>
+         <xocs:last-page>245</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20110130</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>30 January 2011</xocs:cover-date-text>
+      <xocs:cover-date-start>2011-01-30</xocs:cover-date-start>
+      <xocs:cover-date-year>2011</xocs:cover-date-year>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2010 Elsevier B.V. Published by Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>POLISHINGBEHAVIORSCERIAABRASIVESSILICONDIOXIDESILICONNITRIDECMP</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>OH</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>M</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experiment</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Preparation of ceria abrasive particles by solid state reaction</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Polishing of wafers</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Morphological characteristics of ceria abrasives</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Characteristics of ceria abrasives before and after CMP</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Polishing test</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="bb0005">
+            <xocs:ref-normalized-surname>COOK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>152</xocs:ref-first-fp>
+            <xocs:ref-last-lp>171</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0010">
+            <xocs:ref-normalized-surname>HOSHINO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>129</xocs:ref-first-fp>
+            <xocs:ref-last-lp>136</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0015">
+            <xocs:ref-normalized-surname>YOON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>G19</xocs:ref-first-fp>
+            <xocs:ref-last-lp>G21</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0020">
+            <xocs:ref-normalized-surname>LIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1751</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1754</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0025">
+            <xocs:ref-normalized-surname>KANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>777</xocs:ref-first-fp>
+            <xocs:ref-last-lp>787</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0030">
+            <xocs:ref-normalized-surname>JANOS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4062</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4066</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0035">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>626</xocs:ref-first-fp>
+            <xocs:ref-last-lp>630</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0040">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2744</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2749</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0045">
+            <xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2462</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2468</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0050">
+            <xocs:ref-normalized-surname>WEST</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>SOLIDSTATECHEMISTRYAPPLICATIONS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0055">
+            <xocs:ref-normalized-surname>BONDIOLI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2159</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2166</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0060">
+            <xocs:ref-normalized-surname>KLEINLOGEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1081</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1085</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0065">
+            <xocs:ref-normalized-surname>WAKITA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>428</xocs:ref-first-fp>
+            <xocs:ref-last-lp>432</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0070">
+            <xocs:ref-normalized-surname>ALLEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PARTICLESIZEMEASUREMENT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0075">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1292</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1296</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0080">
+            <xocs:ref-normalized-surname>MAHAJAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>27</xocs:ref-first-fp>
+            <xocs:ref-last-lp>31</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>U</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0085">
+            <xocs:ref-normalized-surname>CHOI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>G512</xocs:ref-first-fp>
+            <xocs:ref-last-lp>G522</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0090">
+            <xocs:ref-normalized-surname>MAHAJAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>46</xocs:ref-first-fp>
+            <xocs:ref-last-lp>48</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>U</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>OHX2011X239</xocs:refkey3>
+         <xocs:refkey4lp>OHX2011X239X245</xocs:refkey4lp>
+         <xocs:refkey4ai>OHX2011X239XM</xocs:refkey4ai>
+         <xocs:refkey5>OHX2011X239X245XM</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0032-5910(10)00511-5</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0032591010005115</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0032591010005115</xocs:eid>
+         <xocs:doi>10.1016/j.powtec.2010.09.025</xocs:doi>
+         <xocs:cid>271376</xocs:cid>
+         <xocs:timestamp>2010-12-10T15:15:57.722999-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2011-01-30</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0032591010005115-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032591010005115/MAIN/application/pdf/32eb5e185a47c9ed31251c106e4bbec2/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591010005115/MAIN/application/pdf/32eb5e185a47c9ed31251c106e4bbec2/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1378284</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0032591010005115-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591010005115/PREVIEW/image/png/8e53666c560be1029ea55de80265abcf/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032591010005115/PREVIEW/image/png/8e53666c560be1029ea55de80265abcf/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>94070</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032591010005115-fx1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032591010005115/fx1/DOWNSAMPLED/image/jpeg/6a823b4d31a17ea341d5df7de2ed8d52/fx1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591010005115/fx1/DOWNSAMPLED/image/jpeg/6a823b4d31a17ea341d5df7de2ed8d52/fx1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>16918</xocs:filesize>
+               <xocs:pixel-height>112</xocs:pixel-height>
+               <xocs:pixel-width>153</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032591010005115-fx1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032591010005115/fx1/THUMBNAIL/image/gif/d78c98ef60d2ee55a69bf8b046e73b59/fx1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591010005115/fx1/THUMBNAIL/image/gif/d78c98ef60d2ee55a69bf8b046e73b59/fx1.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11202</xocs:filesize>
+               <xocs:pixel-height>160</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032591010005115-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032591010005115/gr1/DOWNSAMPLED/image/jpeg/b606292a077a4db539fbc581c1fac792/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591010005115/gr1/DOWNSAMPLED/image/jpeg/b606292a077a4db539fbc581c1fac792/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>21699</xocs:filesize>
+               <xocs:pixel-height>264</xocs:pixel-height>
+               <xocs:pixel-width>312</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032591010005115-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032591010005115/gr1/THUMBNAIL/image/gif/a820db4b5ac8d4e87b11fa86af3106bd/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591010005115/gr1/THUMBNAIL/image/gif/a820db4b5ac8d4e87b11fa86af3106bd/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3057</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>193</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032591010005115-gr10.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032591010005115/gr10/DOWNSAMPLED/image/jpeg/f1e48f5e980f0f2cd731f2bc376f896c/gr10.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591010005115/gr10/DOWNSAMPLED/image/jpeg/f1e48f5e980f0f2cd731f2bc376f896c/gr10.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr10</xocs:file-basename>
+               <xocs:filename>gr10.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>25710</xocs:filesize>
+               <xocs:pixel-height>302</xocs:pixel-height>
+               <xocs:pixel-width>390</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032591010005115-gr10.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032591010005115/gr10/THUMBNAIL/image/gif/0660978cd9841c00939fe067848105e4/gr10.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591010005115/gr10/THUMBNAIL/image/gif/0660978cd9841c00939fe067848105e4/gr10.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr10</xocs:file-basename>
+               <xocs:filename>gr10.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3192</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>211</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032591010005115-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032591010005115/gr2/DOWNSAMPLED/image/jpeg/c9cad89c16c7119af192f432f5ba9c20/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591010005115/gr2/DOWNSAMPLED/image/jpeg/c9cad89c16c7119af192f432f5ba9c20/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>92835</xocs:filesize>
+               <xocs:pixel-height>498</xocs:pixel-height>
+               <xocs:pixel-width>664</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032591010005115-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032591010005115/gr2/THUMBNAIL/image/gif/a1623d4dd49d74f38e1f53430539dd74/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591010005115/gr2/THUMBNAIL/image/gif/a1623d4dd49d74f38e1f53430539dd74/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11205</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>218</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032591010005115-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032591010005115/gr3/DOWNSAMPLED/image/jpeg/086e806393b98b33fe8403e490bafb7a/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591010005115/gr3/DOWNSAMPLED/image/jpeg/086e806393b98b33fe8403e490bafb7a/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>42998</xocs:filesize>
+               <xocs:pixel-height>584</xocs:pixel-height>
+               <xocs:pixel-width>368</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032591010005115-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032591010005115/gr3/THUMBNAIL/image/gif/1f5e4b35fada159c5f9c0a40c2495c01/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591010005115/gr3/THUMBNAIL/image/gif/1f5e4b35fada159c5f9c0a40c2495c01/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2327</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>103</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032591010005115-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032591010005115/gr4/DOWNSAMPLED/image/jpeg/0f36bd21eacaa9b74222f97d357a60b4/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591010005115/gr4/DOWNSAMPLED/image/jpeg/0f36bd21eacaa9b74222f97d357a60b4/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>14356</xocs:filesize>
+               <xocs:pixel-height>283</xocs:pixel-height>
+               <xocs:pixel-width>373</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032591010005115-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032591010005115/gr4/THUMBNAIL/image/gif/b2909decef4bb64bb6e451e451c33570/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591010005115/gr4/THUMBNAIL/image/gif/b2909decef4bb64bb6e451e451c33570/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2086</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>216</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032591010005115-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032591010005115/gr5/DOWNSAMPLED/image/jpeg/1de49e96b530235c4cf326f64d28418f/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591010005115/gr5/DOWNSAMPLED/image/jpeg/1de49e96b530235c4cf326f64d28418f/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>110122</xocs:filesize>
+               <xocs:pixel-height>496</xocs:pixel-height>
+               <xocs:pixel-width>659</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032591010005115-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032591010005115/gr5/THUMBNAIL/image/gif/5ef115212a3288ad091a21f873fbb4cd/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591010005115/gr5/THUMBNAIL/image/gif/5ef115212a3288ad091a21f873fbb4cd/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12392</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>218</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032591010005115-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032591010005115/gr6/DOWNSAMPLED/image/jpeg/b8c01c9414f1e2e7307dd5a288de476f/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591010005115/gr6/DOWNSAMPLED/image/jpeg/b8c01c9414f1e2e7307dd5a288de476f/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>27328</xocs:filesize>
+               <xocs:pixel-height>281</xocs:pixel-height>
+               <xocs:pixel-width>374</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032591010005115-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032591010005115/gr6/THUMBNAIL/image/gif/9bc55fc27e5cadc0cc313d220e9eb919/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591010005115/gr6/THUMBNAIL/image/gif/9bc55fc27e5cadc0cc313d220e9eb919/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3732</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>218</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032591010005115-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032591010005115/gr7/DOWNSAMPLED/image/jpeg/049f729e3ad0721281dc8cdee8995d62/gr7.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591010005115/gr7/DOWNSAMPLED/image/jpeg/049f729e3ad0721281dc8cdee8995d62/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>83998</xocs:filesize>
+               <xocs:pixel-height>495</xocs:pixel-height>
+               <xocs:pixel-width>327</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032591010005115-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032591010005115/gr7/THUMBNAIL/image/gif/3929f35d636190b7a0e3cde701eafcec/gr7.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591010005115/gr7/THUMBNAIL/image/gif/3929f35d636190b7a0e3cde701eafcec/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7404</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>108</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032591010005115-gr8.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032591010005115/gr8/DOWNSAMPLED/image/jpeg/7e908409530892083f1bb35f4c27f19b/gr8.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591010005115/gr8/DOWNSAMPLED/image/jpeg/7e908409530892083f1bb35f4c27f19b/gr8.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>26267</xocs:filesize>
+               <xocs:pixel-height>283</xocs:pixel-height>
+               <xocs:pixel-width>389</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032591010005115-gr8.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032591010005115/gr8/THUMBNAIL/image/gif/95708db529deaf160aacf7ca567e5dc6/gr8.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591010005115/gr8/THUMBNAIL/image/gif/95708db529deaf160aacf7ca567e5dc6/gr8.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3470</xocs:filesize>
+               <xocs:pixel-height>160</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032591010005115-gr9.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032591010005115/gr9/DOWNSAMPLED/image/jpeg/0e864e217542453f1f36b16890197f3a/gr9.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591010005115/gr9/DOWNSAMPLED/image/jpeg/0e864e217542453f1f36b16890197f3a/gr9.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>20526</xocs:filesize>
+               <xocs:pixel-height>306</xocs:pixel-height>
+               <xocs:pixel-width>386</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032591010005115-gr9.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032591010005115/gr9/THUMBNAIL/image/gif/9c139c9b78977753008a3c65757b9b1f/gr9.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591010005115/gr9/THUMBNAIL/image/gif/9c139c9b78977753008a3c65757b9b1f/gr9.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2515</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>207</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.1" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>PTEC</jid>
+            <aid>8055</aid>
+            <ce:pii>S0032-5910(10)00511-5</ce:pii>
+            <ce:doi>10.1016/j.powtec.2010.09.025</ce:doi>
+            <ce:copyright type="limited-transfer" year="2010">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0005" view="all">Schematic diagram of experimental procedure.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0010" view="all">FESEM photographs of the ceria abrasives prepared with different calcination conditions; (a) slurry A, (b) B, (c) C and (d) D.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0015" view="all">(a) XRD patterns and (b) the (111) peaks analyzed to confirm crystallite size of the ceria abrasives dispersed in slurry (a) A, (b) B, (c) C and (d) D.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0020" view="all">The variation of crystallite size as a function of the concentration of grain growth accelerator.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="f0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0025" view="all">FETEM micrographs of the ceria abrasives prepared with different cerium precursor; (a) cerium hydroxide, (b) cerium nitride, (c) cerium chloride and (d) cerium dioxide.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="f0030">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0030" view="all">Particle size distribution of ceria slurries as function of abrasive size.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6"/>
+            </ce:figure>
+            <ce:figure id="f0035">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0035" view="all">FESEM photographs of ceria abrasives (a) before and (b) after polishing.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr7"/>
+            </ce:figure>
+            <ce:figure id="f0040">
+               <ce:label>Fig. 8</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0040" view="all">Results of CMP field evaluation for removal rate and selectivity.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr8"/>
+            </ce:figure>
+            <ce:figure id="f0045">
+               <ce:label>Fig. 9</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0045" view="all">TGA curves of the ceria abrasives dried from (a) slurry A and (b) slurry D.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr9"/>
+            </ce:figure>
+            <ce:figure id="f0050">
+               <ce:label>Fig. 10</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0050" view="all">Within-wafer non uniformity (WIWNU) of oxide film.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr10"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0005" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0055" view="all">Comparison of slurries used in this study.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="7">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <colspec colname="col5"/>
+                  <colspec colname="col6"/>
+                  <colspec colname="col7"/>
+                  <thead>
+                     <row valign="top" rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1" colname="col1" align="left">Samples</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col2" nameend="col3" align="left">Calcination conditions</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1" colname="col4" align="left">Primary particle Size (SEM, nm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1" colname="col5" align="left">Grain size (XRD, nm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1" colname="col6" align="left">Slurry mean size (UPA, nm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1" colname="col7" align="left">Surface area (m<sup loc="post">2</sup>/g)</entry>
+                     </row>
+                     <row valign="top" rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="left">pH</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="left">Temp. (°C)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left">Slurry A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">0.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">800</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">84</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">38</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">165</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="char" char=".">20.53</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left">Slurry B</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">0.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">850</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">166</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">43</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">278</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="char" char=".">14.06</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left">Slurry C</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">0.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">850</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">295</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">57</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">483</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="char" char=".">12.70</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left">Slurry D</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">0.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">900</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">417</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">88</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">742</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="char" char=".">5.58</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0010" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0060" view="all">The results of the CMP evaluation.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="5">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <colspec colname="col5"/>
+                  <thead>
+                     <row valign="top" rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left">Samples</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="left">Oxide removal rate (Å/min)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="left">Nitride removal rate (Å/min)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="left">Selectivity</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="left">WIWNU of oxide film (%)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left">Slurry A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char="(">1661(±<hsp sp="0.10"/>77)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char="(">79(±<hsp sp="0.10"/>6)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char="(">21(±<hsp sp="0.10"/>0.9)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">7.9</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left">Slurry B</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char="(">3390(±<hsp sp="0.10"/>103)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char="(">117(±<hsp sp="0.10"/>8)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char="(">29(±<hsp sp="0.10"/>1.0)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">11.0</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left">Slurry C</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char="(">3989(±<hsp sp="0.10"/>91)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char="(">127(±<hsp sp="0.10"/>6)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char="(">32(±<hsp sp="0.10"/>1.3)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">14.6</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left">Slurry D</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char="(">4343(±<hsp sp="0.10"/>136)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char="(">155(±<hsp sp="0.10"/>13)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char="(">28(±<hsp sp="0.10"/>1.4)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">16.7</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title>Polishing behaviors of ceria abrasives on silicon dioxide and silicon nitride CMP</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Myoung-Hwan</ce:given-name>
+                  <ce:surname>Oh</ce:surname>
+                  <ce:cross-ref refid="af0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cr0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Jun-Seok</ce:given-name>
+                  <ce:surname>Nho</ce:surname>
+                  <ce:cross-ref refid="af0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Seung-Beom</ce:given-name>
+                  <ce:surname>Cho</ce:surname>
+                  <ce:cross-ref refid="af0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Jae-Seok</ce:given-name>
+                  <ce:surname>Lee</ce:surname>
+                  <ce:cross-ref refid="af0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Rajiv K.</ce:given-name>
+                  <ce:surname>Singh</ce:surname>
+                  <ce:cross-ref refid="af0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="af0005">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Department of Materials Science and Engineering, University of Florida, Gainesville, Florida, 32611, USA</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="af0010">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>LG Chem. Ltd/Research Park, I&amp;E materials, 104-1 Moonji-dong, Yuseong-gu, Daejeon, 305-380, Republic of Korea</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cr0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author. Tel.: +<ce:hsp sp="0.10"/>1 352 846 2496; fax: +<ce:hsp sp="0.10"/>1 352 392 3771.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="22" month="1" year="2010"/>
+            <ce:date-revised day="14" month="9" year="2010"/>
+            <ce:date-accepted day="22" month="9" year="2010"/>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para id="sp0065" view="all">The effects of ceria (CeO<ce:inf loc="post">2</ce:inf>) abrasives in chemical mechanical polishing (CMP) slurries were investigated on silicon dioxide (SiO<ce:inf loc="post">2</ce:inf>) and silicon nitride (Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf>) polishing process. The ceria abrasives were prepared by the flux method, using potassium hydroxide (KOH) as the grain growth accelerator. The primary particle size of the ceria abrasives was controlled in the range of ~<ce:hsp sp="0.10"/>84–417<ce:hsp sp="0.25"/>nm by changing the concentration of potassium hydroxide and the calcination temperature without mechanical milling process. The removal rate of silicon dioxide film strongly depended upon abrasive size up to an optimum abrasive size (295<ce:hsp sp="0.25"/>nm) after CMP process. However, the surface uniformity deteriorated as abrasive size increases. The observed polishing results confirmed that there exists an optimum abrasive size (295<ce:hsp sp="0.25"/>nm) for maximum removal selectivity between oxide and nitride films. In this study, polishing behaviors of the ceria abrasives were discussed in terms of morphological characteristics.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:abstract class="graphical">
+               <ce:section-title>Graphical Abstract</ce:section-title>
+               <ce:abstract-sec>
+                  <ce:simple-para id="sp0070" view="all">The ceria particles were prepared by the flux method, using potassium hydroxide (KOH) as the grain growth accelerator to promote interdiffusion on contact surface between the smaller particles and the larger ones. The resultant particles were used as abrasive for ceria-based slurry in CMP process. This study investigated polishing behaviors of the ceria particles in terms of morphological characteristics.</ce:simple-para>
+                  <ce:simple-para id="sp0075" view="all">
+                     <ce:display>
+                        <ce:figure id="f0055">
+                           <ce:link locator="fx1"/>
+                        </ce:figure>
+                     </ce:display>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Ceria</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Chemical mechanical polishing (CMP)</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Grain growth accelerator</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Flux method</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Sintering process</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para id="p0005" view="all">Ceria is receiving intense attention as a main slurry component for the chemical mechanical polishing (CMP) process in semiconductor manufacturing industry due to the effective removal rate for oxide film and the softness of the particles <ce:cross-refs refid="bb0005 bb0010">[1,2]</ce:cross-refs>. Ceria-based slurry has been used in CMP of shallow trench isolation (STI) structures consisting of silicon dioxide and silicon nitride deposition due to its high selectivity over nitride. For the STI-CMP process, the use of high selectivity slurries is very important to halt the polishing at the nitride stop layer and reduce the amount of defects such as erosion and dishing <ce:cross-ref refid="bb0015">[3]</ce:cross-ref>. During the past decade, structural properties, chemical aspects and morphological characteristics of the ceria abrasives have been identified as the important parameters that influence the STI-CMP performance <ce:cross-refs refid="bb0020 bb0025">[4,5]</ce:cross-refs>. Therefore, many approaches to control these properties of ceria abrasives have been extensively investigated.</ce:para>
+                  <ce:para id="p0010" view="all">The commercial method for synthesis of ceria particles involves thermal decomposition of cerium salts such as carbonate and hydroxide <ce:cross-ref refid="bb0030">[6]</ce:cross-ref>. This method leads to very porous ceria particles with high surface area, inducing softness and high chemical reactivity to oxide films. However, the size and the shape of ceria abrasives are very limited since particle growth is difficult to control during calcination process. To achieve the desired particle size and the uniform particle size distribution, mechanical milling and filteration is required <ce:cross-ref refid="bb0035">[7]</ce:cross-ref>. Other methods for preparing ceria abrasives are liquid phase processes <ce:cross-refs refid="bb0040 bb0045">[8,9]</ce:cross-refs>. These methods can lead to ceria abrasives with desirable morphological characteristics by manipulating reaction parameters. However, the size of ceria abrasives is limited to less than 50<ce:hsp sp="0.25"/>nm. Use of these small size particles results in low removal rates of target layers during CMP.</ce:para>
+                  <ce:para id="p0015" view="all">To overcome these problems, flux method is proposed to synthesize the ceria abrasives with a well-defined morphology. This method consists of adding precursor in the required ratio to a molten salt mixture, which accelerates the kinetics of the formation of ceria particles <ce:cross-ref refid="bb0050">[10]</ce:cross-ref>. The ceria particles obtained by this method have the several advantages over other methods such as narrow size distribution, desirable characteristics including very fine size, high chemical purity and good chemical homogeneity <ce:cross-ref refid="bb0055">[11]</ce:cross-ref>. However, this method has seldom been applied to the synthesis of ceria abrasives for CMP slurry. Furthermore, the polishing performance of ceria abrasives synthesized using flux method has not been reported so far for the silica and silicon nitride films.</ce:para>
+                  <ce:para id="p0020" view="all">In this work, we synthesized the ceria particles of different sizes with uniform particle size distribution using the flux method. For CMP performance evaluation, the effect of ceria abrasives on the removal rate, the oxide-nitride removal selectivity and the within-wafer non uniformity (WIWNU) was investigated.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Experiment</ce:section-title>
+                  <ce:section id="s0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title>Preparation of ceria abrasive particles by solid state reaction</ce:section-title>
+                     <ce:para id="p0025" view="all">Cerium (III) nitrate hexahydrate (Ce(NO<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">3</ce:inf>∙<ce:hsp sp="0.10"/>6H<ce:inf loc="post">2</ce:inf>O) and potassium hydroxide (KOH) were used as the starting materials for synthesis of ceria abrasive particles. 0.5<ce:hsp sp="0.25"/>M of cerium (III) nitrate hexahydrate and 1.0<ce:hsp sp="0.25"/>M of potassium hydroxide were separately dissolved in mixed solvent of ethylene glycol (C<ce:inf loc="post">2</ce:inf>H<ce:inf loc="post">6</ce:inf>O<ce:inf loc="post">2</ce:inf>) and deionized (DI) water. The volume ratio of ethylene glycol to water was kept at 2:3. The reaction was carried out at a temperature of 50<ce:hsp sp="0.25"/>°C with stirring rate of 100<ce:hsp sp="0.25"/>rpm for 12<ce:hsp sp="0.25"/>h. Air was bubbled into the precipitation reactor with passage through a gas distributor as an oxidizer. The precipitated substance was separated via centrifugation and then redispersed in distilled water under continuous stirring. The weight ratio of distilled water to a precipitated substance was kept 5:1. The suspension solution was put into an autoclave. The hydrothermal reaction was carried out at 230<ce:hsp sp="0.25"/>°C for 6<ce:hsp sp="0.25"/>h. After the hydrothermal reaction, the precipitated particles were washed with distilled water three times via centrifugation and then uniformly wetted in a potassium hydroxide/water mixed solution. The concentration of potassium hydroxide was 0.1–2.0<ce:hsp sp="0.25"/>wt.% depending on the total weight of the precipitated particles. The wetted particles were sintered for 2<ce:hsp sp="0.25"/>h at 800–900<ce:hsp sp="0.25"/>°C temperature. The synthesized particles were washed with distilled water until the ion conductivity of the washed solution was less than 0.5<ce:hsp sp="0.25"/>μS. The schematic diagram of experimental procedure was shown in <ce:cross-ref refid="f0005">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="f0005"/>.</ce:para>
+                     <ce:para id="p0030" view="all">The crystal structure and grain size were identified through X-ray diffraction (XRD) using CuKα radiation. The crystallite size was estimated by the Scherrer equation according to the formula <ce:italic>D</ce:italic>
+                        <ce:hsp sp="0.12"/>=<ce:hsp sp="0.12"/>0.9<ce:italic>λ</ce:italic>
+                        <ce:hsp sp="0.12"/>/<ce:hsp sp="0.12"/>(<ce:italic>β</ce:italic> cos <ce:italic>θ</ce:italic>), where <ce:italic>D</ce:italic> is crystallite size, <ce:italic>λ</ce:italic> is the wavelength of X-rays, <ce:italic>β</ce:italic> is the half-width of the diffraction peaks, and <ce:italic>θ</ce:italic> is the diffraction angle. The broadening of the reflection from the (111) plane was used to calculate the crystallite size. The morphology and sizes of the abrasive particles were also examined by field emission scanning electron microscope (FESEM). The average primary particle size was calculated by measuring ca. 100 particles from FESEM micrographs. The specific surface area (SSA) of ceria abrasives was determined by Brunauer–Emmett–Teller (BET) method using nitrogen adsorption/desorption at 77<ce:hsp sp="0.25"/>K.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title>Polishing of wafers</ce:section-title>
+                     <ce:para id="p0035" view="all">Different ceria-based slurries were formulated by dispersing abrasives each with different primary particle sizes in DI water containing an anionic organic polymer (Poly acrylic acid, PAA; Mw 4000, LG Chem.) as dispersant. The PAA was 2<ce:hsp sp="0.25"/>wt.% based on the total weight of the ceria abrasives. For each slurry, pH was adjusted to 6.5–6.7 by adding ammonium hydroxide (NH<ce:inf loc="post">4</ce:inf>OH). The solid loading of ceria abrasives was fixed to 2.0<ce:hsp sp="0.25"/>wt.%. <ce:cross-ref refid="t0005">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="t0005"/> presents the slurry characteristics used in polishing tests. The abrasive size distribution of slurry was measured using light scattering method (UPA 150, Microtrac Inc.). In order to investigate the adsorption characteristics of ceria abrasives for the additive polymer, slurry A and D were dried at 80<ce:hsp sp="0.25"/>°C for 24<ce:hsp sp="0.25"/>h. The weight loss of the abrasives dried from slurries was measured by thermogravimetric analysis (TGA). TGA was performed in an air flow of 100<ce:hsp sp="0.25"/>ml/min at a heating rate of 10<ce:hsp sp="0.25"/>°C/min from 30<ce:hsp sp="0.25"/>°C to 600<ce:hsp sp="0.25"/>°C.</ce:para>
+                     <ce:para id="p0040" view="all">Silicon dioxide film of 2<ce:hsp sp="0.25"/>μm thick was formed on a 5-in. p-type silicon substrates with (001) orientation by plasma enhanced chemical vapor deposition (PECVD). The silicon nitride films were deposited by using low-pressure chemical vapor deposition (LPCVD). Polishing tests were performed on a rotary type CMP machine (GNP POLI 400, G&amp;P technology) for 1<ce:hsp sp="0.25"/>min with each of the ceria-based slurries. IC 1000/SUBA IV stacked pads (supplied by Rodel Inc.) were utilized as CMP pads. The downforce was 280<ce:hsp sp="0.25"/>g/cm<ce:sup loc="post">2</ce:sup> and the rotation speed between the pad and the wafer was 90<ce:hsp sp="0.25"/>rpm. The slurry flow rate was 100<ce:hsp sp="0.25"/>mL/min. The film thickness on the wafers before and after CMP was measured using spectroscopic reflectometry (Nanospec 6100, Nanometrics) to calculate the removal rate. In this experiment, the WIWNU was defined as the standard deviation of remaining thickness divided by the average of the remaining thickness after the CMP process. The average polishing data for removal rate was carried by performing the same tests more than three times in order to support the validity of the results from the statistical viewpoint.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0025" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results and discussion</ce:section-title>
+                  <ce:section id="s0030" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title>Morphological characteristics of ceria abrasives</ce:section-title>
+                     <ce:para id="p0045" view="all">
+                        <ce:cross-ref refid="f0010">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="f0010"/> shows the FESEM images of abrasive particles prepared in different calcination conditions as described in <ce:cross-ref refid="t0005">Table 1</ce:cross-ref>. The primary particle sizes determined using the FESEM micrographs were 84, 166, 295, and 417<ce:hsp sp="0.25"/>nm for slurry A, B, C and D, respectively. As shown in <ce:cross-ref refid="f0010">Fig. 2</ce:cross-ref>, the ceria particles consisted of crystalline grains with a well-defined morphology. The size of ceria particles increased with the increase in concentration of potassium hydroxide and the calcination temperature. These images indicate that the primary particle size can be controlled by changing the calcination conditions, which influence the crystal growth of ceria particles.</ce:para>
+                     <ce:para id="p0050" view="all">
+                        <ce:cross-ref refid="f0015">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="f0015"/> shows the X-ray diffraction patterns of the prepared particles. As shown in <ce:cross-ref refid="f0015">Fig. 3</ce:cross-ref>(a), the characteristic peaks corresponding to (111), (200), (220), (311), and (222) planes are located at 2<ce:italic>θ</ce:italic>
+                        <ce:hsp sp="0.12"/>=<ce:hsp sp="0.12"/>28.51, 33.06, 47.48, 56.20, and 59.05<ce:sup loc="post">o</ce:sup>, respectively. They show very close to the ones with cubic fluorite structure of ceria crystal in JCPDS database. The sharp intensity peaks were observed for ceria abrasives with larger primary particle size as shown in <ce:cross-ref refid="f0015">Fig. 3</ce:cross-ref>(b). The crystallite size of ceria abrasives was calculated from the Scherrer equation using the line-broadening of the (111) peak in the XRD pattern. The crystallite size gradually increased from 38<ce:hsp sp="0.25"/>nm to 88<ce:hsp sp="0.25"/>nm as the calcination temperature and the concentration of additive were increased. This result coincides with the trend of increasing primary particle size in the FESEM images shown in the <ce:cross-ref refid="f0010">Fig. 2</ce:cross-ref>.</ce:para>
+                     <ce:para id="p0055" view="all">The synthesis method employed in this study is characterized by a low sintering temperature process, using grain growth accelerator. The eutectic mixed solvents as an accelerator is used to promote the kinetics by enhancing diffusion, due to their low melting temperature. In this study, potassium hydroxide/water mixed solvent was used as the accelerator to reduce sintering temperature. Considering that the conventional sintering of ceria requires high temperatures leading to partial reduction above 1200<ce:hsp sp="0.25"/>°C <ce:cross-ref refid="bb0060">[12]</ce:cross-ref>, potassium hydroxide/water mixed solvent might offer a liquid phase to promote interdiffusion on contact surface between the smaller particle and the larger ones during the sintering process. <ce:cross-ref refid="f0020">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="f0020"/> shows this dependence of the crystallite size on the concentration of potassium hydroxide at a fixed temperature (850<ce:hsp sp="0.25"/>°C). It can be observed that an increase in the crystallite size was seen with addition of KOH at same calcination temperature. These results indicate that potassium hydroxide strongly affects the growth rate of ceria particles at relatively low temperature. Therefore, the physical properties and the morphology of ceria abrasives could be controlled by manipulating the concentration of potassium hydroxide in this system.</ce:para>
+                     <ce:para id="p0060" view="all">Additionally, cerium dioxide particles obtained by hydrothermal method were used as the precursor in this study, instead of cerium salts such as hydroxide, nitride, and chloride. <ce:cross-ref refid="f0025">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="f0025"/> shows the FESEM images of the particles prepared with different cerium precursors. Compared with other particles as shown in <ce:cross-ref refid="f0025">Fig. 5</ce:cross-ref>(a), (b), and (c), it can be observed that the uniformity of ceria particles (<ce:cross-ref refid="f0025">Fig. 5</ce:cross-ref>(d)) prepared using oxide is superior. This result is attributed to the fact that in case of cerium dioxide as a precursor, direct grain growth of crystallite is involved during heat treatment. However, in case of other precursors (hydroxide, nitride and chloride), the formation of cerium dioxide crystallites involves two steps via thermal decomposition followed by grain growth. Thermal decomposition of such precursors involve series of chemical reactions <ce:cross-ref refid="bb0065">[13]</ce:cross-ref> leading to retarded growth of ceria particles. Furthermore, it is difficult to achieve uniform ceria particle morphology because of the high surface energy and chemical reactivity of the volatile cerium compounds. Therefore, it seems that the direct formation to ceria induces the absence of hard aggregates and surface necking in the ceria crystallites.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0035" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title>Characteristics of ceria abrasives before and after CMP</ce:section-title>
+                     <ce:para id="p0065" view="all">To investigate the CMP performance using the synthesized ceria abrasives, we performed polishing test for the four types of slurries with different abrasive size. <ce:cross-ref refid="f0030">Fig. 6</ce:cross-ref>
+                        <ce:float-anchor refid="f0030"/> shows the particle size distribution of these slurries without surfactant addition. The average particle sizes determined by light scattering method were 165, 278, 483, and 742<ce:hsp sp="0.25"/>nm for slurry A, B, C and D, respectively. The dispersed particle size is much larger than the crystallite size estimated by X-rays and the primary particle size calculated by FESEM. This observation is due to the extensive overlapping of the ceria particles in water-based solution <ce:cross-ref refid="bb0070">[14]</ce:cross-ref>. As shown in <ce:cross-ref refid="f0030">Fig. 6</ce:cross-ref>, the increase in the size of the primary particle led to broader particle size distribution in water-based solution.</ce:para>
+                     <ce:para id="p0070" view="all">
+                        <ce:cross-ref refid="f0035">Fig. 7</ce:cross-ref>
+                        <ce:float-anchor refid="f0035"/> shows the FESEM images of ceria abrasives before and after silicon dioxide polishing for slurry C. The ceria abrasives after polishing were washed with distilled water three times via centrifugation. According to <ce:cross-ref refid="f0030">Fig. 6</ce:cross-ref>, we can confirm that the ceria abrasives are brittle and break during polishing process. This indicates that the ceria abrasives used in this study are easily broken-down by applied pressure and shear force during polishing.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0040" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title>Polishing test</ce:section-title>
+                     <ce:para id="p0075" view="all">
+                        <ce:cross-ref refid="t0010">Table 2</ce:cross-ref>
+                        <ce:float-anchor refid="t0010"/> summarizes the quantitative results of the polishing test. It is clear that the removal rate of the oxide films increased with increasing size of ceria abrasives. The removal rate of oxide film is mainly influenced by chemical contribution of ceria abrasives and mechanical factors, such as the CMP conditions, morphological characteristics of abrasives and particles size distribution. During the polishing of the oxide film, ceria abrasives exhibit a chemical tooth property which accelerates the polishing removal rate of oxide film <ce:cross-ref refid="bb0005">[1]</ce:cross-ref>. As a consequence, the Si–O–Ce bonds can be rapidly removed by the mechanical force generated by pressed pad and abrasives, and this physicochemical reaction lead to the high removal rate of oxide film. In this work, it was found that the removal rate of oxide film was essentially dependent on the size of ceria abrasives. As with the removal rate of oxide film, the removal rate of nitride film increased with increasing in the crystallite size of ceria abrasives. However, the removal rate of nitride film is affected by the physical properties of ceria-based slurry systems and the amount of surfactant adsorbed on the film surface <ce:cross-ref refid="bb0025">[5]</ce:cross-ref>. In order to improve the selectivity and uniformity, an anionic acrylic polymer is commonly used to passivate the surface of the nitride film during STI-CMP, which prevents ceria abrasives from contacting the film surface <ce:cross-ref refid="bb0075">[15]</ce:cross-ref>. In this study, the amount of the polymer was maintained constant for all slurry. Therefore, it seems that the increase in the removal rate of nitride film is relate to the mechanical factors rather that to the effect of passivation layer of the polymer absorbed on the film surface. These mechanical factors are influenced by several physical parameters of the CMP process, such as morphological aspects of the abrasives, crystallite size of the abrasives and the CMP conditions.</ce:para>
+                     <ce:para id="p0080" view="all">It is well known that the removal rate increases with increasing particle size due to mechanical indentation. However, the increase in removal rate shows lower slope between slurry C and D as compared to that from slurry A to C as shown in <ce:cross-ref refid="f0040">Fig. 8</ce:cross-ref>
+                        <ce:float-anchor refid="f0040"/>. This led to a transition in removal selectivity between oxide and nitride film at slurry C. This result is attributed to two related factors: the contact-area reduction and the particle surface activity. In the case of oxide CMP process, the removal rate is mainly affected by contact area between the abrasives and the film surface. According to contact-area mechanism <ce:cross-ref refid="bb0080">[16]</ce:cross-ref>, the removal rate increases with decreasing abrasive size and increasing solid loading, due to the increase in contact-area between the abrasives and the film surface. At a fixed solid loading, the number of ceria abrasives in slurry decrease as the abrasive size increases. This implies the decrease in contact area between ceria abrasives in slurry D and oxide film during CMP processing. Additionally, large abrasives with round-shape lead to the decrease in interfacial contact with film surface, due to their rolling motion <ce:cross-ref refid="bb0085">[17]</ce:cross-ref>. Furthermore, relatively lower removal rate are attributed to the inhomogeneous distribution of slurry on the wafer. For the slurry D, the broader size distribution induces a loss in the frictional occasion of smaller abrasives by bigger abrasives and a local friction interaction of bigger abrasives on the wafer. The frictional force between the abrasives and the wafer is decreased by using slurry D because the frictional force is directly proportional to the contact area <ce:cross-ref refid="bb0090">[18]</ce:cross-ref>. These polishing behaviors would lead to a relatively lower increase in removal rate for the oxide wafer during CMP. In this study, such behavior can be clearly seen from the change in oxide removal rate from slurry A to C and slurry C to D. As shown in <ce:cross-ref refid="f0040">Fig. 8</ce:cross-ref>, the removal rate rapidly increased from 1662<ce:hsp sp="0.25"/>Å/min for 84<ce:hsp sp="0.25"/>nm to 3990<ce:hsp sp="0.25"/>Å/min for 295<ce:hsp sp="0.25"/>nm, whereas it slightly increased to 4343<ce:hsp sp="0.25"/>nm for 417<ce:hsp sp="0.25"/>nm in spite of size effect of bigger abrasives during CMP process. In case of the nitride film CMP, the polishing behavior can be explained by the relationship between additive polymer and abrasive size. The additive polymer can be more easily attached on the surface of the small abrasives than on the surface of large ones, due to high surface activity and specific surface area of the small abrasives. The slurry with small abrasives can induce a relatively high removal rate for nitride film, since the passivation layer is insufficiently formed on the nitride film surface as polymer is largely adsorbed on the particle surface. As described in <ce:cross-ref refid="t0005">Table 1</ce:cross-ref>, the specific surface area decreased with increasing abrasive size. Moreover, the compositional changes associated with the additive polymer adsorbed on the surface of ceria abrasives were investigated with thermal analysis. <ce:cross-ref refid="f0045">Fig. 9</ce:cross-ref>
+                        <ce:float-anchor refid="f0045"/> presents the TGA curves of the ceria abrasives dried from slurry A and D. The TGA curves of the ceria abrasives show two weight losses (curve (a) and (b)). The initial weight loss below the temperature of 100<ce:hsp sp="0.25"/>°C can be attributed to the evaporation of physically absorbed water in the air. The second weight loss observed at 200–260<ce:hsp sp="0.25"/>°C is related to the decomposition of the additive polymer adsorbed on the abrasive surface. As shown in <ce:cross-ref refid="f0045">Fig. 9</ce:cross-ref>, final weight loss for two abrasives was different because the additive polymer content adsorbed on abrasive surface was different. This means that removal rate for nitride films can be relatively increased in spite of decrease in the abrasive size. As a result, the removal rate of nitride film showed relatively low increase in rate with increase in the abrasive size. Therefore, these polishing behaviors for oxide and nitride films result in the transition of removal selectivity, suggestive of existence of an optimum size of ceria abrasives for high removal selectivity.</ce:para>
+                     <ce:para id="p0085" view="all">Additionally, the results for surface uniformity of the oxide films are shown in <ce:cross-ref refid="f0050">Fig. 10</ce:cross-ref>
+                        <ce:float-anchor refid="f0050"/>. As the size of ceria abrasives increased, the slurry had a higher WIWNU for the oxide film. This polishing behavior is attributed to a broader particle size distribution of the slurry with large abrasives. The distribution data in <ce:cross-ref refid="f0030">Fig. 6</ce:cross-ref> showed that the slurry has a rather-wide particle size distribution as abrasive particles increases. The broader particle size distribution of large abrasives can cause a different removal rate between the center and the edges of the film surface due to their limited mobility on the wafer surface. Consequently, the surface uniformity deteriorated with increasing abrasive size during CMP process. It seems that surface uniformity of oxide film is related to the mechanical factors of ceria abrasives rather that to the morphological factors on the film surface.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0045" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusions</ce:section-title>
+                  <ce:para id="p0090" view="all">In this study, we investigated the effects of ceria abrasives on polishing performance during silicon dioxide and silicon nitride CMP. The ceria abrasives with controllable size were synthesized using the flux method. The size of the ceria abrasives was controlled by changing the calcination conditions without mechanical milling process. With increasing abrasive size, the removal rate of silicon dioxide and silicon nitride films increased. On the other hand, the surface uniformity deteriorated after CMP process, due to a wide particle size distribution of the slurry with large abrasives. In addition, the removal selectivity showed a transition behavior at the slurry C (with particle size of 295<ce:hsp sp="0.25"/>nm). This result indicates that there exists an optimum for removal selectivity as a function of abrasive size in the used slurry system. Therefore, we concluded that the control of the size and uniform particle size distribution of ceria abrasives is an important parameter for high removal selectivity and surface uniformity in the CMP process.</ce:para>
+               </ce:section>
+            </ce:sections>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi0005" view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bs0005">
+                  <ce:bib-reference id="bb0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.M.</ce:given-name>
+                                 <ce:surname>Cook</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical processes in glass polishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Non-Cryst. Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>120</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>152</sb:first-page>
+                              <sb:last-page>171</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Hoshino</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Kurata</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Terasaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Susa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mechanism of polishing of SiO<ce:inf loc="post">2</ce:inf> films by CeO<ce:inf loc="post">2</ce:inf> particles</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Non-Cryst. Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>283</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>129</sb:first-page>
+                              <sb:last-page>136</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.Y.</ce:given-name>
+                                 <ce:surname>Yoon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                                 <ce:surname>Jeong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.B.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.W.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.H.</ce:given-name>
+                                 <ce:surname>Ryu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.G.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Influence of high selectivity slurry in shallow trench isolation CMP on junction leakage characteristics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochem. Solid-State Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>G19</sb:first-page>
+                              <sb:last-page>G21</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.S.</ce:given-name>
+                                 <ce:surname>Lim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Ahn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.S.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Shin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The effect of CeO<ce:inf loc="post">2</ce:inf> abrasive size on dishing and step height reduction of silicon oxide film in STI-CMP</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surf. Coat. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>200</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1751</sb:first-page>
+                              <sb:last-page>1754</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.G.</ce:given-name>
+                                 <ce:surname>Kang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.S.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Paik Test</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of abrasive particle size and molecular weight of poly(acrylic acid) in ceria slurry on removal selectivity of SiO<ce:inf loc="post">2</ce:inf>/Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> films in shallow trench isolation chemical mechanical planarization</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>777</sb:first-page>
+                              <sb:last-page>787</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Janos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Petrak</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Preparation of ceria-based polishing powders from carbonates</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4062</sb:first-page>
+                              <sb:last-page>4066</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.I.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hwang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Jeong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Investigation of polishing characteristics of shallow trench isolation chemical mechanical planarization with different types of slurries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Microelectron. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>84</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>626</sb:first-page>
+                              <sb:last-page>630</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.L.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.V.</ce:given-name>
+                                 <ce:surname>Babu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Matijevic</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical mechanical polishing of thermal oxide films using silica particles coated with ceria</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>10</sb:issue-nr>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2744</sb:first-page>
+                              <sb:last-page>2749</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.C.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.W.</ce:given-name>
+                                 <ce:surname>Shi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.Q.</ce:given-name>
+                                 <ce:surname>Zheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of pH medium on hydrothermal synthesis of nanocrystalline cerium (IV) oxide powders</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>85</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>10</sb:issue-nr>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2462</sb:first-page>
+                              <sb:last-page>2468</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.R.</ce:given-name>
+                                 <ce:surname>West</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Solid State Chemistry and its Applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1995</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Wiley</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Bondioli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bonamartini Corradi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Leonelli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Manfredini</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nanosized CeO<ce:inf loc="post">2</ce:inf> powders obtained by flux method</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Res. Bull.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2159</sb:first-page>
+                              <sb:last-page>2166</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Kleinlogel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Gauckler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sintering of nanocrystalline CeO<ce:inf loc="post">2</ce:inf> ceramics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>14</sb:issue-nr>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1081</sb:first-page>
+                              <sb:last-page>1085</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wakita</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Kinoshita</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A synthetic study of the solid solutions in the systems and La<ce:inf loc="post">2</ce:inf>(CH<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">3</ce:inf>·8H<ce:inf loc="post">2</ce:inf>O-Ce<ce:inf loc="post">2</ce:inf>(CO<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">3</ce:inf>·8H<ce:inf loc="post">2</ce:inf>O and La(OH)CO<ce:inf loc="post">3</ce:inf>–Ce(OH)CO<ce:inf loc="post">3</ce:inf>
+                              </sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bull. Chem. Soc. Jpn</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>428</sb:first-page>
+                              <sb:last-page>432</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Allen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:edition>5th ed</sb:edition>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Particle size measurement</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>Vol. 1</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1997</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Chapman and Hall</sb:name>
+                                 <sb:location>New-York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.S.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Paik</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Crystalline structure of ceria particles controlled by the oxygen partial pressure and STI CMP performances</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ultramicroscopy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>108</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1292</sb:first-page>
+                              <sb:last-page>1296</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Mahajan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Bielmann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.K.</ce:given-name>
+                                 <ce:surname>Singh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of particle size during tungsten chemical–mechanical polishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Res. Soc. Symp. Proc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>566</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>27</sb:first-page>
+                              <sb:last-page>31</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Abiade</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.M.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.K.</ce:given-name>
+                                 <ce:surname>Singh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of slurry particles on silicon dioxide CMP</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>158</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>8</sb:issue-nr>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>G512</sb:first-page>
+                              <sb:last-page>G522</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Mahajan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Belmann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.K.</ce:given-name>
+                                 <ce:surname>Singh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>In situ lateral force technique for dynamic surface roughness measurements during chemical mechanical polishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochem. Solid-State Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>46</sb:first-page>
+                              <sb:last-page>48</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

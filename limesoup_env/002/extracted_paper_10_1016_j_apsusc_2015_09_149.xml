@@ -1,0 +1,2195 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0169433215022618</prism:url><dc:identifier>doi:10.1016/j.apsusc.2015.09.149</dc:identifier><eid>1-s2.0-S0169433215022618</eid><prism:doi>10.1016/j.apsusc.2015.09.149</prism:doi><pii>S0169-4332(15)02261-8</pii><dc:title>Preparation of spherical ceria coated silica nanoparticle abrasives for CMP application </dc:title><prism:publicationName>Applied Surface Science</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>01694332</prism:issn><prism:volume>357</prism:volume><prism:startingPage>1306</prism:startingPage><prism:endingPage>1312</prism:endingPage><prism:pageRange>1306-1312</prism:pageRange><dc:format>application/xml</dc:format><prism:coverDate>2015-12-01</prism:coverDate><prism:coverDisplayDate>1 December 2015</prism:coverDisplayDate><prism:copyright>Copyright © 2015 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Peedikakkandy, Lekha</dc:creator><dc:creator>Kalita, Laksheswar</dc:creator><dc:creator>Kavle, Pravin</dc:creator><dc:creator>Kadam, Ankur</dc:creator><dc:creator>Gujar, Vikas</dc:creator><dc:creator>Arcot, Mahesh</dc:creator><dc:creator>Bhargava, Parag</dc:creator><dc:description>
+                  This paper describes synthesis of spherical and highly mono-dispersed ceria coated silica nanoparticles of size ∼70–80nm for application as abrasive particles in Chemical Mechanical Planarization (CMP) process. Core silica nanoparticles were initially synthesized using micro-emulsion method. Ceria coating on these ultrafine and spherical silica nanoparticles was achieved using controlled chemical precipitation method. Study of various parameters influencing the formation of ceria coated silica nanoparticles of size less than 100nm has been undertaken and reported. Ceria coating over silica nanoparticles was varied by controlling the reaction temperature, pH and precursor concentrations. Characterization studies using X-ray diffraction, scanning electron microscopy, transmission electron microscopy and Energy Dispersive X-ray analysis show formation of crystalline CeO2 coating of ∼10nm thickness over silica with spherical morphology and particle size &lt;100nm. Aqueous slurry of ceria coated silica abrasive was prepared and employed for polishing of oxide and nitride films on silicon substrates. Polished films were studied using ellipsometry and an improvement in SiO2:SiN selective removal rates up to 12 was observed using 1wt% ceria coated silica nanoparticles slurry.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Chemical mechanical planarization</dcterms:subject><dcterms:subject>Ceria</dcterms:subject><dcterms:subject>Silica</dcterms:subject><dcterms:subject>Nanoparticles</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0169433215022618" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0169433215022618" rel="scidir"/></coredata><objects><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="205" height="164" size="34960">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215022618-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="211" height="164" size="32266">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215022618-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="205" height="164" size="36022">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215022618-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="218" height="164" size="15684">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215022618-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="84" size="14561">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215022618-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr8" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="182" height="164" size="28246">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215022618-gr8.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="206" height="164" size="7665">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215022618-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="152" height="164" size="6238">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215022618-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="339" height="270" size="13997">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215022618-gr6.gif?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="339" height="366" size="16161">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215022618-gr7.gif?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="565" height="452" size="128225">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215022618-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="565" height="439" size="93720">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215022618-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="565" height="452" size="105382">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215022618-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="339" height="255" size="46629">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215022618-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="602" height="231" size="52635">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215022618-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="565" height="509" size="92756">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215022618-gr8.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="high" type="IMAGE-HIGH-RES" multimediatype="GIF image file" mimetype="image/gif" width="3000" height="2388" size="69826">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215022618-gr6_lrg.gif?httpAccept=%2A%2F%2A</object><object ref="gr7" category="high" type="IMAGE-HIGH-RES" multimediatype="GIF image file" mimetype="image/gif" width="3000" height="3236" size="82740">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215022618-gr7_lrg.gif?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1500" height="1199" size="492685">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215022618-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1500" height="1166" size="298433">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215022618-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1500" height="1199" size="332719">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215022618-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1500" height="1128" size="197682">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215022618-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2667" height="1023" size="332943">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215022618-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1500" height="1352" size="308115">https://api.elsevier.com/content/object/eid/1-s2.0-S0169433215022618-gr8_lrg.jpg?httpAccept=%2A%2F%2A</object></objects><scopus-id>84949506471</scopus-id><scopus-eid>2-s2.0-84949506471</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84949506471" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271533</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291719</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291893</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Applied Surface Science</xocs:srctitle>
+      <xocs:normalized-srctitle>APPLIEDSURFACESCIENCE</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20150921">2015-09-21</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20150921">2015-09-21</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20151111">2015-11-11</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20151111">2015-11-11</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2019-04-26T19:31:55</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0169433215022618</xocs:eid>
+      <xocs:pii-formatted>S0169-4332(15)02261-8</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0169433215022618</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.apsusc.2015.09.149</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0169433215X00298</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20190426">2019-04-26T22:31:51.614828Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20151201</xocs:date-search-begin>
+      <xocs:year-nav>2015</xocs:year-nav>
+      <xocs:indexeddate epoch="1442837841">2015-09-21T12:17:21.181227Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast highlightsabst primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0169-4332</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>01694332</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>357</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>357</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>PA</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 357, Part A</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>171</xocs:sort-order>
+      <xocs:first-fp>1306</xocs:first-fp>
+      <xocs:last-lp>1312</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>1306</xocs:first-page>
+         <xocs:last-page>1312</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20151201</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1 December 2015</xocs:cover-date-text>
+      <xocs:cover-date-start>2015-12-01</xocs:cover-date-start>
+      <xocs:cover-date-year>2015</xocs:cover-date-year>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2015 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>PREPARATIONSPHERICALCERIACOATEDSILICANANOPARTICLEABRASIVESFORCMPAPPLICATION</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>PEEDIKAKKANDY</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>L</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Preparation of bare-silica nanoparticles</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Preparation of ceria coated silica particles</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Polishing experiments</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussions</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Properties of silica and ceria coated silica particles</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Polishing of SiO<ce:inf loc="post">2</ce:inf> and SiN wafers</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0155">
+            <xocs:ref-normalized-surname>LU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>55</xocs:ref-first-fp>
+            <xocs:ref-last-lp>64</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0160">
+            <xocs:ref-normalized-surname>MERRICKS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>332</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROCEEDINGSISTC</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0165">
+            <xocs:ref-normalized-surname>ROBINSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CMPSEMICONDUCTORMATERIALS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0170">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2744</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2749</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0175">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>918</xocs:ref-first-fp>
+            <xocs:ref-last-lp>923</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0180">
+            <xocs:ref-normalized-surname>COOK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>152</xocs:ref-first-fp>
+            <xocs:ref-last-lp>171</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0185">
+            <xocs:ref-normalized-surname>JINDAL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>314</xocs:ref-first-fp>
+            <xocs:ref-last-lp>318</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0190">
+            <xocs:ref-normalized-surname>OH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>239</xocs:ref-first-fp>
+            <xocs:ref-last-lp>245</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0195">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7427</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7433</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0200">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>REPORTED5THINTERNATIONALSYMPOSIUMCMP</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0205">
+            <xocs:ref-normalized-surname>RYUZAKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>036502</xocs:ref-first-fp>
+            <xocs:ref-last-lp>036507</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0210">
+            <xocs:ref-normalized-surname>SONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>128</xocs:ref-first-fp>
+            <xocs:ref-last-lp>135</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0215">
+            <xocs:ref-normalized-surname>SONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>170</xocs:ref-first-fp>
+            <xocs:ref-last-lp>174</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0220">
+            <xocs:ref-normalized-surname>LEI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1747</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1750</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0225">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>626</xocs:ref-first-fp>
+            <xocs:ref-last-lp>630</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0230">
+            <xocs:ref-normalized-surname>NAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0235">
+            <xocs:ref-normalized-surname>TAGO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>55</xocs:ref-first-fp>
+            <xocs:ref-last-lp>60</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0240">
+            <xocs:ref-normalized-surname>CUI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>184</xocs:ref-first-fp>
+            <xocs:ref-last-lp>187</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0245">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1532</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1544</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0250">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>163</xocs:ref-first-fp>
+            <xocs:ref-last-lp>169</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROCEEDINGS5THCHEMICALMECHANICALPLANARIZATIONFORMULTILEVELINTERCONNECTIONCONFERENCE</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>LOADINGEFFECTSILICABASEDCERIABASEDSLURRY</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0255">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7671</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7677</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0260">
+            <xocs:ref-normalized-surname>LIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1751</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1754</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0265">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>235</xocs:ref-first-fp>
+            <xocs:ref-last-lp>240</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0270">
+            <xocs:ref-normalized-surname>ZANTYE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>89</xocs:ref-first-fp>
+            <xocs:ref-last-lp>220</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0275">
+            <xocs:ref-normalized-surname>HOSHINO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>129</xocs:ref-first-fp>
+            <xocs:ref-last-lp>136</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0280">
+            <xocs:ref-normalized-surname>ABIADE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1001</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1004</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0285">
+            <xocs:ref-normalized-surname>NOZAWA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1524</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1530</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0290">
+            <xocs:ref-normalized-surname>RAHMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0295">
+            <xocs:ref-normalized-surname>BAGWE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8336</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8342</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0300">
+            <xocs:ref-normalized-surname>JIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4411</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4419</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>PEEDIKAKKANDYX2015X1306</xocs:refkey3>
+         <xocs:refkey4lp>PEEDIKAKKANDYX2015X1306X1312</xocs:refkey4lp>
+         <xocs:refkey4ai>PEEDIKAKKANDYX2015X1306XL</xocs:refkey4ai>
+         <xocs:refkey5>PEEDIKAKKANDYX2015X1306X1312XL</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2017-11-11T00:00:00Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0169-4332(15)02261-8</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0169433215022618</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0169433215022618</xocs:eid>
+         <xocs:doi>10.1016/j.apsusc.2015.09.149</xocs:doi>
+         <xocs:cid>271533</xocs:cid>
+         <xocs:timestamp>2019-04-26T22:31:51.614828Z</xocs:timestamp>
+         <xocs:cover-date-start>2015-12-01</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0169433215022618-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215022618/MAIN/application/pdf/8c4b28be5cc34934a78dd5d20180ce6e/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>2021289</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0169433215022618-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215022618/PREVIEW/image/png/ba5ad419b473904665d003c0e0ce14fc/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>56233</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215022618-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215022618/gr1/THUMBNAIL/image/gif/993da3d44b1c650e44deeb203bf58c19/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>34960</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>205</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215022618-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215022618/gr2/THUMBNAIL/image/gif/eaca8c224ecf3d9c254c8e54ec8986a4/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>32266</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>211</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215022618-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215022618/gr3/THUMBNAIL/image/gif/db6c079f5475e4d41e88a862de0e1d31/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>36022</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>205</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215022618-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215022618/gr4/THUMBNAIL/image/gif/b54cee74fe057bac405b5a3e0b4d0ce5/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>15684</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>218</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215022618-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215022618/gr5/THUMBNAIL/image/gif/469299f3c262e721ea43467f6b83011a/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>14561</xocs:filesize>
+               <xocs:pixel-height>84</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215022618-gr8.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215022618/gr8/THUMBNAIL/image/gif/02342da90f387be960ffd8ce8748fc2c/gr8.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>28246</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>182</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215022618-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215022618/gr6/THUMBNAIL/image/gif/3fa3f1f80803ba589565d0b88da5ea72/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7665</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>206</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215022618-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215022618/gr7/THUMBNAIL/image/gif/24ecd7caadfc92652caa810870dec772/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6238</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>152</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215022618-gr6.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215022618/gr6/DOWNSAMPLED/image/gif/696066be9c7bba4d8d4a2dc4db6b947d/gr6.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>13997</xocs:filesize>
+               <xocs:pixel-height>270</xocs:pixel-height>
+               <xocs:pixel-width>339</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215022618-gr7.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215022618/gr7/DOWNSAMPLED/image/gif/b116c0409fa97eda6545e20c4485ac81/gr7.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>16161</xocs:filesize>
+               <xocs:pixel-height>366</xocs:pixel-height>
+               <xocs:pixel-width>339</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215022618-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215022618/gr1/DOWNSAMPLED/image/jpeg/8eaecf69b6436523dea94ab6dae1b4d1/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>128225</xocs:filesize>
+               <xocs:pixel-height>452</xocs:pixel-height>
+               <xocs:pixel-width>565</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215022618-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215022618/gr2/DOWNSAMPLED/image/jpeg/05a272a4f35ec6865510140c2f9cc891/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>93720</xocs:filesize>
+               <xocs:pixel-height>439</xocs:pixel-height>
+               <xocs:pixel-width>565</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215022618-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215022618/gr3/DOWNSAMPLED/image/jpeg/3b8d44f11465de7f8f12291e65d1144d/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>105382</xocs:filesize>
+               <xocs:pixel-height>452</xocs:pixel-height>
+               <xocs:pixel-width>565</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215022618-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215022618/gr4/DOWNSAMPLED/image/jpeg/5aa799e94b84e2c5f16e08686adf150a/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>46629</xocs:filesize>
+               <xocs:pixel-height>255</xocs:pixel-height>
+               <xocs:pixel-width>339</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215022618-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215022618/gr5/DOWNSAMPLED/image/jpeg/3a754e5e6b89796c53ebf5634947ae73/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>52635</xocs:filesize>
+               <xocs:pixel-height>231</xocs:pixel-height>
+               <xocs:pixel-width>602</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215022618-gr8.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215022618/gr8/DOWNSAMPLED/image/jpeg/db58e0df379a892ad787df12a403bfd5/gr8.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>92756</xocs:filesize>
+               <xocs:pixel-height>509</xocs:pixel-height>
+               <xocs:pixel-width>565</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215022618-gr6_lrg.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215022618/gr6/HIGHRES/image/gif/00763a9f78ecc098230ee5cbe981408b/gr6_lrg.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6_lrg.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>69826</xocs:filesize>
+               <xocs:pixel-height>2388</xocs:pixel-height>
+               <xocs:pixel-width>3000</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215022618-gr7_lrg.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215022618/gr7/HIGHRES/image/gif/06036d267f16947e6db7338e868c369f/gr7_lrg.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7_lrg.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>82740</xocs:filesize>
+               <xocs:pixel-height>3236</xocs:pixel-height>
+               <xocs:pixel-width>3000</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215022618-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215022618/gr1/HIGHRES/image/jpeg/80372c9538db9eb01ec3964ebd59a781/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>492685</xocs:filesize>
+               <xocs:pixel-height>1199</xocs:pixel-height>
+               <xocs:pixel-width>1500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215022618-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215022618/gr2/HIGHRES/image/jpeg/f478488a74c667d25a14394394aa8bc7/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>298433</xocs:filesize>
+               <xocs:pixel-height>1166</xocs:pixel-height>
+               <xocs:pixel-width>1500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215022618-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215022618/gr3/HIGHRES/image/jpeg/c8ad75493d017a3bc9e89e72dce67c7a/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>332719</xocs:filesize>
+               <xocs:pixel-height>1199</xocs:pixel-height>
+               <xocs:pixel-width>1500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215022618-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215022618/gr4/HIGHRES/image/jpeg/ecd72d05ce304b36eed97b81340c8cd8/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>197682</xocs:filesize>
+               <xocs:pixel-height>1128</xocs:pixel-height>
+               <xocs:pixel-width>1500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215022618-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215022618/gr5/HIGHRES/image/jpeg/b9709481cdec8efef9294a6e9defe924/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>332943</xocs:filesize>
+               <xocs:pixel-height>1023</xocs:pixel-height>
+               <xocs:pixel-width>2667</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0169433215022618-gr8_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0169433215022618/gr8/HIGHRES/image/jpeg/5817ab298eafa9ee8604a21bd6e49bee/gr8_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>308115</xocs:filesize>
+               <xocs:pixel-height>1352</xocs:pixel-height>
+               <xocs:pixel-width>1500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.4" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>APSUSC</jid>
+            <aid>31363</aid>
+            <ce:pii>S0169-4332(15)02261-8</ce:pii>
+            <ce:doi>10.1016/j.apsusc.2015.09.149</ce:doi>
+            <ce:copyright type="full-transfer" year="2015">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0005">
+                  <ce:simple-para id="spar0015" view="all">(a) and (c) shows TEM images of SiO<ce:inf loc="post">2</ce:inf> nanoparticles synthesized using sol–gel method and (b) and (d) shows SiO<ce:inf loc="post">2</ce:inf> synthesized using microemulsion method.</ce:simple-para>
+               </ce:caption>
+               <ce:link id="lk0010" xlink:type="simple" xlink:href="pii:S0169433215022618/gr1" locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="fig0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="spar0020" view="all">TEM images of (a) semi-spherical silica nanoparticles of reference slurry (b) silica nanoparticles synthesized using micro-emulsion method (c) ceria nanoparticles of reference slurry (d) ceria nanoparticles synthesized using precipitation method.</ce:simple-para>
+               </ce:caption>
+               <ce:link id="lk0015" xlink:type="simple" xlink:href="pii:S0169433215022618/gr2" locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="fig0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="spar0025" view="all">TEM images of (a) partial ceria coating over silica particles at pH 4.5 (b) ceria coating over silica particles at pH 4.5 and reaction temperature 95<ce:hsp sp="0.25"/>°C (c) and (d) ceria coating over silica particles at pH 10 and reaction temperature 95<ce:hsp sp="0.25"/>°C.</ce:simple-para>
+               </ce:caption>
+               <ce:link id="lk0020" xlink:type="simple" xlink:href="pii:S0169433215022618/gr3" locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="fig0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="spar0030" view="all">XRD analysis of ceria coated silica nanoparticles prepared using precipitation reaction at different reaction pH.</ce:simple-para>
+               </ce:caption>
+               <ce:link id="lk0025" xlink:type="simple" xlink:href="pii:S0169433215022618/gr4" locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="fig0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="spar0035" view="all">(a) SEM image of ceria coated silica nanoparticles and (b) EDX spectrum of ceria coated silica nanoparticle.</ce:simple-para>
+               </ce:caption>
+               <ce:link id="lk0030" xlink:type="simple" xlink:href="pii:S0169433215022618/gr5" locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="fig0030">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="spar0040" view="all">XRD analysis of bare silica, ceria and ceria coated silica nanoparticles.</ce:simple-para>
+               </ce:caption>
+               <ce:link id="lk0035" xlink:type="simple" xlink:href="pii:S0169433215022618/gr6" locator="gr6"/>
+            </ce:figure>
+            <ce:figure id="fig0035">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="spar0045" view="all">FTIR spectra of synthesized silica, ceria and ceria coated silica particles.</ce:simple-para>
+               </ce:caption>
+               <ce:link id="lk0040" xlink:type="simple" xlink:href="pii:S0169433215022618/gr7" locator="gr7"/>
+            </ce:figure>
+            <ce:figure id="fig0040">
+               <ce:label>Fig. 8</ce:label>
+               <ce:caption id="cap0040">
+                  <ce:simple-para id="spar0050" view="all">TEM images of (a) ceria coated silica prepared at pH 4.5 and 95<ce:hsp sp="0.25"/>°C before and (b) after polishing. (c) and (d) respectively shows TEM images of ceria coated silica prepared at pH 10 and 95<ce:hsp sp="0.25"/>°C before and after polishing.</ce:simple-para>
+               </ce:caption>
+               <ce:link id="lk0045" xlink:type="simple" xlink:href="pii:S0169433215022618/gr8" locator="gr8"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title id="tit0005">Preparation of spherical ceria coated silica nanoparticle abrasives for CMP application</ce:title>
+            <ce:author-group id="aug0005">
+               <ce:author id="aut0005" author-id="S0169433215022618-9abf5e656c2e6fca5b68550162a0fe34">
+                  <ce:given-name>Lekha</ce:given-name>
+                  <ce:surname>Peedikakkandy</ce:surname>
+                  <ce:cross-ref id="crf0005" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0010" author-id="S0169433215022618-442fac2917baf9cf2321a6071886dcfe">
+                  <ce:given-name>Laksheswar</ce:given-name>
+                  <ce:surname>Kalita</ce:surname>
+                  <ce:cross-ref id="crf0010" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0015" author-id="S0169433215022618-a729dca505c493534f096ffc7bfd8e49">
+                  <ce:given-name>Pravin</ce:given-name>
+                  <ce:surname>Kavle</ce:surname>
+                  <ce:cross-ref id="crf0015" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0020" author-id="S0169433215022618-2a2a81a24a7eb7916d235b0edc8873b8">
+                  <ce:given-name>Ankur</ce:given-name>
+                  <ce:surname>Kadam</ce:surname>
+                  <ce:cross-ref id="crf0020" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0025" author-id="S0169433215022618-aefe02aa1a94c00ca30b3d5d6821fb07">
+                  <ce:given-name>Vikas</ce:given-name>
+                  <ce:surname>Gujar</ce:surname>
+                  <ce:cross-ref id="crf0025" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0030" author-id="S0169433215022618-38555372e3c24c0c56e7357118a8361b">
+                  <ce:given-name>Mahesh</ce:given-name>
+                  <ce:surname>Arcot</ce:surname>
+                  <ce:cross-ref id="crf0030" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0035" author-id="S0169433215022618-aaef2ebbeefbc04fdb5a7d01fc64a016">
+                  <ce:given-name>Parag</ce:given-name>
+                  <ce:surname>Bhargava</ce:surname>
+                  <ce:cross-ref id="crf0035" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0040" refid="cor0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0005">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Department of Metallurgical Engineering and Materials Science, IIT Bombay, Powai, Mumbai 400076, India</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Metallurgical Engineering and Materials Science, IIT Bombay</sa:organization>
+                     <sa:address-line>Powai</sa:address-line>
+                     <sa:city>Mumbai</sa:city>
+                     <sa:postal-code>400076</sa:postal-code>
+                     <sa:country>India</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0010">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Advanced Technology Group, Applied Materials India Pvt. Ltd., Department of Electrical Engineering, IIT Bombay, Powai, Mumbai 400076, India</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Advanced Technology Group, Applied Materials India Pvt. Ltd., Department of Electrical Engineering, IIT Bombay</sa:organization>
+                     <sa:address-line>Powai</sa:address-line>
+                     <sa:city>Mumbai</sa:city>
+                     <sa:postal-code>400076</sa:postal-code>
+                     <sa:country>India</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="17" month="6" year="2015"/>
+            <ce:date-revised day="13" month="9" year="2015"/>
+            <ce:date-accepted day="17" month="9" year="2015"/>
+            
+            <ce:abstract id="abs0010" view="all" class="author"><ce:abstract-sec id="abst0010" view="all">
+                  <ce:simple-para id="spar0010" view="all">This paper describes synthesis of spherical and highly mono-dispersed ceria coated silica nanoparticles of size ∼70–80<ce:hsp sp="0.25"/>nm for application as abrasive particles in Chemical Mechanical Planarization (CMP) process. Core silica nanoparticles were initially synthesized using micro-emulsion method. Ceria coating on these ultrafine and spherical silica nanoparticles was achieved using controlled chemical precipitation method. Study of various parameters influencing the formation of ceria coated silica nanoparticles of size less than 100<ce:hsp sp="0.25"/>nm has been undertaken and reported. Ceria coating over silica nanoparticles was varied by controlling the reaction temperature, pH and precursor concentrations. Characterization studies using X-ray diffraction, scanning electron microscopy, transmission electron microscopy and Energy Dispersive X-ray analysis show formation of crystalline CeO<ce:inf loc="post">2</ce:inf> coating of ∼10<ce:hsp sp="0.25"/>nm thickness over silica with spherical morphology and particle size &lt;100<ce:hsp sp="0.25"/>nm. Aqueous slurry of ceria coated silica abrasive was prepared and employed for polishing of oxide and nitride films on silicon substrates. Polished films were studied using ellipsometry and an improvement in SiO<ce:inf loc="post">2</ce:inf>:SiN selective removal rates up to 12 was observed using 1<ce:hsp sp="0.25"/>wt% ceria coated silica nanoparticles slurry.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords id="kwd0005" class="keyword" view="all">
+               <ce:section-title id="sect0015">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text>Chemical mechanical planarization</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text>Ceria</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text>Silica</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text>Nanoparticles</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec0005" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sect0020">Introduction</ce:section-title>
+                  <ce:para id="par0020" view="all">Chemical Mechanical Polishing (CMP) processes are being utilized to achieve global planarization of substrates with surface coatings of varying thickness ranging from nanometres to several micrometres, with desired selectivity and minimum defects <ce:cross-refs id="crfs0005" refid="bib0155 bib0160 bib0165">[1–3]</ce:cross-refs>. Initially, CMP was majorly used for planarization of silicon substrates but has also subsequently found application in polishing semiconductors, metals and polymer surfaces for technologies like integrated circuit (IC) manufacturing and micro-electromechanical systems (MEMS) <ce:cross-ref id="crf0045" refid="bib0160">[2]</ce:cross-ref>. In CMP, both chemical and mechanical properties of the abrasive particles play a crucial role in achieving high polishing rates. The chemical nature, size and shape of the abrasive particles used in polishing slurry play a crucial role in achieving the desired CMP results. Silica particles have been used extensively as an abrasive in polishing industry. Recently ceria has also been used as an abrasive because of its high chemical selectivity, in comparison to silica <ce:cross-refs id="crfs0010" refid="bib0170 bib0175 bib0180">[4–6]</ce:cross-refs>.</ce:para>
+                  <ce:para id="par0025" view="all">Employment of technologies like shallow trench isolation (STI), which isolates neighbouring semiconductor devices in an IC circuit, critically depends on the planarization capacity of CMP process <ce:cross-refs id="crfs0011" refid="bib0225 bib0230">[15,16]</ce:cross-refs>. In STI the CMP process is used to polish off the SiO<ce:inf loc="post">2</ce:inf> dielectric layer, down to the underlying nitride, and stops at the nitride layer. STI heavily depends on CMP for selective removal of SiO<ce:inf loc="post">2</ce:inf> over SiN layer. Towards this end, CMP slurry must have high selectivity to oxide with respect to the nitride, and should leave the surface, planar and defect-free <ce:cross-ref id="crf0050" refid="bib0175">[5]</ce:cross-ref>. Cook et al. estimated that one SiO<ce:inf loc="post">2</ce:inf> molecule is removed for every twenty-four collisions between ceria abrasive and silica substrate compare to 500 million collisions required in the case of silica abrasive. Ceria slurries, selective polishing of silicon oxide over silicon nitride films and higher removal rates is explained based on ceria's inherently superior chemical selectivity and higher polishing rates, compared to silica abrasive particles <ce:cross-refs id="crfs0015" refid="bib0175 bib0180 bib0235 bib0240 bib0245">[5,6,17–19]</ce:cross-refs>.</ce:para>
+                  <ce:para id="par0030" view="all">In CMP, mono-dispersity and morphology of abrasive particles are identified as important factors which affect the polishing rates <ce:cross-refs id="crfs0020" refid="bib0175 bib0180 bib0185 bib0190 bib0195 bib0200 bib0205 bib0220">[5–11,14]</ce:cross-refs>. Some of the significant and cost effective methods for synthesis of abrasive particles including ceria are solvo-thermal method, sol–gel method, self-assembly, electrochemical method and micro-emulsion method <ce:cross-ref id="crf0055" refid="bib0170">[4]</ce:cross-ref>. However, mono-dispersity and morphology control of larger ceria particles remains a challenge since particle growth of ceria is difficult to control <ce:cross-refs id="crfs0025" refid="bib0170 bib0210">[4,12]</ce:cross-refs>. Ceria coated silica nanoparticle structures are identified as a successful approach for controlling the size and morphology of ceria abrasive particles <ce:cross-refs id="crfs0030" refid="bib0190 bib0250 bib0255 bib0260 bib0265 bib0270">[8,20–24]</ce:cross-refs>. In this study we investigate synthesis of less than 100<ce:hsp sp="0.25"/>nm pseudo ceria particles by undertaking coating of fine ceria particles over coarser silica.</ce:para>
+                  <ce:para id="par0035" view="all">Synthesis of ceria coated silica nanoparticle enables modulating selectivity of the CMP process to tap into potential Shallow Trench Isolation (STI) market <ce:cross-refs id="crfs0035" refid="bib0275 bib0280">[25,26]</ce:cross-refs>. The presently available/reported literature and information, on properties of ceria in CMP is minimal. This paper demonstrates the synthesis and study of various parameters influencing the formation of ceria coated silica nanoparticles of size less than 100<ce:hsp sp="0.25"/>nm. CMP abrasive slurries prepared using synthesized ceria coated silica nanoparticles were used for studying SiO<ce:inf loc="post">2</ce:inf>:SiN polishing selectivity.</ce:para>
+               </ce:section>
+               <ce:section id="sec0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sect0025">Experimental</ce:section-title>
+                  <ce:section id="sec0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="sect0030">Preparation of bare-silica nanoparticles</ce:section-title>
+                     <ce:para id="par0040" view="all">A popular and widely reported method for silica nanoparticle synthesis is Stober method <ce:cross-ref id="crf0060" refid="bib0285">[27]</ce:cross-ref>. In Stober process, silicon alkoxides are hydrolysed to silanols, which further undergoes condensation reaction to form silica nanoparticles. There are various modifications of this method reported in the literature <ce:cross-refs id="crfs0040" refid="bib0285 bib0290">[27,28]</ce:cross-refs>. Both sol–gel and microemulsion routes were used to synthesize mono-dispersed and spherical silica nanoparticles of size less than 100<ce:hsp sp="0.25"/>nm. It was observed that for particles less than 100<ce:hsp sp="0.25"/>nm, using sol–gel method, it was difficult to control size and shape of the silica nano particles. The resulting nanoparticles were highly agglomerated with necking between the individual nanoparticles as shown in <ce:cross-ref id="crf0065" refid="fig0005">Fig. 1</ce:cross-ref>(a)<ce:float-anchor refid="fig0005"/> and (c). On the other hand, using microemulsion method the particle size and shape were controllable. The well separated nanoparticles are shown in <ce:cross-ref id="crf0070" refid="fig0005">Fig. 1</ce:cross-ref>(b) and (d). In microemulsion method, the surfactant molecules dissolved in organic solvents forming spherical micelles. Silica nanoparticles are grown, inside these micellar micro-cavities, by controlled addition of silicon alkoxides and catalyst <ce:cross-refs id="crfs0045" refid="bib0295 bib0300">[29,30]</ce:cross-refs>. <ce:cross-ref id="crf0075" refid="fig0005">Fig. 1</ce:cross-ref> shows a comparison of particles synthesized using sol–gel and micro-emulsion methods.</ce:para>
+                     <ce:para id="par0045" view="all">In micro-emulsion method tetraethyl orthosilicate (TEOS) was used as a source of silica, Triton X-100 was used as surfactant, cyclohexane was the organic phase and hexanol was used as co-surfactant <ce:cross-ref id="crf0080" refid="bib0295">[29]</ce:cross-ref>. Addition of a co-surfactant further stabilizes the microemulsion system as it bridges the oil and water interface. 25% NH<ce:inf loc="post">4</ce:inf>OH was used as a catalyst for the reaction. For the synthesis, DI water and ammonia was added to a mixture of Triton X-100 and cyclohexane in hexanol under sonication followed by drop wise addition of TEOS. The reactants were mixed for 24<ce:hsp sp="0.25"/>h during which TEOS was hydrolysed by NH<ce:inf loc="post">4</ce:inf>OH to obtain silica particles. The use of surfactant helps in stabilizing the emulsion and controls the morphology of the silica particles formed. Upon completion of reaction, ethanol was added to the reaction mixture to break the micro-emulsion and release silica nanoparticles. Further these SiO<ce:inf loc="post">2</ce:inf> nanoparticles were separated using centrifugation method. Collected particles were washed twice with ethanol and DI water. These particles were heated at 250<ce:hsp sp="0.25"/>°C for 4<ce:hsp sp="0.25"/>h to remove the surfactant molecules from the surface before they were further used for ceria coating.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="sect0035">Preparation of ceria coated silica particles</ce:section-title>
+                     <ce:para id="par0050" view="all">Mono-dispersed silica nanoparticles synthesized using micro-emulsion methods were used as a core particle for further coating with CeO<ce:inf loc="post">2</ce:inf> particles. Ce(NO<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">3</ce:inf> was used as the source material to precipitate ceria over silica nanoparticles <ce:cross-ref id="crf0085" refid="bib0170">[4]</ce:cross-ref>. As a first step towards coating, pre-treated SiO<ce:inf loc="post">2</ce:inf> nanoparticle suspension in DI water was ball milled for an hour to achieve de-agglomeration and dispersion of SiO<ce:inf loc="post">2</ce:inf> nanoparticles. Cerium nitrate solution was added to the above dispersion under continuous stirring followed by drop wise addition of NH<ce:inf loc="post">4</ce:inf>OH solution. Stirring was continued beyond completion of NH<ce:inf loc="post">4</ce:inf>OH addition for the next 12<ce:hsp sp="0.25"/>h for the reaction to keep progressing. In order to achieve complete coating of ceria over silica core particles the pH (4–10) and temperature (50<ce:hsp sp="0.25"/>°C–95<ce:hsp sp="0.25"/>°C) of the ceria precipitation reaction was varied. Ceria coated silica nanoparticles were separated by centrifugation followed by washing repeatedly with de-ionized water to remove any possible ionic remnants.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0025" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="sect0040">Polishing experiments</ce:section-title>
+                     <ce:para id="par0055" view="all">Polishing tests were carried out on Ecomet 4+ Automet polishing machine manufactured by Buehler using groove pads made of polyurethane. The rotation speed of the pad was set at 80<ce:hsp sp="0.25"/>rpm with an applied downward load of 15<ce:hsp sp="0.25"/>lbs and a constant slurry flow rate of 100<ce:hsp sp="0.25"/>ml/min was maintained. The polishing slurries were prepared by dispersing silica nanoparticles, ceria nanoparticles and ceria coated silica nanoparticles separately in aqueous medium with additives and was mixed on a roller miller. Film thickness reduction of polished Si wafers was determined using an optical ellipsometer (JOBIN-YVON SPEX). Structural analysis of the ceria coated silica nanoparticles was carried out using TEM (Philips CM 200<ce:hsp sp="0.25"/>keV) and it was compared to particles used in preparation of commercial slurries. X-ray diffractometer (XRD; Bruker D8-advance, Karlsruhe, Germany) was used to carry out the phase analysis of the nanoparticles. Synthesized particles were characterized by FTIR to study the coating and surface functional groups. Surface charge of these particles was analyzed using zeta potential measurements.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec0030" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sect0045">Results and discussions</ce:section-title>
+                  <ce:section id="sec0035" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="sect0050">Properties of silica and ceria coated silica particles</ce:section-title>
+                     <ce:para id="par0060" view="all">
+                        <ce:cross-ref id="crf0090" refid="fig0010">Fig. 2</ce:cross-ref>(a)<ce:float-anchor refid="fig0010"/> shows TEM image of silica particles separated from commercial CMP slurry, and is used for comparison in this study. <ce:cross-ref id="crf0095" refid="fig0010">Fig. 2</ce:cross-ref>(b) shows spherical and mono-dispersed silica particles synthesized through micro-emulsion method. The size and shape of silica nanoparticles was controlled by the size and shape of micro-droplets of emulsion by varying the NH<ce:inf loc="post">4</ce:inf>OH concentration and use of co-surfactant hexanol. <ce:cross-ref id="crf0100" refid="fig0010">Fig. 2</ce:cross-ref>(c) and (d) shows TEM images of ceria particles extracted from a commercial slurry and ceria particles synthesized using precipitation method respectively.</ce:para>
+                     <ce:para id="par0065" view="all">During precipitation reaction of ceria on silica particles, pH and temperatures was varied, to obtain different extents of ceria coating on silica. The precipitation of ceria from cerium nitrate depends on the reaction pH. Beyond pH 6, the nitrates undergo an exchange reaction with hydroxyl ion as shown in Eq. <ce:cross-ref id="crf0105" refid="eq0005">(1)</ce:cross-ref>. pH of the precipitation reaction was controlled, by varying the amount of NH<ce:inf loc="post">4</ce:inf>OH, and it was observed that at a lower, acidic pH (3–5), ceria forms a partial coating on silica at room temperature as shown in <ce:cross-ref id="crf0110" refid="fig0015">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="fig0015"/>(a). For acidic pH, increasing the reaction temperature from room temperature to 95<ce:hsp sp="0.25"/>°C also resulted in partial coating of ceria on silica particles as in <ce:cross-ref id="crf0115" refid="fig0015">Fig. 3</ce:cross-ref>(b).<ce:display>
+                           <ce:formula id="eq0005">
+                              <ce:label>(1)</ce:label>
+                              <ce:chem>Ce<ce:hsp sp="0.25"/>−<ce:hsp sp="0.25"/>O<ce:hsp sp="0.25"/>−<ce:hsp sp="0.25"/>NO<ce:inf loc="post">2</ce:inf>
+                                 <ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>OH<ce:sup loc="post">−</ce:sup>
+                                 <ce:hsp sp="0.25"/>→<ce:hsp sp="0.25"/>Ce<ce:hsp sp="0.25"/>−<ce:hsp sp="0.25"/>OH<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>NO<ce:inf loc="post">3</ce:inf>
+                                 <ce:sup loc="post">−</ce:sup>
+                              </ce:chem>
+                           </ce:formula>
+                        </ce:display>
+                     </ce:para>
+                     <ce:para id="par0070" view="all">Full coating of silica particles by ceria nanoparticles as shown in <ce:cross-ref id="crf0120" refid="fig0015">Fig. 3</ce:cross-ref>(c) and (d) was achieved by increasing the pH of precipitation reaction to a basic pH<ce:hsp sp="0.25"/>&gt;<ce:hsp sp="0.25"/>10 and reaction temperature of 95<ce:hsp sp="0.25"/>°C. This can be explained based on the electrostatic attraction between ionic precursor of ceria and surface charge on silica particles. At a basic pH, the surface of silica particles acquire negative charge and the strong electrostatic attraction between negatively charged silica surface and the positively charged ceria precursor leads to better coating of ceria on silica <ce:cross-ref id="crf0125" refid="bib0170">[4]</ce:cross-ref>. At an acidic pH, the poor coverage of ceria on silica particles is observed using SEM imaging shown in <ce:cross-ref id="crf0130" refid="fig0015">Fig. 3</ce:cross-ref>(a) and (b) and XRD analysis as shown in <ce:cross-ref id="crf0135" refid="fig0020">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="fig0020"/>. <ce:cross-ref id="crf0140" refid="fig0015">Fig. 3</ce:cross-ref>(c) and (d) represents the batch of particles from the optimized reaction process in which ceria forms a complete coating on silica particles. The pH of the process was maintained at 10 for effective coating of ceria over silica. A post annealing of ceria coated silica particles (reaction conditions: pH<ce:hsp sp="0.25"/>&gt;<ce:hsp sp="0.25"/>10, 95<ce:hsp sp="0.25"/>°C temperature) at 150<ce:hsp sp="0.25"/>°C was undertaken for 2<ce:hsp sp="0.25"/>h to enhance the adhesion of ceria on to the silica core. The coated particle size was determined to be ∼70–80<ce:hsp sp="0.25"/>nm through SEM and TEM analysis. EDX analysis as shown in <ce:cross-ref id="crf0145" refid="fig0025">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="fig0025"/> and XRD analysis in <ce:cross-ref id="crf0150" refid="fig0030">Fig. 6</ce:cross-ref>
+                        <ce:float-anchor refid="fig0030"/> confirm crystalline ceria coating over amorphous silica nanoparticles at pH 10. Zeta potential studies of bare silica (−31<ce:hsp sp="0.25"/>mV), ceria (+50<ce:hsp sp="0.25"/>mV) and ceria coated silica nanoparticle(+13.8<ce:hsp sp="0.25"/>mV) dispersion in aqueous media shows that the isoelectric point (IEP) for ceria coated silica particles approaches that of ceria, emphasizing stable coated nanoparticle structure formation by precipitation method <ce:cross-ref id="crf0155" refid="bib0170">[4]</ce:cross-ref>. FTIR spectra of the synthesized samples of bare silica, ceria and ceria coated silica are provided in <ce:cross-ref id="crf0160" refid="fig0035">Fig. 7</ce:cross-ref>
+                        <ce:float-anchor refid="fig0035"/>. For bare silica, the band at 1085<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> is assigned to the asymmetrical stretching vibrations of Si–O–Si and the band at 965<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup>due to the Si–O stretching vibrations. For bare ceria, weak band at 533<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> corresponds to the Ce–O stretching. The broad and intense peaks for all samples at 3400<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup>and 1630<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> corresponds to the O–H stretching and scissor bending due to water molecules/hydroxyl groups (Si–OH, Ce–OH) respectively. The characteristic band of Si–O–Ce at 971<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> in ceria coated silica overlaps with the 965<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> band due to Si–OH group.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0040" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="sect0055">Polishing of SiO<ce:inf loc="post">2</ce:inf> and SiN wafers</ce:section-title>
+                     <ce:para id="par0075" view="all">Polishing experiments were carried out on thermally grown silicon oxide and nitride films on silicon wafers (Noel Technologies, Campbell, CA) and were polished on a Buehler Phoenix-beta polisher using IC-1400K Groove pads made of polyurethane (Rodel Inc., Phoenix, AZ). Before each experiment, the polishing pad was conditioned for 1<ce:hsp sp="0.25"/>min with a diamond grit conditioner using de-ionized water. The aqueous polishing slurry (1<ce:hsp sp="0.25"/>wt%) was sonicated for 30<ce:hsp sp="0.25"/>min and was placed on a roller miller to maintain good dispersion. The pH of slurry before polishing was measured and maintained at pH-5 at which the silicon oxide wafer and the ceria particles will be oppositely charged and thus improving interaction between wafers and particles. For pH<ce:hsp sp="0.25"/>&gt;<ce:hsp sp="0.25"/>5 the particle settling rate was found to be higher and ceria coated silica slurry was found to be unstable at basic pH. This observation is similar to that of bare ceria particle slurry showing increased particle agglomeration and reduced removal rates and stability for ceria slurry at basic pH (pH<ce:hsp sp="0.25"/>&gt;<ce:hsp sp="0.25"/>7) <ce:cross-refs id="crfs0050" refid="bib0155 bib0205">[1,11]</ce:cross-refs>.</ce:para>
+                     <ce:para id="par0080" view="all">The polishing rates for SiO<ce:inf loc="post">2</ce:inf> and SiN wafers were determined from the differences of the film thicknesses measured by ellipsometry technique <ce:cross-ref id="crf0165" refid="bib0215">[13]</ce:cross-ref>. Selective polishing ratio of 12 was observed for SiO<ce:inf loc="post">2</ce:inf>:SiN wafers using ceria coated silica particles prepared under different conditions. The polishing mechanism is explained as follows. When ceria abrasive particles come in contact with the silica surface, a chemical bond forms between the ceria particle and silica surface as shown in Eq. <ce:cross-ref id="crf0170" refid="eq0010">(2)</ce:cross-ref>. Further, strained Ce–O–Si bond ruptures at the weaker Si–O bond due to the mechanical motion during CMP and is removed as silicic acid (Si(OH)<ce:inf loc="post">4</ce:inf>) in aqueous slurry.<ce:display>
+                           <ce:formula id="eq0010">
+                              <ce:label>(2)</ce:label>
+                              <ce:chem>SiO<ce:sup loc="post">−</ce:sup>
+                                 <ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>Ce<ce:hsp sp="0.25"/>−<ce:hsp sp="0.25"/>OH<ce:hsp sp="0.25"/>→<ce:hsp sp="0.25"/>Ce<ce:hsp sp="0.25"/>−<ce:hsp sp="0.25"/>O<ce:hsp sp="0.25"/>−Si<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>+OH<ce:sup loc="post">−</ce:sup>
+                              </ce:chem>
+                           </ce:formula>
+                        </ce:display>
+                     </ce:para>
+                     <ce:para id="par0085" view="all">A study of particles collected from used slurries after the polishing experiments revealed that ceria coated over silica at pH 10 and 95<ce:hsp sp="0.25"/>°C reaction temperature had better adherence with core-silica. This is indicated by almost no change in XRD peaks and structure observed under TEM as shown in <ce:cross-ref id="crf0175" refid="fig0040">Fig. 8</ce:cross-ref>
+                        <ce:float-anchor refid="fig0040"/>. <ce:cross-ref id="crf0180" refid="fig0040">Fig. 8</ce:cross-ref>(a) and (b) respectively shows ceria coated silica prepared at pH 4.5 before and after polishing. It was observed that for particles prepared at pH 4.5, ceria coating was removed from the silica surface after the polishing experiment. Whereas ceria coated silica nanoparticles prepared at pH 10 before polishing as shown in <ce:cross-ref id="crf0185" refid="fig0040">Fig. 8</ce:cross-ref>(c) and after polishing as shown in <ce:cross-ref id="crf0190" refid="fig0040">Fig. 8</ce:cross-ref>(d) show better adherence of ceria on silica core.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec0045" role="conclusion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sect0060">Conclusions</ce:section-title>
+                  <ce:para id="par0090" view="all">This study demonstrates synthesis of highly spherical and mono-dispersed, ceria coated silica nanoparticles for application as abrasive particles in selective CMP. Coating of ceria over silica was done using precipitation method. Precipitation reactions were carried out by varying the pH and reaction temperature. A uniform and adherent coating of ceria over silica was obtained for reaction carried out at 95<ce:hsp sp="0.25"/>°C at pH 10. Coating of ceria over silica and dispersion properties were studied using TEM, EDX, XRD and zeta-potential analyses, and the results show formation of stable and dispersed ceria coated silica nanoparticles of size less than 100<ce:hsp sp="0.25"/>nm. These uniform and spherical nanoparticles structures are excellent substitutes for coarser ceria abrasive particles. When used as an abrasive material in polishing slurry, these less than 100<ce:hsp sp="0.25"/>nm nanoparticles particles considerably reduce the solid loading in the formulated CMP slurry. Polishing results achieved so far shows improvement in selectivity between SiO<ce:inf loc="post">2</ce:inf> and SiN wafers using 1<ce:hsp sp="0.25"/>wt% nanoparticles particle slurry with maximum selective removal rate of 12.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0005" view="all">
+               <ce:section-title id="sect0070">Acknowledgements</ce:section-title>
+               <ce:para id="par0100" view="all">This work was supported by Applied Materials Inc. through the Annual Sponsored Projects Program. The author acknowledges Dr. Rajeev Bajaj and Dr. Uday Mahajan from Applied Materials Inc. for providing the reference silica and ceria slurry and all the technical discussions and guidance during the project. Authors thank SAIF, IIT-Bombay for TEM images.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bibl0005" view="all">
+               <ce:section-title id="sect0075">References</ce:section-title>
+               <ce:bibliography-sec id="bibs0005" view="all">
+                  <ce:bib-reference id="bib0155">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sbref0155">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.V.</ce:given-name>
+                                 <ce:surname>Babu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Matijević</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The use of monodispersed colloids in the polishing of copper and tantalum</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Colloid Interface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>261</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>55</sb:first-page>
+                              <sb:last-page>64</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0160">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sbref0160">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Merricks</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Santora</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Her</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Kraft</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Frink</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Goodman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Hofmann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Zedwick</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>Proceedings of the ISTC</sb:maintitle>
+                              </sb:title>
+                              <sb:conference>Shanghai, China</sb:conference>
+                              <sb:date>2007</sb:date>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>332</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0165">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sbref0165">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Robinson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>M.</ce:given-name>
+                                    <ce:surname>Oliver</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>CMP of Semiconductor Materials</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2004</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer-Verlag</sb:name>
+                                 <sb:location>Berlin</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0170">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sbref0170">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.V.</ce:given-name>
+                                 <ce:surname>Babu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Matijević</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical mechanical polishing of thermal oxide films using silica particles coated with ceria</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2744</sb:first-page>
+                              <sb:last-page>2749</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0175">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sbref0175">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.D.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.S.</ce:given-name>
+                                 <ce:surname>Hwang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.M.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.K.</ce:given-name>
+                                 <ce:surname>Rhee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Nam</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical mechanical polishing of shallow trench isolation using the ceria-based high selectivity slurry for sub-0.18<ce:hsp sp="0.25"/>μm complementary metal–oxide–semiconductor fabrication</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Vac. Sci. Technol. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>918</sb:first-page>
+                              <sb:last-page>923</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0180">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sbref0180">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.M.</ce:given-name>
+                                 <ce:surname>Cook</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical process in glass polishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Non-Cryst. Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>120</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>152</sb:first-page>
+                              <sb:last-page>171</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0185">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sbref0185">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Jindal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Babu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.V.</ce:given-name>
+                                 <ce:surname>Hegde</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical mechanical polishing of dielectric films using mixed abrasive slurries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>150</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>314</sb:first-page>
+                              <sb:last-page>318</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0190">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sbref0190">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.H.</ce:given-name>
+                                 <ce:surname>Oh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Nho</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.B.</ce:given-name>
+                                 <ce:surname>Cho</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.K.</ce:given-name>
+                                 <ce:surname>Singh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Polishing behaviours of ceria abrasives on silicon dioxide and silicon nitride CMP</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Powder Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>206</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>239</sb:first-page>
+                              <sb:last-page>245</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0195">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sbref0195">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.W.</ce:given-name>
+                                 <ce:surname>Yoon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.P.T.</ce:given-name>
+                                 <ce:surname>Katoh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Influence of physical characteristics of ceria particles on polishing rate of chemical mechanical planarization for shallow trench isolation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Jpn. J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>43</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7427</sb:first-page>
+                              <sb:last-page>7433</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0200">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sbref0200">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Tanikella</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Reported at the 5th International Symposium on CMP</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2000</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Lake Placid</sb:name>
+                                 <sb:location>NewYork</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0205">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sbref0205">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Ryuzaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Hoshi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Machii</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Koyama</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Sakurai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Ashizawa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical mechanical polishing with nanocolloidal ceria slurry for low-damage planarization of dielectric films</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Jpn. J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>036502</sb:first-page>
+                              <sb:last-page>036507</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0210">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sbref0210">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Qiu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Synthesis of CeO<ce:inf loc="post">2</ce:inf>-coated SiO<ce:inf loc="post">2</ce:inf> nanoparticle and dispersion stability of its suspension</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>110</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>128</sb:first-page>
+                              <sb:last-page>135</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0215">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sbref0215">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.S.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.B.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Synthesis of silica-coated ceria particles for STI-CMP in a single step by flame spray pyrolysis with an emulsion</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>158</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>170</sb:first-page>
+                              <sb:last-page>174</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0220">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sbref0220">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Lei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Chu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Xiao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Tu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Qiu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Preparation of silica/ceria nano composite abrasive and its CMP behaviour on hard disk substrate</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Microelectron. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1747</sb:first-page>
+                              <sb:last-page>1750</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0225">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sbref0225">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.I.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hwang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Jeong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Investigation of polishing characteristics of shallow trench isolation chemical mechanical planarization with different types of slurries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Microelectron. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>84</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>626</sb:first-page>
+                              <sb:last-page>630</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0230">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sbref0230">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.S.</ce:given-name>
+                                 <ce:surname>Nam</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.R.</ce:given-name>
+                                 <ce:surname>Ahn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.H.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.W.</ce:given-name>
+                                 <ce:surname>Jung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.Y.</ce:given-name>
+                                 <ce:surname>Soh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.J.</ce:given-name>
+                                 <ce:surname>Myeong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.S.</ce:given-name>
+                                 <ce:surname>Hahn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.S.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. IEEE Pac. Rim Conf. Commun. Comput. Signal Process.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0235">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sbref0235">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Tago</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Tashiro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Hashimoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Wakabayashi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kishida</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Synthesis and optical properties of SiO<ce:inf loc="post">2</ce:inf>-coated CeO<ce:inf loc="post">2</ce:inf> nanoparticles</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Nanopart. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>55</sb:first-page>
+                              <sb:last-page>60</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0240">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sbref0240">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Cui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Hong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>You</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Coating of Y<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf>:Eu<ce:sup loc="post">3+</ce:sup> particles with alumina by a humid solid state reaction at room temperature</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Colloid Interface Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>252</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>184</sb:first-page>
+                              <sb:last-page>187</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0245">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sbref0245">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.S.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Analysis on uniform particle coating by the rotating cylindrical PCVD reactor</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Aerosol Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1532</sb:first-page>
+                              <sb:last-page>1544</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0250">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sbref0250">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.I.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Loading effect of silica based and ceria based slurry</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>Proceedings of 5th Chemical Mechanical Planarization for Multilevel Interconnection Conference</sb:maintitle>
+                              </sb:title>
+                              <sb:conference>Fremont</sb:conference>
+                              <sb:date>2000</sb:date>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>163</sb:first-page>
+                              <sb:last-page>169</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0255">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sbref0255">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.G.</ce:given-name>
+                                 <ce:surname>Kang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kanemoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Paik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of calcination and milling process conditions for ceria slurry on shallow-trench-isolation chemical–mechanical polishing performance</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Jpn. J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7671</sb:first-page>
+                              <sb:last-page>7677</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0260">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sbref0260">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.S.</ce:given-name>
+                                 <ce:surname>Lim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Ahn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.S.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Shin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The effect of CeO<ce:inf loc="post">2</ce:inf> abrasive size on dishing and step height reduction of silicon oxide film in STI-CMP</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surf. Coat. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>200</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1751</sb:first-page>
+                              <sb:last-page>1754</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0265">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sbref0265">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.K.T.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Study of polishing characteristics of monodisperse ceria abrasive in chemical mechanical planarization</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>157</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>235</sb:first-page>
+                              <sb:last-page>240</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0270">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sbref0270">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.B.</ce:given-name>
+                                 <ce:surname>Zantye</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.K.</ce:given-name>
+                                 <ce:surname>Sikdar</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical mechanical planarization for microelectronics applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Sci. Eng. R</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>45</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>89</sb:first-page>
+                              <sb:last-page>220</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0275">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sbref0275">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Hoshino</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Kurata</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Terasaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Susa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mechanism of polishing of SiO<ce:inf loc="post">2</ce:inf> films by CeO<ce:inf loc="post">2</ce:inf> particles</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Non-cryst. Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>283</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>129</sb:first-page>
+                              <sb:last-page>136</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0280">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="sbref0280">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.T.</ce:given-name>
+                                 <ce:surname>Abiade</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Yeruva</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.M.</ce:given-name>
+                                 <ce:surname>Moudgil</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.K.</ce:given-name>
+                                 <ce:surname>Singh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A tribochemical study of ceria–silica interactions for CMP</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>153</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1001</sb:first-page>
+                              <sb:last-page>1004</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0285">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="sbref0285">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Nozawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Gailhanou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Raison</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Panizza</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Ushiki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Sellier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Delville</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.H.</ce:given-name>
+                                 <ce:surname>Delville</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Smart control of monodispersed Stober silica particles: effect of reactant addition rate on growth process</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Langmuir</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1524</sb:first-page>
+                              <sb:last-page>1530</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0290">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="sbref0290">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.A.</ce:given-name>
+                                 <ce:surname>Rahman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Padavettan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Synthesis of silica nanoparticles by sol–gel: size dependent properties, surface modification, and applications in silica-polymer nanocomposites – a review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Nanomater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>427-423</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0295">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="sbref0295">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.P.</ce:given-name>
+                                 <ce:surname>Bagwe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.R.</ce:given-name>
+                                 <ce:surname>Hilliard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Tan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Optimization of dye-doped silica nanoparticles prepared using a reverse microemulsion method</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Langmuir</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8336</sb:first-page>
+                              <sb:last-page>8342</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0300">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference id="sbref0300">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Jin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Lohstreter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.T.</ce:given-name>
+                                 <ce:surname>Pierce</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Parisien</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.W.C.</ce:given-name>
+                                 <ce:surname>Hall</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.X.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Silica nanoparticles with continuously tunable sizes: synthesis and size effects on cellular contrast imaging</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4411</sb:first-page>
+                              <sb:last-page>4419</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

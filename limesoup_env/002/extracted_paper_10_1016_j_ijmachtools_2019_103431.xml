@@ -1,0 +1,2451 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0890695519303748</prism:url><dc:identifier>doi:10.1016/j.ijmachtools.2019.103431</dc:identifier><eid>1-s2.0-S0890695519303748</eid><prism:doi>10.1016/j.ijmachtools.2019.103431</prism:doi><pii>S0890-6955(19)30374-8</pii><dc:title>Highly efficient planarization of sliced 4H–SiC (0001) wafer by slurryless electrochemical mechanical polishing </dc:title><prism:publicationName>International Journal of Machine Tools and Manufacture</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>08906955</prism:issn><prism:volume>144</prism:volume><prism:startingPage>103431</prism:startingPage><prism:pageRange>103431</prism:pageRange><articleNumber>103431</articleNumber><dc:format>application/xml</dc:format><prism:coverDate>2019-09-30</prism:coverDate><prism:coverDisplayDate>September 2019</prism:coverDisplayDate><prism:copyright>© 2019 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Yang, Xu</dc:creator><dc:creator>Yang, Xiaozhe</dc:creator><dc:creator>Kawai, Kentaro</dc:creator><dc:creator>Arima, Kenta</dc:creator><dc:creator>Yamamura, Kazuya</dc:creator><dc:description>
+                  Slurryless electrochemical mechanical polishing (ECMP) was proposed and directly applied to sliced 4H–SiC (0001) surfaces. After ECMP for 2 h at a current density of 10 mA/cm2 in sodium chloride aqueous solution using a #8000 ceria vitrified grinding stone, a scratch-free mirror surface was obtained, and the Sq roughness of the SiC surface decreased from 286 to 1.352 nm. The material removal rate was about 23 μm/h, and the saw marks and surface damage on the sliced surface were completely removed. Raman spectroscopy and X-ray photoelectron spectroscopy showed no subsurface damage or residual oxide on the ECMP-processed surface, and the quality of the surface was much higher than that obtained by conventional lapping. The results of this study suggest that the manufacturing process for SiC can be simplified by applying slurryless ECMP with a high material removal rate and low cost.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Silicon carbide</dcterms:subject><dcterms:subject>Slurryless</dcterms:subject><dcterms:subject>Electrochemical mechanical polishing</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0890695519303748" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0890695519303748" rel="scidir"/></coredata><objects><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="166" height="163" size="18875">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr10" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="91" size="11574">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr10.sml?httpAccept=%2A%2F%2A</object><object ref="gr11" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="96" size="21641">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr11.sml?httpAccept=%2A%2F%2A</object><object ref="gr12" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="129" size="14074">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr12.sml?httpAccept=%2A%2F%2A</object><object ref="gr13" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="55" size="10668">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr13.sml?httpAccept=%2A%2F%2A</object><object ref="gr14" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="67" size="16194">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr14.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="120" height="163" size="21706">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="102" size="15830">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="185" height="164" size="27980">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="94" size="24940">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="128" size="19359">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="96" size="18980">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr8" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="93" size="24963">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr8.sml?httpAccept=%2A%2F%2A</object><object ref="gr9" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="137" height="164" size="21361">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr9.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="387" height="381" size="70653">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr10" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="387" height="161" size="32332">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr10.jpg?httpAccept=%2A%2F%2A</object><object ref="gr11" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="387" height="169" size="55569">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr11.jpg?httpAccept=%2A%2F%2A</object><object ref="gr12" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="387" height="227" size="43793">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr12.jpg?httpAccept=%2A%2F%2A</object><object ref="gr13" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="756" height="191" size="46310">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr13.jpg?httpAccept=%2A%2F%2A</object><object ref="gr14" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="713" height="218" size="66480">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr14.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="387" height="526" size="105867">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="387" height="181" size="46323">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="387" height="343" size="87544">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="387" height="166" size="54048">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="387" height="226" size="56858">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="387" height="169" size="41734">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="387" height="165" size="55456">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr8.jpg?httpAccept=%2A%2F%2A</object><object ref="gr9" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="387" height="464" size="92313">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr9.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1713" height="1687" size="364056">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr10" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1713" height="714" size="136282">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr10_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr11" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1713" height="749" size="369454">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr11_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr12" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1713" height="1006" size="232425">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr12_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr13" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3346" height="847" size="217803">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr13_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr14" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3158" height="966" size="502016">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr14_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1713" height="2330" size="850294">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1714" height="801" size="175604">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1713" height="1517" size="600400">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1713" height="733" size="293320">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1713" height="1000" size="280881">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr6_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1713" height="748" size="194784">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr7_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1713" height="731" size="371312">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr8_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr9" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1713" height="2053" size="542975">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-gr9_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="35798">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-si1.svg?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="22976">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-si2.svg?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="59247">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-si3.svg?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="1235006">https://api.elsevier.com/content/object/eid/1-s2.0-S0890695519303748-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85070489114</scopus-id><scopus-eid>2-s2.0-85070489114</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85070489114" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271474</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291787</xocs:ssid>
+         <xocs:ssid type="subj">291885</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>International Journal of Machine Tools and Manufacture</xocs:srctitle>
+      <xocs:normalized-srctitle>INTERNATIONALJOURNALMACHINETOOLSMANUFACTURE</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20190706">2019-07-06</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20190706">2019-07-06</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20190812">2019-08-12</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20190812">2019-08-12</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2019-08-15T14:56:33</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0890695519303748</xocs:eid>
+      <xocs:pii-formatted>S0890-6955(19)30374-8</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0890695519303748</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.ijmachtools.2019.103431</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0890695519X00073</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20200113">2020-01-13T01:11:49.93266Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20190901</xocs:date-search-begin>
+      <xocs:date-search-end>20190930</xocs:date-search-end>
+      <xocs:year-nav>2019</xocs:year-nav>
+      <xocs:indexeddate epoch="1562397644">2019-07-06T07:20:44.495548Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor grantsponsorid highlightsabst primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0890-6955</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>08906955</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>144</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>144</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 144</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>8</xocs:sort-order>
+      <xocs:first-fp>103431</xocs:first-fp>
+      <xocs:article-number>103431</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>103431</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201909</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>September 2019</xocs:cover-date-text>
+      <xocs:cover-date-start>2019-09-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2019-09-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2019</xocs:cover-date-year>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2019 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>HIGHLYEFFICIENTPLANARIZATIONSLICED4HSIC0001WAFERBYSLURRYLESSELECTROCHEMICALMECHANICALPOLISHING</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>YANG</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>X</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental section</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Polishing properties of different grinding stones</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>ECMP of sliced 4H–SiC (0001) surfaces</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Evaluation of SSD of SiC surface processed by ECMP</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-normalized-surname>EDDY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1398</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1400</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-normalized-surname>MILLAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2155</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2163</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-normalized-surname>NEUDECK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>209647</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ELECTRICALIMPACTSICSTRUCTURALCRYSTALDEFECTSHIGHELECTRICFIELDDEVICES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-normalized-surname>OHMI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-first-fp>537</xocs:ref-first-fp>
+            <xocs:ref-last-lp>545</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-normalized-surname>AGARWAL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>698</xocs:ref-first-fp>
+            <xocs:ref-last-lp>710</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref6">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1417</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1426</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref7">
+            <xocs:ref-normalized-surname>LAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>205</xocs:ref-first-fp>
+            <xocs:ref-last-lp>211</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref8">
+            <xocs:ref-normalized-surname>AN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>831</xocs:ref-first-fp>
+            <xocs:ref-last-lp>834</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref9">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>481</xocs:ref-first-fp>
+            <xocs:ref-last-lp>486</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref10">
+            <xocs:ref-normalized-surname>DENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref11">
+            <xocs:ref-normalized-surname>MURATA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref12">
+            <xocs:ref-normalized-surname>OWMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>391</xocs:ref-first-fp>
+            <xocs:ref-last-lp>395</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref13">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref14">
+            <xocs:ref-normalized-surname>ZERR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>HARDMATERIALSULLMANNSENCYCLOPEDIAINDUSTRIALCHEMISTRY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref15">
+            <xocs:ref-normalized-surname>SHOREY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5194</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5204</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref16">
+            <xocs:ref-normalized-surname>BLANK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3109</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3114</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref17">
+            <xocs:ref-normalized-surname>QIAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2153</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2160</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref18">
+            <xocs:ref-normalized-surname>ABIADE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>G1001</xocs:ref-first-fp>
+            <xocs:ref-last-lp>G1004</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref19">
+            <xocs:ref-normalized-surname>COOK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>152</xocs:ref-first-fp>
+            <xocs:ref-last-lp>171</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref20">
+            <xocs:ref-normalized-surname>VANDROP</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3297</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3305</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref21">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>666</xocs:ref-first-fp>
+            <xocs:ref-last-lp>676</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref22">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2535</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2542</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref23">
+            <xocs:ref-normalized-surname>HELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>391</xocs:ref-first-fp>
+            <xocs:ref-last-lp>405</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref24">
+            <xocs:ref-normalized-surname>SHAFFER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1969</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref25">
+            <xocs:ref-normalized-surname>PEGOURIE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>335</xocs:ref-first-fp>
+            <xocs:ref-last-lp>339</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref26">
+            <xocs:ref-normalized-surname>SUGIYAMA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>YANGX2019X103431</xocs:refkey3>
+         <xocs:refkey4ai>YANGX2019X103431XX</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2021-08-12T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2021-08-12T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2019 Elsevier Ltd. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2019-07-06T05:59:29.555Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/nlp</xocs:funding-addon-type>
+         <xocs:funding-source-document source-document-type="pii">S0890695519303748</xocs:funding-source-document>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Tool Engineering Foundation</xocs:funding-agency-matched-string>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Mitsutoyo Association for Science</xocs:funding-agency-matched-string>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>MEXT</xocs:funding-agency-matched-string>
+            <xocs:funding-agency-acronym>MEXT</xocs:funding-agency-acronym>
+            <xocs:funding-agency>Ministry of Education, Culture, Sports, Science and Technology</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100001700</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1861060/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding-text>This work was partially supported by a Grant-in-Aid for Challenging Research (Exploratory) ( 18K18810 ) from the MEXT , Japan, a research grant from the Mitsutoyo Association for Science and a research grant from the Technology and Machine Tool Engineering Foundation.  </xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0890-6955(19)30374-8</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0890695519303748</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0890695519303748</xocs:eid>
+         <xocs:doi>10.1016/j.ijmachtools.2019.103431</xocs:doi>
+         <xocs:cid>271474</xocs:cid>
+         <xocs:timestamp>2020-01-13T01:11:49.93266Z</xocs:timestamp>
+         <xocs:cover-date-start>2019-09-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2019-09-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/MAIN/application/pdf/7ae7d65db1ce83c5101c79d5d5a4c754/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>2411140</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0890695519303748-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/PREVIEW/image/png/6f14e4d273fac039eebca4fb5caa2010/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>83102</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr1/THUMBNAIL/image/gif/1dabbde90a7d882413e1f3db937f1201/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>18875</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>166</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr10.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr10/THUMBNAIL/image/gif/b1380eca4d3eba9c47c74cf60ec6d245/gr10.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr10</xocs:file-basename>
+               <xocs:filename>gr10.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11574</xocs:filesize>
+               <xocs:pixel-height>91</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr11.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr11/THUMBNAIL/image/gif/8b9bcf7971b92699e61e0d2bbf5f1227/gr11.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr11</xocs:file-basename>
+               <xocs:filename>gr11.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>21641</xocs:filesize>
+               <xocs:pixel-height>96</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr12.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr12/THUMBNAIL/image/gif/01ba7a32465fa0ccd668d87f6430373b/gr12.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr12</xocs:file-basename>
+               <xocs:filename>gr12.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>14074</xocs:filesize>
+               <xocs:pixel-height>129</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr13.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr13/THUMBNAIL/image/gif/d60397a8f79907c8a235c6d70e720af3/gr13.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr13</xocs:file-basename>
+               <xocs:filename>gr13.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10668</xocs:filesize>
+               <xocs:pixel-height>55</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr14.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr14/THUMBNAIL/image/gif/070fa889b027a53d3ff5473c48fa59dc/gr14.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr14</xocs:file-basename>
+               <xocs:filename>gr14.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>16194</xocs:filesize>
+               <xocs:pixel-height>67</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr2/THUMBNAIL/image/gif/759f518aa5b18ae733a1c6f04d4b5d17/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>21706</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>120</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr3/THUMBNAIL/image/gif/444e163b2e01dcf7c53c14c4b6988d48/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>15830</xocs:filesize>
+               <xocs:pixel-height>102</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr4/THUMBNAIL/image/gif/afcce0e9a053a2133691b90b6743ac88/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>27980</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>185</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr5/THUMBNAIL/image/gif/33bd24424720b290b0e74a9d3e5b7bea/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>24940</xocs:filesize>
+               <xocs:pixel-height>94</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr6/THUMBNAIL/image/gif/634d734e1c8bf0cdada29b266de4a059/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>19359</xocs:filesize>
+               <xocs:pixel-height>128</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr7/THUMBNAIL/image/gif/8c18811bc0f25578634c2af4ea9227c7/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>18980</xocs:filesize>
+               <xocs:pixel-height>96</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr8.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr8/THUMBNAIL/image/gif/223b27422aee74c680485f8e02c30d90/gr8.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>24963</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr9.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr9/THUMBNAIL/image/gif/c1be1f330d461a3f7e4190cbae011cb2/gr9.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>21361</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>137</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr1/DOWNSAMPLED/image/jpeg/0bbf384c17d0eee6dfb36df6848f4dee/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>70653</xocs:filesize>
+               <xocs:pixel-height>381</xocs:pixel-height>
+               <xocs:pixel-width>387</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr10.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr10/DOWNSAMPLED/image/jpeg/2174f3057e1479c1faf2ed0239ba4607/gr10.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr10</xocs:file-basename>
+               <xocs:filename>gr10.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>32332</xocs:filesize>
+               <xocs:pixel-height>161</xocs:pixel-height>
+               <xocs:pixel-width>387</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr11.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr11/DOWNSAMPLED/image/jpeg/2baaa0d224ba660bdf46f68558ad54c7/gr11.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr11</xocs:file-basename>
+               <xocs:filename>gr11.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>55569</xocs:filesize>
+               <xocs:pixel-height>169</xocs:pixel-height>
+               <xocs:pixel-width>387</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr12.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr12/DOWNSAMPLED/image/jpeg/be87624a07b671d7617972089aa35135/gr12.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr12</xocs:file-basename>
+               <xocs:filename>gr12.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>43793</xocs:filesize>
+               <xocs:pixel-height>227</xocs:pixel-height>
+               <xocs:pixel-width>387</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr13.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr13/DOWNSAMPLED/image/jpeg/950e6014a6349077758431dd35219826/gr13.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr13</xocs:file-basename>
+               <xocs:filename>gr13.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>46310</xocs:filesize>
+               <xocs:pixel-height>191</xocs:pixel-height>
+               <xocs:pixel-width>756</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr14.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr14/DOWNSAMPLED/image/jpeg/99c43483fd80e46f0b30895ca95d00a2/gr14.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr14</xocs:file-basename>
+               <xocs:filename>gr14.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>66480</xocs:filesize>
+               <xocs:pixel-height>218</xocs:pixel-height>
+               <xocs:pixel-width>713</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr2/DOWNSAMPLED/image/jpeg/cdaae6fb2bcf08fca8eb82ed249b8622/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>105867</xocs:filesize>
+               <xocs:pixel-height>526</xocs:pixel-height>
+               <xocs:pixel-width>387</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr3/DOWNSAMPLED/image/jpeg/fa72528e6c50d9899d284aad6af5ca13/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>46323</xocs:filesize>
+               <xocs:pixel-height>181</xocs:pixel-height>
+               <xocs:pixel-width>387</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr4/DOWNSAMPLED/image/jpeg/c97f017e45efc406b8934827c1e4459b/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>87544</xocs:filesize>
+               <xocs:pixel-height>343</xocs:pixel-height>
+               <xocs:pixel-width>387</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr5/DOWNSAMPLED/image/jpeg/ef8a49e30c2ac9e50973e1536871b947/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>54048</xocs:filesize>
+               <xocs:pixel-height>166</xocs:pixel-height>
+               <xocs:pixel-width>387</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr6/DOWNSAMPLED/image/jpeg/a5c1ae01419ccf582b06d3e56866dfb2/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>56858</xocs:filesize>
+               <xocs:pixel-height>226</xocs:pixel-height>
+               <xocs:pixel-width>387</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr7/DOWNSAMPLED/image/jpeg/f2d85420a44864ffc8ad498c28d29374/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>41734</xocs:filesize>
+               <xocs:pixel-height>169</xocs:pixel-height>
+               <xocs:pixel-width>387</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr8.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr8/DOWNSAMPLED/image/jpeg/c3a2a2ed9bfcec5b2c0942aa46f181b2/gr8.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>55456</xocs:filesize>
+               <xocs:pixel-height>165</xocs:pixel-height>
+               <xocs:pixel-width>387</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr9.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr9/DOWNSAMPLED/image/jpeg/7acc2bed3e7356760ec89e228a6702cd/gr9.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>92313</xocs:filesize>
+               <xocs:pixel-height>464</xocs:pixel-height>
+               <xocs:pixel-width>387</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr1/HIGHRES/image/jpeg/cba5e46350b55752fc575d67e8f832ad/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>364056</xocs:filesize>
+               <xocs:pixel-height>1687</xocs:pixel-height>
+               <xocs:pixel-width>1713</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr10_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr10/HIGHRES/image/jpeg/d518e97d27f1f41d6080bcd42114420e/gr10_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr10</xocs:file-basename>
+               <xocs:filename>gr10_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>136282</xocs:filesize>
+               <xocs:pixel-height>714</xocs:pixel-height>
+               <xocs:pixel-width>1713</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr11_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr11/HIGHRES/image/jpeg/48b7a5ace5383445e5dc514230c10034/gr11_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr11</xocs:file-basename>
+               <xocs:filename>gr11_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>369454</xocs:filesize>
+               <xocs:pixel-height>749</xocs:pixel-height>
+               <xocs:pixel-width>1713</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr12_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr12/HIGHRES/image/jpeg/992152bd9f22c40e272bc752b3e05f06/gr12_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr12</xocs:file-basename>
+               <xocs:filename>gr12_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>232425</xocs:filesize>
+               <xocs:pixel-height>1006</xocs:pixel-height>
+               <xocs:pixel-width>1713</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr13_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr13/HIGHRES/image/jpeg/3d320ad44b05a178edc4a544994ec8b5/gr13_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr13</xocs:file-basename>
+               <xocs:filename>gr13_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>217803</xocs:filesize>
+               <xocs:pixel-height>847</xocs:pixel-height>
+               <xocs:pixel-width>3346</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr14_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr14/HIGHRES/image/jpeg/c061eefe7d10eb954fcf946218dc9d97/gr14_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr14</xocs:file-basename>
+               <xocs:filename>gr14_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>502016</xocs:filesize>
+               <xocs:pixel-height>966</xocs:pixel-height>
+               <xocs:pixel-width>3158</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr2/HIGHRES/image/jpeg/2149e504612bd8203d7f268506a9c492/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>850294</xocs:filesize>
+               <xocs:pixel-height>2330</xocs:pixel-height>
+               <xocs:pixel-width>1713</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr3/HIGHRES/image/jpeg/04a31d4cef6945f751d97efd718f2a41/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>175604</xocs:filesize>
+               <xocs:pixel-height>801</xocs:pixel-height>
+               <xocs:pixel-width>1714</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr4/HIGHRES/image/jpeg/7b66a9ea3b9dc2f386a1438594379f5c/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>600400</xocs:filesize>
+               <xocs:pixel-height>1517</xocs:pixel-height>
+               <xocs:pixel-width>1713</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr5/HIGHRES/image/jpeg/d499f92e4375423286b1d7a41e9b9119/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>293320</xocs:filesize>
+               <xocs:pixel-height>733</xocs:pixel-height>
+               <xocs:pixel-width>1713</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr6_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr6/HIGHRES/image/jpeg/254c20e0d3217c8873c8b4ce56b7bf5a/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>280881</xocs:filesize>
+               <xocs:pixel-height>1000</xocs:pixel-height>
+               <xocs:pixel-width>1713</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr7_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr7/HIGHRES/image/jpeg/f5950f291c1ef9705af3659991c5a0e5/gr7_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>194784</xocs:filesize>
+               <xocs:pixel-height>748</xocs:pixel-height>
+               <xocs:pixel-width>1713</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr8_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr8/HIGHRES/image/jpeg/b3e2374b95fded03c1b7e7f87f948db6/gr8_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>371312</xocs:filesize>
+               <xocs:pixel-height>731</xocs:pixel-height>
+               <xocs:pixel-width>1713</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-gr9_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/gr9/HIGHRES/image/jpeg/b89774dc4e00af23970551d3bf131661/gr9_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>542975</xocs:filesize>
+               <xocs:pixel-height>2053</xocs:pixel-height>
+               <xocs:pixel-width>1713</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-si1.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/STRIPIN/image/svg+xml/ae871390d5629509443db2b3f46cc55e/si1.svg</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>35798</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-si2.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/STRIPIN/image/svg+xml/f59de1dd8bec8db2e494ad1237ceea7d/si2.svg</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>22976</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-si3.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0890695519303748/STRIPIN/image/svg+xml/d9af7f703d775f0b4761530e0374ed9d/si3.svg</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>59247</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0890695519303748-am.pdf</xocs:attachment-eid>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:filesize>1235006</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:104F56GBK7R/MAIN/application/pdf/8c5ad4d913f6502e2d370685e008b329/am.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:104F56GBK7R/MAIN/application/pdf/8c5ad4d913f6502e2d370685e008b329/am.pdf</xocs:ucs-locator>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>MTM</jid>
+            <aid>103431</aid>
+            <ce:article-number>103431</ce:article-number>
+            <ce:pii>S0890-6955(19)30374-8</ce:pii>
+            <ce:doi>10.1016/j.ijmachtools.2019.103431</ce:doi>
+            <ce:copyright type="full-transfer" year="2019">Elsevier Ltd</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="fspara0010" view="all">Schematic of ECMP setup.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0010" role="short">Fig. 1</ce:alt-text>
+               <ce:link locator="gr1" xlink:href="pii:S0890695519303748/gr1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="fspara0015" view="all">SWLI images of 4H–SiC surfaces processed using grinding stones of (a) ceria, <ce:italic>S</ce:italic>q = 4.229 nm, (b) alumina, <ce:italic>S</ce:italic>q = 56.649 nm, and (c) silica, <ce:italic>S</ce:italic>q = 32.914 nm. (d) Cross-sectional views of polished areas after ECMP with (d) ceria, (e) alumina, and (f) silica grinding stones.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0015" role="short">Fig. 2</ce:alt-text>
+               <ce:link locator="gr2" xlink:href="pii:S0890695519303748/gr2" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="fspara0020" view="all">MP of quartz glass with ceria, alumina, and silica grinding stones. (a) Cross-sectional views of the polished areas. (b) SSRs obtained with the three grinding stones.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0020" role="short">Fig. 3</ce:alt-text>
+               <ce:link locator="gr3" xlink:href="pii:S0890695519303748/gr3" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="fspara0025" view="all">Sliced 4H–SiC (0001) surface. (a) SWLI image with a magnification of 2.8, <ce:italic>S</ce:italic>q = 0.869 μm and <ce:italic>S</ce:italic>z = 7.447 μm. (b) Cross-sectional view along A – B in (a). (c) SWLI image with a magnification of 50, <ce:italic>S</ce:italic>q = 0.286 μm and <ce:italic>S</ce:italic>z = 5.037 μm.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0025" role="short">Fig. 4</ce:alt-text>
+               <ce:link locator="gr4" xlink:href="pii:S0890695519303748/gr4" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="fspara0030" view="all">SWLI image of surface after ECMP at 2 mA/cm<ce:sup loc="post">2</ce:sup> and 1000 rpm for 1 h 40 min. (a) Polished area 1: <ce:italic>S</ce:italic>q = 7.525 nm and <ce:italic>S</ce:italic>z = 36.769 nm. (b) Polished area 2: <ce:italic>S</ce:italic>q = 0.072 μm and <ce:italic>S</ce:italic>z = 1.717 μm.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0030" role="short">Fig. 5</ce:alt-text>
+               <ce:link locator="gr5" xlink:href="pii:S0890695519303748/gr5" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig6">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="fspara0035" view="all">(a) Si 2p and (b) C 1s spectra of SiC surface after ECMP at 2 mA/cm<ce:sup loc="post">2</ce:sup> and 1000 rpm for 1 h 40 min.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0035" role="short">Fig. 6</ce:alt-text>
+               <ce:link locator="gr6" xlink:href="pii:S0890695519303748/gr6" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig7">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption id="cap0040">
+                  <ce:simple-para id="fspara0040" view="all">Sliced 4H–SiC (0001) surface after ECMP at 2 mA/cm<ce:sup loc="post">2</ce:sup> and 1000 rpm for 3 h and an additional MP for 30 min. (a) SWLI image enlarged 2.8 times. (b) Cross-sectional view along A–B in (a).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0040" role="short">Fig. 7</ce:alt-text>
+               <ce:link locator="gr7" xlink:href="pii:S0890695519303748/gr7" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig8">
+               <ce:label>Fig. 8</ce:label>
+               <ce:caption id="cap0045">
+                  <ce:simple-para id="fspara0045" view="all">ECMP of SiC surfaces with different spindle rotation speeds. SWLI images of surface after ECMP (a) for 3 h and an additional MP for 30 min at a spindle rotation speed of 1000 rpm, <ce:italic>S</ce:italic>q = 3.128 nm, and (b) for 3 h at a spindle rotation speed of 1500 rpm, <ce:italic>S</ce:italic>q = 1.969 nm.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0045" role="short">Fig. 8</ce:alt-text>
+               <ce:link locator="gr8" xlink:href="pii:S0890695519303748/gr8" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig9">
+               <ce:label>Fig. 9</ce:label>
+               <ce:caption id="cap0050">
+                  <ce:simple-para id="fspara0050" view="all">XPS results for ECMP-processed SiC surfaces. (a) Si 2p and (b) C 1s spectra of SiC surface after ECMP at 2 mA/cm<ce:sup loc="post">2</ce:sup> and 1000 rpm for 3 h and an additional MP for 30 min. (c) Si 2p and (d) C 1s spectra of SiC surface after ECMP at 2 mA/cm<ce:sup loc="post">2</ce:sup> and 1500 rpm for 3 h.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0050" role="short">Fig. 9</ce:alt-text>
+               <ce:link locator="gr9" xlink:href="pii:S0890695519303748/gr9" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig10">
+               <ce:label>Fig. 10</ce:label>
+               <ce:caption id="cap0055">
+                  <ce:simple-para id="fspara0055" view="all">Cross-sectional views of polished areas after ECMP at 2 mA/cm<ce:sup loc="post">2</ce:sup> with spindle rotation speeds of (a) 1000 rpm and (b) 1500 rpm.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0055" role="short">Fig. 10</ce:alt-text>
+               <ce:link locator="gr10" xlink:href="pii:S0890695519303748/gr10" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig11">
+               <ce:label>Fig. 11</ce:label>
+               <ce:caption id="cap0060">
+                  <ce:simple-para id="fspara0060" view="all">Sliced surface after ECMP at 10 mA/cm<ce:sup loc="post">2</ce:sup> and 1500 rpm for 2 h. (a) SWLI image: <ce:italic>S</ce:italic>q = 1.352 nm and <ce:italic>S</ce:italic>z = 13.291 nm. (b) Cross-sectional view of the polished area observed using the stylus profiler.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0060" role="short">Fig. 11</ce:alt-text>
+               <ce:link locator="gr11" xlink:href="pii:S0890695519303748/gr11" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig12">
+               <ce:label>Fig. 12</ce:label>
+               <ce:caption id="cap0065">
+                  <ce:simple-para id="fspara0065" view="all">XPS spectra of the surface obtained by ECMP at a current density of 10 mA/cm<ce:sup loc="post">2</ce:sup>. (a) Si 2p and (b) C 1s spectra.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0065" role="short">Fig. 12</ce:alt-text>
+               <ce:link locator="gr12" xlink:href="pii:S0890695519303748/gr12" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig13">
+               <ce:label>Fig. 13</ce:label>
+               <ce:caption id="cap0070">
+                  <ce:simple-para id="fspara0070" view="all">Flattening of sliced SiC surface using slurryless ECMP.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0070" role="short">Fig. 13</ce:alt-text>
+               <ce:link locator="gr13" xlink:href="pii:S0890695519303748/gr13" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig14">
+               <ce:label>Fig. 14</ce:label>
+               <ce:caption id="cap0075">
+                  <ce:simple-para id="fspara0075" view="all">Optical microscopy images of (a) sliced surface, (b) diamond-lapped surface, and (c) ECMP-processed surface at 10 mA/cm<ce:sup loc="post">2</ce:sup> for 2 h. The insets show the residual stress distributions of different surfaces along the depth direction (<ce:italic>z</ce:italic> direction) measured by confocal Raman microscopy with an observation width of 77.83 μm. The change in the NFP of the laser during the observation was 8 μm.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0075" role="short">Fig. 14</ce:alt-text>
+               <ce:link locator="gr14" xlink:href="pii:S0890695519303748/gr14" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title id="title0010">Highly efficient planarization of sliced 4H–SiC (0001) wafer by slurryless electrochemical mechanical polishing</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author author-id="S0890695519303748-b2d67d63b3320871c89e899f13e01286" id="au1">
+                  <ce:given-name>Xu</ce:given-name>
+                  <ce:surname>Yang</ce:surname>
+               </ce:author>
+               <ce:author author-id="S0890695519303748-c3a13103bb17d658282ea173a54cf515" id="au2">
+                  <ce:given-name>Xiaozhe</ce:given-name>
+                  <ce:surname>Yang</ce:surname>
+               </ce:author>
+               <ce:author author-id="S0890695519303748-5623cb6bbb63f89c69f65144348ac4f4" id="au3">
+                  <ce:given-name>Kentaro</ce:given-name>
+                  <ce:surname>Kawai</ce:surname>
+               </ce:author>
+               <ce:author author-id="S0890695519303748-b58eb3f829a7fe41bac86bc39fcd7df7" id="au4">
+                  <ce:given-name>Kenta</ce:given-name>
+                  <ce:surname>Arima</ce:surname>
+               </ce:author>
+               <ce:author author-id="S0890695519303748-6d018d8d60f9d20c1f99b4f4c5951e4b" id="au5">
+                  <ce:given-name>Kazuya</ce:given-name>
+                  <ce:surname>Yamamura</ce:surname>
+                  <ce:cross-ref id="crosref0010" refid="cor1">
+                     <ce:sup loc="post">*</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation affiliation-id="S0890695519303748-2f1afc35dabcbc7556791c3c310439e9" id="aff1">
+                  <ce:textfn>Department of Precision Science and Technology, Graduate School of Engineering, Osaka University, 2-1 Yamadaoka, Suita, Osaka 565-0871, Japan</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Precision Science and Technology</sa:organization>
+                     <sa:organization>Graduate School of Engineering</sa:organization>
+                     <sa:organization>Osaka University</sa:organization>
+                     <sa:address-line>2-1 Yamadaoka</sa:address-line>
+                     <sa:city>Suita</sa:city>
+                     <sa:state>Osaka</sa:state>
+                     <sa:postal-code>565-0871</sa:postal-code>
+                     <sa:country>Japan</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0010">Department of Precision Science and Technology, Graduate School of Engineering, Osaka University, 2-1 Yamadaoka, Suita, Osaka, Japan</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>*</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="1" month="4" year="2019"/>
+            <ce:date-revised day="5" month="7" year="2019"/>
+            <ce:date-accepted day="5" month="7" year="2019"/>
+            <ce:abstract class="author" id="abs0010" xml:lang="en" view="all"><ce:abstract-sec id="abssec0010" view="all">
+                  <ce:simple-para id="abspara0010" view="all">Slurryless electrochemical mechanical polishing (ECMP) was proposed and directly applied to sliced 4H–SiC (0001) surfaces. After ECMP for 2 h at a current density of 10 mA/cm<ce:sup loc="post">2</ce:sup> in sodium chloride aqueous solution using a #8000 ceria vitrified grinding stone, a scratch-free mirror surface was obtained, and the <ce:italic>S</ce:italic>q roughness of the SiC surface decreased from 286 to 1.352 nm. The material removal rate was about 23 μm/h, and the saw marks and surface damage on the sliced surface were completely removed. Raman spectroscopy and X-ray photoelectron spectroscopy showed no subsurface damage or residual oxide on the ECMP-processed surface, and the quality of the surface was much higher than that obtained by conventional lapping. The results of this study suggest that the manufacturing process for SiC can be simplified by applying slurryless ECMP with a high material removal rate and low cost.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            
+            <ce:keywords class="keyword" id="kwrds0010" xml:lang="en" view="all">
+               <ce:section-title id="sectitle0020">Keywords</ce:section-title>
+               <ce:keyword id="kwrd0010">
+                  <ce:text>Silicon carbide</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0015">
+                  <ce:text>Slurryless</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0020">
+                  <ce:text>Electrochemical mechanical polishing</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sectitle0025">Introduction</ce:section-title>
+                  <ce:para id="p0030" view="all">Silicon carbide is a very promising next-generation semiconductor material for power devices with high power, high temperature, and high frequency, that can be used in extremely harsh environments, owing to its high chemical stability, high thermal conductivity, and wide bandgap, for example [<ce:cross-ref id="crosref0015" refid="bib1">1</ce:cross-ref>,<ce:cross-ref id="crosref0020" refid="bib2">2</ce:cross-ref>]. A smooth and damage-free surface is essential for the application of SiC [<ce:cross-ref id="crosref0025" refid="bib3">3</ce:cross-ref>,<ce:cross-ref id="crosref0030" refid="bib4">4</ce:cross-ref>]. At present, the fabrication of SiC wafers generally involves SiC ingot growth, the slicing of the ingot into thin wafers, the grinding or lapping of thin wafers to flatten the surface and decrease surface damage, and polishing to remove surface damage and decrease roughness. In the grinding or lapping process, diamond abrasives are widely used because their higher hardness than SiC, thereby providing very high material removal rates (MRRs); however, they inevitably form subsurface damage (SSD) [<ce:cross-ref id="crosref0035" refid="bib5">5</ce:cross-ref>,<ce:cross-ref id="crosref0040" refid="bib6">6</ce:cross-ref>]. On the other hand, chemical mechanical polishing (CMP) is industrially applied to SiC wafers, but its MRR is insufficient (less than 0.5 μm/h) and its cost is very high [<ce:cross-ref id="crosref0045" refid="bib7">7</ce:cross-ref>,<ce:cross-ref id="crosref0050" refid="bib8">8</ce:cross-ref>].</ce:para>
+                  <ce:para id="p0035" view="all">Recently, electrochemical mechanical polishing (ECMP) has been proposed for SiC wafers, which can realize a high MRR and a smooth surface [<ce:cross-refs id="crosrefs0010" refid="bib9 bib10 bib11">9–11</ce:cross-refs>]. In ECMP, anodic oxidation is used to modify the SiC surface, and mechanical polishing (MP) is applied to remove the modified layer. The first ECMP of SiC surfaces was performed by Li et al. [<ce:cross-ref id="crosref0055" refid="bib9">9</ce:cross-ref>], who used KNO<ce:inf loc="post">3</ce:inf> and H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> solution as the electrolyte and a silica slurry as the polishing medium. Large-area flattening of a 4H SiC (0001) surface was accomplished by both two-step and simultaneous ECMP, but many etch pits were generated on the polished surface, significantly increasing the surface roughness. Then hydrogen etching was applied to obtain atomic-scale roughness [<ce:cross-ref id="crosref0060" refid="bib12">12</ce:cross-ref>]. Deng et al. used a ceria slurry as both an electrolyte and a polishing medium [<ce:cross-ref id="crosref0065" refid="bib10">10</ce:cross-ref>]. They confirmed the softening of the SiC surface after anodic oxidation; the hardness of the SiC surface was decreased from 34.5 to 1.9 GPa after anodic oxidation. This allows the SiC surface to be polished using soft abrasives without forming SSD. Although an MRR of 3.62 μm/h and a damage-free surface were obtained in their study, the surface was not flat. Murata et al. proposed a polishing-pad-free ECMP for SiC using polyurethane–CeO<ce:inf loc="post">2</ce:inf> core–shell particles [<ce:cross-ref id="crosref0070" refid="bib11">11</ce:cross-ref>]. They confirmed that SiC cannot be removed by the polyurethane–CeO<ce:inf loc="post">2</ce:inf> core–shell particles without electricity. However, the MRR of the polyurethane–CeO<ce:inf loc="post">2</ce:inf> core–shell particles in the removal of the oxide layer was not high; thus, they applied a periodic bias to confirm the complete removal of the oxide layer during ECMP. Although an MRR of 3–4 μm/h was obtained, scratches were not completely removed on the polished surface. In the above previous studies, loose abrasives were applied in ECMP, and although the MRR was much higher than that of CMP, reaching 3–4 μm/h, further improvement of the MRR has not been reported. Moreover, the use of loose abrasives also makes it difficult to control the process parameters, such as concentration, pH, and the type of electrolyte, resulting in it being difficult to improve the performance of SiC surface modification, which directly determines the quality of the surface processed by ECMP. On the other hand, the slurry should have a certain electric conductivity to ensure the anodic oxidation of SiC, which limits the polishing performance of the oxide layer.</ce:para>
+                  <ce:para id="p0040" view="all">In this study, we proposed slurryless ECMP, in which fixed soft abrasives (grinding stones) are used to remove the oxide layer. It has the following innovations. 1) It enables the separation of the surface modification and MP conditions, allowing the performances of both anodic oxidation and polishing to be optimized, which is expected to improve the ECMP performance. 2) The use of slurry and strong chemicals is avoided, whereby SiC can be polished in an environmentally friendly manner at a low cost. 3) The application of grinding stones makes the processed surface not only smooth but also flatter, expanding the application of ECMP from final polishing to flattening, owing to its high MRR. In this paper, we report the results of slurryless ECMP of sliced 4H–SiC (0001) surfaces.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sectitle0030">Experimental section</ce:section-title>
+                  <ce:para id="p0045" view="all">
+                     <ce:cross-ref id="crosref0075" refid="fig1">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="fig1"/> shows a schematic of the experimental setup used in this study. The SiC substrate was fixed on a copper plate installed on an XY table and served as the working electrode (WE). The tip of a spindle made of aluminum alloy was used as the counter electrode (CE). A potentiostat was applied to control the anodic oxidation parameters. A grinding stone was mounted on elastic resin set on the tip of the spindle to automatically adjust the tilt between the SiC substrate and the grinding stone. During ECMP, the electrolyte was circulated by a peristaltic pump and supplied from the center of the spindle to prevent the electrolyte from being ejected from the polishing area owing to the centrifugal force of the spindle.</ce:para>
+                  <ce:para id="p0050" view="all">In this study, ECMP with constant current densities was conducted. Sodium chloride aqueous solution (NaCl aq.) with a concentration of 1 wt% and an electric conductivity (EC) of 1.798 S/m was used as the electrolyte. During ECMP, reciprocating motion along the X direction with a range of 5 mm and a feeding rate of 10 mm/s was applied to the SiC substrate. A polishing pressure of 140 kPa was applied; therefore, the polishing area was expected to be that shown in <ce:cross-ref id="crosref0080" refid="fig1">Fig. 1</ce:cross-ref>. ECMP experiments with different current densities, spindle rotation speeds, and polishing times were conducted. The ECMP performance of sliced SiC substrates was evaluated by scanning white light interferometry (SWLI, NewView 8300, Zygo), confocal Raman microscopy (RAMANtouch, Nanophoton), and X-ray photoelectron spectroscopy (XPS, Quantum 2000, ULVAC-PHI) and by using a stylus profiler (Surfcom 1400D, Tokyo Seimitsu). The efficiency of slurryless ECMP was evaluated on the basis of the surface setback rate (SSR), which was expressed as the removal depth of the processed surface per unit of time. Since the polishing area in all the experiments was the same, a higher SSR is equivalent to a higher MRR.</ce:para>
+               </ce:section>
+               <ce:section id="sec3" role="results" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sectitle0035">Results and discussion</ce:section-title>
+                  <ce:section id="sec3.1" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="sectitle0040">Polishing properties of different grinding stones</ce:section-title>
+                     <ce:para id="p0055" view="all">To determine an appropriate grinding stone for the ECMP of the SiC surface, ceria, silica, and alumina grinding stones, were applied to polish diamond-lapped 4H–SiC (0001) surfaces with a spindle rotation speed of 1000 rpm and a current density of 2 mA/cm<ce:sup loc="post">2</ce:sup> for 1.5 h. The 4H–SiC substrates (N-type, on-axis) were supplied by TankeBlue Semiconductor Co., Ltd., and had a thickness of 360 μm and a specific resistance in the range of 0.015–0.028 Ω cm. The grinding stones with an average particle size of 1 μm (#8000) were vitrified-bonded and supplied by MIZUHO Co., Ltd.</ce:para>
+                     <ce:para id="p0060" view="all">
+                        <ce:cross-ref id="crosref0085" refid="fig2">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="fig2"/> shows the results of ECMP with different grinding stones. The polished surfaces were observed by SWLI and the depths of the polishing areas were obtained using the stylus profiler. <ce:cross-ref id="crosref0090" refid="fig2">Fig. 2</ce:cross-ref>(a) – (c) show SWLI images of surfaces polished with ceria, alumina, and silica grinding stones, respectively. It is clear that the surface polished with the ceria grinding stone had the smallest surface roughness. There were many polishing marks on the surface polished with the alumina grinding stone, significantly increasing the surface roughness. From the cross-sectional views of the areas polished with the three types of grinding stone shown in <ce:cross-ref id="crosref0095" refid="fig2">Fig. 2</ce:cross-ref>(d), polishing depths of 2–3 μm and 4–5 μm were obtained using ceria and alumina grinding stones, respectively, whereas the oxide layer was hardly removed using the silica grinding stone. This result is different from the previous result that the ceria grinding stone had the highest SSR [<ce:cross-ref id="crosref0100" refid="bib13">13</ce:cross-ref>]. This is considered to be due to the different motion patterns of the ECMP machines. As shown in Ref. [<ce:cross-ref id="crosref0105" refid="bib13">13</ce:cross-ref>], when only spindle rotation was applied, the removal of the silicon dioxide layer was insufficient. In slurryless ECMP, although the contact between the grinding stone and SiC surface was automatically adjusted by the elastic resin, only the overall parallelity between the SiC surface and the grinding stone can be ensured. The local contact between the SiC surface and the grinding stone strongly depends on their surface shape and surface roughness, and nonuniform local contact is inevitable. Therefore, the removal of the oxide layer is nonuniform and insufficient without wafer feeding. Moreover, in the ECMP with only spindle rotation, the elimination of polishing debris is difficult, which decreases the polishing rate. Wafer feeding promotes the elimination of polishing debris and promotes the mechanical removal of the oxide layer.</ce:para>
+                     <ce:para id="p0065" view="all">The Vickers hardness of alumina is 12–23 GPa [<ce:cross-ref id="crosref0110" refid="bib14">14</ce:cross-ref>], which is much greater than those of ceria (5–7.5 GPa [ [<ce:cross-ref id="crosref0115" refid="bib15">15</ce:cross-ref>]) and silica (7.6 GPa [<ce:cross-ref id="crosref0120" refid="bib16">16</ce:cross-ref>]) but comparable to that of SiC (24–28 GPa [<ce:cross-ref id="crosref0125" refid="bib17">17</ce:cross-ref>]). Therefore, in the case of using the alumina grinding stone, it is considered that scratches were formed on the SiC wafer because the hardness of alumina is close to that of SiC, as shown in <ce:cross-ref id="crosref0130" refid="fig2">Fig. 2</ce:cross-ref>(b). The higher SSR obtained when applying the ceria grinding stone than that obtained when applying the silica grinding stone is attributed to the chemical reaction occurring at the ceria–silicon dioxide interface [<ce:cross-ref id="crosref0135" refid="bib18">18</ce:cross-ref>,<ce:cross-ref id="crosref0140" refid="bib19">19</ce:cross-ref>], which</ce:para>
+                     <ce:para id="p0070" view="all">increased the SSR, because SiC is oxidized to silicon dioxide and silicon oxycarbides during anodic oxidation [<ce:cross-ref id="crosref0145" refid="bib20">20</ce:cross-ref>]. To confirm this, we conducted a polishing experiment on a quartz glass substrate under the same conditions without electricity for 30 min using the three types of grinding stone. <ce:cross-ref id="crosref0150" refid="fig3">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="fig3"/> shows the SSRs of different grinding stones in the MP of quartz glass substrates. It is clear that the alumina grinding stone had the highest SSR of about 36 μm/h, which is twice that of the ceria grinding stone (18 μm/h), whereas the SSR of the silica grinding stone was very low (about 0.6 μm/h). The highest SSR obtained with the alumina grinding stone is attributed to its high hardness, which led to the rapid mechanical removal of the oxide layer.</ce:para>
+                     <ce:para id="p0075" view="all">Although the alumina grinding stone had a higher SSR than the ceria grinding stone, it formed SSD on the ECMP-processed surface owing to its high hardness. To obtain a damage-free surface, the ceria grinding stone is more suitable for SiC ECMP than the alumina grinding stone. Therefore, the subsequent experiments were conducted using the ceria grinding stone.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.2" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="sectitle0045">ECMP of sliced 4H–SiC (0001) surfaces</ce:section-title>
+                     <ce:para id="p0080" view="all">
+                        <ce:cross-ref id="crosref0155" refid="fig4">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="fig4"/> shows the characteristics of a surface sliced with a diamond saw wire with a diameter of 0.12 mm and diamond particles with diameters of 20–30 μm. In <ce:cross-ref id="crosref0160" refid="fig4">Fig. 4</ce:cross-ref>(a), low-spatial-frequency saw marks formed by slicing were observed, and the surface roughnesses were 1.156 μm <ce:italic>S</ce:italic>q and 7.578 μm <ce:italic>S</ce:italic>z. The cross-sectional view in <ce:cross-ref id="crosref0165" refid="fig4">Fig. 4</ce:cross-ref>(b) shows that the spatial wavelength of the saw marks was about 640 μm. In addition to the</ce:para>
+                     <ce:para id="p0085" view="all">low-spatial-frequency saw marks, there were many high-spatial-frequency structures on the surface, as shown in <ce:cross-ref id="crosref0170" refid="fig4">Fig. 4</ce:cross-ref>(c). The observed damage on the surface reached a depth of 5 μm, and it is assumed that the SSD was much deeper.</ce:para>
+                     <ce:para id="p0090" view="all">
+                        <ce:cross-ref id="crosref0175" refid="fig5">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="fig5"/> shows the surface topography after ECMP at a current density of 2 mA/cm<ce:sup loc="post">2</ce:sup> and a spindle rotation speed of 1000 rpm for 1 h 40 min, where the removal depth was about 8 μm. Judging from the surface topography of polished area 1 shown in <ce:cross-ref id="crosref0180" refid="fig5">Fig. 5</ce:cross-ref>(a), high-spatial-frequency saw marks formed by slicing were removed, and the surface roughness <ce:italic>S</ce:italic>q was improved from 0.286 μm to 7.525 nm. Although most of the surface was very smooth, some low-spatial-frequency saw marks still remained, which deteriorated the surface roughness, as shown in <ce:cross-ref id="crosref0185" refid="fig5">Fig. 5</ce:cross-ref>(b), indicating that the removal depth was not sufficient to remove the SSD formed by wire saw slicing. <ce:cross-ref id="crosref0190" refid="fig6">Fig. 6</ce:cross-ref>
+                        <ce:float-anchor refid="fig6"/> shows the XPS measurement results of the ECMP-processed SiC surface. Strong peaks corresponding to Si–O and Si–C–O bonds were observed. This result indicates that the oxide on the polished surface was not completely removed.</ce:para>
+                     <ce:para id="p0095" view="all">To completely remove the saw marks and the residual oxide on the surface, a sliced surface was subjected to ECMP for 3 h and an additional MP without anodic oxidation for 30 min. The other polishing parameters were the same as those in the case of <ce:cross-ref id="crosref0195" refid="fig5">Fig. 5</ce:cross-ref>. <ce:cross-ref id="crosref0200" refid="fig7">Fig. 7</ce:cross-ref>
+                        <ce:float-anchor refid="fig7"/>(a) and (b) show a low-magnification SWLI image of the polished surface and its cross-sectional view, respectively. The saw marks were completely removed, as shown in <ce:cross-ref id="crosref0205" refid="fig7">Fig. 7</ce:cross-ref>(a), and the surface was markedly flattened compared with the sliced surface shown in <ce:cross-ref id="crosref0210" refid="fig4">Fig. 4</ce:cross-ref>(a) and (b). The ringlike surface structure that formed is considered to reflect the rotation and uniaxial oscillation patterns of the grindstone in the prototype ECMP apparatus.</ce:para>
+                     <ce:para id="p0100" view="all">
+                        <ce:cross-ref id="crosref0215" refid="fig8">Fig. 8</ce:cross-ref>
+                        <ce:float-anchor refid="fig8"/>(a) shows a high-magnification SWLI image of the polished area. An <ce:italic>S</ce:italic>q roughness of 3.128 nm was obtained, which is comparable to that of a traditional diamond-lapped surface. However, there were many polishing marks along the polishing direction on the polished surface, as shown in <ce:cross-refs id="crosrefs0015" refid="fig5 fig8">Figs. 5(a) and 8(a)</ce:cross-refs>. The marks are considered to be formed by the mismatch between the spindle rotation speed and the feeding rate in the X direction. To remove these polishing marks, the spindle rotation speed was increased from 1000 to 1500 rpm, and a sliced wafer surface was polished for 3 h under the same conditions. <ce:cross-ref id="crosref0220" refid="fig8">Fig. 8</ce:cross-ref>(b) shows an SWLI image of the surface polished at a spindle rotation speed of 1500 rpm. The polishing marks were removed and a smoother surface (1.969 nm <ce:italic>S</ce:italic>q) was obtained. This result indicates that the combination of the spindle rotation speed and the feeding rate plays an important role in the morphology of the ECMP-processed surface.</ce:para>
+                     <ce:para id="p0105" view="all">Although the low-spatial-frequency saw and polishing marks were removed by increasing the polishing time and spindle rotation speed, many pits and some line-shaped defects perpendicular to the polishing direction were observed on the polished surface, as shown in <ce:cross-ref id="crosref0225" refid="fig8">Fig. 8</ce:cross-ref>. The distribution of the pits and line-shaped defects was random, which was similar to the deep surface damage on the as-sliced SiC surface, as shown in <ce:cross-ref id="crosref0230" refid="fig4">Fig. 4</ce:cross-ref>. In the anodic oxidation of SiC, the sites of defects and SSD were preferentially oxidized and had a higher oxidation rate [<ce:cross-ref id="crosref0235" refid="bib21">21</ce:cross-ref>]. Pits were generated at the sites of the defects and SSD after removing the oxide layer. Therefore, the pits on the ECMP-</ce:para>
+                     <ce:para id="p0110" view="all">processed surface in <ce:cross-ref id="crosref0240" refid="fig8">Fig. 8</ce:cross-ref> are considered to be formed by the residual SSD induced by the slicing of the SiC wafer.</ce:para>
+                     <ce:para id="p0115" view="all">
+                        <ce:cross-ref id="crosref0245" refid="fig9">Fig. 9</ce:cross-ref>
+                        <ce:float-anchor refid="fig9"/> shows the XPS measurement results of these two ECMP-processed surfaces; both Si–O and Si–C–O bonds were observed on these two surfaces. For the surface after ECMP for 3 h and an additional MP for 30 min, the peaks of Si–O and Si–C–O bonds were clearly weaker than that of Si–C bonds. In contrast, for the surface with only ECMP for 3 h, stronger peaks corresponding to Si–O and Si–C–O bonds were observed. These results indicate that the additional MP can remove the residual oxide on the polished surface. On the other hand, the polishing depths in <ce:cross-ref id="crosref0250" refid="fig8">Fig. 8</ce:cross-ref>(a) and (b) were measured using a stylus profiler, and the depths of removal in both cases were about 15 μm, as shown in <ce:cross-ref id="crosref0255" refid="fig10">Fig. 10</ce:cross-ref>
+                        <ce:float-anchor refid="fig10"/>. The SSRs were 5 μm/h at spindle rotation speeds of both 1000 and 1500 rpm, whereas the SSR of quartz glass was 18 μm/h at 1000 rpm, as shown in <ce:cross-ref id="crosref0260" refid="fig3">Fig. 3</ce:cross-ref>. The SSR of the anodic oxide layer of 4H–SiC (0001) should be higher than that of quartz glass, because it has been found that the oxide layer of SiC generated by anodic oxidation is much softer than quartz glass [<ce:cross-ref id="crosref0265" refid="bib10">10</ce:cross-ref>]. Therefore, the SSR of the oxide layer was much greater than the SSR obtained in the two ECMP experiments, indicating that a current density of 2 mA/cm<ce:sup loc="post">2</ce:sup> limited the oxidation rate, which dominated the SSR in ECMP. The residual oxide on the polished surface was considered to be located on the sites of pits. Complete removal of the residual oxide is difficult owing to the use of fixed abrasives, because it is difficult for fixed abrasives to reach the bottom of the pit to</ce:para>
+                     <ce:para id="p0120" view="all">remove the residual oxide owing to shielding by the convex SiC area. Therefore, it is essential to increase the anodic oxidation rate to effectively remove deep damage existing below the sliced surface.</ce:para>
+                     <ce:para id="p0125" view="all">On the basis of Faraday's law of electrolysis, the mass of the oxidized SiC is directly proportional to the quantity of charge passed:<ce:display>
+                           <ce:formula id="fd1">
+                              <ce:label>(1)</ce:label>
+                              <mml:math altimg="si1.svg" alttext="Equation 1.">
+                                 <mml:mrow>
+                                    <mml:mi>m</mml:mi>
+                                    <mml:mo linebreak="goodbreak">=</mml:mo>
+                                    <mml:mi>M</mml:mi>
+                                    <mml:mfrac>
+                                       <mml:mrow>
+                                          <mml:mi>Q</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi>z</mml:mi>
+                                          <mml:mi>F</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mfrac>
+                                    <mml:mo>,</mml:mo>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>where <ce:italic>m</ce:italic> is the mass of the oxidized SiC, <ce:italic>M</ce:italic> is the molar mass of SiC, <ce:italic>Q</ce:italic> is the total electric charge during slurryless ECMP, <ce:italic>F</ce:italic> is the Faraday constant, and <ce:italic>z</ce:italic> is the valence of the ion.</ce:para>
+                     <ce:para id="p0130" view="all">Since a constant current density was applied in the slurryless ECMP, the total electric charge during slurryless ECMP can be expressed as<ce:display>
+                           <ce:formula id="fd2">
+                              <ce:label>(2)</ce:label>
+                              <mml:math altimg="si2.svg" alttext="Equation 2.">
+                                 <mml:mrow>
+                                    <mml:mi>Q</mml:mi>
+                                    <mml:mo linebreak="goodbreak">=</mml:mo>
+                                    <mml:mi>S</mml:mi>
+                                    <mml:mi>i</mml:mi>
+                                    <mml:mi>t</mml:mi>
+                                    <mml:mo>,</mml:mo>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>where <ce:italic>S</ce:italic> is the polishing area, <ce:italic>i</ce:italic> is the current density, and <ce:italic>t</ce:italic> is the polishing time.</ce:para>
+                     <ce:para id="p0135" view="all">Thus, the SSR can be given by<ce:display>
+                           <ce:formula id="fd3">
+                              <ce:label>(3)</ce:label>
+                              <mml:math altimg="si3.svg" alttext="Equation 3.">
+                                 <mml:mrow>
+                                    <mml:mtext>SSR</mml:mtext>
+                                    <mml:mo linebreak="badbreak">=</mml:mo>
+                                    <mml:mfrac>
+                                       <mml:mrow>
+                                          <mml:mi>m</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi>S</mml:mi>
+                                          <mml:mi>ρ</mml:mi>
+                                          <mml:mi>t</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mfrac>
+                                    <mml:mo linebreak="goodbreak">=</mml:mo>
+                                    <mml:mfrac>
+                                       <mml:mrow>
+                                          <mml:mi>M</mml:mi>
+                                          <mml:mi>i</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi>z</mml:mi>
+                                          <mml:mi>F</mml:mi>
+                                          <mml:mi>ρ</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mfrac>
+                                    <mml:mo>,</mml:mo>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>where <ce:italic>ρ</ce:italic> is the density of SiC. The SSR in slurryless ECMP is directly proportional to current density. Therefore, current density should be increased to improve the SSR.</ce:para>
+                     <ce:para id="p0140" view="all">
+                        <ce:cross-ref id="crosref0270" refid="fig11">Fig. 11</ce:cross-ref>
+                        <ce:float-anchor refid="fig11"/> shows the topography and polishing depth of a sliced 4H–SiC (0001) surface after ECMP for 2 h at a current density of 10 mA/cm<ce:sup loc="post">2</ce:sup>. Saw marks, surface damage, and polishing marks were removed, and a smooth surface with an <ce:italic>S</ce:italic>q roughness of 1.352 nm was obtained, as shown in <ce:cross-ref id="crosref0275" refid="fig11">Fig. 11</ce:cross-ref>(a). This roughness is comparable to that of a conventional diamond-lapped SiC surface. <ce:cross-ref id="crosref0280" refid="fig11">Fig. 11</ce:cross-ref>(b) shows a cross-sectional view of the polished area in this experiment; a high SSR of 23 μm/h was obtained, which is about 5 times that obtained at the current density of 2 mA/cm<ce:sup loc="post">2</ce:sup>. This result is consistent with Eq. <ce:cross-ref id="crosref0285" refid="fd3">(3)</ce:cross-ref>.</ce:para>
+                     <ce:para id="p0145" view="all">
+                        <ce:cross-ref id="crosref0290" refid="fig12">Fig. 12</ce:cross-ref>
+                        <ce:float-anchor refid="fig12"/> shows the XPS spectra of the ECMP-processed surface shown in <ce:cross-ref id="crosref0295" refid="fig11">Fig. 11</ce:cross-ref>. Strong peaks corresponding to the Si–C bond were observed in both the Si 2p and C 1s spectra, whereas only a weak peak corresponding to the Si–O–C bond was observed in the Si 2p spectrum. It was found that the amount of residual oxide on the surface shown in <ce:cross-ref id="crosref0300" refid="fig11">Fig. 11</ce:cross-ref> was much less than that on the surfaces shown in <ce:cross-ref id="crosref0305" refid="fig8">Fig. 8</ce:cross-ref>, which indicates that the oxide layer was sufficiently removed after removing the deep damage; the small amount of residual oxide on the surface can be removed by an additional short MP.</ce:para>
+                     <ce:para id="p0150" view="all">On the basis of the above results, ECMP of the sliced SiC surface can be modeled as shown in <ce:cross-ref id="crosref0310" refid="fig13">Fig. 13</ce:cross-ref>
+                        <ce:float-anchor refid="fig13"/>. On the sliced SiC surface, there are many saw marks on the surface and SSD below the surface. In ECMP, the whole SiC surface is oxidized and the sites of SSD are preferentially oxidized [<ce:cross-ref id="crosref0315" refid="bib21">21</ce:cross-ref>]. In the initial polishing stage, only the convex oxide area on the surface is removed, while the concave area is still covered with an oxide layer. Therefore, the oxidation rate of the convex area should be greater than that of the concave area because the oxide layer acts as a barrier. With the repetition of the anodic oxidation and the removal of the oxide layer, the saw marks are gradually removed and the SiC surface gradually becomes flat. After removing the saw marks, there is still much SSD</ce:para>
+                     <ce:para id="p0155" view="all">below the SiC surface, and pits are generated on the sites of SSD owing to the higher oxidation rate at the SSD. During this polishing period, it is difficult for fixed abrasives to reach the bottom of the pit to remove the residual oxide owing to shielding by the convex SiC area, resulting in residual oxide remaining at the bottom of the pits. After the SSD is completely removed, relatively uniform oxidation occurs [<ce:cross-ref id="crosref0320" refid="bib22">22</ce:cross-ref>], which results in a flat and smooth surface with almost no residual oxide. This property of slurryless ECMP make it possible to estimate the removal status of SSD.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.3" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title id="sectitle0050">Evaluation of SSD of SiC surface processed by ECMP</ce:section-title>
+                     <ce:para id="p0160" view="all">A sliced surface, ECMP-processed surface, and diamond-lapped surface were measured by Raman spectroscopy to evaluate the performance of ECMP in the removal of SSD. The wavelength of the laser used in the Raman spectroscopy was 532 nm. The change in the nominal focus position (NFP) of the laser during the observation was 8 μm. However, considering the refractive index of SiC, the change in the actual focus position (AFP), which refers to the actual depth of observation for the SiC surfaces, was calculated to be approximately 2.7 times that in the NFP [<ce:cross-refs id="crosrefs0020" refid="bib23 bib24 bib25">23–25</ce:cross-refs>]. The residual stress on the SiC surfaces was derived from the shift of the FTO(2/4)E2 (776 cm<ce:sup loc="post">−1</ce:sup>) peak of SiC, and the tensile and compressive stresses were calculated using a ratio of −510 MPa/cm<ce:sup loc="post">−1</ce:sup> on the basis of the Raman shift from 776 cm<ce:sup loc="post">−1</ce:sup> [<ce:cross-ref id="crosref0325" refid="bib26">26</ce:cross-ref>].</ce:para>
+                     <ce:para id="p0165" view="all">
+                        <ce:cross-ref id="crosref0330" refid="fig14">Fig. 14</ce:cross-ref>
+                        <ce:float-anchor refid="fig14"/> shows the optical microscopy images of surfaces processed by slicing, ECMP, and diamond lapping, and their residual stress along the depth direction observed by confocal Raman microscopy. Many irregular cracks and granular SiC were observed on the sliced surface, as shown in <ce:cross-ref id="crosref0335" refid="fig14">Fig. 14</ce:cross-ref>(a). The two-dimensional distribution of residual stress shows that tensile and compressive stresses existed on the sliced surface, the maximum being greater than 200 MPa, and the tensile stress on the examined line reached a maximum depth of about 16.2 μm from the surface. On the surface processed by conventional lapping using a #4000 diamond lapping plate (average particle size range of 2–4 μm) at a polishing pressure of 19.6 kPa, many scratches and pits were observed owing to the mechanical removal of SiC, as shown in <ce:cross-ref id="crosref0340" refid="fig14">Fig. 14</ce:cross-ref>(b). The residual stress on the diamond-lapped surface was concentrated at the positions of scratches and pits, and the residual stress and the maximum depth at which it existed (about 3.8 μm) were clearly less than those on the sliced surface. In contrast, a scratch-free surface was obtained after ECMP at a current density of 10 mA/cm<ce:sup loc="post">2</ce:sup> for 2 h, because only the anodically oxidized layer was removed by the soft ceria grinding stone. The inset residual stress image shows that no SSD existed on or beneath the surface, indicating that a damage-free surface was obtained. Therefore, ECMP is favorable for the final finishing step of the surface.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec4" role="conclusion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sectitle0055">Conclusions</ce:section-title>
+                  <ce:para id="p0170" view="all">A novel slurryless polishing technique combining anodic oxidation and fixed abrasive polishing was proposed for polishing sliced 4H–SiC substrates. The main results of this study are summarized as follows.<ce:list id="olist0010">
+                        <ce:list-item id="o0010">
+                           <ce:label>(1)</ce:label>
+                           <ce:para id="p0175" view="all">Among the grinding stones used, the ceria grinding stone was found to be the most suitable for ECMP of the 4H–SiC (0001) surface. The SSR of quartz glass when using this grinding stone was about 18 μm/h, which should be higher when polishing an anodic oxide layer of 4H–SiC owing to its lower hardness.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="o0015">
+                           <ce:label>(2)</ce:label>
+                           <ce:para id="p0180" view="all">An atomically smooth SiC surface with an <ce:italic>S</ce:italic>q roughness of 1–2 nm and an extremely high SSR of 23 μm/h was obtained by slurryless ECMP using the vitrified ceria grinding stone, and almost no residual oxide existed on the polished surface.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="o0020">
+                           <ce:label>(3)</ce:label>
+                           <ce:para id="p0185" view="all">ECMP is also effective in the flattening of a SiC surface and can yield a damage-free surface. This is favorable for the final finishing step of the surface.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+                  <ce:para id="p0190" view="all">Therefore, slurryless ECMP is a very promising method for replacing the grinding and lapping processes, and may be used in the ultraprecise polishing of SiC wafers to simplify the manufacturing process and achieve high efficiency and low cost.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0010" view="all">
+               <ce:section-title id="sectitle0060">Acknowledgements</ce:section-title>
+               <ce:para id="p0195" view="all">This work was partially supported by a Grant-in-Aid for Challenging Research (Exploratory) (<ce:grant-number refid="gs1">18K18810</ce:grant-number>) from the <ce:grant-sponsor id="gs1" sponsor-id="https://doi.org/10.13039/501100001700" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor" xlink:type="simple">MEXT</ce:grant-sponsor>, Japan, a research grant from the Mitsutoyo Association for Science and a research grant from the Technology and Machine Tool Engineering Foundation.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0065">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.R.</ce:given-name>
+                                 <ce:surname>Eddy</ce:surname>
+                                 <ce:suffix>Jr.</ce:suffix>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.K.</ce:given-name>
+                                 <ce:surname>Gaskill</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Silicon carbide as a platform for power electronics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>324</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5933</sb:issue-nr>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1398</sb:first-page>
+                              <sb:last-page>1400</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1126/science.1168704</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0015">C.R. Eddy Jr, D.K. Gaskill, Silicon carbide as a platform for power electronics, Science 324(5933) (2009) 1398-1400. DOI: 10.1126/science.1168704.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Millán</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Godignon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Perpiñà</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Pérez-Tomás</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Rebollo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A survey of wide bandgap power semiconductor devices</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>IEEE Trans. Power Electron.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2155</sb:first-page>
+                              <sb:last-page>2163</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1109/TPEL.2013.2268900</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0020">J. Millan, P. Godignon, X. Perpina, A. Perez-Tomas, J. Rebollo, A survey of wide bandgap power semiconductor devices, IEEE Trans. Power Electron. 29(5) (2014) 2155-2163. DOI: 10.1109/TPEL.2013.2268900.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.G.</ce:given-name>
+                                 <ce:surname>Neudeck</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrical Impact of SiC Structural Crystal Defects on High Electric Field Devices</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1999</sb:date>
+                              <sb:publisher>
+                                 <sb:name>NASA/TM</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                           <sb:pages>
+                              <sb:first-page>209647</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0025">P.G. Neudeck, Electrical impact of SiC structural crystal defects on high electric field devices, NASA/TM (1999) 209647.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Ohmi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Miyashita</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Itano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Imaoka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Kawanabe</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Dependence of thin-oxide films quality on surface microroughness</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>IEEE Trans. Electron Devices</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>1992</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>537</sb:first-page>
+                              <sb:last-page>545</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1109/16.123475</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0030">T. Ohmi, M. Miyashita, M. Itano, T. Imaoka, I. Kawanabe, Dependence of thin-oxide films quality on surface microroughness, IEEE Trans. Electron Dev. 39(3) (1992) 537-545. DOI: 10.1109/16.123475.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Agarwal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.V.</ce:given-name>
+                                 <ce:surname>Rao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Experimental investigation of surface/subsurface damage formation and material removal mechanisms in SiC grinding</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Mach. Tool Manuf.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>48</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>698</sb:first-page>
+                              <sb:last-page>710</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="intref0010" xlink:href="https://doi.org/10.1016/j.ijmachtools.2007.10.013" xlink:type="simple">https://doi.org/10.1016/j.ijmachtools.2007.10.013</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0035">S. Agarwal, P.V. Rao, Experimental investigation of surface/subsurface damage formation and material removal mechanisms in SiC grinding, Int. J. Mach. Tools Manu. 48 (2008) 698-710. https://doi.org/10.1016/j.ijmachtools.2007.10.013.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Dai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Subsurface damage distribution in the lapping process</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Optic.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>10</sb:issue-nr>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1417</sb:first-page>
+                              <sb:last-page>1426</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="intref0015" xlink:href="https://doi.org/10.1364/AO.47.001417" xlink:type="simple">https://doi.org/10.1364/AO.47.001417</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0040">Z. Wang, Y. Wu, Y. Dai, S. Li, Subsurface damage distribution in the lapping process, Appl. Optics 47(10) (2008) 1417-1426. https://doi.org/10.1364/AO.47.001417.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Lai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrocoagulation of chemical mechanical polishing (CMP) wastewater from semiconductor fabrication</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Eng. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>95</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1–3</sb:issue-nr>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>205</sb:first-page>
+                              <sb:last-page>211</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="intref0020" xlink:href="https://doi.org/10.1016/S1385-8947(03)00106-2" xlink:type="simple">https://doi.org/10.1016/S1385-8947(03)00106-2</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0045">C.L. Lai, S.H. Lin, Electrocoagulation of chemical mechanical polishing (CMP) wastewater from semiconductor fabrication, Chem. Eng. J. 95(1-3) (2003) 205-211. https://doi.org/10.1016/S1385-8947(03)00106-2.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>An</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.S.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.J.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.C.</ce:given-name>
+                                 <ce:surname>Shin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>Seo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.R.</ce:given-name>
+                                 <ce:surname>Ku</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.D.</ce:given-name>
+                                 <ce:surname>Seo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.D.</ce:given-name>
+                                 <ce:surname>Jeong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of process parameters on material removal rate in chemical mechanical polishing of 6H-SiC (0001)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Forum</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>600</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>831</sb:first-page>
+                              <sb:last-page>834</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="intref0025" xlink:href="https://doi.org/10.4028/www.scientific.net/MSF.600-603.831" xlink:type="simple">https://doi.org/10.4028/www.scientific.net/MSF.600-603.831</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0050">J.H. An, G.S. Lee, W.J. Lee, B.C. Shin, J.D. Seo, K.R. Ku, H.D. Seo, H.D. Jeong, Effect of process parameters on material removal rate in chemical mechanical polishing of 6H-SiC (0001), Mater. Sci. Forum 600 (2009) 831-834. https://doi.org/10.4028/www.scientific.net/MSF.600-603.831.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.B.</ce:given-name>
+                                 <ce:surname>Bhat</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Seiler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electro-chemical mechanical polishing of silicon carbide</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electron. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>481</sb:first-page>
+                              <sb:last-page>486</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="intref0030" xlink:href="https://doi.org/10.1007/s11664-004-0207-6" xlink:type="simple">https://doi.org/10.1007/s11664-004-0207-6</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0055">C. Li, I.B. Bhat, R. Wang, J. Seiler, Electro-chemical mechanical polishing of silicon carbide, J. Electron. Mater. 33(5) (2004) 481-486. https://doi.org/10.1007/s11664-004-0207-6.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Deng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Hosoya</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Imanishi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Endo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Yamamura</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electro-chemical mechanical polishing of single-crystal SiC using CeO<ce:inf loc="post">2</ce:inf> slurry</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochem. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5</sb:first-page>
+                              <sb:last-page>8</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="intref0035" xlink:href="https://doi.org/10.1016/j.elecom.2015.01.002" xlink:type="simple">https://doi.org/10.1016/j.elecom.2015.01.002</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0060">Deng, H., Hosoya, K., Imanishi, Y., Endo, K., Yamamura, K., 2015, Electro-chemical mechanical polishing of single-crystal SiC using CeO2 slurry, Electrochem. Commun. 52: 5-8. https://doi.org/10.1016/j.elecom.2015.01.002.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Murata</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Yodogawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Ban</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Polishing-pad-free electrochemical mechanical polishing of single-crystalline SiC surfaces using polyurethane–CeO<ce:inf loc="post">2</ce:inf> core–shell particles</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Mach. Tool Manuf.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>114</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>7</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="intref0040" xlink:href="https://doi.org/10.1016/j.ijmachtools.2016.11.007" xlink:type="simple">https://doi.org/10.1016/j.ijmachtools.2016.11.007</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0065">J. Murata, K. Yodogawa, K. Ban, Polishing-pad-free electrochemical mechanical polishing of single-crystalline SiC surfaces using polyurethane-CeO2 core-shell particles, Int. J. Mach. Tools Manu. 114 (2017) 1-7. https://doi.org/10.1016/j.ijmachtools.2016.11.007.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Owman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Hallin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Mårtensson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Janzen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Removal of polishing-induced damage from 6H-SiC (0001) substrates by hydrogen etching</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Cryst. Growth</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>167</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1–2</sb:issue-nr>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>391</sb:first-page>
+                              <sb:last-page>395</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="intref0045" xlink:href="https://doi.org/10.1016/0022-0248(96)00296-5" xlink:type="simple">https://doi.org/10.1016/0022-0248(96)00296-5</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0070">F. Owman, C. Hallin, P. Martensson, E. Janzen, Removal of polishing-induced damage from 6H-SiC (0001) substrates by hydrogen etching, J. Cryst. Growth 167(1-2) (1996) 391-395. https://doi.org/10.1016/0022-0248(96)00296-5.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kawai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Arima</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Yamamura</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrochemical mechanical polishing of 4H-SiC (0001) with different grinding stones</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>The 21st International Symposium on Advances in Abrasive Technology (ISAAT2018)</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>09</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>90</sb:issue-nr>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0075">X. Yang, K. Kawai, K. Arima, K. Yamamura, Electrochemical mechanical polishing of 4H-SiC (0001) with different grinding stones, The 21st International Symposium on Advances in Abrasive Technology (ISAAT2018), 09 (90) (2018).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Zerr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Eschnauer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Kny</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hard Materials: Ullmann's Encyclopedia of Industrial Chemistry</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2012</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Wiley</sb:name>
+                                 <sb:location>Hoboken</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0080">A. Zerr, H. Eschnauer, E. Kny, Hard Materials: Ullmann's Encyclopedia of Industrial Chemistry, Wiley, Hoboken, 2012.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.B.</ce:given-name>
+                                 <ce:surname>Shorey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.M.</ce:given-name>
+                                 <ce:surname>Kwong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.M.</ce:given-name>
+                                 <ce:surname>Johnson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.D.</ce:given-name>
+                                 <ce:surname>Jacobs</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nanoindentation hardness of particles used in magnetorheological finishing (MRF)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Optic.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>28</sb:issue-nr>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5194</sb:first-page>
+                              <sb:last-page>5204</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="intref0050" xlink:href="https://doi.org/10.1364/AO.39.005194" xlink:type="simple">https://doi.org/10.1364/AO.39.005194</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0085">A.B. Shorey, K.M. Kwong, K.M. Johnson, S.D. Jacobs, Nanoindentation hardness of particles used in magnetorheological finishing (MRF), Appl. Optics 39(28) (2000) 5194-5204. https://doi.org/10.1364/AO.39.005194.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Blank</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Popov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Lvova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Gogolinsky</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Reshetov</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nano-sclerometry measurements of superhard materials and diamond hardness using scanning force microscope with the ultrahard fullerite C 60 tip</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>11</sb:issue-nr>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3109</sb:first-page>
+                              <sb:last-page>3114</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="intref0055" xlink:href="https://doi.org/10.1557/JMR.1997.0406" xlink:type="simple">https://doi.org/10.1557/JMR.1997.0406</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0090">V. Blank, M. Popov, N. Lvova, K. Gogolinsky, V. Reshetov, Nano-sclerometry measurements of superhard materials and diamond hardness using scanning force microscope with the ultrahard fullerite C 60 tip, J. Mater. Res. 12(11) (1997) 3109-3114. https://doi.org/10.1557/JMR.1997.0406.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Qian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Voronin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.W.</ce:given-name>
+                                 <ce:surname>Zerda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High-pressure, high-temperature sintering of diamond–SiC composites by ball-milled diamond–Si mixtures</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>8</sb:issue-nr>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2153</sb:first-page>
+                              <sb:last-page>2160</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="intref0060" xlink:href="https://doi.org/10.1557/JMR.2002.0317" xlink:type="simple">https://doi.org/10.1557/JMR.2002.0317</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0095">J. Qian, G. Voronin, T.W. Zerda, D. He, Y. Zhao, High-pressure, high-temperature sintering of diamond-SiC composites by ball-milled diamond-Si mixtures. J. Mater. Res. 17(8) (2002) 2153-2160. https://doi.org/10.1557/JMR.2002.0317</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.T.</ce:given-name>
+                                 <ce:surname>Abiade</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Yeruva</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.M.</ce:given-name>
+                                 <ce:surname>Moudgil</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.K.</ce:given-name>
+                                 <ce:surname>Singh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A Tribochemical Study of ceria-silica interactions for CMP</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>153</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>11</sb:issue-nr>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>G1001</sb:first-page>
+                              <sb:last-page>G1004</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1149/1.2349357</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0100">J.T. Abiade, S. Yeruva, W. Choi, B.M. Moudgil, D. Kumar, R.K. Singh, A Tribochemical Study of ceria-silica interactions for CMP. J. Electrochem. Soc. 153(11) (2006) G1001-G1004. DOI: 10.1149/1.2349357.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sref19">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.M.</ce:given-name>
+                                 <ce:surname>Cook</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical processes in glass polishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Non-Cryst. Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>120</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1–3</sb:issue-nr>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>152</sb:first-page>
+                              <sb:last-page>171</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="intref0065" xlink:href="https://doi.org/10.1016/0022-3093(90)90200-6" xlink:type="simple">https://doi.org/10.1016/0022-3093(90)90200-6</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0105">L.M. Cook, Chemical processes in glass polishing, J. Non-Cryst. Solids 120(1-3) (1990) 152-171. https://doi.org/10.1016/0022-3093(90)90200-6.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.H.</ce:given-name>
+                                 <ce:surname>van Drop</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.S.</ce:given-name>
+                                 <ce:surname>Kooij</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.M.</ce:given-name>
+                                 <ce:surname>Arnoldbik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Kelly</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrochemical growth of micrometer-thick oxide on SiC in acidic fluoride solution</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>14</sb:issue-nr>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3297</sb:first-page>
+                              <sb:last-page>3305</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="intref0070" xlink:href="https://pubs.acs.org/doi/pdf/10.1021/cm900374s" xlink:type="simple">https://pubs.acs.org/doi/pdf/10.1021/cm900374s</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0110">D.H. van Drop, E.S. Kooij, W.M. Arnoldbik, J.J. Kelly, Electrochemical growth of micrometer-thick oxide on SiC in acidic fluoride solution, Chem. Mate., 21(14) (2009) 3297-3305. https://pubs.acs.org/doi/pdf/10.1021/cm900374s.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sref21">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Ohkubo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kawai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Arima</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Endo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Yamamura</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Investigation of anodic oxidation mechanism of 4H-SiC (0001) for electrochemical mechanical polishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>271</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>666</sb:first-page>
+                              <sb:last-page>676</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="intref0075" xlink:href="https://doi.org/10.1016/j.electacta.2018.03.184" xlink:type="simple">https://doi.org/10.1016/j.electacta.2018.03.184</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0115">X. Yang, R. Sun, Y. Ohkubo, K. Kawai, K. Arima, K. Endo, K. Yamamura, Investigation of anodic oxidation mechanism of 4H-SiC (0001) for electrochemical mechanical polishing, Electrochim. Acta 271 (2018) 666-676. https://doi.org/10.1016/j.electacta.2018.03.184.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sref22">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kawai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Arima</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Yamamura</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Surface modification and microstructuring of 4H-SiC (0001) by anodic oxidation with sodium chloride aqueous solution</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Appl. Mater. Interfaces</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2535</sb:first-page>
+                              <sb:last-page>2542</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="intref0080" xlink:href="https://doi.org/10.1021/acsami.8b19557" xlink:type="simple">https://doi.org/10.1021/acsami.8b19557</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0120">X. Yang, R. Sun, K. Kawai, K. Arima, K. Yamamura, Surface modification and microstructuring of 4H-SiC (0001) by anodic oxidation with sodium chloride aqueous solution, ACS Appl. Mater. &amp; interfaces 11(2) (2018) 2535-2542. https://doi.org/10.1021/acsami.8b19557.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sref23">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Hell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Reiner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Cremer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.H.</ce:given-name>
+                                 <ce:surname>Stelzer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Aberrations in confocal fluorescence microscopy induced by mismatches in refractive index</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Microsc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>169</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>391</sb:first-page>
+                              <sb:last-page>405</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="intref0085" xlink:href="https://doi.org/10.1111/j.1365-2818.1993.tb03315.x" xlink:type="simple">https://doi.org/10.1111/j.1365-2818.1993.tb03315.x</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0125">S. Hell, G. Reiner, C. Cremer, E.H. Stelzer, Aberrations in confocal fluorescence microscopy induced by mismatches in refractive index. J. Microsc. 169(3) (1993) 391-405. https://doi.org/10.1111/j.1365-2818.1993.tb03315.x.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sref24">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.T.</ce:given-name>
+                                 <ce:surname>Shaffer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.G.</ce:given-name>
+                                 <ce:surname>Naum</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Refractive index and dispersion of beta silicon carbide</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>JOSA</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>59</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>11</sb:issue-nr>
+                              <sb:date>1969</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>1498–1498</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srct0130">P.T. Shaffer, R.G. Naum, Refractive index and dispersion of beta silicon carbide, JOSA 59(11) (1969) 1498-1498.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sref25">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Pégourié</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Optical properties of alpha silicon carbide</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Astron. Astrophys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>194</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>335</sb:first-page>
+                              <sb:last-page>339</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0135">B. Pegourie, Optical properties of alpha silicon carbide. Astron. Astrophys. 194 (1988) 335-339.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="sref26">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Sugiyama</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Yamada</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Urakami</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kobayashi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Masuda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Nishikawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Hirose</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Onda</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Correlation of stress in silicon carbide crystal and frequency shift in micro-Raman spectroscopy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>MRS Proc</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1693</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="intref0090" xlink:href="https://doi.org/10.1557/opl.2014.580" xlink:type="simple">https://doi.org/10.1557/opl.2014.580</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0140">N. Sugiyama, M. Yamada, Y. Urakami, M. Kobayashi, T. Masuda, K. Nishikawa, F. Hirose, S. Onda, Correlation of stress in silicon carbide crystal and frequency shift in micro-Raman spectroscopy, MRS Proc., 1693 (2014). https://doi.org/10.1557/opl.2014.580</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

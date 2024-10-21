@@ -1,0 +1,1660 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0032591024009756</prism:url><dc:identifier>doi:10.1016/j.powtec.2024.120331</dc:identifier><eid>1-s2.0-S0032591024009756</eid><prism:doi>10.1016/j.powtec.2024.120331</prism:doi><pii>S0032-5910(24)00975-6</pii><dc:title>The history of the international fine particle institute and some thoughts on the challenges and successes of particle science and technology </dc:title><prism:publicationName>Powder Technology</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>00325910</prism:issn><prism:volume>448</prism:volume><prism:startingPage>120331</prism:startingPage><prism:pageRange>120331</prism:pageRange><articleNumber>120331</articleNumber><dc:format>application/xml</dc:format><prism:coverDate>2024-12-01</prism:coverDate><prism:coverDisplayDate>1 December 2024</prism:coverDisplayDate><prism:copyright>© 2024 The Authors. Published by Elsevier B.V.</prism:copyright><prism:publisher>The Authors. Published by Elsevier B.V.</prism:publisher><dc:creator>Hendrickson, W.A.</dc:creator><dc:creator>Pfeffer, Robert</dc:creator><dc:description>
+                  This paper offers a reflection and prospectus from the viewpoint of the International Fine Particle Research Institute (IFPRI) community, specifically the current state of particle technology, how we got to this point, and where the future is heading. IFPRI is a unique consortium, working with academics from universities around the world, pursuing research that is directed by industrial members. While this reflection has a historical context, its perspective is clearly toward solving current and future challenges associated with particle science, engineering, and technology.
+               </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>Author</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc/4.0/</openaccessUserLicense><dcterms:subject>Industrial-academic consortium</dcterms:subject><dcterms:subject>Characterization</dcterms:subject><dcterms:subject>Particle formation</dcterms:subject><dcterms:subject>Size reduction</dcterms:subject><dcterms:subject>Dry powder flow</dcterms:subject><dcterms:subject>Wet systems</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0032591024009756" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0032591024009756" rel="scidir"/></coredata><objects><object ref="fx1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="445" height="274" size="41098">https://api.elsevier.com/content/object/eid/1-s2.0-S0032591024009756-fx1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="535" height="250" size="32439">https://api.elsevier.com/content/object/eid/1-s2.0-S0032591024009756-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="383" height="350" size="60542">https://api.elsevier.com/content/object/eid/1-s2.0-S0032591024009756-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="383" height="310" size="55309">https://api.elsevier.com/content/object/eid/1-s2.0-S0032591024009756-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="ga1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="500" height="171" size="27106">https://api.elsevier.com/content/object/eid/1-s2.0-S0032591024009756-ga1.jpg?httpAccept=%2A%2F%2A</object><object ref="fx1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="135" size="12471">https://api.elsevier.com/content/object/eid/1-s2.0-S0032591024009756-fx1.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="102" size="6611">https://api.elsevier.com/content/object/eid/1-s2.0-S0032591024009756-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="179" height="164" size="13578">https://api.elsevier.com/content/object/eid/1-s2.0-S0032591024009756-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="202" height="164" size="15129">https://api.elsevier.com/content/object/eid/1-s2.0-S0032591024009756-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="ga1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="75" size="7117">https://api.elsevier.com/content/object/eid/1-s2.0-S0032591024009756-ga1.sml?httpAccept=%2A%2F%2A</object><object ref="fx1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1973" height="1215" size="404649">https://api.elsevier.com/content/object/eid/1-s2.0-S0032591024009756-fx1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2368" height="1105" size="259478">https://api.elsevier.com/content/object/eid/1-s2.0-S0032591024009756-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1699" height="1554" size="515986">https://api.elsevier.com/content/object/eid/1-s2.0-S0032591024009756-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1699" height="1377" size="425379">https://api.elsevier.com/content/object/eid/1-s2.0-S0032591024009756-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="ga1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1328" height="454" size="96212">https://api.elsevier.com/content/object/eid/1-s2.0-S0032591024009756-ga1_lrg.jpg?httpAccept=%2A%2F%2A</object></objects><scopus-id>85205793506</scopus-id><scopus-eid>2-s2.0-85205793506</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85205793506" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271376</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291777</xocs:ssid>
+         <xocs:ssid type="subj">291786</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Powder Technology</xocs:srctitle>
+      <xocs:normalized-srctitle>POWDERTECHNOLOGY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20240927">2024-09-27</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20240927">2024-09-27</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20241010">2024-10-10</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20241010">2024-10-10</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2024-10-10T13:16:00</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0032591024009756</xocs:eid>
+      <xocs:pii-formatted>S0032-5910(24)00975-6</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0032591024009756</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.powtec.2024.120331</xocs:doi>
+      <xocs:item-stage>S250</xocs:item-stage>
+      <xocs:item-version-number>S250.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0032591024X00145</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20241010">2024-10-10T16:39:22.674417Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20241201</xocs:date-search-begin>
+      <xocs:year-nav>2024</xocs:year-nav>
+      <xocs:indexeddate epoch="1727468082">2024-09-27T20:14:42.028652Z</xocs:indexeddate>
+      <xocs:articleinfo>absattachment articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast highlightsabst primabst ref specialabst</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0032-5910</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00325910</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>NONE</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>448</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>448</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 448</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>102</xocs:sort-order>
+      <xocs:first-fp>120331</xocs:first-fp>
+      <xocs:article-number>120331</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>120331</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20241201</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1 December 2024</xocs:cover-date-text>
+      <xocs:cover-date-start>2024-12-01</xocs:cover-date-start>
+      <xocs:cover-date-year>2024</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Full length Articles</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2024 The Authors. Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>HISTORYINTERNATIONALFINEPARTICLEINSTITUTETHOUGHTSCHALLENGESSUCCESSESPARTICLESCIENCETECHNOLOGY</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>HENDRICKSON</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>W</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Genesis of the concept of IFPRI</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Early years of IFPRI</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>The refinement of the IFPRI model accompanied by growth, then decline of membership</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>5</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Industry mergers, acquisitions, and the great recession: Membership decline and program transformation</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>6</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Membership growth and the current state of IFPRI</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>7</xocs:item-toc-label>
+            <xocs:item-toc-section-title>The world, particle science, and IFPRI in the future</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>CRediT authorship contribution statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="rf0005">
+            <xocs:ref-normalized-surname>DAVIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1955</xocs:ref-pub-year>
+            <xocs:ref-first-fp>269</xocs:ref-first-fp>
+            <xocs:ref-last-lp>283</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0010">
+            <xocs:ref-normalized-surname>DAVIES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>AREPORTNSFWORKSHOPPARTICLESCIENCETECHNOLOGY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0015">
+            <xocs:ref-normalized-surname>PEDANO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>EFFECTPARTICLEPROPERTIESFLOWCHARACTERISTICSELECTROPHOTOGRAPHICPOWDERS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0020">
+            <xocs:ref-normalized-surname>MORT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>571</xocs:ref-first-fp>
+            <xocs:ref-last-lp>584</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0025">
+            <xocs:ref-normalized-surname>LITSTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>144</xocs:ref-first-fp>
+            <xocs:ref-last-lp>149</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0030">
+            <xocs:ref-normalized-surname>MERROW</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>LINKINGRDPROBLEMSEXPERIENCEDINSOLIDSPROCESSING</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0035">
+            <xocs:ref-normalized-surname>MERROW</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>89</xocs:ref-first-fp>
+            <xocs:ref-last-lp>92</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0040">
+            <xocs:ref-normalized-surname>TENCHOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>UNDERSTANDINGNANOTECHNOLOGYINCOVID19VACCINES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="or5432"/>
+         <xocs:ref-info refid="rf0045">
+            <xocs:ref-normalized-surname>NEHETE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>107</xocs:ref-first-fp>
+            <xocs:ref-last-lp>116</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0050">
+            <xocs:ref-normalized-surname>KRISHAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>178</xocs:ref-first-fp>
+            <xocs:ref-last-lp>204</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0055">
+            <xocs:ref-normalized-surname>ENNIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>32</xocs:ref-first-fp>
+            <xocs:ref-last-lp>43</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0060">
+            <xocs:ref-normalized-surname>MUNROE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>D4</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MAKESSANDSOFT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>HENDRICKSONX2024X120331</xocs:refkey3>
+         <xocs:refkey4ai>HENDRICKSONX2024X120331XW</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2024-10-08T14:18:54Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>Author</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2026-10-10T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2026-10-10T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY-NC license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2024 The Authors. Published by Elsevier B.V.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:article-sharing-framework/>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0032-5910(24)00975-6</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0032591024009756</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0032591024009756</xocs:eid>
+         <xocs:doi>10.1016/j.powtec.2024.120331</xocs:doi>
+         <xocs:cid>271376</xocs:cid>
+         <xocs:timestamp>2024-10-10T16:39:22.674417Z</xocs:timestamp>
+         <xocs:cover-date-start>2024-12-01</xocs:cover-date-start>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>NONE</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0032591024009756-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591024009756/MAIN/application/pdf/78b49d18cd02d65764f0d7bded07979e/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>2595477</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>8</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0032591024009756-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591024009756/PREVIEW/image/png/c7ffcd7046b391d1dabca2bf9551d452/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>50386</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032591024009756-fx1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591024009756/fx1/DOWNSAMPLED/image/jpeg/5029387a886f26b0021ba41738128c2b/fx1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>41098</xocs:filesize>
+               <xocs:pixel-height>274</xocs:pixel-height>
+               <xocs:pixel-width>445</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032591024009756-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591024009756/gr3/DOWNSAMPLED/image/jpeg/d3030ed14e1294b6866ee0b3bdab2b89/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>32439</xocs:filesize>
+               <xocs:pixel-height>250</xocs:pixel-height>
+               <xocs:pixel-width>535</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032591024009756-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591024009756/gr1/DOWNSAMPLED/image/jpeg/c70d55c4ecddad5fb3645769e23bbdfa/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>60542</xocs:filesize>
+               <xocs:pixel-height>350</xocs:pixel-height>
+               <xocs:pixel-width>383</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032591024009756-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591024009756/gr2/DOWNSAMPLED/image/jpeg/0d6c81b3b427b86ef7d69bc992eefbf0/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>55309</xocs:filesize>
+               <xocs:pixel-height>310</xocs:pixel-height>
+               <xocs:pixel-width>383</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032591024009756-ga1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591024009756/ga1/DOWNSAMPLED/image/jpeg/0db4587f63d25d790ce11805e8db246b/ga1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>27106</xocs:filesize>
+               <xocs:pixel-height>171</xocs:pixel-height>
+               <xocs:pixel-width>500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032591024009756-fx1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591024009756/fx1/THUMBNAIL/image/gif/d6874642b93dd7a424f2d6aeb5d95dc4/fx1.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12471</xocs:filesize>
+               <xocs:pixel-height>135</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032591024009756-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591024009756/gr3/THUMBNAIL/image/gif/9fab4a8c20d242f4039c2a80e5996bb2/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6611</xocs:filesize>
+               <xocs:pixel-height>102</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032591024009756-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591024009756/gr1/THUMBNAIL/image/gif/e51508981dc6b23f82e204ccf7477fc7/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>13578</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>179</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032591024009756-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591024009756/gr2/THUMBNAIL/image/gif/475db27bf963e51f8f0e6bf3e0cfc9dc/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>15129</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>202</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032591024009756-ga1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591024009756/ga1/THUMBNAIL/image/gif/fc7aebe3887de1f7eb633a5e4e5b9ee6/ga1.sml</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7117</xocs:filesize>
+               <xocs:pixel-height>75</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032591024009756-fx1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591024009756/HIGHRES/image/jpeg/0abfe92174ebed0e4544203a8107e1ae/fx1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>404649</xocs:filesize>
+               <xocs:pixel-height>1215</xocs:pixel-height>
+               <xocs:pixel-width>1973</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032591024009756-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591024009756/HIGHRES/image/jpeg/b61db8708e9ab04d180ea15adda2d746/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>259478</xocs:filesize>
+               <xocs:pixel-height>1105</xocs:pixel-height>
+               <xocs:pixel-width>2368</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032591024009756-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591024009756/HIGHRES/image/jpeg/462afcc51ecc526fe25a0b29e9a90e84/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>515986</xocs:filesize>
+               <xocs:pixel-height>1554</xocs:pixel-height>
+               <xocs:pixel-width>1699</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032591024009756-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591024009756/HIGHRES/image/jpeg/9ca10eb40b38fadd55cce860bf7d92a1/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>425379</xocs:filesize>
+               <xocs:pixel-height>1377</xocs:pixel-height>
+               <xocs:pixel-width>1699</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032591024009756-ga1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032591024009756/HIGHRES/image/jpeg/61562983f5a0bc4f7e18b8d3f5b29438/ga1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>ga1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>ga1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>96212</xocs:filesize>
+               <xocs:pixel-height>454</xocs:pixel-height>
+               <xocs:pixel-width>1328</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.6" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>PTEC</jid>
+            <aid>120331</aid>
+            <ce:article-number>120331</ce:article-number>
+            <ce:pii>S0032-5910(24)00975-6</ce:pii>
+            <ce:doi>10.1016/j.powtec.2024.120331</ce:doi>
+            <ce:copyright type="unknown" year="2024"/>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="ca0005">
+                  <ce:simple-para id="sp0005" view="all">IFPRI membership trends by sector.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0005">Fig. 1</ce:alt-text>
+               <ce:link id="lk0005" locator="gr1" xlink:type="simple" xlink:href="pii:S0032591024009756/gr1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="ca0010">
+                  <ce:simple-para id="sp0010" view="all">Project trends by program area.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0010">Fig. 2</ce:alt-text>
+               <ce:link id="lk0010" locator="gr2" xlink:type="simple" xlink:href="pii:S0032591024009756/gr2" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="ca0015">
+                  <ce:simple-para id="sp0015" view="all">IFPRI structure, designed for response to members' needs, managed by program area.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0015">Fig. 3</ce:alt-text>
+               <ce:link id="lk0015" locator="gr3" xlink:type="simple" xlink:href="pii:S0032591024009756/gr3" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0005" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="ca0020">
+                  <ce:simple-para id="sp0020" view="all">Member companies having extended tenure. a. other 979 companies: Amax Metals, Bethlehem Steel, CSRI SA, Gulf Oil, Monsanto; b. other 1989 companies: Engelhard, Phillips Research, SCM, Shell, Shimizu Constr., Xerox; c. other 1999 companies: Assc. Cement, Astra Zeneca, Cabot, Colorcon, Glaxo Welcome, Hercules, IHI, Inst Francais Petrole, Kraft, Malvern, Microfluidics, Millenium Chemical, Potash Corp of Sask., PQ Corp, Smith Kline Beecham, Huntsman, Union Carbide; d. other 2009 company: Umicore; e. other 2016 companies: AbbVie, Almatis, Duracell, Evonik, Freeman Technology, Nippon Steel; f. other current members, 2024: Alkermes, ArcelorMittal, Cargill, Chemours, Corteva Agriscience, Danone, Ecolab, FMC, Janssen Pharma, JM Canty, Keurig Dr. Pepper, Lincoln Electric, Novartis, Novonordisk, Origin Materials, Sandia Nat Lab, Schenck Process, Sherwin-Williams, Silanano Tech, Topsoe, USG, Vertex Pharma.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0020">Table 1</ce:alt-text>
+               <tgroup cols="7">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <colspec colname="col5"/>
+                  <colspec colname="col6"/>
+                  <colspec colname="col7"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">1979<sup loc="post">a</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">1989<sup loc="post">b</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">1999<sup loc="post">c</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">2009<sup loc="post">d</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">2016<sup loc="post">e</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7">2024<sup loc="post">f</sup>
+                        </entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="bottom">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">3M</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7"/>
+                     </row>
+                     <row valign="bottom">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Alcoa</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7"/>
+                     </row>
+                     <row valign="bottom">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">BP Chemical</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7"/>
+                     </row>
+                     <row valign="bottom">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">DuPont</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7"/>
+                     </row>
+                     <row valign="bottom">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Eastman Kodak</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7"/>
+                     </row>
+                     <row valign="bottom">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Exxon</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7"/>
+                     </row>
+                     <row valign="bottom">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">ICI</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7"/>
+                     </row>
+                     <row valign="bottom">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Unilever</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7">✓</entry>
+                     </row>
+                     <row valign="middle">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Agfa-Gevaert</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7"/>
+                     </row>
+                     <row valign="middle">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">AKZO</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7"/>
+                     </row>
+                     <row valign="middle">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Alcan</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7"/>
+                     </row>
+                     <row valign="middle">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">BNFL</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7"/>
+                     </row>
+                     <row valign="middle">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead colgroup" namest="col1" nameend="col2">Hosakawa Micron</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7"/>
+                     </row>
+                     <row valign="middle">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Mobil</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7"/>
+                     </row>
+                     <row valign="middle">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Nisshin</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7"/>
+                     </row>
+                     <row valign="middle">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">P&amp;G</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7">✓</entry>
+                     </row>
+                     <row valign="bottom">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">AVEKA</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7">✓</entry>
+                     </row>
+                     <row valign="bottom">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Dow Chemical</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7">✓</entry>
+                     </row>
+                     <row valign="bottom">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">DSM / Envalior</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7">✓</entry>
+                     </row>
+                     <row valign="bottom">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead colgroup" namest="col1" nameend="col3">Eng China Clay / Imerys</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7">✓</entry>
+                     </row>
+                     <row valign="bottom">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Evonik</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7"/>
+                     </row>
+                     <row valign="bottom">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Lafarge</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7"/>
+                     </row>
+                     <row valign="bottom">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Merck</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7">✓</entry>
+                     </row>
+                     <row valign="bottom">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Nestle</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7">✓</entry>
+                     </row>
+                     <row valign="bottom">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Pfizer</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7">✓</entry>
+                     </row>
+                     <row valign="bottom">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">UOP</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7"/>
+                     </row>
+                     <row valign="bottom">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Corbion</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7">✓</entry>
+                     </row>
+                     <row valign="bottom">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Eli Lilly</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7"/>
+                     </row>
+                     <row valign="bottom">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead colgroup" namest="col1" nameend="col3">Novozymes / Novonesis</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7">✓</entry>
+                     </row>
+                     <row valign="bottom">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Syngenta</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7">✓</entry>
+                     </row>
+                     <row valign="bottom">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Corning</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7">✓</entry>
+                     </row>
+                     <row valign="bottom">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Granutools</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7">✓</entry>
+                     </row>
+                     <row valign="bottom">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Horiba</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7">✓</entry>
+                     </row>
+                     <row valign="bottom">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" role="rowhead colgroup" namest="col1" nameend="col3">Johnson Matthey</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7">✓</entry>
+                     </row>
+                     <row valign="bottom">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Paul O. Abbe</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7">✓</entry>
+                     </row>
+                     <row valign="bottom">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Siemens PSE</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7">✓</entry>
+                     </row>
+                     <row valign="bottom">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Roche</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">✓</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7">✓</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0010" frame="none" rowsep="0" colsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="ca0025">
+                  <ce:simple-para id="sp0025" view="all">Selection of IFPRI researchers by program area; full project titles and abstracts can be found at <ce:inter-ref id="ir0005" xlink:href="https://ifpri.net/publications" xlink:type="simple">https://ifpri.net/publications</ce:inter-ref> a. Loughborough Univ.; b. City College of New York; c. Kyoto Univ.; d. Clausthal Univ. of Technology; e. TU Delft; f. Univ. of Birmingham; g. Sintokogyo Ltd.; h. Univ. of Cambridge; i. Hiroshima Univ.; j. Univ. of Illinois at Chicago; k. KU Leuven; l. Carnegie Mellon Univ.; m. Univ of Surrey; n. Univ. of New Mexico; o. Princeton Univ.; p. Univ. of Southern California; q. Tokyo Univ.; r. Univ. of Bradford; s. Columbia Univ.; t. Univ. of Maryland; u. Karlsruhe Univ.; v. Soka Univ.; w. Univ. of Leeds; x. TU Braunschweig; y. Tohoku Univ.; z. Case Western Reserve Univ.; aa. Univ. of Wisconsin; ab. Univ. of Bremen; ac. Univ. of Queensland; ad. Stevens Inst. of Technology; ae. Univ. of ŁódŻ; af. Cornell Univ.; ag. Rutgers Univ.; ah. Univ. of Illinois; ai. Wollongong Univ.; aj. Lancaster Univ.; ak. Ludwig Maximilian Univ. of Munich; al. Univ. of Delaware; am. California Inst. of Technology; an. Keio Univ.; ao. Australian National Univ.; ap. Univ. of Liége; aq. Univ. of California, Santa Barbara; ar. Duke Univ.; as. Univ. of Michigan; at. CISRO; au. Univ. of Toulouse; av. Deakin Univ.; aw. Univ. of Toronto; ax. Purdue Univ.; ay. Univ. of Sheffield; az. Massachusetts Inst. of Technology; ba. New Jersey Inst. of Technology; bb. North Carolina State Univ.; bc. Univ. of Leicester; bd. Indian Inst. of Science; be. ETH Zurich; bf. Univ. of Lorraine; bg. Univ. of Manchester; bh. Univ. of Montpellier.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0025">Table 2</ce:alt-text>
+               <ce:link id="lk0020" locator="fx1" xlink:type="simple" xlink:href="pii:S0032591024009756/fx1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0015" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 3</ce:label>
+               <ce:caption id="ca0030">
+                  <ce:simple-para id="sp0030" view="all">Workshop topics.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0030">Table 3</ce:alt-text>
+               <tgroup cols="3">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">Topic</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Date</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Location</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">Powder Flow</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">2003</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Bremen</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">Agglomeration</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">2004</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Delaware</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">Gel Formation</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">2006</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Santa Barbara</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">Colloidal Gels</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">2008</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Hersonissos</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">Grinding</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">2011</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Amsterdam</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">Powder Flow Collaboratory</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">2011</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Chapel Hill</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">Particle Formation</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">2013</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Delaware</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">Crystallization</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">2015</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Ithaca</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">Powder Flow</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">2017</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Amsterdam</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">Particle Technology Education</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">2017</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Sheffield</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">Dense Phase Rheology</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">2018</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Edinburgh</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">Cohesion</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">2020</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Philadelphia</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">Modeling of Powder Flow</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">2023</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Lafayette</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">Powder Reconstitution</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">2024</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Toronto</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">Grinding</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">2025</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Marseille (in planning)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0020" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 4</ce:label>
+               <ce:caption id="ca0035">
+                  <ce:simple-para id="sp0035" view="all">Consultants by topic area, 2024.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0035">Table 4</ce:alt-text>
+               <tgroup cols="3">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">Topical area</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Consultant</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Institution</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">Characterization</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Wilson Poon</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">University of Edinburgh – United Kingdom</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">Size Reduction</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Wolfgang Peukert</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">University of Erlangen – Germany</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">Particle Formation</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Gabrie Meesters</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Delft University – The Netherlands</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">Dry Systems</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Michel Louge</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Cornell University – United States</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">Wet Systems</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Eric Furst</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">University of Delaware – United States</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1">Systems Engineering</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Paul Mort</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Purdue University – United States</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="ti0005">The history of the international fine particle institute and some thoughts on the challenges and successes of particle science and technology</ce:title>
+            <ce:author-group id="ag0005">
+               <ce:author id="au0005" author-id="S0032591024009756-366f1434dd061dac4b4719bd646b74eb">
+                  <ce:given-name>W.A.</ce:given-name>
+                  <ce:surname>Hendrickson</ce:surname>
+                  <ce:roles>whendrickson@aveka.com</ce:roles>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-original-draft">Writing – original draft</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/formal-analysis">Formal analysis</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/data-curation">Data curation</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+                  <ce:cross-ref refid="af0005" id="cf0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cf4323" refid="PC_cornn09g9lchy">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0010" author-id="S0032591024009756-ad59ad1f750751b80d6c291e9f787710">
+                  <ce:given-name>Robert</ce:given-name>
+                  <ce:surname>Pfeffer</ce:surname>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/writing-review-editing">Writing – review &amp; editing</ce:contributor-role>
+                  <ce:contributor-role role="http://credit.niso.org/contributor-roles/conceptualization">Conceptualization</ce:contributor-role>
+                  <ce:cross-ref refid="af0010" id="cf0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="af0005" affiliation-id="S0032591024009756-d5edbe95f7b452936fcf8fd58da4108b">
+                  <ce:label>a</ce:label>
+                  <ce:textfn id="tn0005">IFPRI President and CEO of The AVEKA Group, Saint Paul, MN 55125, United States of America</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>IFPRI President and CEO of The AVEKA Group</sa:organization>
+                     <sa:city>Saint Paul</sa:city>
+                     <sa:state>MN</sa:state>
+                     <sa:postal-code>55125</sa:postal-code>
+                     <sa:country>United States of America</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="se0005">IFPRI President and CEO of The AVEKA Group, Saint Paul, MN 55125</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af0010" affiliation-id="S0032591024009756-c874ab276f83fdb46d8f16566bfefe1a">
+                  <ce:label>b</ce:label>
+                  <ce:textfn id="tn0010">School for Engineering of Matter, Transport and Energy (SEMTE), Arizona State University, Tempe, AZ 85281, United States of America</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>School for Engineering of Matter, Transport and Energy (SEMTE)</sa:organization>
+                     <sa:organization>Arizona State University</sa:organization>
+                     <sa:city>Tempe</sa:city>
+                     <sa:state>AZ</sa:state>
+                     <sa:postal-code>85281</sa:postal-code>
+                     <sa:country>United States of America</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="se0010">School for Engineering of Matter, Transport and Energy (SEMTE), Arizona State University, Tempe, AZ 85281</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="PC_cornn09g9lchy">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="3" month="9" year="2024"/>
+            <ce:date-revised day="24" month="9" year="2024"/>
+            <ce:date-accepted day="26" month="9" year="2024"/>
+            <ce:abstract id="ab0005" xml:lang="en" view="all" class="author"><ce:abstract-sec id="as0005" view="all">
+                  <ce:simple-para id="sp0040" view="all">This paper offers a reflection and prospectus from the viewpoint of the International Fine Particle Research Institute (IFPRI) community, specifically the current state of particle technology, how we got to this point, and where the future is heading. IFPRI is a unique consortium, working with academics from universities around the world, pursuing research that is directed by industrial members. While this reflection has a historical context, its perspective is clearly toward solving current and future challenges associated with particle science, engineering, and technology.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:abstract id="ab0010" class="graphical" xml:lang="en" view="all">
+               <ce:section-title id="st0010">Graphical abstract</ce:section-title>
+               <ce:abstract-sec id="as0010" view="all">
+                  <ce:simple-para id="sp0045" view="all">
+                     <ce:display>
+                        <ce:figure id="f0020">
+                           <ce:alt-text role="short" id="al0040">Unlabelled Image</ce:alt-text>
+                           <ce:link id="lk0025" locator="ga1" xlink:type="simple" xlink:href="pii:S0032591024009756/ga1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+                        </ce:figure>
+                     </ce:display>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            
+            <ce:keywords id="ks0005" view="all" class="keyword">
+               <ce:section-title id="st0020">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text id="tx0010">Industrial-academic consortium</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text id="tx0015">Characterization</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text id="tx0020">Particle formation</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text id="tx0025">Size reduction</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0025">
+                  <ce:text id="tx0030">Dry powder flow</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0030">
+                  <ce:text id="tx0035">Wet systems</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+            <ce:data-availability id="da0005" view="all">
+               <ce:section-title id="st0025">Data availability</ce:section-title>
+               <ce:para id="p0030" view="all">Data will be made available on request.</ce:para>
+            </ce:data-availability>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="st0030">Introduction</ce:section-title>
+                  <ce:para id="p0035" view="all">Since the broad onset of the COVID-19 pandemic in early 2020, the world has suffered under restrictions and dislocations; yet it has afforded many of us the time to reflect on current situations and future prospects. This paper offers a reflection and prospectus from the viewpoint of the IFPRI community, specifically the current state of particle technology, how we got to this point and where the future is heading. As an historical baseline, let us consider several other disruptions that have occurred over the past 75 years.</ce:para>
+                  <ce:para id="p0040" view="all">In 1973 we had reached a crossroads of at least 4 major movements: the start of globalization, the beginning of geopolitical shifts away from Europe and the US, tightening and scarcity of key strategic resources, and the application and results of new technologies. In a broad sense this was manifested in the oil embargo, the opening of China to the rest of the world, and the application of particle technology to the iron and steel industry, first in the US and then around the world. In 1973 we thought that we only had 25 years left in oil and gas reserves and the OPEC cartel was flexing its political clout with limits on oil production. Lines developed at gas stations, oil prices skyrocketed, and the world economy faltered.</ce:para>
+                  <ce:para id="p0045" view="all">At the same time, 1973 marked the peak of iron and steel production in the United States. Hidden in this was an accelerating decline in jobs in this area that was a direct result of advances in particle science and technology. In the 1940's the US iron ore industry realized that, like the future oil industry would in the 1970s, there was an end in sight to easily available raw materials. While high grade iron ore (65 % iron) was running out in the Great Lakes deposits in the United States, it was well known that a low-grade ore, taconite (35 % iron), was in abundance. Research in particle technology, particularly by Edward W. Davis at the University of Minnesota [<ce:cross-ref id="cf0020" refid="bb0005">1</ce:cross-ref>], resulted in methods to beneficiate taconite into high grade ore. By 1955 the first commercial use of taconite ore was used to produce blast furnace pig iron. The known reserves of Great Lakes iron ore jumped from a few years to over 600 years at the then current usage rates.</ce:para>
+                  <ce:para id="p0050" view="all">The beneficiation process is a classical particle problem whose solution involved multiple grinding steps, wet separation (flotation and magnetic), pellet formation (to reduce dust and simplify handling) and firing to stabilize the taconite pellets. The process was successful, perhaps too successful. By pelletizing to a uniform pellet size this new raw material feed improved the efficiency of the blast furnaces by 500 % (better air flow through the blast furnaces) and over 80 % of the blast furnaces were closed by 1973. Of course, foreign dumping of iron and steel was blamed, but that was only a small part of the job loss in the iron and steel industry. Particle technology had solved a raw materials problem and a production efficiency problem and added to the societal changes of 1973.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="st0035">Genesis of the concept of IFPRI</ce:section-title>
+                  <ce:para id="p0055" view="all">At this same time, two academic professors and a group of industrial managers were realizing that particle technology was a critical part of societal and industrial efficiencies, but, with a few exceptions, particle science and technology was neither an academic nor an industrial research and development priority. Only a few academic departments in the world had a focus on particle science and technology [<ce:cross-ref id="cf0025" refid="bb0010">2</ce:cross-ref>]. Europe and Japan had a greater focus on solids handling than the US, but more could be done. Similarly, many industrial companies did not see the value in investing in separate research and development groups to look at the effects of particle science and technology. One of the few exceptions was Howard Turner, at DuPont, who managed a group of consultants in DuPont's Engineering Department.</ce:para>
+                  <ce:para id="p0060" view="all">In 1974, Brian Scarlett (University of Loughborough) was visiting Bob Pfeffer (City College of New York); their discussion turned to the lack of specific funding from UK and USA government agencies and the lack of focused courses in particle technology in academia. At this time, Bob Pfeffer was acting as a consultant with Howard Turner's group, and Bob suggested getting Howard Turner's advice on putting together an industry-focused consortium on particle technology. During those first discussions, Howard suggested that the consortium needed to be broader than just City College and Loughborough as academic members. Encouraged by the initial discussion, Brian and Bob continued to develop the concept, eventually convincing Frank Tiller at the University of Houston, Kurt Leschonski at TU Clausthal, and K. Inoya at Kyoto University to participate in the formation of this new consortium.</ce:para>
+                  <ce:para id="p0065" view="all">In 1975, Reg Davies (Illinois Institute of Technology Research Institute) was hired at DuPont and he, along with Howard Turner and Jim Fair (Monsanto), started discussing how to make the idea of a new particle technology consortium a reality. Not surprisingly, the development and implementation of this new endeavor did not happen overnight, but over the next 4 years the concept was refined and eventually encompassed some of the unique structures that are still part of IFPRI including:<ce:list id="l0010">
+                        <ce:list-item id="li0030">
+                           <ce:label>1)</ce:label>
+                           <ce:para id="p0070" view="all">the industrial members would discuss and develop particle science and technology strategies and proposals that were of interest to the combined industrial membership,</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="li0035">
+                           <ce:label>2)</ce:label>
+                           <ce:para id="p0075" view="all">only industrial members would vote on which programs to fund, but with the input from the founding academics who were designated as academic advisors or from academic consultants hired by IFPRI in the later years,</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="li0040">
+                           <ce:label>3)</ce:label>
+                           <ce:para id="p0080" view="all">the funded research would be of broad interest and be nonproprietary and open to all IFPRI members, and</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="li0045">
+                           <ce:label>4)</ce:label>
+                           <ce:para id="p0085" view="all">no unsolicited research proposals would be accepted.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+                  <ce:para id="p0090" view="all">Perhaps the most intriguing aspects of this proposed consortium was the following: 1) the industrial members would decide and direct the research, and 2) the consortium would not reside at a single university but would be a stand-alone organization that would work closely with academics from universities around the world. Contrast this to some government or university sponsored organizations that have a site focus, led by academics.</ce:para>
+               </ce:section>
+               <ce:section id="s0015" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="st0040">Early years of IFPRI</ce:section-title>
+                  <ce:para id="p0095" view="all">In 1978 Howard Turner and Reg Davies convinced the 5 founding academics that the time was right for the first industrial meeting. With $5000 provided by the founding academics' universities ($1000/university which was later returned when IFPRI was fully operational), they organized a meeting at the Hotel DuPont in Wilmington, Delaware with representatives from approximately 20 companies from around the world to present the concept of the International Fine Particle Research Institute (IFPRI). During this meeting the Vision and Mission of IFPRI was presented (see Graphical Abstract), an organizational structure that included a President, Secretary, and Treasurer who were also part of the 5-member Executive Committee (EC) and a 5-member Technical Committee (TC), along with the 5 academic advisors who were non-voting members, led by the TC Chair. The structure was devised to divide the financial responsibilities (membership drives, collection of membership dues, disbursement of grants to academics, etc.) from the strategic technical program development. This structure continued with few changes until 2007 when the organization was simplified with consultants replacing advisors, all members being part of the EC and TC, and all full members voting on the final budget and the full research program. During the initial years IFPRI had only one paid employee, the President. In 1990 a second paid employee, the IFPRI Vice President, was added to help the President with the growing academic program and help with recruiting new members.</ce:para>
+                  <ce:para id="p0100" view="all">By 1979, 13 companies had decided to become members of IFPRI (<ce:cross-ref id="cf0030" refid="t0005">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="t0005"/>). Howard Turner had retired from DuPont to become the first IFPRI President and Reg Davies from DuPont was elected by the members as the first TC Chair. The first IFPRI Annual General Meeting (AGM) was held in Philadelphia in June of 1979 where 3 research papers and one review were presented (<ce:cross-ref id="cf0035" refid="t0010">Table 2</ce:cross-ref>
+                     <ce:float-anchor refid="t0010"/>). A substantial portion of the meeting was also devoted to the discussion of new projects to be funded, assessment of the current research, and discussion of the general state of funding and education in the area of particle science and technology. All of these would become a regular part of future IFPRI meetings. Over the next 4 years under Howard Turner's leadership, membership in IFPRI grew to 22 members (<ce:cross-ref id="cf0040" refid="f0005">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="f0005"/>) and the research program grew to include 12 research presentations and 3 reviews (<ce:cross-ref id="cf0045" refid="f0010">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="f0010"/>). It was during this initial start-up of the IFPRI organization that many of the organizational details were determined including:<ce:list id="l0015">
+                        <ce:list-item id="li0050">
+                           <ce:label>1)</ce:label>
+                           <ce:para id="p0105" view="all">defining 5 areas of industrial important research (<ce:cross-ref id="cf0050" refid="f0015">Fig. 3</ce:cross-ref>
+                              <ce:float-anchor refid="f0015"/>): Characterization, Size Reduction, Formation, Dry Systems or Powder Flow, and Wet Systems (filtration and rheology),</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="li0055">
+                           <ce:label>2)</ce:label>
+                           <ce:para id="p0110" view="all">holding the AGM in June or July, alternating each year between the US and Europe and in Japan every 5 years,</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="li0060">
+                           <ce:label>3)</ce:label>
+                           <ce:para id="p0115" view="all">holding a second meeting in January for the EC to assess the current state of the organization, develop business strategies, and consider the financial state of IFPRI,</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="li0065">
+                           <ce:label>4)</ce:label>
+                           <ce:para id="p0120" view="all">having a third meeting in March for the TC (industrial members only) to consider the current research program and plan on new programs for the coming year, and</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="li0070">
+                           <ce:label>5)</ce:label>
+                           <ce:para id="p0125" view="all">developing some of the collegial networking such as annual banquets, happy hours, sporting events, and other interpersonal activities that provide the human glue that binds any organization.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+                  <ce:para id="p0130" view="all">In these first four years the vision of Howard Turner, Bob Pfeffer, and Brian Scarlett of an international organization comprising academic organizations and member companies was realized and cemented into the soul of the organization. In 1983 Howard Turner stepped down from the IFPRI Presidency and Les Ford, recently retired from ICI, was elected as the second IFPRI President.</ce:para>
+               </ce:section>
+               <ce:section id="s0020" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="st0045">The refinement of the IFPRI model accompanied by growth, then decline of membership</ce:section-title>
+                  <ce:para id="p0165" view="all">As was done at the start of this narrative, let us digress and provide the economic, political, and technical boundary conditions for the next twenty-five years of IFPRI. Economically, the world was adjusting to the effects of OPEC control over a large fraction of energy production, rapid globalization was continuing with China taking its place as a leader in the world economy, and the merger and acquisition cycles that started at the beginning of the 20th century were intensifying and becoming much more frequent with the 4th (1984–1989), 5th (1994–2001) and 6th (2004–2007) M&amp;A cycles. Politically, this era saw the general decline of communism and the specific fall of the Soviet Union, a rise of fundamentalism, and the realization that climate change from human activity is a critical issue having global impact. Toward the end of this period, our attention was dominated by the 9/11 terrorist attacks and subsequent conflicts in Afghanistan and Iraq, followed by the banking crisis of 2008 that led to one of the most severe world economic recessions since 1929. This economic and political backdrop, having mixed growth and crisis, had significant effects on IFPRI.</ce:para>
+                  <ce:para id="p0170" view="all">Technically, the impact of technologies developed from solid state electronics saw the rise of personal computers, the internet, and smart phones and the decline of some business segments such as silver halide-based imaging, printing and in-store shopping. Interestingly, the decline in printing and the rise of electronics also saw an uptick in photocopying. While this technology had its roots in the 1950's and 1960's this relatively new technology became increasingly important to society, academia, and industry.</ce:para>
+                  <ce:para id="p0175" view="all">For IFPRI and particle science and technology, in general, it is important to point out that the xerographic process used for photocopying is founded on particle property controls including particle size, particle charge, and particle flow. Xerography may be one particle technology that most of the world knows about and uses, but few outside of our field understand the complexity of the process within that “black box” and how much particle science and at what level the particle science is practiced in making a single copy. For example, Joseph Pedano's thesis on the flow characteristics of toners provides an overview of the importance of particle science and technology in this field [<ce:cross-ref id="cf0055" refid="bb0015">3</ce:cross-ref>].</ce:para>
+                  <ce:para id="p0180" view="all">For the first 6 years of Les Ford's IFPRI presidency (1983–1989) the membership stayed relatively stable within a range of 18–23 member companies. The companies that were members during this time are grouped to show the breadth of industrial interest in particle technology (<ce:cross-ref id="cf0060" refid="f0005">Fig. 1</ce:cross-ref>), including focus areas of energy, mining, iron and steel production, industrial chemicals, imaging materials, personal care, food, and equipment manufacturing. While many companies were members throughout this period, some joined part way through or withdrew during this time. Some members combined due to mergers and acquisitions. Fluctuating membership also became a hallmark of IFPRI, and management has spent a considerable amount of time trying to understand why companies wax and wane in consortia like IFPRI; it appears there are several factors. First, economic factors such as recessions and mergers force a company to limit extraneous spending, and outside memberships are easy to cut. Second, membership in IFPRI requires active participation and preferably participation by multiple employees in a single company to be worthwhile. IFPRI participation by one individual in a company puts that membership in jeopardy if the one participant leaves the company or gets a different job within the company. Membership is hard to maintain without having an advocate in the company.</ce:para>
+                  <ce:para id="p0185" view="all">Around 1987 the IFPRI members asked Les Ford to increase the membership to allow more resources for funding a broader research program. At the time, IFPRI membership was $20,000 per year with approximately 85 % of the membership fees used to fund research projects and the remaining funding to pay the President, consultants, and travel to the meetings of invited guests and speakers. At first Les resisted the wishes of the members stating that the AGM meetings with over 60 attendees and the 10–12 funded research programs were already difficult to manage; he feared that adding more members and programs would cause a loss of focus and reduce the ability to get to know everyone in the organization. The membership persisted in its request and by 1990 Les had shifted into a recruiting and organizing mode growing IFPRI to 42 members by 1999 when he stepped down from the Presidency. To help Les with the increased complexity of the larger organization the members voted to create a second paid position of IFPRI Vice President and elected Gordon Butters, who had recently retired from BP Chemicals, as the first IFPRI Vice President. Following Gordon Butters' untimely death in 1996, Roger Place, recently retired from ICI, was elected Vice President of IFPRI. <ce:cross-ref id="cf0065" refid="f0010">Fig. 2</ce:cross-ref> shows how the research program changed from 1990 to 1999. The research program grew from 16 projects to 21 projects (plus 1 review) and the membership was starting to transform from a chemical and energy focus to a chemical and pharmaceutical focus, a trend that continues to this day.</ce:para>
+                  <ce:para id="p0190" view="all">The growing importance of particle science and technology as a core competency for many sectors of our economy, along with the establishment and success of IFPRI was the driving force for Prof. L.S. Fan and a few others from industry and academia, including Reg Davies and Bob Pfeffer, to convince the American Institute of Chemical Engineers (AIChE) to establish an international forum to promote information exchange, research, and education in the field of Particle Technology. In 1992, the AIChE officially launched the Particle Technology Forum (PTF); L.S. was elected to serve as its first Chair, Reg as Vice Chair, and Bob as Treasurer.</ce:para>
+                  <ce:para id="p0195" view="all">Shortly after the AIChE approved the formation of the PTF, Bob Pfeffer and Reg Davies wrote a proposal to the National Science Foundation (NSF) to sponsor a Workshop on Particle Science and Technology. The proposal was funded, and a 2-day NSF Workshop took place at NSF headquarters (Washington, DC) in June 1993. The Workshop was attended by 20 academics,18 industrialists, 9 government representatives, and 2 AIChE organizers. Four of the 49 attendees were from overseas [<ce:cross-ref id="cf0070" refid="bb0010">2</ce:cross-ref>].</ce:para>
+                  <ce:para id="p0200" view="all">The main objective of the Workshop was to define the state of particle technology in the US and to design a path forward whereby US manufacturing competitiveness in particle products and processes can be achieved through enhanced education and research funding. A second important objective was to focus on the thematic goals of the newly formed Particle Technology Forum and the planning of the First International Forum on Particle Technology (now called the World Congress on Particle Technology (WCPT)) to be held in Denver in August 1994. The Denver meeting was a huge success and attracted 450 participants, and over 300 technical papers and posters were presented. Since then, Particle Technology has become a major area of interest to AIChE, with many featured sessions at all subsequent AIChE meetings.</ce:para>
+                  <ce:para id="p0205" view="all">Reg Davies stepped down as the TC Chair of IFPRI in 1990. His position was first taken over by Jim Baker from 3M as the new TC Chair for one year and then George Schurr from DuPont became the third TC Chair in 1991 filling that role for the next 11 years until 2002 when Jim Michaels from Merck became the fourth TC Chair through 2013. It cannot be overstated the importance that the TC Chair position holds within IFPRI. Reg Davies was instrumental in the startup and definition of IFPRI, and he also defined the TC Chair with his vision of how this consortium was to operate, a vision that has been carried forward to the present.</ce:para>
+                  <ce:para id="p0210" view="all">The Les Ford years at IFPRI included projects from a number of icons in the particle science and technology field such as John Brady, John Bridgwater, Derek Geldart, Roy Jackson, Bob Behringer, Kurt Leschonski, Yutaka Tsuji, Jan Mewis, Bob Pfeffer, Bill Russel, and Brian Scarlett and a number of individuals that would rise to prominence in this field such as Ko Higashitani, Mojtaba Ghadiri, Jim Litster, Michel Louge, Fernando Muzzio, Joerg Schwedes, Arno Kwade, Gaby Tardos, Frank Doyle, Norm Wagner and Wolfgang Peukert. During this time, funding of research programs became more systematic with 3-year grants being offered with the opportunity to extend the grant for an additional 3 years with membership approval. One notable exception to the 3/6-year rule was the Bill Russel (Princeton) and Jan Mewis (KU Leuven) collaboration on slurry modeling and measurements that spanned 1984–1998; it is still fondly remembered in IFPRI as brilliant, industrially significant, and a model for collaboration.</ce:para>
+                  <ce:para id="p0215" view="all">Two other notable experiments were conducted during the Les Ford years. The first was a commercial program to define, produce and sell particle size standards. This well-intentioned program did define and produce particle size standards, but the sale of the materials did not justify the expense and time. Eventually, those samples were disposed of. The second experiment, more successful than the first, was to define a second, lower cost, Associate Membership level. This type of membership was requested by Willie Hendrickson when he left 3M and started a particle processing contract manufacturing company (AVEKA) in 1994. Les and the members created the Associate Member for small companies, software companies, and equipment manufacturing companies with a lower membership rate, but with no voting rights for IFPRI business or program determination. Since 1995, there have been between 1 and 8 Associate Members in IFPRI every year.</ce:para>
+               </ce:section>
+               <ce:section id="s0025" view="all">
+                  <ce:label>5</ce:label>
+                  <ce:section-title id="st0050">Industry mergers, acquisitions, and the great recession: Membership decline and program transformation</ce:section-title>
+                  <ce:para id="p0220" view="all">In 1999 the membership of IFPRI elected Reg Davies from DuPont as the third IFPRI President. It was clear to all that Reg was the perfect choice to continue IFPRI having recently retired from DuPont and being instrumental in helping to start IFPRI and other particle science and technology consortia such as the NSF ERC at the University of Florida and the AIChE Particle Technology Forum (PTF). Reg took over as IFPRI President with a stated goal of serving for a 5-year term and then stepping down as President. With membership at an all-time high of 42 members, IFPRI appeared poised for continued expansion. However, a changing economy and political events provided insurmountable barriers to that expansion.</ce:para>
+                  <ce:para id="p0225" view="all">First, the merger and acquisition cycles of 1994–2001 and 2004–2007 shrunk the number of IFPRI members companies (e.g., Exxon and Mobil merged, English China Clay and Imetal merged to form Imerys, ICI was purchased by Akzo Nobel, Union Carbide was purchased by the Dow Chemical Company). Secondly, the 9/11 terrorist attacks had the effect of companies pulling back on memberships, further shrinking the IFPRI membership. These losses in 2001–2 were sudden, and recruiting new members to replace the ones lost through mergers or attrition was difficult.</ce:para>
+                  <ce:para id="p0230" view="all">In 2002 Niklaas deJaeger, recently retired from Agfa-Gevaert and a long time IFPRI representative, agreed to step into the Presidency, becoming the fourth IFPRI President. Like Reg Davies, Nik deJaeger found recruiting and retaining members to be challenging. From a high of 42 IFPRI Members in 1999, IFPRI membership had shrunk to 22 members by 2004 and further declined reaching a membership nadir of 14 members in 2009 and 2010. Nik was able to find some new members (Novozymes, Eli Lily and J&amp;J Janssen), but many long-time members (Dow Chemical, Alcoa, Evonik) left the organization.</ce:para>
+                  <ce:para id="p0235" view="all">It is clear that Nik deJaeger, with the help of his VP, Roger Place, and the TC Chairs, instituted some very positive changes to the organization that helped it weather this lean time in IFPRI history. First the research program was condensed to fit the reduced budget. <ce:cross-ref id="cf0075" refid="t0010">Table 2</ce:cross-ref> shows the reduced program that the IFPRI membership had in 2009, the low in funding and number of programs since the start of IFPRI. Second, IFPRI adopted a strategy of funding shorter-term events including workshops and short-course activities. Workshops became effective means for technical program development under conditions of resource scarcity. Roger Place played a pivotal role in workshop organization, setting up a participatory format that has proven robust and adaptable. Early workshops including Powder Flow (2003, Bremen), Granulation Process Control (2004, Delaware), and Gel Rheology (2006, Santa Barbara) set the stage for targeted and impactful research programs, including a Powder Flow program that leveraged NSF funding [<ce:cross-ref id="cf0080" refid="bb0020">4</ce:cross-ref>]. Since then, workshops have been refined to include an equal mixture of academic and industrial attendees (<ce:cross-ref id="cf0085" refid="t0015">Table 3</ce:cross-ref>
+                     <ce:float-anchor refid="t0015"/>). While the majority of workshop attendees are IFPRI members, workshops include other industrial practitioners and invited academics. This has broadened the scope of the information and experiences in developing IFPRI strategies and research programs.</ce:para>
+                  <ce:para id="p0240" view="all">Educational outreach has been an element of IFPRI since its founding and sponsorship of short courses became a more intentional part of the funding strategy during times of lean membership. While short courses favored areas of member interest, they also served as an effective outreach to the broader industrial community. Education short courses and Workshops proved effective in IFPRI's resurgence [<ce:cross-ref id="cf0090" refid="bb0025">5</ce:cross-ref>].</ce:para>
+                  <ce:para id="p0245" view="all">Throughout the history of IFPRI, the organization had always had some type of academic advising or consultancy associated with the organization. At first, the founding academics (Pfeffer, Leschonski, Scarlett, Tiller and Inoya) filled that role. Pfeffer retired as academic advisor in 2002, having served for 24 years, and was replaced by Chip Zukowski (Illinois/Buffalo). Tiller was replaced by Alkis Payatakes (Houston) who shortly after moved to Greece. Inoya was replaced by Genji Jimbo (Nagoya). Scarlett, and Leshonski served through their lives, but as time passed other academics, typically with IFPRI experience, filled these roles as consultants. Nik and the IFPRI membership formalized the consultant roles, one for each of the 5 research areas. The consultants acted as liaisons to the funded researchers, provided some direction on new developments and new rising academics, and usually played an important role in guiding and developing the workshops. Past consultants have included Mojtaba Ghadiri (Leeds), Jim Litster (Sheffield), Norm Wagner (Delaware), and Satoru Watano (Osaka). Recently, the membership has recognized that Systems Engineering (combination of two or more particle processing unit operations) is critical and have also recognized that Particle Science and Technology Education and Advocacy are also key areas and has added 2 additional consultants. IFPRI currently has 6 academic consultants as listed in <ce:cross-ref id="cf0095" refid="t0020">Table 4</ce:cross-ref>
+                     <ce:float-anchor refid="t0020"/>.</ce:para>
+                  <ce:para id="p0250" view="all">A third area that was changed during Nik's presidency was the method of strategically determining new research programs. Early in the history of IFPRI, the Technical Committee (TC), consisting of a small 5-member group from industry along with the 5 academic advisors, met to discuss and develop a research plan that would provide a balanced program with long range projects that would be of interest to all members. Not surprisingly, there were occasional grumbles about the makeup of that group due to the influence that those members would have on the projects chosen for funding. While the members did vote to approve the program developed by the TC, there were some cases of resentment and conflict. The organization readily weathered this stress during its early years, but with the decline and shrinkage of the organization this stress needed to be removed. This change began in 2002 with the election of Jim Michaels as the fourth TC Chair. Jim and Nik downgraded the importance of the TC committee and eventually eliminated the TC committee entirely. Instead, discussion of proposed projects and voting on the projects was open to all the members and became a key part of the Annual General Meeting (AGM). One of the concerns that was raised during this transition was the potential that an unbalanced program could result with a preponderance of one technology area dominating. Since this change was made in the 2002–2007-time frame, there has been some program variation, but the industrial members have worked hard to provide a balanced program.</ce:para>
+                  <ce:para id="p0255" view="all">Other changes that Nik deJaeger, Jim Michaels, and the membership put in place from 2004 to 2013 included the Bob Pfeffer Seminar Series of invited lectures by prominent particle science academicians held at the AGM every year. Pfeffer suggested an incredible list of speakers, including Hamid Arastoopour, John Brady, Jennifer Curtis, L. S. Fan, Christine Hrenya, Jacob Israelachvilli, Samir Mitragoti, Raffaella Ocone, Ruud van Ommen, Alissa Park, Mikhail Roco, Jonathan Seville, Sundar Sundaresan, Darsh Wasan, Alan Weimer, and many others. IFPRI also began having a Student Poster Session, inviting 30–40 students from the colleges and universities close to the site of the AGM. IFPRI also sponsored a Brian Scarlett Travel Award to deserving students of the IFPRI funded researchers.</ce:para>
+               </ce:section>
+               <ce:section id="s0030" view="all">
+                  <ce:label>6</ce:label>
+                  <ce:section-title id="st0055">Membership growth and the current state of IFPRI</ce:section-title>
+                  <ce:para id="p0260" view="all">By 2012 the IFPRI membership has stabilized around 17 members and Nik deJaeger was ready to retire as the fourth President. At that time the world had entered an economic boom; the banking crisis of 2008 was past, and an economic recovery and expansion continued until the beginning of 2020 and the start of the COVID-19 pandemic. While there was some indication of a tightening of industrial R&amp;D spending for solids handling, in 2012 this was not a large concern. Fracking in the United States had started to push oil imports to the US down and oil prices dropped from over $100/bbl to stabilize around $50/bbl. Once again, particle science played a role in changing the scarcity of economically viable resources to an abundance of oil and gas proven reserves using fracking and proppant (particles) injection into oil and gas wells. A counter point to the increased proven reserves of oil and gas was the increasing awareness that climate change brought about by human emission of greenhouse gases primarily from the burning of oil, gas, and coal that culminated in the award of a Nobel Peace Prize to the Intergovernmental Panel on Climate Change (IPCC) and Al Gore in 2007.</ce:para>
+                  <ce:para id="p0265" view="all">Prior to the 2007 Nobel Peace Prize, there was also an increasing awareness of the deleterious effects of inhaled particulates. By the beginning of the 21st Century, laws requiring particulate filters on diesel powered trucks and automobiles were being enacted. Not surprisingly, the use of particle technology to form cordierite diesel particulate filters has been used to address this particulate problem.</ce:para>
+                  <ce:para id="p0270" view="all">At the end of 2012 Willie Hendrickson was elected by the IFPRI members as the fifth IFPRI President, starting at the beginning of the 2013–2014 IFPRI fiscal year. Willie had been associated with IFPRI on and off since 1987, first as the 3M representative to IFPRI, then as the first Associate Member from 1995 to 1999, and then again as an Associate Member in 2006 and 2007. Willie was also the first IFPRI President that was not retired from industry. He was, and continues to be CEO, and Founder of AVEKA, a contract manufacturer of particulate materials.</ce:para>
+                  <ce:para id="p0275" view="all">As mentioned earlier, Nik deJaeger and Jim Michaels had stabilized IFPRI, but by 2013 when Willie took over as President, the IFPRI membership, having weathered years of decline, was not happy with the current state of affairs. Roger Place, the IFPRI Vice President since 1995, passed in the spring of 2013 and Jim Michaels had stepped down as the TC Chair after 11 years. With the change in IFPRI management, Jim Michaels agreed to take on the role of temporary Vice President of IFPRI for a year, and Neda Radenovitch-Pelltier (Purac, then Corbion) was elected as the fifth TC Chair. Judith Bonsall (Unilever) succeeded Neda as TC Chair in 2015.</ce:para>
+                  <ce:para id="p0280" view="all">Willie Hendrickson's focus as President was on growing the membership of IFPRI. His historical connection with IFPRI and broad range of industry contacts have been assets in this mission. During the years of his presidency, IFPRI grew from 17 members to 41 members, even while the yearly membership fees went from $28,000 and $9500 for Full and Associate Members, respectively, to $31,500 and $11,025. This increase in membership allowed expansion of the research program (<ce:cross-ref id="cf0100" refid="f0010">Fig. 2</ce:cross-ref>), the addition of two additional consultants in Education and Systems Engineering, and a continued active Workshop program with four workshops in five years (<ce:cross-ref id="cf0105" refid="t0015">Table 3</ce:cross-ref>). During this time the membership experimented with new types of programs. These include a series of short 2-to-4-h participatory Round Table events focusing on best industrial practices. A Round Robin Research Program aimed at industrial best practices in DEM simulation has just been completed, in conjunction with experimental validation at the University of Birmingham Positron Imaging Centre (Jonathan Seville and Kit Windows-Yule). The 2024 IFPRI research program is shown in <ce:cross-ref id="cf0110" refid="t0010">Table 2</ce:cross-ref>. With the expanded membership, IFPRI members funded an updated version of the Rand Project Report by Ed Merrow on solids handling [<ce:cross-ref id="cf0115" refid="bb0030">6</ce:cross-ref>,<ce:cross-ref id="cf0120" refid="bb0035">7</ce:cross-ref>].</ce:para>
+                  <ce:para id="p0285" view="all">Currently (2024), IFPRI has 41 members (<ce:cross-ref id="cf0125" refid="t0005">Table 1</ce:cross-ref>). In 2020 and in 2021 IFPRI was not able to hold its Annual General Meeting (AGM) in person due to the COVID-19 pandemic restrictions, but the organization was able to design and host virtual meetings that provided a continuity to the programs. Also, the membership realized that the pandemic restrictions would limit the ability of the academic researchers to do research. To help with this extraordinary situation, the IFPRI membership voted to extend the current research programs for an extra year providing some relief. IFPRI membership remains committed to the industrial and societal importance and criticality of particle science and technology.</ce:para>
+               </ce:section>
+               <ce:section id="s0035" view="all">
+                  <ce:label>7</ce:label>
+                  <ce:section-title id="st0060">The world, particle science, and IFPRI in the future</ce:section-title>
+                  <ce:para id="p0290" view="all">As mentioned at the beginning of this article, we are living in extraordinary times. While the recent COVID-19 pandemic is still in our minds, climate change, globalization, social justice, the effect of new technologies, the effective utilization of resources, and other economic challenges need solutions. Particle science and technology is relevant to many of these technical, economic, and resource utilization challenges. For example, the widespread use of m-RNA vaccines for the immunization of the world's population. These vaccines were developed, tested and released quicker than most thought possible. The rapidity of the response and solution is a testament to the scientific, industrial, and government cooperation seldom seen since the second World War and the Manhattan Project. One of the keys to this vaccine, of course, rests on particle science [<ce:cross-ref id="cf0130" refid="bb0040">8</ce:cross-ref>]. The use of m-RNA as a way of developing viral immunization has been suggested for over ten years, but the fragility of the m-RNA molecule limited its use until stable vesicles were developed that could insert the m-RNA into live cells without damaging the cell. The development of specific fats and phospholipids and the formation process that would form stable, delivery vehicles for the m-RNA are a hallmark of the importance of particle science and technology in our world.</ce:para>
+                  <ce:para id="p0295" view="all">We are surrounded by other examples of particle science being critical in the new world including additive manufacturing [<ce:cross-ref id="cf0135" refid="bb0045">9</ce:cross-ref>], separation technologies for vegetable proteins that use solid-liquid and membrane separation techniques [<ce:cross-ref id="cf0140" refid="bb0050">10</ce:cross-ref>], and the use of colloidal silica and ceria slurries for wafer planarization as substrates for the microelectronics industry [<ce:cross-ref id="cf0145" refid="bb0055">11</ce:cross-ref>]. Pharmaceuticals, the food industry, the personal care industry, the chemical industry, and the others all depend on particle science and technology for some part of the materials handling properties critical to our world.</ce:para>
+                  <ce:para id="p0300" view="all">In their paper, “The Legacy of Neglect in the US” [<ce:cross-ref id="cf0150" refid="bb0060">12</ce:cross-ref>], Bryan Ennis, John Green, and Reg Davies discuss how academia and industry have not kept up with the need for particle science and engineering education and research. The paper pointed out that in 1994 over 60 % of DuPont's products were particulate in nature, used a particle as a raw material, or was particulate at some time during the manufacturing process. 3M did a similar (not published) analysis and found similar numbers for 3M products. Since 1994, much progress has been made in adding particle science and technology courses to engineering curricula, (for example, Bob Pfeffer and colleagues at NJIT, were awarded 2 NSF education grants entitled Particle Technology in the Undergraduate Curriculum and Particle Technology in Manufacturing Processes), and research funding from government agencies in Particle Science and Technology has dramatically increased (for example, Prof. Brij Moudgil and colleagues at the University of Florida received a $20 million NSF grant to establish an Engineering Research Center (ERC) in Particle Science and Technology and Prof. Fernando Muzzio (a former IFPRI researcher) and colleagues at Rutgers University received a similar award to establish an ERC for Structured Organic Particulate Systems). However, there have also been some disturbing trends, e.g., the shrinkage of particle development and consulting groups at DuPont and Dow, the ending of the Master's Program in Particle Technology at the University of Delaware, and the general shrinking of focused particle science research and development at many industrial companies.</ce:para>
+                  <ce:para id="p0305" view="all">Recently, Karen Daniels from the North Carolina State University, an IFPRI academic funded researcher, was interviewed for an article in the New York Times on “What Makes Sand Soft” (Monroe,2020) [<ce:cross-ref id="optABw1mTx19C" refid="bb0065">13</ce:cross-ref>]. In the article Karen describes the challenges of particle technology to measure and quantify something as simple as sand and she concludes that understanding the feel and flow sand may be harder to quantify than Quantum Mechanics and General Relativity due to the large number of particle properties that need to be understood, measured and then folded into a general theory of particle structures. Karen, in her interview, succinctly stated the challenge of materials science, physics, and industrial processing of solids. It is just plain difficult.</ce:para>
+                  <ce:para id="p0310" view="all">Bob Pfeffer, Brian Scarlett, Howard Turner, Reg Davies and all of the early IFPRI participants understood this challenge when they conceived and started IFPRI in 1979. Challenges and difficulties of solids handling persist today. Grinding, powder flow, crystallization, spray drying, mixing, particle formulation, particle coating, and other day-to-day powder processes still remain difficult to predict. Over the past 45 years the IFPRI membership has been working on gaining an understanding of these issues. The membership in IFPRI, both academia and industry, are dedicated to continuing to find solutions that combine fundamental understanding with practical applications.</ce:para>
+                  <ce:para id="p0315" view="all">Particle science and technology has played a role in some of the most interesting and significant problems we have faced. It is also clear that some of the new problems that will surface in the future will find a portion of their solutions using particle science and technology. IFPRI will continue to promote academic and industrial practitioners to work together on addressing the everyday particle processing problems to increase production efficiencies and the larger problems such as climate change, air pollution and others that society must face in the years ahead.</ce:para>
+                  <ce:para id="p0320" view="all">We hope that you have found this history of IFPRI an interesting retelling of the past 50 years and how particle science and technology has made an impact on our world. Through economic booms and busts, IFPRI has found a way to continue and thrive. More information on IFPRI can be found on its website at <ce:inter-ref id="ir0010" xlink:href="http://www.ifpri.net" xlink:type="simple">www.ifpri.net</ce:inter-ref>.</ce:para>
+               </ce:section>
+               <ce:section id="s0040" view="all">
+                  <ce:section-title id="st0065">CRediT authorship contribution statement</ce:section-title>
+                  <ce:para id="p0325" view="all">
+                     <ce:bold>W.A. Hendrickson:</ce:bold> Writing – review &amp; editing, Writing – original draft, Formal analysis, Data curation, Conceptualization. <ce:bold>Robert Pfeffer:</ce:bold> Writing – review &amp; editing, Conceptualization.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi0005" view="all">
+               <ce:section-title id="st0075">Declaration of competing interest</ce:section-title>
+               <ce:para id="p0335" view="all">The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</ce:para>
+            </ce:conflict-of-interest>
+            <ce:acknowledgment id="ac0005" view="all">
+               <ce:section-title id="st0080">Acknowledgement</ce:section-title>
+               <ce:para id="p0340" view="all">We wish to thank Tim Bell, Reg Davies, LS Fan, Rajeev Gorowara, Karl Jacob, Jim Michaels, and Paul Mort for their encouragement and help in preparing this manuscript. We would also like to thank the IFPRI organization, members, founders, and participants for being a large part of our lives.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi0005" view="all">
+               <ce:section-title id="st0085">References</ce:section-title>
+               <ce:bibliography-sec id="bs0005" view="all">
+                  <ce:bib-reference id="bb0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="rf0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Edward W.</ce:given-name>
+                                 <ce:surname>Davis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Pioneering with taconite: birth of a Minnesota industry</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Minn. Hist.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>7</sb:issue-nr>
+                              <sb:date>1955</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>269</sb:first-page>
+                              <sb:last-page>283</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0015">Davis, Edward W. (1955) Pioneering with Taconite: Birth of a Minnesota Industry. Minnesota History 34 (7):269-283.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="rf0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Davies</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Pfeffer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A Report on NSF Workshop on Particle Science and Technology</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1994</sb:date>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>June 25-26, 1993. NSF Grant CTS- 9307456</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="se0020">Davies, R., Pfeffer, R. (1994) A Report on NSF Workshop on Particle Science and Technology, June 25-26, 1993. NSF Grant CTS- 9307456.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="rf0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Joseph</ce:given-name>
+                                 <ce:surname>Pedano</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The Effect of Particle Properties on the Flow Characteristics of Electrophotographic Powders</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1998</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Rowan University Master’s Thesis</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0025">Pedano, Joseph (1998) The Effect of Particle Properties on the Flow Characteristics of Electrophotographic Powders. Rowan University Master'’s Thesis.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="rf0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Mort</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.N.</ce:given-name>
+                                 <ce:surname>Michaels</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.P.</ce:given-name>
+                                 <ce:surname>Behringer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.S.</ce:given-name>
+                                 <ce:surname>Campbell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Kondic</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kheiripour Langroudi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Shattuck</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.I.</ce:given-name>
+                                 <ce:surname>Tardos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wassgren</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Dense granular flow — a collaborative study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Powder Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>284</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>571</sb:first-page>
+                              <sb:last-page>584</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0030">Mort, P., Michaels, J.N., Behringer, R.P., Campbell, C.S., Kondic, L., Kheiripour Langroudi, M., Shattuck, M., Tang, J., Tardos, G.I., Wassgren, C. (2015) Dense granular flow — A collaborative study. Powder Technology, 284, pp. 571-584.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="rf0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>Litster</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.N.</ce:given-name>
+                                 <ce:surname>Michaels</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.V.</ce:given-name>
+                                 <ce:surname>Jacob</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Particle technology education in the 21st century – outcomes from the IFPRI sponsored workshop in Sheffield, April 2017</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Powder Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>366</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>144</sb:first-page>
+                              <sb:last-page>149</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0035">Litster, J.D., Michaels, J.N. and Jacob, K.V. (2020) Particle technology education in the 21st century – Outcomes from the IFPRI sponsored workshop in Sheffield, April 2017. Powder Technology, 366. pp. 144-149.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="rf0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Edward W.</ce:given-name>
+                                 <ce:surname>Merrow</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Linking R&amp;D to Problems Experienced in Solids Processing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1984</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Rand Corporation</sb:name>
+                                 <sb:location>Santa Monica, CA</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0040">Merrow, Edward W. (1984) Linking R&amp;D to Problems Experienced in Solids Processing, Rand Corporation, Santa Monica, CA.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="rf0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Edward W.</ce:given-name>
+                                 <ce:surname>Merrow</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Estimating startup times for solids-processing plants</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Eng.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>89</sb:first-page>
+                              <sb:last-page>92</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>October 24</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="se0045">Merrow, Edward W. (1988) Estimating Startup Times for Solids-Processing Plants. Chemical Engineering, October 24:89-92.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="rf0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Rumiana</ce:given-name>
+                                 <ce:surname>Tenchov</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Understanding the Nanotechnology in COVID-19 Vaccines</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2021</sb:date>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>CAS Blog February 18, 2021 (<ce:inter-ref id="ir0015" xlink:href="https://www.cas.org/blog/understanding-nanotechnology-covid-19-vaccines" xlink:type="simple">https://www.cas.org/blog/understanding-nanotechnology-covid-19-vaccines</ce:inter-ref>)</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="se0050">Tenchov, Rumiana (2021) Understanding the Nanotechnology in COVID-19 Vaccines. CAS Blog February 18, 2021 (https://www.cas.org/blog/understanding-nanotechnology-covid-19-vaccines).</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0045">
+                     <ce:label>[9]</ce:label>
+                     <ce:other-ref id="or5432">
+                        <ce:textref>Abdulhameed, O, Al-Ahmari, A., Arneen, W., Miari, S. H. (2019) Additive manufacturing challenges, trends, and applications. Adv. Mech. Eng., 11(2):1–27.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="rf0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Nehete</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.S.</ce:given-name>
+                                 <ce:surname>Bhambar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.R.</ce:given-name>
+                                 <ce:surname>Narkhede</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.R.</ce:given-name>
+                                 <ce:surname>Gawali</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Natural proteins: sources, isolation, characterization and applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Pharm. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>14</sb:issue-nr>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>107</sb:first-page>
+                              <sb:last-page>116</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0055">Nehete, J., Bhambar, R. S., Narkhede, M. R., and Gawali, S. R. (2013) Natural Proteins: Sources, Isolation, Characterization and Applications. Pharmacognosy Rev 7(14):107-116.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="rf0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Krishan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Nalaskowski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.M.</ce:given-name>
+                                 <ce:surname>Cook</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical mechanical planarization: slurry chemistry, materials, and mechanisms</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>110</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>178</sb:first-page>
+                              <sb:last-page>204</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0060">Krishan, M., Nalaskowski, J. W., Cook, L. M. (2010) Chemical Mechanical Planarization: Slurry Chemistry, Materials, and Mechanisms. Chem Rev 110(1):178-204.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="rf0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Ennis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Green</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Davies</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The legacy of neglect in the U.S</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Eng. Prog.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>90</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>32</sb:first-page>
+                              <sb:last-page>43</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0065">Ennis, B., Green J., Davies, R. (1994) The Legacy of Neglect in the U.S. Chemical Engineering Progress 90(4):32-43.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="rf0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Randall</ce:given-name>
+                                 <ce:surname>Munroe</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>What Makes Sand Soft</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2020</sb:date>
+                              <sb:publisher>
+                                 <sb:name>New York Times</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                           <sb:pages>
+                              <sb:first-page>D4</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:comment>Nov. 4</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="se0070">Munroe, Randall (2020) What Makes Sand Soft, New York Times, Nov. 4, page D4.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

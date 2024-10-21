@@ -1,0 +1,1279 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0167273810004121</prism:url><dc:identifier>doi:10.1016/j.ssi.2010.07.014</dc:identifier><eid>1-s2.0-S0167273810004121</eid><prism:doi>10.1016/j.ssi.2010.07.014</prism:doi><pii>S0167-2738(10)00412-1</pii><dc:title>Effects of anode firing temperature on the performance of the lanthanum-gallate thick-film-supported SOFC </dc:title><prism:publicationName>Solid State Ionics</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>01672738</prism:issn><prism:volume>192</prism:volume><prism:issueIdentifier>1</prism:issueIdentifier><prism:startingPage>523</prism:startingPage><prism:endingPage>526</prism:endingPage><prism:pageRange>523-526</prism:pageRange><prism:number>1</prism:number><dc:format>application/xml</dc:format><prism:coverDate>2011-06-16</prism:coverDate><prism:coverDisplayDate>16 June 2011</prism:coverDisplayDate><prism:copyright>Copyright © 2010 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><prism:issueName>Proceedings of the 17th International Conference on Solid State Ionics</prism:issueName><dc:creator>Joo, Jong Hoon</dc:creator><dc:creator>Kim, Dong Young</dc:creator><dc:creator>Choi, Gyeong Man</dc:creator><dc:description>
+                  The reaction between lanthanum-gallate electrolyte and Ni in the anode often occurs during the co-firing of an anode-supported cell and results in the degradation of cell performance. In this study, a thick-film LSGM (La0.9Sr0.1
+                     Ga0.8
+                     Mg0.2O3-δ) electrolyte-supported micro-cell was fabricated and electrochemically tested to see the effects of the anode-firing temperature on the SOFC performance. The LSGM tape (~20μm-thick) was sintered and then mounted on a LSGM cylindrical-ring (~400μm-thick) by sintering two pieces together at 1500°C. NiO-GDC (Gd-doped ceria) slurries were brush painted for the anode on the bottom surface of the supporting LSGM electrolyte and the electrolyte/anode layers were subsequently fired at 1300, 1350, 1375 or 1400°C, respectively. SSC (Sm0.5Sr0.5CoO3−δ
+                     ) slurries were also brush painted for cathode on the opposite side and the cathode/electrolyte/anode layers were fired at 900°C. The cell with the anode sintered at 1300°C showed the highest performance (OCV ~1.1V, Pmax or maximum power density ~0.93W/cm2 at 700°C). The increase of the anode-firing temperature reduced the cell performance. Although the anode fired at 1375°C showed a reduced OCV (~0.90V at 700°C), the cell performance was still high (Pmax: ~0.55W/cm2 at 700°C). The cell with the anode fired at 1400°C showed the lowest OCV (~0.27V). The open-circuit voltage (OCV) and thus the performance of the cells were largely dependent upon the anode-firing temperature since the reaction of Ni with the LSGM electrolyte induces an electronic conduction in the LSGM electrolyte which then decreases the OCV.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Lanthanum-gallate</dcterms:subject><dcterms:subject>Anode</dcterms:subject><dcterms:subject>Thick-film</dcterms:subject><dcterms:subject>Open-circuit voltage</dcterms:subject><dcterms:subject>Electronic conduction</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0167273810004121" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0167273810004121" rel="scidir"/></coredata><objects><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="391" height="166" size="20389">https://api.elsevier.com/content/object/eid/1-s2.0-S0167273810004121-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="93" size="4744">https://api.elsevier.com/content/object/eid/1-s2.0-S0167273810004121-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="358" height="268" size="33988">https://api.elsevier.com/content/object/eid/1-s2.0-S0167273810004121-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="164" size="9513">https://api.elsevier.com/content/object/eid/1-s2.0-S0167273810004121-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="297" height="254" size="22791">https://api.elsevier.com/content/object/eid/1-s2.0-S0167273810004121-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="191" height="164" size="5871">https://api.elsevier.com/content/object/eid/1-s2.0-S0167273810004121-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="344" height="265" size="16259">https://api.elsevier.com/content/object/eid/1-s2.0-S0167273810004121-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="213" height="164" size="4492">https://api.elsevier.com/content/object/eid/1-s2.0-S0167273810004121-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="380" height="269" size="34882">https://api.elsevier.com/content/object/eid/1-s2.0-S0167273810004121-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="155" size="6910">https://api.elsevier.com/content/object/eid/1-s2.0-S0167273810004121-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="383" height="265" size="20950">https://api.elsevier.com/content/object/eid/1-s2.0-S0167273810004121-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="151" size="4696">https://api.elsevier.com/content/object/eid/1-s2.0-S0167273810004121-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="358" height="285" size="35362">https://api.elsevier.com/content/object/eid/1-s2.0-S0167273810004121-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="206" height="164" size="13521">https://api.elsevier.com/content/object/eid/1-s2.0-S0167273810004121-gr7.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>79958831613</scopus-id><scopus-eid>2-s2.0-79958831613</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/79958831613" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271411</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291689</xocs:ssid>
+         <xocs:ssid type="subj">291719</xocs:ssid>
+         <xocs:ssid type="subj">291790</xocs:ssid>
+         <xocs:ssid type="subj">291865</xocs:ssid>
+         <xocs:ssid type="subj">291877</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Solid State Ionics</xocs:srctitle>
+      <xocs:normalized-srctitle>SOLIDSTATEIONICS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20100814">2010-08-14</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20100814">2010-08-14</xocs:available-online-date>
+      <xocs:ew-transaction-id>2011-06-10T22:08:34</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0167273810004121</xocs:eid>
+      <xocs:pii-formatted>S0167-2738(10)00412-1</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0167273810004121</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.ssi.2010.07.014</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0167273811X00139</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T04:51:30.806798-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20110616</xocs:date-search-begin>
+      <xocs:year-nav>2011</xocs:year-nav>
+      <xocs:indexeddate epoch="1281744000">2010-08-14T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confeditor contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings vol volfirst volissue webpdf webpdfpagecount figure body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast footnotes primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0167-2738</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>01672738</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>192</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>192</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 192, Issue 1</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>111</xocs:sort-order>
+      <xocs:first-fp>523</xocs:first-fp>
+      <xocs:last-lp>526</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>523</xocs:first-page>
+         <xocs:last-page>526</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20110616</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>16 June 2011</xocs:cover-date-text>
+      <xocs:cover-date-start>2011-06-16</xocs:cover-date-start>
+      <xocs:cover-date-year>2011</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>Proceedings of the 17th International Conference on Solid State Ionics</ce:title>
+            <ce:editors>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:given-name>A.N.</ce:given-name>
+                     <ce:surname>Cormack</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:given-name>K.</ce:given-name>
+                     <ce:surname>Funke</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:given-name>N.</ce:given-name>
+                     <ce:surname>Sammes</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:given-name>A.</ce:given-name>
+                     <ce:surname>Petric</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:given-name>D.</ce:given-name>
+                     <ce:surname>Edwards</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Ceramic fuel cells</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2010 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>EFFECTSANODEFIRINGTEMPERATUREPERFORMANCELANTHANUMGALLATETHICKFILMSUPPORTEDSOFC</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>JOO</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental procedure</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="bb0005">
+            <xocs:ref-normalized-surname>STAMBOULI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>433</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0010">
+            <xocs:ref-normalized-surname>TU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>284</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0015">
+            <xocs:ref-normalized-surname>YAMAMOTO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2423</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0020">
+            <xocs:ref-normalized-surname>WILL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>79</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0025">
+            <xocs:ref-normalized-surname>ISHIHARA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3801</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0030">
+            <xocs:ref-normalized-surname>GONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>A1890</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0035">
+            <xocs:ref-normalized-surname>HUANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2402</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0040">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2155</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0045">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>49</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0050">
+            <xocs:ref-normalized-surname>OHARA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>455</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0055">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>170</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0060">
+            <xocs:ref-normalized-surname>LIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>A285</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0065">
+            <xocs:ref-normalized-surname>BI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>34</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0070">
+            <xocs:ref-normalized-surname>JOO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>B65</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0075">
+            <xocs:ref-normalized-surname>JOO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>195</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0080">
+            <xocs:ref-normalized-surname>JOO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>839</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0085">
+            <xocs:ref-normalized-surname>DATTA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>125</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>JOOX2011X523</xocs:refkey3>
+         <xocs:refkey4lp>JOOX2011X523X526</xocs:refkey4lp>
+         <xocs:refkey4ai>JOOX2011X523XJ</xocs:refkey4ai>
+         <xocs:refkey5>JOOX2011X523X526XJ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0167-2738(10)00412-1</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0167273810004121</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0167273810004121</xocs:eid>
+         <xocs:doi>10.1016/j.ssi.2010.07.014</xocs:doi>
+         <xocs:cid>271411</xocs:cid>
+         <xocs:timestamp>2011-06-22T15:40:33.359013-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2011-06-16</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0167273810004121-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273810004121/MAIN/application/pdf/d071a304e95dda1dc8bf4f713b5d7565/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167273810004121/MAIN/application/pdf/d071a304e95dda1dc8bf4f713b5d7565/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>668438</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0167273810004121-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273810004121/PREVIEW/image/png/cfee975f538c3e439b0fa3a700a793f2/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167273810004121/PREVIEW/image/png/cfee975f538c3e439b0fa3a700a793f2/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>61321</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167273810004121-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273810004121/gr1/DOWNSAMPLED/image/jpeg/122de70802063b9470c2daee780d1de0/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167273810004121/gr1/DOWNSAMPLED/image/jpeg/122de70802063b9470c2daee780d1de0/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>20389</xocs:filesize>
+               <xocs:pixel-height>166</xocs:pixel-height>
+               <xocs:pixel-width>391</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167273810004121-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273810004121/gr1/THUMBNAIL/image/gif/b78ce295403bb4d8b911f4563f03ec08/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167273810004121/gr1/THUMBNAIL/image/gif/b78ce295403bb4d8b911f4563f03ec08/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4744</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167273810004121-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273810004121/gr2/DOWNSAMPLED/image/jpeg/4ecfd5dee9c95945115703a51e1c4793/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167273810004121/gr2/DOWNSAMPLED/image/jpeg/4ecfd5dee9c95945115703a51e1c4793/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>33988</xocs:filesize>
+               <xocs:pixel-height>268</xocs:pixel-height>
+               <xocs:pixel-width>358</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167273810004121-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273810004121/gr2/THUMBNAIL/image/gif/125ca1313d682d2d52f39eb5bea51e06/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167273810004121/gr2/THUMBNAIL/image/gif/125ca1313d682d2d52f39eb5bea51e06/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9513</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167273810004121-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273810004121/gr3/DOWNSAMPLED/image/jpeg/f8995ec15e26fec8bb9545504b682a53/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167273810004121/gr3/DOWNSAMPLED/image/jpeg/f8995ec15e26fec8bb9545504b682a53/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>22791</xocs:filesize>
+               <xocs:pixel-height>254</xocs:pixel-height>
+               <xocs:pixel-width>297</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167273810004121-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273810004121/gr3/THUMBNAIL/image/gif/f7e66e40a4835e0b489a94dec88a73ce/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167273810004121/gr3/THUMBNAIL/image/gif/f7e66e40a4835e0b489a94dec88a73ce/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5871</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>191</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167273810004121-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273810004121/gr4/DOWNSAMPLED/image/jpeg/e6caa94dc35971a026be373450da6bbe/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167273810004121/gr4/DOWNSAMPLED/image/jpeg/e6caa94dc35971a026be373450da6bbe/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>16259</xocs:filesize>
+               <xocs:pixel-height>265</xocs:pixel-height>
+               <xocs:pixel-width>344</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167273810004121-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273810004121/gr4/THUMBNAIL/image/gif/267f98dd40a14f7520dc0f1f46c1f35c/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167273810004121/gr4/THUMBNAIL/image/gif/267f98dd40a14f7520dc0f1f46c1f35c/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4492</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>213</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167273810004121-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273810004121/gr5/DOWNSAMPLED/image/jpeg/8e710974abe50ae3962a4c45298d591c/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167273810004121/gr5/DOWNSAMPLED/image/jpeg/8e710974abe50ae3962a4c45298d591c/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>34882</xocs:filesize>
+               <xocs:pixel-height>269</xocs:pixel-height>
+               <xocs:pixel-width>380</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167273810004121-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273810004121/gr5/THUMBNAIL/image/gif/d042b282a4808021c032503da08d4192/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167273810004121/gr5/THUMBNAIL/image/gif/d042b282a4808021c032503da08d4192/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6910</xocs:filesize>
+               <xocs:pixel-height>155</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167273810004121-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273810004121/gr6/DOWNSAMPLED/image/jpeg/eae7cf281b00fe1b2c5bff2b3556aeb1/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167273810004121/gr6/DOWNSAMPLED/image/jpeg/eae7cf281b00fe1b2c5bff2b3556aeb1/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>20950</xocs:filesize>
+               <xocs:pixel-height>265</xocs:pixel-height>
+               <xocs:pixel-width>383</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167273810004121-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273810004121/gr6/THUMBNAIL/image/gif/aea7efd994eb25415ffe95727e9986cf/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167273810004121/gr6/THUMBNAIL/image/gif/aea7efd994eb25415ffe95727e9986cf/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4696</xocs:filesize>
+               <xocs:pixel-height>151</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167273810004121-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273810004121/gr7/DOWNSAMPLED/image/jpeg/454352be85d58dabb57a31c825212824/gr7.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167273810004121/gr7/DOWNSAMPLED/image/jpeg/454352be85d58dabb57a31c825212824/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>35362</xocs:filesize>
+               <xocs:pixel-height>285</xocs:pixel-height>
+               <xocs:pixel-width>358</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167273810004121-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167273810004121/gr7/THUMBNAIL/image/gif/45db6c02e951549996f8e486f9604bfc/gr7.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167273810004121/gr7/THUMBNAIL/image/gif/45db6c02e951549996f8e486f9604bfc/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>13521</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>206</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.1" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>SOSI</jid>
+            <aid>11975</aid>
+            <ce:pii>S0167-2738(10)00412-1</ce:pii>
+            <ce:doi>10.1016/j.ssi.2010.07.014</ce:doi>
+            <ce:copyright type="full-transfer" year="2010">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0005" view="all">Schematic illustration of the experimental setup was shown for the LSGM thick-film electrolyte-supported SOFC. The sintered LSGM tape was mounted on the LSGM ring that was glass-sealed to an alumina tube.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0010" view="all">SEM image of the cross-section of the thick-film LSGM-supported cell was shown with the NiO-GDC anode (before reduction) and the SSC cathode. The thick-film LSGM film is<ce:hsp sp="0.12"/>~<ce:hsp sp="0.10"/>20<ce:hsp sp="0.12"/>μm thick and pore free. The film is sandwiched between a porous SSC cathode and a porous NiO-GDC anode.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0015" view="all">XRD patterns of the LSGM thick-films, fired with the NiO layer and crushed into powder, were shown as a function of the anode sintering temperature. NiO was painted on one side of a 20<ce:hsp sp="0.25"/>μm-thick LSGM before firing. A LaNiO<ce:inf loc="post">3</ce:inf> phase was found for the cells fired at or above 1350<ce:hsp sp="0.25"/>°C.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0020" view="all">The influences of the anode-firing temperature on the R<ce:inf loc="post">Ohm</ce:inf> and the R<ce:inf loc="post">p</ce:inf> are shown. The R<ce:inf loc="post">P</ce:inf> values are dominant over the R<ce:inf loc="post">Ohm</ce:inf> for all anode-firing temperatures. The portion of the R<ce:inf loc="post">Ohm</ce:inf> value to the total resistance was small due to the thin (t<ce:hsp sp="0.12"/>~<ce:hsp sp="0.10"/>20<ce:hsp sp="0.25"/>μm) electrolyte layer.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="f0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0025" view="all">I (current)–V (voltage) and I (current)–P (power) curves of the electrolyte-supported cells, measured at 700<ce:hsp sp="0.25"/>°C, were shown for the LSGM cells with different anode-firing temperature. The power density values of the cells depend strongly on the anode-firing temperature.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="f0030">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0030" view="all">The influences of the anode-firing temperature on the OCV and P<ce:inf loc="post">max</ce:inf> (maximum power density) of the LSGM cells are shown. The OCV and P<ce:inf loc="post">max</ce:inf> of the cells gradually decreased with increasing anode-firing temperature.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6"/>
+            </ce:figure>
+            <ce:figure id="f0035">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0035" view="all">Ni and La EDS line profiles are shown across the LSGM electrolyte and the NiO-GDC anode layers. The LSGM single cell was fired at 1400<ce:hsp sp="0.25"/>°C for 3<ce:hsp sp="0.25"/>h. The Ni penetration into the 20<ce:hsp sp="0.25"/>μm-thick LSGM layer was most severe in the interface region.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr7"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title>Effects of anode firing temperature on the performance of the lanthanum-gallate thick-film-supported SOFC</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Jong Hoon</ce:given-name>
+                  <ce:surname>Joo</ce:surname>
+                  <ce:cross-ref refid="fn0005">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Dong Young</ce:given-name>
+                  <ce:surname>Kim</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Gyeong Man</ce:given-name>
+                  <ce:surname>Choi</ce:surname>
+                  <ce:cross-ref refid="cr0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="af0005">
+                  <ce:textfn>Fuel Cell Research Center and Department of Materials Science and Engineering, Pohang University of Science and Technology, Pohang, 790-784, Republic of Korea</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cr0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author. Tel.: +<ce:hsp sp="0.10"/>82 54 279 2146; fax: +<ce:hsp sp="0.10"/>82 54 279 2399.</ce:text>
+               </ce:correspondence>
+               <ce:footnote id="fn0005">
+                  <ce:label>1</ce:label>
+                  <ce:note-para>Present address: Max-Planck-Institute for Solid State Research, Heisenbergstraße 1, 70569 Stuttgart, Germany.</ce:note-para>
+               </ce:footnote>
+            </ce:author-group>
+            <ce:date-received day="28" month="8" year="2009"/>
+            <ce:date-revised day="9" month="7" year="2010"/>
+            <ce:date-accepted day="22" month="7" year="2010"/>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para id="sp0040" view="all">The reaction between lanthanum-gallate electrolyte and Ni in the anode often occurs during the co-firing of an anode-supported cell and results in the degradation of cell performance. In this study, a thick-film LSGM (La<ce:inf loc="post">0.9</ce:inf>Sr<ce:inf loc="post">0.1</ce:inf>
+                     <ce:hsp sp="0.25"/>Ga<ce:inf loc="post">0.8</ce:inf>
+                     <ce:hsp sp="0.25"/>Mg<ce:inf loc="post">0.2</ce:inf>O<ce:inf loc="post">3-δ</ce:inf>) electrolyte-supported micro-cell was fabricated and electrochemically tested to see the effects of the anode-firing temperature on the SOFC performance. The LSGM tape (~<ce:hsp sp="0.10"/>20<ce:hsp sp="0.25"/>μm-thick) was sintered and then mounted on a LSGM cylindrical-ring (~<ce:hsp sp="0.10"/>400<ce:hsp sp="0.25"/>μm-thick) by sintering two pieces together at 1500<ce:hsp sp="0.25"/>°C. NiO-GDC (Gd-doped ceria) slurries were brush painted for the anode on the bottom surface of the supporting LSGM electrolyte and the electrolyte/anode layers were subsequently fired at 1300, 1350, 1375 or 1400<ce:hsp sp="0.25"/>°C, respectively. SSC (Sm<ce:inf loc="post">0.5</ce:inf>Sr<ce:inf loc="post">0.5</ce:inf>CoO<ce:inf loc="post">3−<ce:italic>δ</ce:italic>
+                     </ce:inf>) slurries were also brush painted for cathode on the opposite side and the cathode/electrolyte/anode layers were fired at 900<ce:hsp sp="0.25"/>°C. The cell with the anode sintered at 1300<ce:hsp sp="0.25"/>°C showed the highest performance (OCV ~<ce:hsp sp="0.10"/>1.1<ce:hsp sp="0.25"/>V, P<ce:inf loc="post">max</ce:inf> or maximum power density ~<ce:hsp sp="0.10"/>0.93<ce:hsp sp="0.25"/>W/cm<ce:sup loc="post">2</ce:sup> at 700<ce:hsp sp="0.25"/>°C). The increase of the anode-firing temperature reduced the cell performance. Although the anode fired at 1375<ce:hsp sp="0.25"/>°C showed a reduced OCV (~<ce:hsp sp="0.10"/>0.90<ce:hsp sp="0.25"/>V at 700<ce:hsp sp="0.25"/>°C), the cell performance was still high (P<ce:inf loc="post">max</ce:inf>: ~<ce:hsp sp="0.10"/>0.55<ce:hsp sp="0.25"/>W/cm<ce:sup loc="post">2</ce:sup> at 700<ce:hsp sp="0.25"/>°C). The cell with the anode fired at 1400<ce:hsp sp="0.25"/>°C showed the lowest OCV (~<ce:hsp sp="0.10"/>0.27<ce:hsp sp="0.25"/>V). The open-circuit voltage (OCV) and thus the performance of the cells were largely dependent upon the anode-firing temperature since the reaction of Ni with the LSGM electrolyte induces an electronic conduction in the LSGM electrolyte which then decreases the OCV.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Lanthanum-gallate</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Anode</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Thick-film</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Open-circuit voltage</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Electronic conduction</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para id="p0005" view="all">Solid oxide fuel cell (SOFC) is one of the most realistic candidates for a new power generation system due to its high efficiency and great fuel flexibility <ce:cross-refs refid="bb0005 bb0010">[1,2]</ce:cross-refs>. However, SOFC still has many technical problems related to its high operating temperature (800–1000<ce:hsp sp="0.25"/>°C). Recently SOFCs operating in the intermediate temperature range (500–700<ce:hsp sp="0.25"/>°C) have received great attention since the use of metallic interconnects and long-term stability can be realized <ce:cross-refs refid="bb0015 bb0020">[3,4]</ce:cross-refs>. Strontium- and magnesium-doped lanthanum-gallate (La<ce:inf loc="post">1−x</ce:inf>Sr<ce:inf loc="post">x</ce:inf>Ga<ce:inf loc="post">1−y</ce:inf>Mg<ce:inf loc="post">y</ce:inf>O<ce:inf loc="post">3−<ce:italic>δ</ce:italic>
+                     </ce:inf>) was proposed as a candidate electrolyte at the intermediate temperature use due to its higher ionic conductivity than yttria-stabilized zirconia (YSZ) and its negligible electronic conductivity in a wide oxygen partial-pressure (Po<ce:inf loc="post">2</ce:inf>) range <ce:cross-refs refid="bb0025 bb0030">[5,6]</ce:cross-refs>.</ce:para>
+                  <ce:para id="p0010" view="all">In a composite anode, Ni is still the most popular component for SOFCs using the LSGM electrolyte. The activity and stability of Ni are very sensitive to the preparation process due to the interaction between Ni and the LSGM electrolyte. Although the cermet anode containing Ni is a promising material for the LSGM-based SOFC, the reaction between Ni and LSGM during the anode fabrication and the cell operation leads to a substantial loss in the anode performance <ce:cross-refs refid="bb0035 bb0040">[7,8]</ce:cross-refs>. A number of reports have been made for the interfacial reaction between a Ni-based anode and a LSGM electrolyte in the thick (thickness<ce:hsp sp="0.12"/>&gt;<ce:hsp sp="0.12"/>~<ce:hsp sp="0.10"/>150<ce:hsp sp="0.25"/>μm) electrolyte-supported SOFCs <ce:cross-refs refid="bb0045 bb0050 bb0055">[9–11]</ce:cross-refs>. The interfacial reaction increases with the anode-firing temperature. The diffusion of Ni into LSGM produces a highly resistive phase. Thus buffer layers such as the La-doped ceria were often used in order to minimize the reaction in the anode-supported cells that use the LSGM electrolyte <ce:cross-refs refid="bb0060 bb0065">[12,13]</ce:cross-refs>. The effects of the anode-firing temperature on the performance of the LSGM cell may be better understood by using the LSGM-supported micro-cell due to its thin-electrolyte layer (thickness ~<ce:hsp sp="0.10"/>20<ce:hsp sp="0.25"/>μm) and the simplicity of the cell structure.</ce:para>
+                  <ce:para id="p0015" view="all">We have previously designed and tested an electrolyte-supported SOFC using the LSGM film (~<ce:hsp sp="0.10"/>20<ce:hsp sp="0.12"/>μm thick) which shows a high power density <ce:cross-ref refid="bb0070">[14]</ce:cross-ref>. A novel experimental setup, using a ring to support a thick-film electrolyte, made the measurement of power density possible for an electrolyte as thin as ~<ce:hsp sp="0.10"/>20<ce:hsp sp="0.12"/>μm <ce:cross-refs refid="bb0075 bb0080">[15,16]</ce:cross-refs>. In this novel design, the LSGM electrolyte and the anode were not co-fired and thus, the temperatures of electrolyte sintering and anode firing were controlled independently. Although the cell was electrolyte-supported, the maximum power density (P<ce:inf loc="post">max</ce:inf>) of the cell was comparable to the best-reported performance of the anode-supported SOFCs that use the LSGM electrolyte <ce:cross-ref refid="bb0070">[14]</ce:cross-ref>. This setup can be useful to determine the optimum co-firing temperature of the anode-supported cell or to test the effects of the anode-firing temperature on the performance of the LSGM-electrolyte film-based cell. In this study, we have studied the effects of the firing temperature of a Ni-GDC anode on the performance of the LSGM thick-film electrolyte-supported cell. Electrochemical measurements were used to test the performance of the single cell.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Experimental procedure</ce:section-title>
+                  <ce:para id="p0020" view="all">LSGM (La<ce:inf loc="post">0.9</ce:inf>Sr<ce:inf loc="post">0.1</ce:inf>
+                     <ce:hsp sp="0.25"/>Ga<ce:inf loc="post">0.8</ce:inf>
+                     <ce:hsp sp="0.25"/>Mg<ce:inf loc="post">0.2</ce:inf>O<ce:inf loc="post">3-δ</ce:inf>) powder was prepared by using a solid-state reaction method. A stoichiometric amount of La<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> (99.99%, Strem Chemicals, USA), SrCO<ce:inf loc="post">3</ce:inf> (99.9%, High Purity Chemicals, Japan), Ga<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> (99.9%, High Purity Chemicals, Japan) and MgO (99.9%, High Purity Chemicals, Japan) powders was ball-milled with zirconia balls in ethanol for 12<ce:hsp sp="0.25"/>h and calcined at 1200<ce:hsp sp="0.25"/>°C for 6<ce:hsp sp="0.25"/>h. In order to fabricate the LSGM tape, the powder was mixed and ball-milled for 24<ce:hsp sp="0.25"/>h with a solvent and binder solution to produce slurries for tape casting. The LSGM slurry was cast onto a polyethylene carrier-film using a tape caster (lab assembled). The LSGM tapes were cut in a desired shape and sintered at 1500<ce:hsp sp="0.25"/>°C for 6<ce:hsp sp="0.25"/>h. The sintered LSGM film (~<ce:hsp sp="0.10"/>20<ce:hsp sp="0.25"/>μm-thick) was mounted on a ~<ce:hsp sp="0.10"/>400<ce:hsp sp="0.12"/>μm-thick cylindrical-ring made of LSGM by sintering two pieces together at 1500<ce:hsp sp="0.25"/>°C for 6<ce:hsp sp="0.25"/>h. After mounting a LSGM thick-film on a LSGM ring, the NiO-GDC (Gd-doped ceria, Ce<ce:inf loc="post">0.8</ce:inf>Gd<ce:inf loc="post">0.2</ce:inf>O<ce:inf loc="post">2-δ</ce:inf>) slurry was brush painted on the bottom surface of the LSGM-electrolyte film. The electrolyte/anode layers were subsequently fired at 1300, 1350, 1375 or 1400<ce:hsp sp="0.25"/>°C, respectively, for 3<ce:hsp sp="0.25"/>h in air. For cathode coating, SSC (Sm<ce:inf loc="post">0.5</ce:inf>Sr<ce:inf loc="post">0.5</ce:inf>CoO<ce:inf loc="post">3−<ce:italic>δ</ce:italic>
+                     </ce:inf>, NexTech Materials Ltd, USA) powders were mixed with an organic solution and brush painted on the top surface of the electrolyte film. The cell with the cathode/electrolyte/anode layers was fired at 900<ce:hsp sp="0.25"/>°C for 2<ce:hsp sp="0.25"/>h in air. The active areas of both cathode and anode were ~<ce:hsp sp="0.10"/>3<ce:hsp sp="0.25"/>mm<ce:sup loc="post">2</ce:sup>. The detailed fabrication process was described elsewhere <ce:cross-ref refid="bb0070">[14]</ce:cross-ref>. <ce:cross-ref refid="f0005">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="f0005"/> shows the schematic configuration of the measurement cell. A LSGM tape was supported on a LSGM ring that is again glass-sealed to an alumina tube. In order to test the reaction of LSGM with Ni, NiO was painted on the sintered LSGM films (t ~<ce:hsp sp="0.10"/>20<ce:hsp sp="0.12"/>μm) and fired at 1300, 1350, 1375 and 1400<ce:hsp sp="0.25"/>°C respectively. After firing, the NiO-coated LSGM films were pulverized and the powders were characterized with X-ray diffraction (XRD) using Cu-K<ce:inf loc="post">α</ce:inf> radiation (MAC Science, M18XCE, Japan) for the phase identification. The cells were electrochemically characterized at 700<ce:hsp sp="0.25"/>°C with 97% H<ce:inf loc="post">2</ce:inf>
+                     <ce:hsp sp="0.12"/>+<ce:hsp sp="0.12"/>3% H<ce:inf loc="post">2</ce:inf>O (flow rate ~<ce:hsp sp="0.10"/>30<ce:hsp sp="0.25"/>cc/min) as a fuel gas and open air as an oxidant gas. The electrochemical interface (Solatron, SI 1287, UK) and impedance analyzer (Solatron, SI 1260, UK) were used to obtain impedance spectra. The Ohmic resistance of the electrolyte was estimated from the high-frequency intercept of impedance curves. The current versus cell potential was measured and the microstructure was observed using an electrochemical interface (SI 1287) and a field-emission scanning-electron-microscope (JEOL, model 3330F, Japan), respectively. Elemental analysis was also performed by using a FE-SEM equipped with an energy dispersive X-ray spectroscopy system (EDS) to investigate the reaction with Ni and the electrolyte.</ce:para>
+               </ce:section>
+               <ce:section id="s0015" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results and discussion</ce:section-title>
+                  <ce:para id="p0025" view="all">
+                     <ce:cross-ref refid="f0010">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="f0010"/> shows the cross-sectional SEM image of the cell before anode reduction. The thick-film LSGM is ~<ce:hsp sp="0.10"/>20μm thick and nearly pore free. It is sandwiched between a porous SSC cathode and porous NiO-GDC anode layers. Although both the cathode and the anode electrodes were brush painted, the variation of thicknesses was not large. The thicknesses of cathode and anode were ~<ce:hsp sp="0.10"/>10 and ~<ce:hsp sp="0.10"/>20<ce:hsp sp="0.25"/>μm, respectively. A good adhesion was also shown between the LSGM electrolyte and the electrodes.</ce:para>
+                  <ce:para id="p0030" view="all">
+                     <ce:cross-ref refid="f0015">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="f0015"/> shows the XRD patterns of sintered LSGM electrolytes after reaction with NiO after firing at different temperatures. LSGM thick-films, coated with the NiO slurry, were fired at 1300, 1350, 1375 or 1400<ce:hsp sp="0.25"/>°C, respectively. A LaNiO<ce:inf loc="post">3</ce:inf> phase was found for the cells fired at or above 1350<ce:hsp sp="0.25"/>°C. In other words, there was a negligible reaction product detectable by XRD for the cell fired under 1350<ce:hsp sp="0.25"/>°C. The results explain the OCV values of the cells as discussed in the coming section. There was a negligible OCV drop for the cells with the anode sintered under 1350<ce:hsp sp="0.25"/>°C.</ce:para>
+                  <ce:para id="p0035" view="all">In order to evaluate the contribution of Ohmic and interfacial polarization resistances, the impedance of the cells was measured at 700<ce:hsp sp="0.25"/>°C under open-circuit conditions. The Ohmic resistance (R<ce:inf loc="post">Ohm</ce:inf>) and polarization resistance (R<ce:inf loc="post">P</ce:inf>) values of the cell were extracted from the impedance spectra. The influences of the anode-firing temperature on the R<ce:inf loc="post">Ohm</ce:inf> and R<ce:inf loc="post">p</ce:inf> are shown in <ce:cross-ref refid="f0020">Fig. 4</ce:cross-ref>
+                     <ce:float-anchor refid="f0020"/> where an area-specific resistance was plotted versus the anode-firing temperature. The results indicate that the R<ce:inf loc="post">P</ce:inf> values are dominant over the R<ce:inf loc="post">Ohm</ce:inf> for all cells regardless of the anode-firing temperature. Due to the thin (t ~<ce:hsp sp="0.10"/>20<ce:hsp sp="0.25"/>μm) electrolyte layer, the portion of the R<ce:inf loc="post">Ohm</ce:inf> value to the total resistance was small. If the thickness of the electrolyte increases over ~<ce:hsp sp="0.10"/>200<ce:hsp sp="0.25"/>μm, a typical thickness of the conventional electrolyte-supported SOFCs, the R<ce:inf loc="post">Ohm</ce:inf> value will become ~<ce:hsp sp="0.10"/>10 times larger than the present value and thus will dominate over the R<ce:inf loc="post">P</ce:inf> value. The R<ce:inf loc="post">Ohm</ce:inf> gradually increases with the increase in the anode-firing temperature. This observation indicates the increasing reaction between the anode and the electrolyte with increasing temperature. An insulating, LaNiO<ce:inf loc="post">3</ce:inf> phase appeared with the increase in the anode-firing temperature. The LaNiO<ce:inf loc="post">3</ce:inf> peaks appeared in the XRD patterns at or above 1350<ce:hsp sp="0.25"/>°C. It is expected that the formation of LaNiO<ce:inf loc="post">3</ce:inf> induces either a composition change in LSGM or at least one additional phase for mass balance. LaSrGa<ce:inf loc="post">3</ce:inf>O<ce:inf loc="post">7</ce:inf> is an example of the phase detected in the NiO-LSGM composite after sintering at 1400<ce:hsp sp="0.25"/>°C <ce:cross-ref refid="bb0085">[17]</ce:cross-ref>. However, such a phase was not observed in this study due possibly to the detection limit of XRD. The formation of the insulating phase is considered as the main reason of the increase in the Ohmic resistance. Although the Rp value of the cell gradually increased when the anode-firing temperature increased from 1300 to 1375<ce:hsp sp="0.25"/>°C, it slightly decreased at 1400<ce:hsp sp="0.25"/>°C. Zhang et al. <ce:cross-ref refid="bb0055">[11]</ce:cross-ref> reported that the LSGM (t ~<ce:hsp sp="0.10"/>500<ce:hsp sp="0.25"/>μm) cell with the Ni-SDC (Sm-doped ceria) anode sintered at 1350<ce:hsp sp="0.25"/>°C showed a large increase in the R<ce:inf loc="post">p</ce:inf>. However, there was no significant increase in this study. The difference is not clear. However, the decrease in the R<ce:inf loc="post">p</ce:inf> with the increase in the electronic conduction of the electrolyte is not unreasonable. The polarization resistance normally decreases with the increase in the electronic conduction of the electrolyte. The OCV of the LSGM cells also gradually decreased with increasing anode-firing temperature due to the appearance of electronic conduction in the LSGM electrolyte.</ce:para>
+                  <ce:para id="p0040" view="all">The cell voltage and the corresponding power density values at 700<ce:hsp sp="0.25"/>°C are shown in <ce:cross-ref refid="f0025">Fig. 5</ce:cross-ref>
+                     <ce:float-anchor refid="f0025"/> as a function of the current density for the cells with different anode-firing temperature. These results clearly indicate that the power density values depend strongly on the anode-firing temperature. The OCV of the cells under air/97% H<ce:inf loc="post">2</ce:inf>
+                     <ce:hsp sp="0.12"/>+<ce:hsp sp="0.12"/>3% H<ce:inf loc="post">2</ce:inf>O gradient was 1.10, 1.03 and 0.90<ce:hsp sp="0.25"/>V for the cells with the anode fired at 1300, 1350 and 1375<ce:hsp sp="0.25"/>°C, respectively. The OCV value apparently depends on the anode-firing temperature and the extent of the Ni reaction with the LSGM electrolyte since Ni in LSGM induces an electronic conduction in the electrolyte and thus decreases OCV. The values of the P<ce:inf loc="post">max</ce:inf> (maximum power density) were 0.93, 0.83 and 0.55<ce:hsp sp="0.25"/>W/cm<ce:sup loc="post">2</ce:sup> for the cells with anodes fired at 1300, 1350 and 1375<ce:hsp sp="0.25"/>°C, respectively. These results show that we can achieve a high performance for the electrolyte-supported cell at the intermediate temperature. The P<ce:inf loc="post">max</ce:inf> values of the current cells were comparable to the best performance (0.65–0.91<ce:hsp sp="0.25"/>W/cm<ce:sup loc="post">2</ce:sup> at 700<ce:hsp sp="0.25"/>°C) of the anode-supported SOFCs using the LSGM electrolytes with thickness of 10–25<ce:hsp sp="0.25"/>μm. <ce:cross-refs refid="bb0060 bb0065">[12,13]</ce:cross-refs>. In this study, the LSGM electrolyte and anode were not co-fired and thus the sintering temperatures of the electrolyte and the anode were controlled independently. On the other hand, the anode-supported cells in the reported data were co-fired at 1400<ce:hsp sp="0.25"/>°C using a buffer layer such as the La-doped ceria to suppress the reaction between LSGM and the Ni-containing anode. However, the use of the buffer layer increases the complexity of the cell manufacturing process, the total thickness of the electrolyte, and thus the instability and the cost of the cell.</ce:para>
+                  <ce:para id="p0045" view="all">The influences of the anode-firing temperature on the OCV and P<ce:inf loc="post">max</ce:inf> are shown in <ce:cross-ref refid="f0030">Fig. 6</ce:cross-ref>
+                     <ce:float-anchor refid="f0030"/>. The OCV and P<ce:inf loc="post">max</ce:inf> values of the cells gradually decreased with increasing anode-firing temperature. The anode fired at 1400<ce:hsp sp="0.25"/>°C showed the lowest OCV (~<ce:hsp sp="0.10"/>0.27<ce:hsp sp="0.25"/>V) due possibly to the severe diffusion of Ni from the anode to the electrolyte film. The diffusion of Ni from the Ni-GDC anode into the LSGM electrolyte was observed by EDS analysis. We found that Ni diffusion becomes more severe with the increase in the anode-firing temperature. The EDS line profiles of the cell with anode fired at 1400<ce:hsp sp="0.25"/>°C are shown in <ce:cross-ref refid="f0035">Fig. 7</ce:cross-ref>
+                     <ce:float-anchor refid="f0035"/> as an example. Although the Ni penetration into the 20<ce:hsp sp="0.12"/>μm-thick LSGM layer was shown mostly in the ~<ce:hsp sp="0.10"/>4<ce:hsp sp="0.25"/>μm-thick interface region, the electronic conduction path was apparently established through the electrolyte layer as shown by the decreased OCV. Although the cell with the anode fired at 1375<ce:hsp sp="0.25"/>°C showed a slightly reduced OCV (~<ce:hsp sp="0.10"/>0.90<ce:hsp sp="0.25"/>V at 700<ce:hsp sp="0.25"/>°C) compared to the Nernst potential, the performance was still reasonably high (P<ce:inf loc="post">max</ce:inf> ~<ce:hsp sp="0.10"/>0.55<ce:hsp sp="0.25"/>W/cm<ce:sup loc="post">2</ce:sup> at 700<ce:hsp sp="0.25"/>°C). Thus, the maximum temperature of anode firing that does not severely reduce the cell performance is 1375<ce:hsp sp="0.25"/>°C.</ce:para>
+               </ce:section>
+               <ce:section id="s0020" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusions</ce:section-title>
+                  <ce:para id="p0050" view="all">A thick-film electrolyte-supported cell was useful to determine the optimum co-firing temperature of the anode-supported cells or to test the effects of the anode-firing temperature on the performance of the LSGM-based cells. The firing temperature of the Ni-GDC anode was the key factor that determines the performance of the LSGM-electrolyte film (t ~<ce:hsp sp="0.10"/>20<ce:hsp sp="0.25"/>μm)-supported cell. The cell with the anode fired at 1300<ce:hsp sp="0.25"/>°C showed the highest OCV (~<ce:hsp sp="0.10"/>1.1<ce:hsp sp="0.25"/>V at 700<ce:hsp sp="0.25"/>°C ) and the best performance (~<ce:hsp sp="0.10"/>0.93<ce:hsp sp="0.25"/>W/cm<ce:sup loc="post">2</ce:sup>). Although the cell with the anode fired at 1375<ce:hsp sp="0.25"/>°C showed a slightly decreased OCV (~<ce:hsp sp="0.10"/>0.90<ce:hsp sp="0.25"/>V at 700<ce:hsp sp="0.25"/>°C), the performance was still reasonably high. In order to avoid the use of the buffer layer, co-firing at or below 1375<ce:hsp sp="0.25"/>°C is recommended for the preparation of the anode-supported cell.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgements</ce:section-title>
+               <ce:para id="p0055" view="all">This work was supported by the <ce:grant-sponsor id="gts0005" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Korea Science and Engineering Foundation</ce:grant-sponsor> (KOSEF) grant funded by the Korea government (MEST) (No. <ce:grant-number refid="gts0005">R01-2008-000-10636-0</ce:grant-number>).</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi0005" view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bs0005">
+                  <ce:bib-reference id="bb0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.B.</ce:given-name>
+                                 <ce:surname>Stambouli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Traversa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Renew. Sust. Energ. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>433</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Tu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Stimming</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>127</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>284</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Yamamoto</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>45</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2423</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Will</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Mitterdorfer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Kleinlogel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Perednis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Gauckler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>131</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>79</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Ishihara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Matsuda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Takita</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>116</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3801</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Gong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Gopalan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.B.</ce:given-name>
+                                 <ce:surname>Pal</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>152</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>A1890</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Horky</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Petric</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>82</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>9</sb:issue-nr>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2402</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.N.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.K.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Son</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.W.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Moon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>177</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2155</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Ando</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Ishihara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Takita</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>174</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>49</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ohara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Maric</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Mukai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Fukui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yoshida</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Inagaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Miura</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>86</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>455</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ohara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Maric</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Mukai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Fukui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yoshida</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Nishimura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Inagaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Miura</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>83</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>170</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Barnett</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochem. Solid-State Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>A285</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Bi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Dong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Yi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>161</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>34</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Joo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.Y.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochem. Solid-State Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>B65</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Joo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Power Sources</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>180</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>195</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Joo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Ionics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>180</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>839</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Datta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Majewski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Aldinger</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>102</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>125</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

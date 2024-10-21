@@ -1,0 +1,1471 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1452398123159372</prism:url><dc:identifier>doi:10.1016/S1452-3981(23)15937-2</dc:identifier><eid>1-s2.0-S1452398123159372</eid><prism:doi>10.1016/S1452-3981(23)15937-2</prism:doi><pii>S1452-3981(23)15937-2</pii><dc:title>Oxidation Characteristic and Machining Performance of Reaction-Sintered Silicon Carbide Ceramic in Anodically Oxidation-Assisted Polishing </dc:title><prism:publicationName>International Journal of Electrochemical Science</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>mis</pubType><prism:issn>14523981</prism:issn><prism:volume>11</prism:volume><prism:issueIdentifier>2</prism:issueIdentifier><prism:startingPage>1512</prism:startingPage><prism:endingPage>1529</prism:endingPage><prism:pageRange>1512-1529</prism:pageRange><prism:number>2</prism:number><dc:format>application/xml</dc:format><prism:coverDate>2016-12-31</prism:coverDate><prism:coverDisplayDate>2016</prism:coverDisplayDate><prism:copyright>Copyright © 2016 The Authors. Published by ESG. Published by Elsevier B.V.</prism:copyright><prism:publisher>The Authors. Published by ESG. Published by Elsevier B.V.</prism:publisher><dc:creator>Jiang, Guoliang</dc:creator><dc:creator>Shen, Xinmin</dc:creator><dc:creator>Tang, Jian</dc:creator><dc:creator>Zhang, Xiaonan</dc:creator><dc:creator>Zhang, Xiangpo</dc:creator><dc:creator>Yamamura, Kazuya</dc:creator><dc:description>
+                  A novel method for machining reaction-sintered silicon carbide (RS-SiC) ceramic using anodically oxidation-assisted polishing is proposed. Through anodic oxidation of RS-SiC, hardness of the oxidized sample can be reduced, and the soft oxide layer is easy to be machined with the assistance of abrasive polishing. In this way, fine surface quality and high material removal rate can be obtained in machining RS-SiC. The influences of process conditions on the oxide morphology, oxidation rate, and surface roughness have been qualitative investigated with scanning electron microscope (SEM) and quantitative analyzed with scanning white light interferometry (SWLI). The results show that anodic oxidation of RS-SiC by phosphoric acid (H3PO4) under the constant potential can obtain soft oxide and smooth morphology; abrasive polishing of oxide layer can obtain smooth surface with roughness rms 8.520nm. Relationship between oxidation depth and its influencing factors can be theoretical analyzed based on the oxidation mechanism, and the oxidation depth can be calculated by hydrofluoric acid (HF) etching of the oxidized sample. It can be concluded that the anodically oxidation-assisted polishing, which includes the anodic oxidation of RS-SiC by H3PO4 and abrasive polishing of oxide layer by ceria slurry, can be treated as a practical method to machine RS-SiC.
+               </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>Author</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/4.0/</openaccessUserLicense><dcterms:subject>anodically oxidation-assisted polishing</dcterms:subject><dcterms:subject>reaction-sintered silicon carbide</dcterms:subject><dcterms:subject>phosphoric acid</dcterms:subject><dcterms:subject>oxidation characteristic</dcterms:subject><dcterms:subject>machining performance</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1452398123159372" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1452398123159372" rel="scidir"/></coredata><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>783334</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291802</xocs:ssid>
+         <xocs:ssid type="subj">291865</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>International Journal of Electrochemical Science</xocs:srctitle>
+      <xocs:normalized-srctitle>INTERNATIONALJOURNALELECTROCHEMICALSCIENCE</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20230628">2023-06-28</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20230628">2023-06-28</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20230628">2023-06-28</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20230628">2023-06-28</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2023-06-28T12:02:20</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1452398123159372</xocs:eid>
+      <xocs:pii-formatted>S1452-3981(23)15937-2</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1452398123159372</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S1452-3981(23)15937-2</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.1</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1452398116X45002</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20230628">2023-06-28T12:12:22.935351Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20160101</xocs:date-search-begin>
+      <xocs:date-search-end>20161231</xocs:date-search-end>
+      <xocs:year-nav>2016</xocs:year-nav>
+      <xocs:indexeddate epoch="1687957942">2023-06-28T13:12:22.935351Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content oa subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authkeywords authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1452-3981</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>14523981</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>11</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>11</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>2</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>2</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 11, Issue 2</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>49</xocs:sort-order>
+      <xocs:first-fp>1512</xocs:first-fp>
+      <xocs:last-lp>1529</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>1512</xocs:first-page>
+         <xocs:last-page>1529</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>2016</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>2016</xocs:cover-date-text>
+      <xocs:cover-date-start>2016-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2016-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2016</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>mis</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2016 The Authors. Published by ESG. Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>OXIDATIONCHARACTERISTICMACHININGPERFORMANCEREACTIONSINTEREDSILICONCARBIDECERAMICINANODICALLYOXIDATIONASSISTEDPOLISHING</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>JIANG</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>G</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="rf0005">
+            <xocs:ref-normalized-surname>HUANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>83351R</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0010">
+            <xocs:ref-normalized-surname>DING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2095</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0015">
+            <xocs:ref-normalized-surname>PANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1145</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0020">
+            <xocs:ref-normalized-surname>SAYANO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>467</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0025">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>963</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0030">
+            <xocs:ref-normalized-surname>SUYAMA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1201</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0035">
+            <xocs:ref-normalized-surname>SUYAMA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>58680E</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0040">
+            <xocs:ref-normalized-surname>ZHU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>81942A</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0045">
+            <xocs:ref-normalized-surname>JI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>117</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0050">
+            <xocs:ref-normalized-surname>CHENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4563</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0055">
+            <xocs:ref-normalized-surname>TAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>276</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0060">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>117</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0065">
+            <xocs:ref-normalized-surname>YAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>366</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0070">
+            <xocs:ref-normalized-surname>YAMAMURA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>335</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0075">
+            <xocs:ref-normalized-surname>SHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>14780</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0080">
+            <xocs:ref-normalized-surname>SHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>26123</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0085">
+            <xocs:ref-normalized-surname>SHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>055106</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0090">
+            <xocs:ref-normalized-surname>WOON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2808</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0095">
+            <xocs:ref-normalized-surname>YAMAUCHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4028</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4033</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0100">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-article-number>054009</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0105">
+            <xocs:ref-normalized-surname>DENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>186</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0110">
+            <xocs:ref-normalized-surname>DEAL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1965</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3770</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0115">
+            <xocs:ref-normalized-surname>SONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4953</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0120">
+            <xocs:ref-normalized-surname>ZHENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>854</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0125">
+            <xocs:ref-normalized-surname>GOEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>402</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0130">
+            <xocs:ref-normalized-surname>OHMORI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>65</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0135">
+            <xocs:ref-normalized-surname>LIEW</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1076</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>JIANGX2016X1512</xocs:refkey3>
+         <xocs:refkey4lp>JIANGX2016X1512X1529</xocs:refkey4lp>
+         <xocs:refkey4ai>JIANGX2016X1512XG</xocs:refkey4ai>
+         <xocs:refkey5>JIANGX2016X1512X1529XG</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2023-06-27T07:37:07Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>Author</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:oa-user-license>
+         <xocs:oa-access-inherited-from winid="http://vtw.elsevier.com/content/oaw/1452-3981_UNBOUNDED_Author">OA-Window</xocs:oa-access-inherited-from>
+      </xocs:open-access>
+      <xocs:article-sharing-framework/>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1452-3981(23)15937-2</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1452398123159372</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1452398123159372</xocs:eid>
+         <xocs:doi>10.1016/S1452-3981(23)15937-2</xocs:doi>
+         <xocs:cid>783334</xocs:cid>
+         <xocs:timestamp>2023-06-28T12:12:22.935351Z</xocs:timestamp>
+         <xocs:cover-date-start>2016-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2016-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1452398123159372-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1452398123159372/MAIN/application/pdf/2b9074e7e82fcaaefe129e34328b8769/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1638066</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>18</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1452398123159372-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1452398123159372/PREVIEW/image/png/5c5990a2118ec7221198bddcab32a5d0/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>62391</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:rawtext xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">Oxidation Characteristic and Machining Performance of Reaction-Sintered Silicon Carbide Ceramic in Anodically Oxidation-Assisted Polishing Guoliang Jiang, 1 Xinmin Shen, 1 shenxmjfjlgdx2014@163.com Jian Tang, 1 Xiaonan Zhang, 1 Xiangpo Zhang, 1 Kazuya Yamamura, 2 yamamura@upst.eng.osaka-u.ac.jp 1 College of Field Engineering, PLA University of Science and Technology, Jiangsu 210007, China. College of Field Engineering PLA University of Science and Technology Jiangsu 210007 China College of Field Engineering, PLA University of Science and Technology, Jiangsu 210007, China. 2 Graduate School of Engineering, Osaka University, Osaka 565-0871, Japan. Graduate School of Engineering Osaka University Osaka 565-0871 Japan Graduate School of Engineering, Osaka University, Osaka 565-0871, Japan.     A novel method for machining reaction-sintered silicon carbide (RS-SiC) ceramic using anodically oxidation-assisted polishing is proposed. Through anodic oxidation of RS-SiC, hardness of the oxidized sample can be reduced, and the soft oxide layer is easy to be machined with the assistance of abrasive polishing. In this way, fine surface quality and high material removal rate can be obtained in machining RS-SiC. The influences of process conditions on the oxide morphology, oxidation rate, and surface roughness have been qualitative investigated with scanning electron microscope (SEM) and quantitative analyzed with scanning white light interferometry (SWLI). The results show that anodic oxidation of RS-SiC by phosphoric acid (H3   PO  PO4   ) under the constant potential can obtain soft oxide and smooth morphology; abrasive polishing of oxide layer can obtain smooth surface with roughness rms 8.520nm. Relationship between oxidation depth and its influencing factors can be theoretical analyzed based on the oxidation mechanism, and the oxidation depth can be calculated by hydrofluoric acid (HF) etching of the oxidized sample. It can be concluded that the anodically oxidation-assisted polishing, which includes the anodic oxidation of RS-SiC by H  ) under the constant potential can obtain soft oxide and smooth morphology; abrasive polishing of oxide layer can obtain smooth surface with roughness rms 8.520nm. Relationship between oxidation depth and its influencing factors can be theoretical analyzed based on the oxidation mechanism, and the oxidation depth can be calculated by hydrofluoric acid (HF) etching of the oxidized sample. It can be concluded that the anodically oxidation-assisted polishing, which includes the anodic oxidation of RS-SiC by H3   PO  PO4    and abrasive polishing of oxide layer by ceria slurry, can be treated as a practical method to machine RS-SiC.Keywords anodically oxidation-assisted polishing reaction-sintered silicon carbide phosphoric acid oxidation characteristic machining performance   References 1. Z.R. Huang, G.L. Liu, X.J. Liu, Z.M. Chen, D.L. Jiang, Proc. of SPIE 8335: (2012) 83351R-Z.R. Huang, G.L. Liu, X.J. Liu, Z.M. Chen, and D.L. Jiang, Proc. of SPIE, 8335 (2012) 83351R. 2. S.Q. Ding, S.M. Zhu, Y.P. Zeng, D.L. Jiang, J. Eur. Ceram. Soc. 27: (2007) 2095-S.Q. Ding, S.M. Zhu, Y.P. Zeng, and D.L. Jiang, J. Eur. Ceram. Soc., 27 (2007) 2095. 3. S.W. Pang, T. Tamamura, M. Nakao, A. Ozawa, H. Masuda, J. Vac. Sci. Technol.    B16: (1998) 1145-S.W. Pang, T. Tamamura, M. Nakao, A. Ozawa, and H. Masuda, J. Vac. Sci. Technol. B, 16(1998) 1145. 4. A. Sayano, C. Sutoh, S. Suyama, Y. Itoh, S. Nakagawa, J. Nucl. Mater. 271-272: (1999) 467-A. Sayano, C. Sutoh, S. Suyama, Y. Itoh, and S. Nakagawa, J. Nucl. Mater., 271-272(1999) 467. 5. S.P. Lee, Y.S. Shin, D.S. Bae, B.H. Min, J.S. Park, A. Kohyama, Fusion Eng. Des. 81: (2006) 963-S.P. Lee, Y.S. Shin, D.S. Bae, B.H. Min, J.S. Park, and A. Kohyama, Fusion Eng. Des., 81(2006) 963. 6. S. Suyama, T. Kameda, Y. Itoh, Diamond Related Materials 12: (2003) 1201-S. Suyama, T. Kameda, and Y. Itoh, Diamond Related Materials, 12 (2003) 1201. 7. S. Suyama, Y. Itoh, K. Tsuno, K. Ohno, Proc. SPIE 5868: (2005) 58680E-S. Suyama, Y. Itoh, K. Tsuno, and K. Ohno, Proc. SPIE, 5868 (2005) 58680E. 8. H. Zhu, X.L. Liu, D.Y. Yan, P. Ma, Proc. of SPIE 8194: (2011) 81942A-H. Zhu, X.L. Liu, D.Y. Yan, and P. Ma, Proc. of SPIE, 8194 (2011) 81942A. 9. R.J. Ji, Y.H. Liu, Y.Z. Zhang, F. Wang, Int. Journal of Refractory Metals and Hard Materials 29: (2011) 117-R.J. Ji, Y.H. Liu, Y.Z. Zhang, and F. Wang, Int. Journal of Refractory Metals and Hard Materials, 29 (2011) 117. 10. H.B. Cheng, Y.P. Feng, L.Q. Ren, S. To, Y.T. Wang, J. Mater. Process. Technol. 209: (2009) 4563-H.B. Cheng, Y.P. Feng, L.Q. Ren, S. To, and Y.T. Wang, J. Mater. Process. Technol., 209 (2009) 4563. 11. H.Y. Tam, H.B. Cheng, Y.W. Wang, J. Mater. Process. Technol. 192-193: (2007) 276-H.Y. Tam, H.B. Cheng, and Y.W. Wang, J. Mater. Process. Technol., 192-193 (2007) 276. 12. Z.Y. Zhang, J.W. Yan, T. Kuriyagawa, Int. J. Adv. Manuf. Technol. 57: (2011) 117-Z.Y. Zhang, J.W. Yan, and T. Kuriyagawa, Int. J. Adv. Manuf. Technol., 57 (2011) 117. 13. J.W. Yan, Z.Y. Zhang, T. Kuriyagawa, Int. J. Mach. Tools Manuf   .49: (2009) 366-J.W. Yan, Z.Y. Zhang, and T. Kuriyagawa, Int. J. Mach. Tools Manuf., 49 (2009) 366. 14. K. Yamamura, Y. Yamamoto, H. Deng, Procedia    CIRP3: (2012) 335-K. Yamamura, Y. Yamamoto, and H. Deng, Procedia CIRP, 3 (2012) 335. 15. X.M. Shen, Y.F. Dai, H. Deng, C.L. Guan, K. Yamamura, Opt. Express 21: (2013) 14780-X.M. Shen, Y.F. Dai, H. Deng, C.L. Guan, and K. Yamamura, Opt. Express, 21 (2013) 14780. 16. X.M. Shen, Y.F. Dai, H. Deng, C.L. Guan, K. Yamamura, Opt. Express 21: (2013) 26123-X.M. Shen, Y.F. Dai, H. Deng, C.L. Guan, and K. Yamamura, Opt. Express, 21 (2013) 26123. 17. X.M. Shen, Q.Z. Tu, H. Deng, G.L. Jiang, K. Yamamura, Optical Engineering. 54: (2015) 055106-X.M. Shen, Q.Z. Tu, H. Deng, G.L. Jiang, and K. Yamamura, Optical Engineering. 54(2015): 055106. 18. W.S. Woon, S.D. Hutagalung, K.Y. Cheong, Thin Solid Films 517: (2009) 2808-W.S. Woon, S.D. Hutagalung, and K.Y. Cheong, Thin Solid Films, 517 (2009) 2808. 19. K. Yamauchi, H. Mimura, K. Inagaki, Y. Mori, Rev. Sci. Instrum. 73: (2002) 4028-4033 K. Yamauchi, H. Mimura, K. Inagaki, and Y. Mori, Rev. Sci. Instrum., 73 (2002) 4028-4033. 20. F.H. Zhang, X.Z. Song, Y. Zhang, D.R. Luan, J. Micromech. Microeng. 19: (2009) 054009 F.H. Zhang, X.Z. Song, Y. Zhang, and D.R. Luan, J. Micromech. Microeng., 19 (2009) 054009. 21. H. Deng, M. Ueda, K. Yamamura, Key Engineering Materials 516: (2012) 186-H. Deng, M. Ueda, and K. Yamamura, Key Engineering Materials, 516 (2012) 186. 22. B.E. Deal, A.S. Grove, J. Appl. Phys. 36: (1965) 3770-B.E. Deal, and A.S. Grove, J. Appl. Phys., 36(1965) 3770. 23. Y. Song, S. Dhar, L.C. Feldman, G. Chung, J.R. Williams, J. Appl. Phys. 95: (2004) 4953-Y. Song, S. Dhar, L.C. Feldman, G. Chung, and J.R. Williams, J. Appl. Phys., 95 (2004) 4953. 24. Z. Zheng, R.E. Tressler, K.E. Spear, J. Electrochem. Soc. 3: (1990) 854-Z. Zheng, R.E. Tressler, and K.E. Spear, J. Electrochem. Soc., 3 (1990) 854. 25. S. Goel, X.C. Luo, R.L. Reuben, Computational Materials Science 51: (2011) 402-S. Goel, X.C. Luo, and R.L. Reuben, Computational Materials Science, 51 (2011) 402. 26. H. Ohmori, Y. Dai, W. Lin, Key Engineering Materials 238: (2003) 65-H. Ohmori, Y. Dai, and W. Lin, Key Engineering Materials, 238 (2003) 65. 27. P.J. Liew, J. Yan, T. Kuriyagawa, Journal of Materials Processing Technology 213: (2013) 1076-P.J. Liew, J. Yan, and T. Kuriyagawa, Journal of Materials Processing Technology, 213 (2013) 1076.   . 4. A. Sayano, C. Sutoh, S. Suyama, Y. Itoh, S. Nakagawa, J. Nucl. Mater. 271-272: (1999) 467-A. Sayano, C. Sutoh, S. Suyama, Y. Itoh, and S. Nakagawa, J. Nucl. Mater., 271-272(1999) 467. 5. S.P. Lee, Y.S. Shin, D.S. Bae, B.H. Min, J.S. Park, A. Kohyama, Fusion Eng. Des. 81: (2006) 963-S.P. Lee, Y.S. Shin, D.S. Bae, B.H. Min, J.S. Park, and A. Kohyama, Fusion Eng. Des., 81(2006) 963. 6. S. Suyama, T. Kameda, Y. Itoh, Diamond Related Materials 12: (2003) 1201-S. Suyama, T. Kameda, and Y. Itoh, Diamond Related Materials, 12 (2003) 1201. 7. S. Suyama, Y. Itoh, K. Tsuno, K. Ohno, Proc. SPIE 5868: (2005) 58680E-S. Suyama, Y. Itoh, K. Tsuno, and K. Ohno, Proc. SPIE, 5868 (2005) 58680</xocs:rawtext><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.6" docsubtype="mis" xml:lang="en">
+         <item-info>
+            <jid>IJOES</jid>
+            <aid>50113816</aid>
+            <ce:pii>S1452-3981(23)15937-2</ce:pii>
+            <ce:doi>10.1016/S1452-3981(23)15937-2</ce:doi>
+            <ce:copyright type="other" year="2016">The Authors. Published by ESG</ce:copyright>
+            <ce:copyright-line>© 2016 The Authors. Published by ESG</ce:copyright-line>
+         </item-info>
+         <simple-head>
+            <ce:title id="ti0005">Oxidation Characteristic and Machining Performance of Reaction-Sintered Silicon Carbide Ceramic in Anodically Oxidation-Assisted Polishing</ce:title>
+            <ce:author-group id="ag0005">
+               <ce:author id="au0005" author-id="S1452398123159372-e61581e0034e87ecda3c1e75e142270d">
+                  <ce:given-name>Guoliang</ce:given-name>
+                  <ce:surname>Jiang</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0005">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0010" author-id="S1452398123159372-a3521391cb01fda899d7c9fadab8d499">
+                  <ce:given-name>Xinmin</ce:given-name>
+                  <ce:surname>Shen</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0010">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0015" author-id="S1452398123159372-e624239362cd6d76de324775529d8691">
+                  <ce:given-name>Jian</ce:given-name>
+                  <ce:surname>Tang</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0015">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0020" author-id="S1452398123159372-73263cfff250c66fa34259b9de059405">
+                  <ce:given-name>Xiaonan</ce:given-name>
+                  <ce:surname>Zhang</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0020">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0025" author-id="S1452398123159372-696a7859289e1ff6919479f4332cf808">
+                  <ce:given-name>Xiangpo</ce:given-name>
+                  <ce:surname>Zhang</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0025">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0030" author-id="S1452398123159372-6d018d8d60f9d20c1f99b4f4c5951e4b">
+                  <ce:given-name>Kazuya</ce:given-name>
+                  <ce:surname>Yamamura</ce:surname>
+                  <ce:cross-ref refid="af0010" id="cf0030">
+                     <ce:sup loc="post">2</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="af0005" affiliation-id="S1452398123159372-cf8d934957b6e510e9bf6a87c57835e0">
+                  <ce:label>1</ce:label>
+                  <ce:textfn id="tn0005">College of Field Engineering, PLA University of Science and Technology, Jiangsu 210007, China.</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>College of Field Engineering</sa:organization>
+                     <sa:organization>PLA University of Science and Technology</sa:organization>
+                     <sa:state>Jiangsu</sa:state>
+                     <sa:postal-code>210007</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="se0005">College of Field Engineering, PLA University of Science and Technology, Jiangsu 210007, China.</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af0010" affiliation-id="S1452398123159372-f21f82eb2de3c5ad65627fd2e4dc4cd3">
+                  <ce:label>2</ce:label>
+                  <ce:textfn id="tn0010">Graduate School of Engineering, Osaka University, Osaka 565-0871, Japan.</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Graduate School of Engineering</sa:organization>
+                     <sa:organization>Osaka University</sa:organization>
+                     <sa:city>Osaka</sa:city>
+                     <sa:postal-code>565-0871</sa:postal-code>
+                     <sa:country>Japan</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="se0010">Graduate School of Engineering, Osaka University, Osaka 565-0871, Japan.</ce:source-text>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="11" month="11" year="2015"/>
+            <ce:date-accepted day="10" month="12" year="2015"/>
+            <ce:abstract id="ab0005" xml:lang="en" view="extended" class="author"><ce:abstract-sec id="as0005" view="all">
+                  <ce:simple-para id="sp0005" view="all">A novel method for machining reaction-sintered silicon carbide (RS-SiC) ceramic using anodically oxidation-assisted polishing is proposed. Through anodic oxidation of RS-SiC, hardness of the oxidized sample can be reduced, and the soft oxide layer is easy to be machined with the assistance of abrasive polishing. In this way, fine surface quality and high material removal rate can be obtained in machining RS-SiC. The influences of process conditions on the oxide morphology, oxidation rate, and surface roughness have been qualitative investigated with scanning electron microscope (SEM) and quantitative analyzed with scanning white light interferometry (SWLI). The results show that anodic oxidation of RS-SiC by phosphoric acid (H<ce:inf loc="post">3</ce:inf>PO<ce:inf loc="post">4</ce:inf>) under the constant potential can obtain soft oxide and smooth morphology; abrasive polishing of oxide layer can obtain smooth surface with roughness rms 8.520nm. Relationship between oxidation depth and its influencing factors can be theoretical analyzed based on the oxidation mechanism, and the oxidation depth can be calculated by hydrofluoric acid (HF) etching of the oxidized sample. It can be concluded that the anodically oxidation-assisted polishing, which includes the anodic oxidation of RS-SiC by H<ce:inf loc="post">3</ce:inf>PO<ce:inf loc="post">4</ce:inf> and abrasive polishing of oxide layer by ceria slurry, can be treated as a practical method to machine RS-SiC.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords view="extended" id="ks0005" class="keyword">
+               <ce:section-title id="st0005">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text id="tx0005">anodically oxidation-assisted polishing</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text id="tx0010">reaction-sintered silicon carbide</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text id="tx0015">phosphoric acid</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text id="tx0020">oxidation characteristic</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0025">
+                  <ce:text id="tx0025">machining performance</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </simple-head>
+         <simple-tail view="all">
+            <ce:bibliography id="bi0005" view="all">
+               <ce:section-title id="st0010">References</ce:section-title>
+               <ce:bibliography-sec id="bs0005" view="all">
+                  <ce:bib-reference id="bb0005">
+                     <ce:label>1.</ce:label>
+                     <sb:reference id="rf0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.R.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.L.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.J.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.M.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.L.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. of SPIE</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8335</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>83351R</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0015">Z.R. Huang, G.L. Liu, X.J. Liu, Z.M. Chen, and D.L. Jiang, Proc. of SPIE, 8335 (2012) 83351R.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0010">
+                     <ce:label>2.</ce:label>
+                     <sb:reference id="rf0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.Q.</ce:given-name>
+                                 <ce:surname>Ding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.M.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.P.</ce:given-name>
+                                 <ce:surname>Zeng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.L.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Eur. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2095</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0020">S.Q. Ding, S.M. Zhu, Y.P. Zeng, and D.L. Jiang, J. Eur. Ceram. Soc., 27 (2007) 2095.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0015">
+                     <ce:label>3.</ce:label>
+                     <sb:reference id="rf0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.W.</ce:given-name>
+                                 <ce:surname>Pang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Tamamura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Nakao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Ozawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Masuda</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>
+                                       <ce:italic>J. Vac. Sci. Technol.</ce:italic> B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1145</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0025">S.W. Pang, T. Tamamura, M. Nakao, A. Ozawa, and H. Masuda, J. Vac. Sci. Technol. B, 16(1998) 1145.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0020">
+                     <ce:label>4.</ce:label>
+                     <sb:reference id="rf0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Sayano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Sutoh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Suyama</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Itoh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Nakagawa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Nucl. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>271-272</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>467</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0030">A. Sayano, C. Sutoh, S. Suyama, Y. Itoh, and S. Nakagawa, J. Nucl. Mater., 271-272(1999) 467.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0025">
+                     <ce:label>5.</ce:label>
+                     <sb:reference id="rf0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.P.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.S.</ce:given-name>
+                                 <ce:surname>Shin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.S.</ce:given-name>
+                                 <ce:surname>Bae</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.H.</ce:given-name>
+                                 <ce:surname>Min</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Kohyama</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Fusion Eng. Des.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>81</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>963</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0035">S.P. Lee, Y.S. Shin, D.S. Bae, B.H. Min, J.S. Park, and A. Kohyama, Fusion Eng. Des., 81(2006) 963.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0030">
+                     <ce:label>6.</ce:label>
+                     <sb:reference id="rf0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Suyama</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kameda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Itoh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Diamond Related Materials</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1201</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0040">S. Suyama, T. Kameda, and Y. Itoh, Diamond Related Materials, 12 (2003) 1201.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0035">
+                     <ce:label>7.</ce:label>
+                     <sb:reference id="rf0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Suyama</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Itoh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Tsuno</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Ohno</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. SPIE</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5868</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>58680E</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0045">S. Suyama, Y. Itoh, K. Tsuno, and K. Ohno, Proc. SPIE, 5868 (2005) 58680E.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0040">
+                     <ce:label>8.</ce:label>
+                     <sb:reference id="rf0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.L.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.Y.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. of SPIE</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8194</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>81942A</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0050">H. Zhu, X.L. Liu, D.Y. Yan, and P. Ma, Proc. of SPIE, 8194 (2011) 81942A.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0045">
+                     <ce:label>9.</ce:label>
+                     <sb:reference id="rf0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Ji</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.H.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.Z.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. Journal of Refractory Metals and Hard Materials</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>117</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0055">R.J. Ji, Y.H. Liu, Y.Z. Zhang, and F. Wang, Int. Journal of Refractory Metals and Hard Materials, 29 (2011) 117.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0050">
+                     <ce:label>10.</ce:label>
+                     <sb:reference id="rf0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.B.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.P.</ce:given-name>
+                                 <ce:surname>Feng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.Q.</ce:given-name>
+                                 <ce:surname>Ren</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>S. To</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.T.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Process. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>209</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4563</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0060">H.B. Cheng, Y.P. Feng, L.Q. Ren, S. To, and Y.T. Wang, J. Mater. Process. Technol., 209 (2009) 4563.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0055">
+                     <ce:label>11.</ce:label>
+                     <sb:reference id="rf0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.Y.</ce:given-name>
+                                 <ce:surname>Tam</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.B.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.W.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Process. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>192-193</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>276</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0065">H.Y. Tam, H.B. Cheng, and Y.W. Wang, J. Mater. Process. Technol., 192-193 (2007) 276.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0060">
+                     <ce:label>12.</ce:label>
+                     <sb:reference id="rf0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kuriyagawa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Adv. Manuf. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>57</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>117</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0070">Z.Y. Zhang, J.W. Yan, and T. Kuriyagawa, Int. J. Adv. Manuf. Technol., 57 (2011) 117.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0065">
+                     <ce:label>13.</ce:label>
+                     <sb:reference id="rf0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kuriyagawa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>
+                                       <ce:italic>Int. J. Mach. Tools Manuf</ce:italic>.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>366</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0075">J.W. Yan, Z.Y. Zhang, and T. Kuriyagawa, Int. J. Mach. Tools Manuf., 49 (2009) 366.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0070">
+                     <ce:label>14.</ce:label>
+                     <sb:reference id="rf0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Yamamura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yamamoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Deng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>
+                                       <ce:italic>Procedia</ce:italic> CIRP</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>335</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0080">K. Yamamura, Y. Yamamoto, and H. Deng, Procedia CIRP, 3 (2012) 335.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0075">
+                     <ce:label>15.</ce:label>
+                     <sb:reference id="rf0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.M.</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.F.</ce:given-name>
+                                 <ce:surname>Dai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Deng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Guan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Yamamura</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Express</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>14780</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0085">X.M. Shen, Y.F. Dai, H. Deng, C.L. Guan, and K. Yamamura, Opt. Express, 21 (2013) 14780.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0080">
+                     <ce:label>16.</ce:label>
+                     <sb:reference id="rf0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.M.</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.F.</ce:given-name>
+                                 <ce:surname>Dai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Deng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Guan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Yamamura</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Opt. Express</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>26123</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0090">X.M. Shen, Y.F. Dai, H. Deng, C.L. Guan, and K. Yamamura, Opt. Express, 21 (2013) 26123.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0085">
+                     <ce:label>17.</ce:label>
+                     <sb:reference id="rf0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.M.</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.Z.</ce:given-name>
+                                 <ce:surname>Tu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Deng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.L.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Yamamura</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Optical Engineering.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>055106</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0095">X.M. Shen, Q.Z. Tu, H. Deng, G.L. Jiang, and K. Yamamura, Optical Engineering. 54(2015): 055106.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0090">
+                     <ce:label>18.</ce:label>
+                     <sb:reference id="rf0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.S.</ce:given-name>
+                                 <ce:surname>Woon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.D.</ce:given-name>
+                                 <ce:surname>Hutagalung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.Y.</ce:given-name>
+                                 <ce:surname>Cheong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Thin Solid Films</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>517</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2808</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0100">W.S. Woon, S.D. Hutagalung, and K.Y. Cheong, Thin Solid Films, 517 (2009) 2808.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0095">
+                     <ce:label>19.</ce:label>
+                     <sb:reference id="rf0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Yamauchi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Mimura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Inagaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Mori</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Rev. Sci. Instrum.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>73</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4028</sb:first-page>
+                              <sb:last-page>4033</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0105">K. Yamauchi, H. Mimura, K. Inagaki, and Y. Mori, Rev. Sci. Instrum., 73 (2002) 4028-4033.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0100">
+                     <ce:label>20.</ce:label>
+                     <sb:reference id="rf0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.H.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.Z.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.R.</ce:given-name>
+                                 <ce:surname>Luan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Micromech. Microeng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:article-number>054009</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0110">F.H. Zhang, X.Z. Song, Y. Zhang, and D.R. Luan, J. Micromech. Microeng., 19 (2009) 054009.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0105">
+                     <ce:label>21.</ce:label>
+                     <sb:reference id="rf0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Deng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Ueda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Yamamura</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Key Engineering Materials</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>516</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>186</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0115">H. Deng, M. Ueda, and K. Yamamura, Key Engineering Materials, 516 (2012) 186.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0110">
+                     <ce:label>22.</ce:label>
+                     <sb:reference id="rf0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.E.</ce:given-name>
+                                 <ce:surname>Deal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.S.</ce:given-name>
+                                 <ce:surname>Grove</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1965</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3770</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0120">B.E. Deal, and A.S. Grove, J. Appl. Phys., 36(1965) 3770.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0115">
+                     <ce:label>23.</ce:label>
+                     <sb:reference id="rf0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Dhar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.C.</ce:given-name>
+                                 <ce:surname>Feldman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Chung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Williams</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>95</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4953</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0125">Y. Song, S. Dhar, L.C. Feldman, G. Chung, and J.R. Williams, J. Appl. Phys., 95 (2004) 4953.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0120">
+                     <ce:label>24.</ce:label>
+                     <sb:reference id="rf0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Zheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.E.</ce:given-name>
+                                 <ce:surname>Tressler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.E.</ce:given-name>
+                                 <ce:surname>Spear</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>854</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0130">Z. Zheng, R.E. Tressler, and K.E. Spear, J. Electrochem. Soc., 3 (1990) 854.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0125">
+                     <ce:label>25.</ce:label>
+                     <sb:reference id="rf0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Goel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.C.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.L.</ce:given-name>
+                                 <ce:surname>Reuben</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Computational Materials Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>402</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0135">S. Goel, X.C. Luo, and R.L. Reuben, Computational Materials Science, 51 (2011) 402.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0130">
+                     <ce:label>26.</ce:label>
+                     <sb:reference id="rf0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Ohmori</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Dai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Key Engineering Materials</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>238</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>65</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0140">H. Ohmori, Y. Dai, and W. Lin, Key Engineering Materials, 238 (2003) 65.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0135">
+                     <ce:label>27.</ce:label>
+                     <sb:reference id="rf0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Liew</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kuriyagawa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Materials Processing Technology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>213</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1076</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0145">P.J. Liew, J. Yan, and T. Kuriyagawa, Journal of Materials Processing Technology, 213 (2013) 1076.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

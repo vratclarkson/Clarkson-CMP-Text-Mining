@@ -1,0 +1,1572 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0007850609001206</prism:url><dc:identifier>doi:10.1016/j.cirp.2009.03.120</dc:identifier><eid>1-s2.0-S0007850609001206</eid><prism:doi>10.1016/j.cirp.2009.03.120</prism:doi><pii>S0007-8506(09)00120-6</pii><dc:title>Removal mechanisms in polishing of silicon based advanced ceramics </dc:title><prism:publicationName>CIRP Annals</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>00078506</prism:issn><prism:volume>58</prism:volume><prism:issueIdentifier>1</prism:issueIdentifier><prism:startingPage>491</prism:startingPage><prism:endingPage>494</prism:endingPage><prism:pageRange>491-494</prism:pageRange><prism:number>1</prism:number><dc:format>application/xml</dc:format><prism:coverDate>2009-12-31</prism:coverDate><prism:coverDisplayDate>2009</prism:coverDisplayDate><prism:copyright>Copyright © 2009 CIRP. Published by Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>CIRP. Published by Elsevier Ltd.</prism:publisher><dc:creator>Klocke, Fritz</dc:creator><dc:creator>Zunke, Richard</dc:creator><dc:description>
+                  Advanced ceramics with high surface quality and integrity are of increased interest in mold and die making and optics. The demanded qualities are widely ensured by polishing. However, due to the great variety of parameters and interactions the removal mechanisms are still not fully understood. Therefore, polishing processes of silicon based advanced ceramics are investigated. It is shown that depending on the slurry the material removal mechanisms differ. Observed effects can be explained by dominating mechanical or chemo-mechanical removal. This is discussed based on the phenomenological analysis of experimental results using advanced metrology, such as AFM, SEM and TEM.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Polishing</dcterms:subject><dcterms:subject>Ceramic</dcterms:subject><dcterms:subject>Mechanism</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0007850609001206" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0007850609001206" rel="scidir"/></coredata><objects><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="82" size="5472">https://api.elsevier.com/content/object/eid/1-s2.0-S0007850609001206-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="189" height="164" size="4631">https://api.elsevier.com/content/object/eid/1-s2.0-S0007850609001206-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="102" size="3458">https://api.elsevier.com/content/object/eid/1-s2.0-S0007850609001206-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="170" height="163" size="5952">https://api.elsevier.com/content/object/eid/1-s2.0-S0007850609001206-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="73" size="6133">https://api.elsevier.com/content/object/eid/1-s2.0-S0007850609001206-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="105" size="6784">https://api.elsevier.com/content/object/eid/1-s2.0-S0007850609001206-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="97" size="5795">https://api.elsevier.com/content/object/eid/1-s2.0-S0007850609001206-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="391" height="146" size="29193">https://api.elsevier.com/content/object/eid/1-s2.0-S0007850609001206-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="376" height="326" size="27976">https://api.elsevier.com/content/object/eid/1-s2.0-S0007850609001206-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="353" height="165" size="26698">https://api.elsevier.com/content/object/eid/1-s2.0-S0007850609001206-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="353" height="339" size="46540">https://api.elsevier.com/content/object/eid/1-s2.0-S0007850609001206-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="391" height="131" size="24262">https://api.elsevier.com/content/object/eid/1-s2.0-S0007850609001206-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="391" height="188" size="34606">https://api.elsevier.com/content/object/eid/1-s2.0-S0007850609001206-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="391" height="172" size="31768">https://api.elsevier.com/content/object/eid/1-s2.0-S0007850609001206-gr7.jpg?httpAccept=%2A%2F%2A</object></objects><scopus-id>67349190524</scopus-id><scopus-eid>2-s2.0-67349190524</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/67349190524" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>273597</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291885</xocs:ssid>
+         <xocs:ssid type="subj">291888</xocs:ssid>
+         <xocs:ssid type="subj">291893</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>CIRP Annals</xocs:srctitle>
+      <xocs:normalized-srctitle>CIRPANNALS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20090505">2009-05-05</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20090505">2009-05-05</xocs:available-online-date>
+      <xocs:ew-transaction-id>2017-09-19T08:43:45</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0007850609001206</xocs:eid>
+      <xocs:pii-formatted>S0007-8506(09)00120-6</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0007850609001206</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.cirp.2009.03.120</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0007850609X00028</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20170919">2017-09-19T05:24:52.698741-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20090101</xocs:date-search-begin>
+      <xocs:date-search-end>20091231</xocs:date-search-end>
+      <xocs:year-nav>2009</xocs:year-nav>
+      <xocs:indexeddate epoch="1241481600">2009-05-05T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure body affil articletitle auth authfirstini authfull authkeywords authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0007-8506</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00078506</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>58</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>58</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 58, Issue 1</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>123</xocs:sort-order>
+      <xocs:first-fp>491</xocs:first-fp>
+      <xocs:last-lp>494</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>491</xocs:first-page>
+         <xocs:last-page>494</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>2009</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>2009</xocs:cover-date-text>
+      <xocs:cover-date-start>2009-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2009-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2009</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Session on Surfaces</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2009 CIRP. Published by Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>REMOVALMECHANISMSINPOLISHINGSILICONBASEDADVANCEDCERAMICS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>KLOCKE</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>F</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental setup</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Materials</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Methodology</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Experimental hypotheses</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Removal rate and surface quality</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Material removal mechanisms in polishing of silicon based advanced ceramics with diamond slurry</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Material removal mechanisms in polishing of silicon nitride with ceria and zirconia slurry</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="bib1">
+            <xocs:ref-normalized-surname>EVANS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>611</xocs:ref-first-fp>
+            <xocs:ref-last-lp>634</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib2">
+            <xocs:ref-normalized-surname>KOMANDURI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>545</xocs:ref-first-fp>
+            <xocs:ref-last-lp>596</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3">
+            <xocs:ref-normalized-surname>RAYLEIGH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1901</xocs:ref-pub-year>
+            <xocs:ref-first-fp>385</xocs:ref-first-fp>
+            <xocs:ref-last-lp>388</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib4">
+            <xocs:ref-normalized-surname>HORNE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>OPTICALPRODUCTIONTECHNOLOGY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib5">
+            <xocs:ref-normalized-surname>KOMANDURI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>721</xocs:ref-first-fp>
+            <xocs:ref-last-lp>727</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib6">
+            <xocs:ref-normalized-surname>ZUMGAHR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>587</xocs:ref-first-fp>
+            <xocs:ref-last-lp>596</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib7"/>
+         <xocs:ref-info refid="bib8">
+            <xocs:ref-normalized-surname>XIE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>281</xocs:ref-first-fp>
+            <xocs:ref-last-lp>295</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib9">
+            <xocs:ref-normalized-surname>LUO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>INTEGRATEDMODELINGCHEMICALMECHANICALPLANARIZATIONFORSUBMICRONICFABRICATION</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib10">
+            <xocs:ref-normalized-surname>CHANDRA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>559</xocs:ref-first-fp>
+            <xocs:ref-last-lp>562</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib11">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>721</xocs:ref-first-fp>
+            <xocs:ref-last-lp>728</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib12">
+            <xocs:ref-normalized-surname>KLOCKE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>445</xocs:ref-first-fp>
+            <xocs:ref-last-lp>448</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib13">
+            <xocs:ref-normalized-surname>KLOCKE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9</xocs:ref-first-fp>
+            <xocs:ref-last-lp>14</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib14">
+            <xocs:ref-normalized-surname>PRESTON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1927</xocs:ref-pub-year>
+            <xocs:ref-first-fp>214</xocs:ref-first-fp>
+            <xocs:ref-last-lp>256</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib15">
+            <xocs:ref-normalized-surname>CHINN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CERAMOGRAPHY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib16">
+            <xocs:ref-normalized-surname>KLOCKE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>437</xocs:ref-first-fp>
+            <xocs:ref-last-lp>442</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib17">
+            <xocs:ref-normalized-surname>JIANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>14</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib18">
+            <xocs:ref-normalized-surname>ZHOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>161</xocs:ref-first-fp>
+            <xocs:ref-last-lp>163</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib19">
+            <xocs:ref-normalized-surname>LIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>33</xocs:ref-first-fp>
+            <xocs:ref-last-lp>40</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib20">
+            <xocs:ref-normalized-surname>JHA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>17</xocs:ref-first-fp>
+            <xocs:ref-last-lp>25</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib21">
+            <xocs:ref-normalized-surname>PRESSER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib22">
+            <xocs:ref-normalized-surname>HU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3919</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3925</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib23">
+            <xocs:ref-normalized-surname>HAH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1505</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1509</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib24"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>KLOCKEX2009X491</xocs:refkey3>
+         <xocs:refkey4lp>KLOCKEX2009X491X494</xocs:refkey4lp>
+         <xocs:refkey4ai>KLOCKEX2009X491XF</xocs:refkey4ai>
+         <xocs:refkey5>KLOCKEX2009X491X494XF</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0007-8506(09)00120-6</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0007850609001206</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0007850609001206</xocs:eid>
+         <xocs:doi>10.1016/j.cirp.2009.03.120</xocs:doi>
+         <xocs:cid>273597</xocs:cid>
+         <xocs:timestamp>2017-09-19T05:24:52.698741-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2009-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2009-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0007850609001206-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850609001206/MAIN/application/pdf/1b61551af7e65d0d6183afc6f1c638de/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850609001206/MAIN/application/pdf/1b61551af7e65d0d6183afc6f1c638de/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>623873</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0007850609001206-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850609001206/PREVIEW/image/png/72099bc00def1851639a2cd121039aec/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850609001206/PREVIEW/image/png/72099bc00def1851639a2cd121039aec/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>81026</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0007850609001206-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850609001206/gr1/THUMBNAIL/image/gif/f2abfb28ebb5ddb39dba7d079dd181c8/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850609001206/gr1/THUMBNAIL/image/gif/f2abfb28ebb5ddb39dba7d079dd181c8/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5472</xocs:filesize>
+               <xocs:pixel-height>82</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0007850609001206-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850609001206/gr3/THUMBNAIL/image/gif/6bb0d09cdf8de4ea0672a85b2adea766/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850609001206/gr3/THUMBNAIL/image/gif/6bb0d09cdf8de4ea0672a85b2adea766/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4631</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>189</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0007850609001206-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850609001206/gr4/THUMBNAIL/image/gif/4c0aafa16b4394b6a83d8de8fc7181bc/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850609001206/gr4/THUMBNAIL/image/gif/4c0aafa16b4394b6a83d8de8fc7181bc/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3458</xocs:filesize>
+               <xocs:pixel-height>102</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0007850609001206-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850609001206/gr5/THUMBNAIL/image/gif/c56626528d44ce3f3b14cfdf21f295c5/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850609001206/gr5/THUMBNAIL/image/gif/c56626528d44ce3f3b14cfdf21f295c5/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5952</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>170</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0007850609001206-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850609001206/gr2/THUMBNAIL/image/gif/6eb13c5da8611f9b486c4b038b613709/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850609001206/gr2/THUMBNAIL/image/gif/6eb13c5da8611f9b486c4b038b613709/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6133</xocs:filesize>
+               <xocs:pixel-height>73</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0007850609001206-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850609001206/gr6/THUMBNAIL/image/gif/56050226f9e6ee56a06b72dce91e816d/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850609001206/gr6/THUMBNAIL/image/gif/56050226f9e6ee56a06b72dce91e816d/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6784</xocs:filesize>
+               <xocs:pixel-height>105</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0007850609001206-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850609001206/gr7/THUMBNAIL/image/gif/2f8cdda27c815d6e2b78a7300a084473/gr7.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850609001206/gr7/THUMBNAIL/image/gif/2f8cdda27c815d6e2b78a7300a084473/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5795</xocs:filesize>
+               <xocs:pixel-height>97</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0007850609001206-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850609001206/gr1/DOWNSAMPLED/image/jpeg/062bc536d536faf7b2f1ab0f345cb911/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850609001206/gr1/DOWNSAMPLED/image/jpeg/062bc536d536faf7b2f1ab0f345cb911/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>29193</xocs:filesize>
+               <xocs:pixel-height>146</xocs:pixel-height>
+               <xocs:pixel-width>391</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0007850609001206-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850609001206/gr3/DOWNSAMPLED/image/jpeg/63d002186d6f462e1a88e1370ebe60b1/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850609001206/gr3/DOWNSAMPLED/image/jpeg/63d002186d6f462e1a88e1370ebe60b1/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>27976</xocs:filesize>
+               <xocs:pixel-height>326</xocs:pixel-height>
+               <xocs:pixel-width>376</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0007850609001206-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850609001206/gr4/DOWNSAMPLED/image/jpeg/b0e912bc68e500bda817df5d6f2076cc/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850609001206/gr4/DOWNSAMPLED/image/jpeg/b0e912bc68e500bda817df5d6f2076cc/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>26698</xocs:filesize>
+               <xocs:pixel-height>165</xocs:pixel-height>
+               <xocs:pixel-width>353</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0007850609001206-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850609001206/gr5/DOWNSAMPLED/image/jpeg/0aa8e1467d0f374a56c4b84e1b8a2429/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850609001206/gr5/DOWNSAMPLED/image/jpeg/0aa8e1467d0f374a56c4b84e1b8a2429/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>46540</xocs:filesize>
+               <xocs:pixel-height>339</xocs:pixel-height>
+               <xocs:pixel-width>353</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0007850609001206-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850609001206/gr2/DOWNSAMPLED/image/jpeg/805ef074154c03ff767f548515583cd8/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850609001206/gr2/DOWNSAMPLED/image/jpeg/805ef074154c03ff767f548515583cd8/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>24262</xocs:filesize>
+               <xocs:pixel-height>131</xocs:pixel-height>
+               <xocs:pixel-width>391</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0007850609001206-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850609001206/gr6/DOWNSAMPLED/image/jpeg/e12f92f7b3f631bdc58799472df0ae43/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850609001206/gr6/DOWNSAMPLED/image/jpeg/e12f92f7b3f631bdc58799472df0ae43/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>34606</xocs:filesize>
+               <xocs:pixel-height>188</xocs:pixel-height>
+               <xocs:pixel-width>391</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0007850609001206-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0007850609001206/gr7/DOWNSAMPLED/image/jpeg/4ca69470b3cad6f3dcf812dbec554191/gr7.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0007850609001206/gr7/DOWNSAMPLED/image/jpeg/4ca69470b3cad6f3dcf812dbec554191/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>31768</xocs:filesize>
+               <xocs:pixel-height>172</xocs:pixel-height>
+               <xocs:pixel-width>391</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.0" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>CIRP</jid>
+            <aid>428</aid>
+            <ce:pii>S0007-8506(09)00120-6</ce:pii>
+            <ce:doi>10.1016/j.cirp.2009.03.120</ce:doi>
+            <ce:copyright type="society" year="2009">CIRP</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all" id="simple-para.0010">TEM of SSiC, sintered silicon nitride (SSN) and hot-isostatically pressed silicon nitride (HIPSN).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all" id="simple-para.0015">SEM images of diamond, ceria and zirconia.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all" id="simple-para.0020">DoE-based analysis by main effect diagrams to determine the influence of input parameters.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all" id="simple-para.0025">Average MRR in polishing silicon based ceramics with various polishing agents (bars indicate min/max MRR).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all" id="simple-para.0030">Influence of material properties on the polishing behavior (<ce:italic>p</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>200<ce:hsp sp="0.25"/>kPa, <ce:italic>n</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>500<ce:hsp sp="0.25"/>min<ce:sup loc="post">−1</ce:sup>, and <ce:italic>T</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>20<ce:hsp sp="0.25"/>min).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="fig6">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all" id="simple-para.0035">AFM measurements of surface quality of HIPSN and SSN polished with ceria slurry under the same conditions.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6"/>
+            </ce:figure>
+            <ce:figure id="fig7">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all" id="simple-para.0040">AFM analysis of HIPSN polished with zirconia slurry (<ce:italic>p</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>200<ce:hsp sp="0.25"/>kPa, <ce:italic>n</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>500<ce:hsp sp="0.25"/>min<ce:sup loc="post">−1</ce:sup>, and <ce:italic>T</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>20<ce:hsp sp="0.25"/>min).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr7"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title>Removal mechanisms in polishing of silicon based advanced ceramics</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Fritz</ce:given-name>
+                  <ce:surname>Klocke</ce:surname>
+                  <ce:ranking>(1)</ce:ranking>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Richard</ce:given-name>
+                  <ce:surname>Zunke</ce:surname>
+                  <ce:cross-ref refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Fraunhofer IPT, Steinbachstraße 17, 52074 Aachen, Germany</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all" id="simple-para.0045">Advanced ceramics with high surface quality and integrity are of increased interest in mold and die making and optics. The demanded qualities are widely ensured by polishing. However, due to the great variety of parameters and interactions the removal mechanisms are still not fully understood. Therefore, polishing processes of silicon based advanced ceramics are investigated. It is shown that depending on the slurry the material removal mechanisms differ. Observed effects can be explained by dominating mechanical or chemo-mechanical removal. This is discussed based on the phenomenological analysis of experimental results using advanced metrology, such as AFM, SEM and TEM.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Polishing</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Ceramic</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Mechanism</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section view="all" id="section.0010">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para view="all" id="para.0010">Polishing is the most frequently used technology if high surface quality in terms of low roughness and high surface integrity is demanded. In many applications polishing secures the functionality of workpieces by minimizing surface defects and providing application-oriented characteristics of the surface layer. In order to apply this vital technology to production in an efficient manner it is essential to understand the mechanisms and interactions on a scientific level. Despite many years of research polishing is still not fully understood <ce:cross-ref refid="bib1">[1]</ce:cross-ref>. Therefore, polishing of silicon based ceramics is investigated to elaborate a comprehensive understanding of the relevant material removal mechanisms.</ce:para>
+                  <ce:para view="all" id="para.0015">Many attempts from the descriptive modeling perspective were made to explain the great variety of technological interactions. Most of the researchers establish their scientific understanding of polishing by drawing conclusions related to tribology and wear theory <ce:cross-refs refid="bib1 bib2 bib3 bib4 bib5 bib6 bib7">[1–7]</ce:cross-refs>. First attempts are made to provide a predictive modeling <ce:cross-refs refid="bib8 bib9 bib10 bib11">[8–11]</ce:cross-refs>. The latter relate to semiconductor manufacturing, i.e. chemical–mechanical planarization (CMP) of wafer materials. The lack of knowledge still leads to high empirical efforts for developing robust polishing strategies which are needed to finish the market relevant free formed geometry <ce:cross-refs refid="bib12 bib13">[12,13]</ce:cross-refs>. To prepare the scientific basis for a comprehensive understanding of the polishing process of silicon based advanced ceramics a phenomenological approach is used.</ce:para>
+               </ce:section>
+               <ce:section view="all" id="section.0015">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Experimental setup</ce:section-title>
+                  <ce:section view="all" id="section.0020">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title>Materials</ce:section-title>
+                     <ce:para view="all" id="para.0020">Both, silicon carbide and silicon nitride are widely known for superior material properties, i.e. low density, high hardness, high wear resistance, low thermal expansion, high thermal shock resistance. Both ceramics are used in bearing applications, mold and die industry, and are also adopted in optics manufacturing to fulfill the needs of tribological or optical applications. <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig1"/> reveals the microstructure by transmission electron microscopy (TEM). The sintered silicon carbide (SSiC) consists of very big grains compared to silicon nitride. The dark parts represent pores. In both images of silicon nitride ceramics the lighter grey is revealing the glassy phase based on sintering additives and the longitudinal shape of the grains becomes obvious.</ce:para>
+                     <ce:para view="all" id="para.0025">To ensure a high surface quality and integrity, i.e. a defect-free subsurface, processing with loose abrasives is needed due to hardness and brittleness of ceramics. In this paper, two different approaches are investigated: polishing with one harder and with two softer polishing agents compared to the hardness of the materials. <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="fig2"/> shows images of the polishing agents by scanning electron microscopy (SEM). The diamond (Diaplus, synthetic, polycrystalline) slurry is based on water–glycol (ratio 65:35) and 10<ce:hsp sp="0.25"/>g/l of diamonds. The ceria (Rhodia, Opaline™) and zirconia (Saint-Gobain, CC10™) slurries are both water based and feature a concentration of 60<ce:hsp sp="0.25"/>g/l. The pad is a polyurethane foil of Shore-D hardness 33–43 (Satisloh, 135 PSA™).</ce:para>
+                  </ce:section>
+                  <ce:section id="sec1" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title>Methodology</ce:section-title>
+                     <ce:para view="all" id="para.0030">The experiments are conducted on a polishing machine with so called synchrospeed kinematics ensuring a homogenously distribution of pressure and relative velocity on the whole sample surface. Therefore, the material removal rate (MRR) can be expressed by removed height per time unit, i.e. μm/min. The slurry circulates in a closed loop and is temperature controlled. An online computer-based data acquisition tool was implemented into the machine to monitor important indicators of chemical (pH, conductivity, zeta potential), thermal (temperature of slurry in- and outflow) and mechanical (power of the spindles, applied polishing work, coefficient of friction) process interactions. In order to investigate the specific characteristics of polishing a partially factorial design of experiments is applied to control the experimental efforts and the reliability of conclusions.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title>Experimental hypotheses</ce:section-title>
+                     <ce:para view="all" id="para.0035">Several approaches were published to explain the interactions in mechanical and chemo-mechanical polishing of silicon based advanced ceramics (for references see Sections <ce:cross-refs refid="sec3 sec4">3.2 and 3.3</ce:cross-refs>). However, some technological details of scientific interest are still unsolved. In the following these are stated as hypotheses for the investigations.<ce:vsp sp="0.5"/>
+                     </ce:para>
+                     <ce:para view="all" id="para.0040">For mechanically dominated processes (diamond slurry):<ce:list id="list.0010">
+                           <ce:list-item id="list-item.0010">
+                              <ce:label>•</ce:label>
+                              <ce:para view="all" id="para.0045">The interacting influences of hardness and toughness are decisive for the occurrence of micro cutting or micro cracking in polishing of silicon based ceramics.</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="list-item.0015">
+                              <ce:label>•</ce:label>
+                              <ce:para view="all" id="para.0050">Characteristic dislocations occur depending on material properties and machining parameters and correlate with applied polishing work.</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="list-item.0020">
+                              <ce:label>•</ce:label>
+                              <ce:para view="all" id="para.0055">Tribological layers play an essential role in mechanically dominated polishing.</ce:para>
+                           </ce:list-item>
+                        </ce:list>
+                     </ce:para>
+                     <ce:para view="all" id="para.0060">For chemo-mechanical polishing (ceria and zirconia slurry):<ce:list id="list.0015">
+                           <ce:list-item id="list-item.0025">
+                              <ce:label>•</ce:label>
+                              <ce:para view="all" id="para.0065">The MRR is strongly characterized by dependences of the interacting chemical and mechanical mechanisms.</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="list-item.0030">
+                              <ce:label>•</ce:label>
+                              <ce:para view="all" id="para.0070">The material removal takes place in a selective manner which leads to significant differences in removal of glassy phase and bulk material.</ce:para>
+                           </ce:list-item>
+                           <ce:list-item id="list-item.0035">
+                              <ce:label>•</ce:label>
+                              <ce:para view="all" id="para.0075">Ceria and zirconia feature chemo-mechanical removal mechanisms with no determinable mechanical impact in contrary to polishing with diamond slurry.</ce:para>
+                           </ce:list-item>
+                        </ce:list>
+                     </ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section view="all" id="section.0025">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results and discussion</ce:section-title>
+                  <ce:section view="all" id="section.0030">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title>Removal rate and surface quality</ce:section-title>
+                     <ce:para view="all" id="para.0080">As determined by the well-established Preston hypothesis <ce:cross-ref refid="bib14">[14]</ce:cross-ref> pressure and relative velocity are the main machining parameters. The statistical analysis reveals the influence of pressure and relative velocity on the MRR. As indicated in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="fig3"/> the input parameters do not show the same significance for all polishing processes. In diamond polishing it is clearly recognizable that an increase of both input parameters has a similar effect on the response of the MRR (<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>, first row). On the contrary, in polishing silicon nitride with ceria or zirconia an increase of pressure has a significant effect on the MRR. And an increase of relative velocity does not show a similar significance (<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>, second row). This is due to essential differences in the material removal mechanisms which occur in the polishing processes depending on the chosen polishing agent. As stated above polishing with diamond slurry process is a mechanically dominated process <ce:cross-refs refid="bib1 bib2 bib7 bib15">[1,2,7,15]</ce:cross-refs>. Ceria and zirconia slurries are assumed to feature chemo-mechanical interactions <ce:cross-refs refid="bib5 bib16">[5,16]</ce:cross-refs>.</ce:para>
+                     <ce:para view="all" id="para.0085">
+                        <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="fig4"/> shows the resulting MRR determined by the weight loss of HIPSN and SSiC samples after polishing with various polishing agents. The diagram indicates the dependency of MRR on material and polishing agent. Apparently, employing a hard abrasive, i.e. diamond, is the best choice if polishing silicon carbide due to an extraordinary MRR <ce:cross-ref refid="bib16">[16]</ce:cross-ref>. Thus, ceria and zirconia will not be discussed in detail. In contrary, the usage of the polishing agents ceria and zirconia in processing silicon nitride features high MRR compared to diamond. Due to their lower hardness compared to the ceramics it can be assumed that this is due to an interaction of chemical and mechanical effects <ce:cross-refs refid="bib16 bib17">[16,17]</ce:cross-refs>.</ce:para>
+                     <ce:para view="all" id="para.0090">Another very important output parameter is the surface quality and integrity of the workpiece. Polishing is applied whenever defect-free surfaces with a very low roughness are demanded. The results show that polishing of silicon carbide with diamond leads to a surface roughness of Sz<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>190.1<ce:hsp sp="0.25"/>nm measured with a white light interferometer. The high Sz value can be explained by occurring of micro cracking (due to high brittleness) and excavating of pores (<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>, left). In order to realize a better surface finish which is demanded by industrial applications. Ongoing research activities include direct sintered silicon carbide with a minimum of porosity.</ce:para>
+                     <ce:para view="all" id="para.0095">Polishing of silicon nitride realizes better results for the three different polishing agents. Diamond polishing yields an average of Sz<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>30.3<ce:hsp sp="0.25"/>nm, ceria to Sz<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>19.5<ce:hsp sp="0.25"/>nm and zirconia to Sz<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>42.2<ce:hsp sp="0.25"/>nm (all measured by atomic force microscopy, AFM). Based on these results it can be stated that ceria is an effective choice for polishing silicon nitride due to high MRR and surface quality. The third important output parameter is the resulting surface integrity in terms of a defect-free surface and subsurface layer which will be discussed in Sections <ce:cross-refs refid="sec3 sec4">3.2 and 3.3</ce:cross-refs>, respectively.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title>Material removal mechanisms in polishing of silicon based advanced ceramics with diamond slurry</ce:section-title>
+                     <ce:para view="all" id="para.0100">Scientific investigations with the focus on polishing of silicon carbide were published in the field of CMP where silicon carbide is used as a wafer substrate <ce:cross-refs refid="bib18 bib19">[18,19]</ce:cross-refs>. Other publications used copper, steel alloys or silicon nitride as polishing tools and are therefore not considered because of the resulting low surface qualities which do not match the requirements which are addressed here and refer more to a lapping than a polishing process. The removal mechanisms in polishing of silicon nitride using hard abrasives such as diamonds are reported to be mainly mechanical <ce:cross-refs refid="bib16 bib17 bib20">[16,17,20]</ce:cross-refs>.</ce:para>
+                     <ce:para view="all" id="para.0105">According to <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref> polishing of silicon carbide yields a higher MRR compared to silicon nitride. Analyzing the experimental results by SEM both ceramics surfaces are marked by micro scratches which imply the occurrence of micro cutting. The surface of silicon carbide also shows some fracture marks which lead to the assumption that micro cracking occurs. In order to specify the influence of material properties the differences of the polishing process with diamonds can be analyzed by <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="fig5"/>.</ce:para>
+                     <ce:para view="all" id="para.0110">As stated in Section <ce:cross-ref refid="sec1">2.2</ce:cross-ref> the applied polishing work is monitored during the process. In <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>, the polishing work is shown over the amount of removed material after polishing for 20<ce:hsp sp="0.25"/>min with the same parameters. It can be stated that for a comparable amount of applied work polishing of silicon carbide leads to a much higher material removal. This is assumed to be reasoned by the higher fracture toughness of 6<ce:hsp sp="0.25"/>MPa<ce:hsp sp="0.25"/>m<ce:sup loc="post">1/2</ce:sup> and lower hardness HV10 of 15.2<ce:hsp sp="0.25"/>GPa of silicon nitride compared to silicon carbide (fracture toughness 3<ce:hsp sp="0.25"/>MPa<ce:hsp sp="0.25"/>m<ce:sup loc="post">1/2</ce:sup> and hardness HV10 25<ce:hsp sp="0.25"/>GPa) <ce:cross-ref refid="bib16">[16]</ce:cross-ref>.</ce:para>
+                     <ce:para view="all" id="para.0115">In <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref> the influences of polishing with diamond on the subsurface layer of both ceramics are shown. The black layer is tungsten and gold which is needed to prepare the lamella before TEM can be applied. The area with grey scale colors shows one grain of the ceramics. The subsurface layer of both ceramics reveal mechanically induced dislocations. The difference of the depths indicates the validity of the hypotheses in Section <ce:cross-ref refid="sec2">2.3</ce:cross-ref>. The dislocations in the subsurface layer of silicon nitride tend to reach a depth of 100<ce:hsp sp="0.25"/>nm. The TEM image of silicon carbide indicates a maximum depth of up to 50<ce:hsp sp="0.25"/>nm. It is assumed that this is due to the material properties. The higher depth of dislocations in silicon nitride in comparison to silicon carbide correlates with the higher amount of energy needed for material removal, as indicated in the diagram of <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>. The high toughness of silicon nitride implicates that the applied energy is converted to form the dislocations before any micro chipping occurs. In contrary, the high brittleness of silicon carbide leads to micro chipping and cracking without allowing any high depths of dislocations to occur. Furthermore, the TEM analysis indicates that the tribological stress which the surface holds leads to the forming of an amorphous layer (<ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>, band of light grey between SSiC bulk material and black band). This confirms the results by Presser et al. <ce:cross-ref refid="bib21">[21]</ce:cross-ref> who report mechanically induced amorphisation measured by Raman spectroscopy.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec4" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title>Material removal mechanisms in polishing of silicon nitride with ceria and zirconia slurry</ce:section-title>
+                     <ce:para view="all" id="para.0120">Following the general argumentation <ce:cross-refs refid="bib1 bib17 bib22 bib23">[1,17,22,23]</ce:cross-refs>, polishing of silicon nitride with ceria slurry is based on an interaction of chemical and mechanical effects. The silicon nitride surface is worn by hydrolysis in the aqueous solution under the influence of high pressure and tribological interactions forming an oxide layer with the aid of ceria as a catalyst. In a second step, ceria removes this oxide layer, i.e. silica and hydrated silica, respectively, based on the so called chemical tooth ability <ce:cross-refs refid="bib2 bib5">[2,5]</ce:cross-refs>. Own investigations revealed several indicators for the validity of this hypothesis, e.g. the correlation of the increase of pH (measured by the implemented monitoring system) <ce:cross-ref refid="bib17">[17]</ce:cross-ref> and the amount of ammonia in the slurry (measured by photometric analysis). Additionally, the monitoring system also reveals a constant increase of electrical conductivity during the polishing process. However, no remains of silica were found by mapping the topmost subsurface layer with energy filtered TEM (EFTEM) nor by energy dispersive X-ray analysis (EDX) nor by X-ray photoelectron spectroscopy (XPS) of the surface. Therefore, it is assumed that any chemically changed surface of silicon nitride only features a maximum thickness of several molecular layers which is extremely difficult to measure. Another hypothesis may be that the whole chemically changed layer is removed during polishing. This can be based on the fact that ceria is well-known for being highly effective in combination with silica <ce:cross-refs refid="bib1 bib5 bib24">[1,5,24]</ce:cross-refs> and is therefore widely used in polishing of glass for optics components.</ce:para>
+                     <ce:para view="all" id="para.0125">The synergy of chemical and mechanical effects is vital for the material removal and can only be realized by a balanced interaction. Only if the chemically changed layer is removed properly a new reaction can take place. In order to inspect the importance of water and thus hydrolysis, own experiments with water–glycol as a polishing fluid (ratio 65:35) and ceria as a polishing agent were conducted. The outcome was an instant decrease of the MRR to less than 0.05<ce:hsp sp="0.25"/>μm/min (water and ceria yield more than 0.2<ce:hsp sp="0.25"/>μm/min). As water–glycol is a very effective fluid for diamond polishing another experiment was conducted by adding ceria and diamonds into one slurry to increase the mechanical part of the removal mechanism. Likewise the first experiment the MRR decreased leading to an average of 0.14<ce:hsp sp="0.25"/>μm/min. Considering the results of pure diamond slurry shown above, the MRR of the mixed slurry is higher. It can be stated that the chemo-mechanical material removal adds to the rate of material mechanically removed by diamonds. However, the overall MRR is still lower compared to pure ceria slurry and therefore not efficient.</ce:para>
+                     <ce:para view="all" id="para.0130">In order to examine the resulting surface integrity in terms of defects on the surface and in the subsurface layer AFM and TEM was applied. The TEM analysis showed a complete absence of any dislocations in the subsurface layer which confirms the hypothesis of a chemo-mechanical removal mechanism as described above. In order to clarify the influence of sintering additives and the hypothesis of a selective material removal SSN was polished with ceria in addition to HIPSN. The resulting surfaces are demonstrated in <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+                        <ce:float-anchor refid="fig6"/> by AFM images. Again no mechanical impact of the processing can be seen on the AFM images. The surface seems to be free of scratches. However, the exemplary results reveal an etched like surface of both silicon nitride ceramics which also affirms the validity of the above stated removal mechanisms. The “etched like” impression is even more intensive in the case of SSN (<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>, right). The production of SSN includes a higher amount of sintering additives compared to HIPSN. This is assumed to be the reason for the highly recessed glassy phase and the clear visibility of the grain boundaries (see <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>).</ce:para>
+                     <ce:para view="all" id="para.0135">An EDX analysis on TEM lamellas proved that alumina, yttria and silica are forming the glassy phase of both ceramics. Especially, the presence of silica in the grain boundaries is assumed to be the reason for the selectivity of material removal. The correlation of the increased amount of sintering additives in SSN and the clarity of grain boundaries confirm the validity of the stated hypothesis.</ce:para>
+                     <ce:para view="all" id="para.0140">Experimental results by Jiang and Komanduri <ce:cross-ref refid="bib17">[17]</ce:cross-ref> already showed that zirconia leads to a high MRR in polishing of silicon nitride (only ceria reached better values). Therefore, the investigations were enlarged to validate the hypothesis that polishing of silicon nitride with zirconia also involves chemical and mechanical removal mechanisms. In <ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>
+                        <ce:float-anchor refid="fig7"/> the polishing results are shown by AFM. The first image reveals a great similarity to the appearance of the surface topography as shown in <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref> where the absence of scratches is obvious and the grain boundaries are visible. Therefore, it is assumed that material removal in polishing of silicon nitride with zirconia slurry is also due to chemo-mechanical removal mechanisms. The lower MRR points at differences in the detail of the synergy of interactions. Most likely the catalytic behavior and the chemical tooth ability of ceria is more pronounced than for zirconia.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section view="all" id="section.0035">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusion</ce:section-title>
+                  <ce:para view="all" id="para.0145">In this paper, silicon based ceramics were polished in order to elaborate a comprehensive understanding of technological interactions. The objective was to validate several hypotheses on mechanical and chemo-mechanical removal mechanisms. The results revealed that the MRR and the dominating removal mechanism depend strongly on material properties and employed polishing agents as well as on machining parameters. Silicon carbide was efficiently polished by a diamond slurry whereas for polishing of silicon nitride ceria slurry was an efficient choice. The latter ensures a high surface integrity because the mechanical impact of the process is minimized. However, the selectivity of material removal regarding bulk material and glassy phase has to be further investigated. Based on the results, an optimized setup of the polishing process can be accomplished. The results are used for enhancing the sub-aperture polishing of complex geometries of ceramics.</ce:para>
+               </ce:section>
+            </ce:sections>
+         </body>
+         <tail view="all">
+            <ce:bibliography view="all" id="bibliography.0010">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec.0010">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Evans</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Paul</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Dornfeld</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Lucca</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Byrne</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Tricard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Klocke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Dambon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Mullany</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Material Removal Mechanisms in Lapping and Polishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Annals of the CIRP</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>611</sb:first-page>
+                              <sb:last-page>634</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Komanduri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Lucca</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Tani</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Technological Advances in Fine Abrasive Processes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Annals of the CIRP</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>545</sb:first-page>
+                              <sb:last-page>596</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Rayleigh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Polish</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1659</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>64</sb:issue-nr>
+                              <sb:date>1901</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>385</sb:first-page>
+                              <sb:last-page>388</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.F.</ce:given-name>
+                                 <ce:surname>Horne</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Optical Production Technology</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1972</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Adam Hilger Ltd.</sb:name>
+                                 <sb:location>Bristol</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Komanduri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Umehara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Raghunandan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>On the Possibility of Chemo-Mechanical Action in Magnetic Float Polishing of Silicon Nitride</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Tribology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>118</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>721</sb:first-page>
+                              <sb:last-page>727</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.-H.</ce:given-name>
+                                 <ce:surname>Zum Gahr</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Wear by Hard Particles</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Tribology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>31</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>10</sb:issue-nr>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>587</sb:first-page>
+                              <sb:last-page>596</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Dambon O. (2005) Das Polieren von Stahl für den Werkzeug- und Formenbau, Ph.D. thesis, Shaker, Aachen.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Xie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Bhushan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of Particle Size, Polishing Pad and Contact Pressure in Free Abrasive Polishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Wear</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>200</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>281</sb:first-page>
+                              <sb:last-page>295</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Dornfeld</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Integrated Modeling of Chemical Mechanical Planarization for Sub-Micron IC Fabrication</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2004</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer</sb:name>
+                                 <sb:location>London</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Chandra</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Karra</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.F.</ce:given-name>
+                                 <ce:surname>Bastawros</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Biswas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Sherman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Armini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Lucca</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Prediction of Scratch Generation in Chemical Mechanical Planarization</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Annals of the CIRP</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>57</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>559</sb:first-page>
+                              <sb:last-page>562</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Bai</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Modeling Effect of Chemical–Mechanical Synergy on Material Removal at Molecular Scale in Chemical Mechanical Polishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Wear</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>265</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5–6</sb:issue-nr>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>721</sb:first-page>
+                              <sb:last-page>728</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Klocke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Brecher</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Zunke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Tuecks</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Finishing Complex Surfaces with Zonal Polishing Tools</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>CIRP Conference on Manufacturing Systems Tokyo</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>445</sb:first-page>
+                              <sb:last-page>448</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Klocke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Dambon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Zunke</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Modeling of Contact Behavior between Polishing Pad and Workpiece Surface</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Production Engineering</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9</sb:first-page>
+                              <sb:last-page>14</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.W.</ce:given-name>
+                                 <ce:surname>Preston</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The Theory and Design of Plate Glass Polishing Machines</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of the Society of Glass Technology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1927</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>214</sb:first-page>
+                              <sb:last-page>256</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.E.</ce:given-name>
+                                 <ce:surname>Chinn</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ceramography</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2002</sb:date>
+                              <sb:publisher>
+                                 <sb:name>ASM International</sb:name>
+                                 <sb:location>Materials Park, Ohio, USA</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Klocke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Zunke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Dambon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Wirkmechanismen beim Polieren von Keramik</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>wt Werkstattstechnik online</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>97</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>437</sb:first-page>
+                              <sb:last-page>442</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Komanduri</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical Mechanical Polishing (CMP) in Magnetic Float Polishing (MFP) of Advanced Ceramic (Silicon Nitride) and Glass (Silicon Dioxide)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Key Engineering Materials</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>202–203</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>14</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Audurier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Pirouz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Powell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemomechanical Polishing of Silicon Carbide</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of the Electrochemical Society</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>144</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>161</sb:first-page>
+                              <sb:last-page>163</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.C.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Kao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A Study On Surface Polishing of SiC with tribochemical Reaction Mechanism</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Advanced Manufacturing Technologies</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1–2</sb:issue-nr>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>33</sb:first-page>
+                              <sb:last-page>40</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Jha</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.K.</ce:given-name>
+                                 <ce:surname>Jain</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nanofinishing of Silicon Nitride Workpieces Using Magnetorheological Abrasive Flow Finishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Nanomanufacturing</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>17</sb:first-page>
+                              <sb:last-page>25</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Presser</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Krummhauer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.G.</ce:given-name>
+                                 <ce:surname>Nickel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Kailer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Berthold</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Raisch</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Tribological and Hydrothermal Behaviour of Silicon Carbide Under Water Lubrication</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Wear</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <ce:doi>10.1016/j.wear.2008.10.001</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.Z.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Gutmann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.P.</ce:given-name>
+                                 <ce:surname>Chow</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Silicon Nitride Chemical Mechanical Polishing Mechanisms</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of the Electrochemical Society</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>145</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>11</sb:issue-nr>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3919</sb:first-page>
+                              <sb:last-page>3925</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.R.</ce:given-name>
+                                 <ce:surname>Hah</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.B.</ce:given-name>
+                                 <ce:surname>Burk</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.E.</ce:given-name>
+                                 <ce:surname>Fischer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Surface Quality of Tribochemically Polished Silicon Nitride</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of the Electrochemical Society</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>146</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1505</sb:first-page>
+                              <sb:last-page>1509</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>[24]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Hambuecker S (2001) Technologie der Politur sphärischer Optiken mit Hilfe der Synchrospeed-Kinematik, Ph.D. thesis, Shaker, Aachen.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

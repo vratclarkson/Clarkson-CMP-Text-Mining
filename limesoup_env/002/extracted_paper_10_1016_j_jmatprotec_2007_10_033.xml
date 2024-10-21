@@ -1,0 +1,1600 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0924013607009557</prism:url><dc:identifier>doi:10.1016/j.jmatprotec.2007.10.033</dc:identifier><eid>1-s2.0-S0924013607009557</eid><prism:doi>10.1016/j.jmatprotec.2007.10.033</prism:doi><pii>S0924-0136(07)00955-7</pii><dc:title>Pad roughness variation and its effect on material removal profile in ceria-based CMP slurry </dc:title><prism:publicationName>Journal of Materials Processing Technology</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>09240136</prism:issn><prism:volume>203</prism:volume><prism:issueIdentifier>1-3</prism:issueIdentifier><prism:startingPage>287</prism:startingPage><prism:endingPage>292</prism:endingPage><prism:pageRange>287-292</prism:pageRange><prism:number>1-3</prism:number><dc:format>application/xml</dc:format><prism:coverDate>2008-07-18</prism:coverDate><prism:coverDisplayDate>18 July 2008</prism:coverDisplayDate><prism:copyright>Copyright © 2007 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Park, Boumyoung</dc:creator><dc:creator>Lee, Hyunseop</dc:creator><dc:creator>Park, Kihyun</dc:creator><dc:creator>Kim, Hyoungjae</dc:creator><dc:creator>Jeong, Haedo</dc:creator><dc:description>
+                  The pad roughness plays a key role in material removal in oxide chemical mechanical polishing (CMP) process. Its variation also has an effect on within wafer non-uniformity. The R
+                     pk among roughness parameters, which is related to pad wear characteristics, was investigated to find the correlation between spatial roughness distribution of a polishing pad, and material removal profile in CMP, using two different types of slurries. The removal rate of ceria-based slurry for STI CMP was higher in the wafer center than that of the silica-based slurry. This is because the pad roughness distribution in a convex shape is formed across the pad radius in the contact area between pad and wafer instead of the degradation of pad roughness during CMP. Also, there is an increase of R
+                     pk results in the increase of average friction force by comparison with the decrease of friction force in CMP using silica-based slurry. This result may be expected as the effect of the chemical tooth of ceria abrasive and slurry accumulation in the wafer center causes a roughening of the pad surface just as sandpaper.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Chemical mechanical polishing</dcterms:subject><dcterms:subject>Ceria slurry</dcterms:subject><dcterms:subject>Pad roughness</dcterms:subject><dcterms:subject>Material removal</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0924013607009557" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0924013607009557" rel="scidir"/></coredata><objects><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="376" height="270" size="45812">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013607009557-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="90" size="6488">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013607009557-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="290" height="512" size="45996">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013607009557-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="53" height="94" size="1053">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013607009557-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="373" height="314" size="51350">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013607009557-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="111" height="93" size="4176">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013607009557-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="319" height="247" size="38479">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013607009557-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="120" height="93" size="3036">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013607009557-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="374" height="524" size="79423">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013607009557-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="66" height="92" size="2466">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013607009557-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="320" height="252" size="43714">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013607009557-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="118" height="93" size="3248">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013607009557-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="374" height="283" size="34244">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013607009557-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="123" height="93" size="2501">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013607009557-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr8" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="322" height="514" size="49585">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013607009557-gr8.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="58" height="93" size="1217">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013607009557-gr8.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>43849100132</scopus-id><scopus-eid>2-s2.0-43849100132</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/43849100132" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271356</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291778</xocs:ssid>
+         <xocs:ssid type="subj">291787</xocs:ssid>
+         <xocs:ssid type="subj">291885</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Journal of Materials Processing Technology</xocs:srctitle>
+      <xocs:normalized-srctitle>JOURNALMATERIALSPROCESSINGTECHNOLOGY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20071023">2007-10-23</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20071023">2007-10-23</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-11-18T03:54:23</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0924013607009557</xocs:eid>
+      <xocs:pii-formatted>S0924-0136(07)00955-7</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0924013607009557</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.jmatprotec.2007.10.033</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0924013608X00056</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150515">2015-05-15T03:01:12.803119-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20080718</xocs:date-search-begin>
+      <xocs:year-nav>2008</xocs:year-nav>
+      <xocs:indexeddate epoch="1193097600">2007-10-23T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0924-0136</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>09240136</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>203</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>203</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:iss-last>3</xocs:iss-last>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+         <xocs:issue>2</xocs:issue>
+         <xocs:issue>3</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 203, Issues 1–3</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>33</xocs:sort-order>
+      <xocs:first-fp>287</xocs:first-fp>
+      <xocs:last-lp>292</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>287</xocs:first-page>
+         <xocs:last-page>292</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20080718</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>18 July 2008</xocs:cover-date-text>
+      <xocs:cover-date-start>2008-07-18</xocs:cover-date-start>
+      <xocs:cover-date-year>2008</xocs:cover-date-year>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2007 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>PADROUGHNESSVARIATIONEFFECTMATERIALREMOVALPROFILEINCERIABASEDCMPSLURRY</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>PARK</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>B</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experiments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussions</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Pad surface roughness in CMP process</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Pad roughness variation and removal rate profile of silica-based slurry</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Pad roughness variation and removal rate profile of ceria-based slurry</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="bib1">
+            <xocs:ref-normalized-surname>CHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>577</xocs:ref-first-fp>
+            <xocs:ref-last-lp>583</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib2">
+            <xocs:ref-normalized-surname>COOK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>152</xocs:ref-first-fp>
+            <xocs:ref-last-lp>171</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3">
+            <xocs:ref-normalized-surname>DOI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>HANDBOOKLAPPINGPOLISHING</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>CHEMICALMECHANICALPOLISHINGAPPLICATIONS</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib4">
+            <xocs:ref-normalized-surname>HOOPER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>107</xocs:ref-first-fp>
+            <xocs:ref-last-lp>113</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib5">
+            <xocs:ref-normalized-surname>HOSHINO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>129</xocs:ref-first-fp>
+            <xocs:ref-last-lp>136</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib6">
+            <xocs:ref-normalized-surname>JEONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>57</xocs:ref-first-fp>
+            <xocs:ref-last-lp>68</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROC1STPACRIMINTERNATIONALCONFPLANARIZATIONCMPAPPLICATIONTECHNOLOGY</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>MONITORINGSYSTEMINCMPPROCESS</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib7">
+            <xocs:ref-normalized-surname>JIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>G7</xocs:ref-first-fp>
+            <xocs:ref-last-lp>G15</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib8">
+            <xocs:ref-normalized-surname>KANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>L1060</xocs:ref-first-fp>
+            <xocs:ref-last-lp>L1063</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib9">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>334</xocs:ref-first-fp>
+            <xocs:ref-last-lp>338</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib10">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>626</xocs:ref-first-fp>
+            <xocs:ref-last-lp>630</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib11">
+            <xocs:ref-normalized-surname>LIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>488</xocs:ref-first-fp>
+            <xocs:ref-last-lp>493</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROCCMPFORULSIMULTILEVELINTERCONNECTIONCONFFREMONT2325FEBRUARY</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>EFFECTCERIASLURRYPHHERSEYNUMBERCMPSILICONDIOXIDE</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib12">
+            <xocs:ref-normalized-surname>MAGRATH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>666</xocs:ref-first-fp>
+            <xocs:ref-last-lp>673</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib13">
+            <xocs:ref-normalized-surname>OLIVER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CHEMICALMECHANICALPLANARIZATIONSEMICONDUCTORMATERIALS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib14">
+            <xocs:ref-normalized-surname>OLIVER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>77</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROCELECTROCHEMICALSOCIETY198THMEETING</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>CMPPADSURFACEROUGHNESSCMPREMOVALRATE</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib15">
+            <xocs:ref-normalized-surname>PARK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>73</xocs:ref-first-fp>
+            <xocs:ref-last-lp>76</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib16">
+            <xocs:ref-normalized-surname>QIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>277</xocs:ref-first-fp>
+            <xocs:ref-last-lp>286</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib17">
+            <xocs:ref-normalized-surname>SCOTTLAWING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>I5.3.1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>I5.3.6</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROCMATERIALSRESEARCHSOCIETYSPRINGMEETING</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>PADCONDITIONINGPADSURFACECHARACTERIZATIONINOXIDECHEMICALMECHANICALPOLISHING</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib18">
+            <xocs:ref-normalized-surname>TOMOZAWA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>169</xocs:ref-first-fp>
+            <xocs:ref-last-lp>175</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib19">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1121</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1127</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib20">
+            <xocs:ref-normalized-surname>YOSHIDA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>K.8.4.1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>K.8.4.6</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROCMATERIALSRESEARCHSOCIETYSPRINGMEETINGSANFRANCISCO1216APRIL</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>PADASPERITYPARAMETERSFORCMPPROCESSSIMULATION</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>PARKX2008X287</xocs:refkey3>
+         <xocs:refkey4lp>PARKX2008X287X292</xocs:refkey4lp>
+         <xocs:refkey4ai>PARKX2008X287XB</xocs:refkey4ai>
+         <xocs:refkey5>PARKX2008X287X292XB</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0924-0136(07)00955-7</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0924013607009557</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0924013607009557</xocs:eid>
+         <xocs:doi>10.1016/j.jmatprotec.2007.10.033</xocs:doi>
+         <xocs:cid>271356</xocs:cid>
+         <xocs:timestamp>2010-12-22T10:23:05.949907-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2008-07-18</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0924013607009557-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013607009557/MAIN/application/pdf/63535aff9be1fe772ef9dd9604d6ef88/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013607009557/MAIN/application/pdf/63535aff9be1fe772ef9dd9604d6ef88/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1013007</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0924013607009557-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013607009557/PREVIEW/image/png/3d9a2925b822076ce08bd974c24fc171/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013607009557/PREVIEW/image/png/3d9a2925b822076ce08bd974c24fc171/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>53747</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013607009557-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013607009557/gr1/DOWNSAMPLED/image/jpeg/59021aba48b5e48cf6ec10a3943fd4ec/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013607009557/gr1/DOWNSAMPLED/image/jpeg/59021aba48b5e48cf6ec10a3943fd4ec/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>45812</xocs:filesize>
+               <xocs:pixel-height>270</xocs:pixel-height>
+               <xocs:pixel-width>376</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013607009557-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013607009557/gr1/THUMBNAIL/image/gif/ec82bcfbf486a51802797de5e80bde2d/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013607009557/gr1/THUMBNAIL/image/gif/ec82bcfbf486a51802797de5e80bde2d/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6488</xocs:filesize>
+               <xocs:pixel-height>90</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013607009557-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013607009557/gr2/DOWNSAMPLED/image/jpeg/60a84a4ce2704577bad2ef6712dab130/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013607009557/gr2/DOWNSAMPLED/image/jpeg/60a84a4ce2704577bad2ef6712dab130/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>45996</xocs:filesize>
+               <xocs:pixel-height>512</xocs:pixel-height>
+               <xocs:pixel-width>290</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013607009557-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013607009557/gr2/THUMBNAIL/image/gif/ab5dc124d301df29c64b78ac363bbb67/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013607009557/gr2/THUMBNAIL/image/gif/ab5dc124d301df29c64b78ac363bbb67/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1053</xocs:filesize>
+               <xocs:pixel-height>94</xocs:pixel-height>
+               <xocs:pixel-width>53</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013607009557-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013607009557/gr3/DOWNSAMPLED/image/jpeg/eac5f01cd2f41a29f362d6c91bb979b3/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013607009557/gr3/DOWNSAMPLED/image/jpeg/eac5f01cd2f41a29f362d6c91bb979b3/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>51350</xocs:filesize>
+               <xocs:pixel-height>314</xocs:pixel-height>
+               <xocs:pixel-width>373</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013607009557-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013607009557/gr3/THUMBNAIL/image/gif/3abc2bf445475d3ac4feb90125c1c08c/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013607009557/gr3/THUMBNAIL/image/gif/3abc2bf445475d3ac4feb90125c1c08c/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4176</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>111</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013607009557-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013607009557/gr4/DOWNSAMPLED/image/jpeg/3fc7656e5ba8a198aec162cdaff8d263/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013607009557/gr4/DOWNSAMPLED/image/jpeg/3fc7656e5ba8a198aec162cdaff8d263/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>38479</xocs:filesize>
+               <xocs:pixel-height>247</xocs:pixel-height>
+               <xocs:pixel-width>319</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013607009557-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013607009557/gr4/THUMBNAIL/image/gif/a6241c4d23ba2d2101d67cc9c745a0bc/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013607009557/gr4/THUMBNAIL/image/gif/a6241c4d23ba2d2101d67cc9c745a0bc/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3036</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>120</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013607009557-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013607009557/gr5/DOWNSAMPLED/image/jpeg/759ccc4047bc25e148909f3a84c0da3b/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013607009557/gr5/DOWNSAMPLED/image/jpeg/759ccc4047bc25e148909f3a84c0da3b/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>79423</xocs:filesize>
+               <xocs:pixel-height>524</xocs:pixel-height>
+               <xocs:pixel-width>374</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013607009557-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013607009557/gr5/THUMBNAIL/image/gif/17ebf9450ffbe5f625039f8c9ee689af/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013607009557/gr5/THUMBNAIL/image/gif/17ebf9450ffbe5f625039f8c9ee689af/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2466</xocs:filesize>
+               <xocs:pixel-height>92</xocs:pixel-height>
+               <xocs:pixel-width>66</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013607009557-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013607009557/gr6/DOWNSAMPLED/image/jpeg/9c096c6a562c838283017f00cc9286ef/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013607009557/gr6/DOWNSAMPLED/image/jpeg/9c096c6a562c838283017f00cc9286ef/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>43714</xocs:filesize>
+               <xocs:pixel-height>252</xocs:pixel-height>
+               <xocs:pixel-width>320</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013607009557-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013607009557/gr6/THUMBNAIL/image/gif/b7d9f398fc858a2fc7370f2b17d1b4f7/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013607009557/gr6/THUMBNAIL/image/gif/b7d9f398fc858a2fc7370f2b17d1b4f7/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3248</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>118</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013607009557-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013607009557/gr7/DOWNSAMPLED/image/jpeg/027f4b44b0785784f740b5a8df1a5bf4/gr7.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013607009557/gr7/DOWNSAMPLED/image/jpeg/027f4b44b0785784f740b5a8df1a5bf4/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>34244</xocs:filesize>
+               <xocs:pixel-height>283</xocs:pixel-height>
+               <xocs:pixel-width>374</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013607009557-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013607009557/gr7/THUMBNAIL/image/gif/6da8c9fbbeaa1b55208cbe89aad995bf/gr7.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013607009557/gr7/THUMBNAIL/image/gif/6da8c9fbbeaa1b55208cbe89aad995bf/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2501</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>123</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013607009557-gr8.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013607009557/gr8/DOWNSAMPLED/image/jpeg/a597f2790e04f6c22068a7522a6f7f3a/gr8.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013607009557/gr8/DOWNSAMPLED/image/jpeg/a597f2790e04f6c22068a7522a6f7f3a/gr8.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>49585</xocs:filesize>
+               <xocs:pixel-height>514</xocs:pixel-height>
+               <xocs:pixel-width>322</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013607009557-gr8.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013607009557/gr8/THUMBNAIL/image/gif/f2e29354d122fe307f55f08f1583e4ca/gr8.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013607009557/gr8/THUMBNAIL/image/gif/f2e29354d122fe307f55f08f1583e4ca/gr8.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1217</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>58</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.0" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>PROTEC</jid>
+            <aid>11342</aid>
+            <ce:pii>S0924-0136(07)00955-7</ce:pii>
+            <ce:doi>10.1016/j.jmatprotec.2007.10.033</ce:doi>
+            <ce:copyright type="full-transfer" year="2007">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">CMP equipment (GNP POLI500).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Schematic of pad roughness measurement. (a) Spatial sliding distance of pad (pad wear profile). (b) Measurement position of pad roughness.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Surface image of polyurethane pad. (a) Diagram of cross section of IC1000 (<ce:cross-ref refid="bib14">Oliver et al., 2000</ce:cross-ref>). (b) Surface image of IC1000.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">
+                     <ce:italic>R</ce:italic>
+                     <ce:inf loc="post">pk</ce:inf> value as a function of distance from wafer center after conditioning.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Profile of pad surface roughness and removal rate as a function of distance from wafer center. (a) Silica-based slurry. (b) Ceria-based slurry.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="fig6">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Temporal variation of roughness distribution as a function of polishing time.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6"/>
+            </ce:figure>
+            <ce:figure id="fig7">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Schematic of pad roughness change during CMP. (a) Silica-based slurry. (b) Ceria-based slurry.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr7"/>
+            </ce:figure>
+            <ce:figure id="fig8">
+               <ce:label>Fig. 8</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Friction force as a function of polishing time. (a) Silica-based slurry. (b) Ceria-based slurry.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr8"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl1" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Process conditions</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="2">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <thead valign="top">
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Parameters</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Conditions</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Pressure</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">500<hsp sp="0.25"/>g/cm<sup loc="post">2</sup>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Velocity</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">C97/P103<hsp sp="0.25"/>rpm</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Oscillation</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">None</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Conditioning</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Ex situ</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Wafer</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Thermal oxide 4<hsp sp="0.25"/>in.</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Slurry</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Silica-based slurry, ceria-based slurry</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Pad</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">IC1400Nitta-Haas</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title>Pad roughness variation and its effect on material removal profile in ceria-based CMP slurry</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Boumyoung</ce:given-name>
+                  <ce:surname>Park</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Hyunseop</ce:given-name>
+                  <ce:surname>Lee</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Kihyun</ce:given-name>
+                  <ce:surname>Park</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Hyoungjae</ce:given-name>
+                  <ce:surname>Kim</ce:surname>
+                  <ce:cross-ref refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Haedo</ce:given-name>
+                  <ce:surname>Jeong</ce:surname>
+                  <ce:cross-ref refid="aff3">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Department of Precision &amp; Mechanical Engineering, Pusan National University, Jangjeon-Dong, Geumjeong-Gu, Busan, 609-735, South Korea</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Busan R&amp;D Center, KITECH, San 30, Jangjeon-Dong, Geumjeong-Gu, Busan, 609-735, South Korea</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff3">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>School of Mechanical Engineering, Pusan National University, Jangjeon-Dong, Geumjeong-Gu, Busan, 609-735, South Korea</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author. Tel.: +82 51 510 2463; fax: +82 51 518 8442.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="21" month="9" year="2006"/>
+            <ce:date-revised day="23" month="7" year="2007"/>
+            <ce:date-accepted day="13" month="10" year="2007"/>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">The pad roughness plays a key role in material removal in oxide chemical mechanical polishing (CMP) process. Its variation also has an effect on within wafer non-uniformity. The <ce:italic>R</ce:italic>
+                     <ce:inf loc="post">pk</ce:inf> among roughness parameters, which is related to pad wear characteristics, was investigated to find the correlation between spatial roughness distribution of a polishing pad, and material removal profile in CMP, using two different types of slurries. The removal rate of ceria-based slurry for STI CMP was higher in the wafer center than that of the silica-based slurry. This is because the pad roughness distribution in a convex shape is formed across the pad radius in the contact area between pad and wafer instead of the degradation of pad roughness during CMP. Also, there is an increase of <ce:italic>R</ce:italic>
+                     <ce:inf loc="post">pk</ce:inf> results in the increase of average friction force by comparison with the decrease of friction force in CMP using silica-based slurry. This result may be expected as the effect of the chemical tooth of ceria abrasive and slurry accumulation in the wafer center causes a roughening of the pad surface just as sandpaper.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Chemical mechanical polishing</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Ceria slurry</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Pad roughness</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Material removal</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para view="all">Chemical mechanical polishing (CMP) has been widely used for global planarization of multilevel interconnects in the microelectronics industry (<ce:cross-ref refid="bib16">Qin et al., 2004</ce:cross-ref>). During CMP process, target materials such as oxide (SiO<ce:inf loc="post">2</ce:inf>), tungsten (W), and copper (Cu) are polished by the contact pressure and sliding motion of the pad, slurry, and wafer (<ce:cross-ref refid="bib7">Jin et al., 2005</ce:cross-ref>). The material removal depends on numerous variables such as applied pressure, relative velocity between pad and wafer, pad properties (hardness, elastic modulus, pad surface roughness, etc.) and slurry characteristics (abrasive size, abrasive concentration, chemical components, etc.) in CMP process (<ce:cross-ref refid="bib13">Oliver, 2004</ce:cross-ref>). In regard to the aspect of pad surface roughness, a conditioning process has been performed to remove the debris from the pad surface and restore pad surface quality. The conditioning process is essential to maintain high material removal rate and good within wafer non-uniformity. Pad conditioning may be conducted by using the in situ method; while wafers are being polished, or the ex situ method, either prior to or after the wafers have been polished (<ce:cross-ref refid="bib17">Scott Lawing, 2002</ce:cross-ref>).</ce:para>
+                  <ce:para view="all">McGrath (<ce:cross-ref refid="bib12">MaGrath and Davis, 2004</ce:cross-ref>) reported the relationship between pad surface feature degradation and material removal rate by evaluating the deterioration of the pad surface during CMP. Oliver (<ce:cross-ref refid="bib14">Oliver et al., 2000</ce:cross-ref>) has studied the relationship between pad properties and decline of material removal rate in the absence of conditioning process. The pad surface roughness decreases during polishing because the shearing forces of polishing reduce the height and number of pad asperities. Hooper (<ce:cross-ref refid="bib4">Hooper et al., 2002</ce:cross-ref>) found the correlation between conditioning density and both geometric wear, and the surface properties of the polishing pad. <ce:cross-ref refid="bib20">Yoshida (2004)</ce:cross-ref> proposed a practical method to bridge a measured profile of pad asperity in microscopic scale to a set of simple parameters which describe the elastic behavior for CMP process.</ce:para>
+                  <ce:para view="all">Although they reported the relationship between the pad roughness and CMP results, a study on the distribution of pad surface roughness and the removal rate profile induced by slurry types is still insufficient. In detail, different authors have researched the effect of pad roughness on material removal using the slurry with alkali silica (SiO<ce:inf loc="post">2</ce:inf>)-based abrasives in oxide CMP process. However, the slurry with neutral ceria (CeO<ce:inf loc="post">2</ce:inf>)-based abrasives has recently been utilized for the removal of silicon dioxide not only in the STI (shallow trench isolation) CMP process, but also in ILD (interlayer dielectric) CMP process because of high planarity performance (<ce:cross-ref refid="bib10">Lee et al., 2007</ce:cross-ref>). In comparison with silica-based slurry, the material removal behavior of ceria abrasives has a condensation reaction between silanol group and coordinated ceria abrasive surface (<ce:cross-refs refid="bib18 bib2">Tomozawa, 1997; Cook, 1990</ce:cross-refs>). Therefore, Lim (<ce:cross-ref refid="bib11">Lim et al., 2005</ce:cross-ref>) reported that oxide CMP using ceria-based slurry results in the faster removal rate of the wafer center, which leads to bad non-uniformity over a wafer surface. In this study, non-uniformity was considered from a pad surface roughness view point. Thus, the correlation between material removal rate profile and pad surface roughness was investigated using two types of slurry during oxide CMP, and then we tried to study the mechanism of pad roughness formation of ceria-based slurry.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Experiments</ce:section-title>
+                  <ce:para view="all">Experiments were carried out to investigate the effect of pad roughness variation on material removal profile using R&amp;D GNP POLI500 polisher with a polyurethane pad as shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="fig1"/>. <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="tbl1"/> describes the experimental conditions. The 4<ce:hsp sp="0.25"/>in. blanket wafer with a thermally grown SiO<ce:inf loc="post">2</ce:inf> film was polished at a pressure of 500<ce:hsp sp="0.25"/>g/cm<ce:sup loc="post">2</ce:sup> and a rotation velocity of 97<ce:hsp sp="0.25"/>rpm (carrier)/103<ce:hsp sp="0.25"/>rpm (platen). The conditioning process was ex situ at a pressure of 60<ce:hsp sp="0.25"/>g/cm<ce:sup loc="post">2</ce:sup> and a rotational velocity of 40<ce:hsp sp="0.25"/>rpm (conditioner disk) and 60<ce:hsp sp="0.25"/>rpm (platen). The different types of slurry were alkali-based slurry with fumed silica abrasives, and a neutral-based slurry with ceria abrasives. The slurry flow rate was kept constant at 150<ce:hsp sp="0.25"/>cc/min.</ce:para>
+                  <ce:para view="all">The pad surface roughness after CMP process was measured by surface roughness tester (Mitutoyo SJ-301). <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="fig2"/> shows the schematic of the pad surface measurement. The spatial sliding distance of the polishing pad generally has the abnormal feature of parabola according to pad radius as shown in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>(a), which results in the wear profile of pad surface roughness during CMP. Therefore, any oscillation of polishing head and conditioner was not performed to estimate exactly the effect of the pad roughness variation on the removal rate profile in this experiment. <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>(b) also shows the measuring position of pad roughness, and the pad roughness distribution, which was measured on the contact area between pad and wafer. In particular, “<ce:italic>D</ce:italic>” is the measuring range of pad roughness distribution.</ce:para>
+                  <ce:para view="all">The polisher has a monitoring system which is able to measure the friction force during CMP process. The piezoelectric force sensor was installed for obtaining friction force signals on the back of the polishing head. The signals from the force sensor were amplified through a charge amplifier and then transferred to a data acquisition board (<ce:cross-ref refid="bib6">Jeong et al., 2004</ce:cross-ref>). The measurement of friction force will help analyzing the polishing results in this study.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results and discussions</ce:section-title>
+                  <ce:section view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title>Pad surface roughness in CMP process</ce:section-title>
+                     <ce:para view="all">The conventional polyurethane pad contains randomly distributed pores which is approximately 35% of the total volume (<ce:cross-refs refid="bib13 bib14">Oliver, 2004; Oliver et al., 2000</ce:cross-refs>). <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>(a)<ce:float-anchor refid="fig3"/> shows the pad asperities and the pores on the pad surface. <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>(b) is a three-dimensional image of IC1000™ (made by Rohm &amp; Haas Inc.) measured using a non-contact surface profiler Nanoview™ (made by Nanosystem Inc.). It is certain that the oxide film cannot be polished by a new polyurethane pad, despite high pressure and velocity during oxide CMP process, because it does not have any surface roughness upon the pad asperities to ensure material removal rate. The wear of surface roughness and the phenomenon of pore glazing can also occur during oxide CMP. They may be regenerated by the conditioning process using a disk with diamond grits, thus the rough surface asperities made by conditioning are enough to achieve an effective removal rate.</ce:para>
+                     <ce:para view="all">The parameters of surface roughness can be classified into three types. These are amplitude parameters, spacing parameters and hybrid parameters. <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">a</ce:inf>, which is the arithmetic mean of the absolute values of the profile deviations from the mean line, has widely been used as conventional amplitude parameter in many engineering researches. However, it is impossible to completely describe the pad surface with amplitude parameters. McGrath (<ce:cross-ref refid="bib12">MaGrath and Davis, 2004</ce:cross-ref>) and Park (<ce:cross-ref refid="bib15">Park et al., 2007</ce:cross-ref>) both adopted the hybrid parameters for successful description of their works because the amplitude parameters are not sensitive to roughness profile variation or deviation. Therefore, the hybrid parameters were chosen in this study. The hybrid parameters such as <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">pk</ce:inf>, <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">k</ce:inf> and <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">vk</ce:inf> are suited to explain the roughness changes during CMP process. The reduced peak height, <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">pk</ce:inf>, is an estimate of the peak above the main plateau and is related to the wear characteristics of a polyurethane pad. The core roughness depth, <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">k</ce:inf>, refers to the depth of the working part of the surface, which carries the load and closely contacts the wafer surface. The reduced valley height, <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">vk</ce:inf>, is an estimate of the depth of the valleys, and is related to the ability of the surface to retain polishing slurry. The <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">pk</ce:inf> must be considered in order to study the influence of pad roughness on material removal, because the <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">pk</ce:inf> is the area of most rapid wear during CMP process (<ce:cross-ref refid="bib15">Park et al., 2007</ce:cross-ref>; <ce:inter-ref xlink:href="http://www.talyer-hobson.com/" xlink:type="simple">http://www.talyer-hobson.com</ce:inter-ref>). Therefore, the authors will focus on the <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">pk</ce:inf> value among hybrid parameters in experiments.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title>Pad roughness variation and removal rate profile of silica-based slurry</ce:section-title>
+                     <ce:para view="all">While the pad surface is roughened by a conditioner with diamond segments as shown in <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>, the rotation ratio between conditioner and pad has an influence on pad surface wear. Chang (<ce:cross-ref refid="bib1">Chang et al., 2007</ce:cross-ref>) indicated that the spatial distribution of sliding distance, according to rotation ratio, induced non-uniform pad wear. Nevertheless, the conditioner oscillated. <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="fig4"/> shows the <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">pk</ce:inf> distribution after conditioning without oscillation using hollow type conditioner. The initial distribution of pad roughness in the contact area between pad and wafer was a little concave after ex situ conditioning. In general, the surface roughness profile before CMP can affect within wafer non-uniformity for material removal rate. However the formed distribution of surface roughness was satisfied with investigation on spatial roughness change after oxide CMP using two slurries.</ce:para>
+                     <ce:para view="all">The oxide wafer was polished using silica-based slurry and the <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">pk</ce:inf> of pad surface roughness was measured after CMP of one minute. <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>(a)<ce:float-anchor refid="fig5"/> shows the correlation between the removal rate profile and the variation of deteriorated surface roughness. The stylus tester scanned nine points at each direction of 0°, 90°, 180°, and 270°across the apparent contact area of the pad, and the measured <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">pk</ce:inf> are its average value and its deviation. The removal rate profile across the whole wafer typically had a lower removal rate in the wafer center than on its edge. It is known as edge effect where the removal rate of around ±35<ce:hsp sp="0.25"/>mm from wafer center is higher because of the stress concentration in the pressured wafer i.e. the pad rebound phenomenon (<ce:cross-ref refid="bib19">Wang et al., 1997</ce:cross-ref>). In particular, the shape of pad roughness after CMP was more concave than it was after the conditioning process. This was due to the degradation of pad roughness according to sliding distance distribution. The average values of the <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">pk</ce:inf> parameter after CMP and after conditioning were 2.3<ce:hsp sp="0.25"/>μm and 2.4<ce:hsp sp="0.25"/>μm each, so they were very similar. The <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">pk</ce:inf> of surface roughness generally decreases, as the polishing time increases without in situ conditioning. Park (<ce:cross-ref refid="bib15">Park et al., 2007</ce:cross-ref>) revealed that the roughness <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">pk</ce:inf> dramatically decreased according to the polishing time without the conditioning process. However, CMP process should finish in about one minute for throughput. Therefore the shape of roughness distribution is more important than the average <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">pk</ce:inf> of total measured roughness values.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title>Pad roughness variation and removal rate profile of ceria-based slurry</ce:section-title>
+                     <ce:para view="all">
+                        <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>(b) shows that the removal rate using ceria-based slurry was higher in the wafer center than that of using silica-based slurry. It is well known as the center fast aspect of material removal rate. The <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">pk</ce:inf> value of roughness parameters increased around the contact area center between pad and wafer after CMP process, in comparison to its shape after conditioning. The ceria abrasives might have an effect on the convex shape of pad roughness. The average value of <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">pk</ce:inf> was also 2.7<ce:hsp sp="0.25"/>μm which was higher than that before CMP. <ce:cross-ref refid="bib2">Cook (1990)</ce:cross-ref> proposed that the polishing mechanism was the chemical condensation reaction between ceria abrasive and oxide film i.e. chemical tooth effect. Hoshino (<ce:cross-ref refid="bib5">Hoshino et al., 2001</ce:cross-ref>) also proposed that the oxide film was removed as ceria abrasives with SiO<ce:inf loc="post">2</ce:inf> lump during polishing. Therefore, the slurry accumulation in the wafer center can be predicted during CMP. Also, another reason is that the specific gravity of dispersed ceria abrasives is higher than that of silica abrasives. In CMP process, the slurry is supplied around the pad center and then sucked into the wafer, followed by being discharged out of the pad. Thus, ceria abrasives can be chemically fixed on the SiO<ce:inf loc="post">2</ce:inf> film of the wafer center because of chemical tooth effect, which results in the accumulation of more abrasives. The wafer surface, with abrasives, can scrub the pad surface during CMP, hence we assumed that the pad surface roughness increased and the removal rate in the wafer center was higher.</ce:para>
+                     <ce:para view="all">
+                        <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+                        <ce:float-anchor refid="fig6"/> shows the result of investigating the temporal variation of pad roughness. The distribution shape of pad roughness was transformed into smooth and concave surface, as polishing time increased from 1<ce:hsp sp="0.25"/>min to 5<ce:hsp sp="0.25"/>min. The average values of <ce:italic>R</ce:italic>
+                        <ce:inf loc="post">pk</ce:inf> went up to 2.8<ce:hsp sp="0.25"/>μm after 5<ce:hsp sp="0.25"/>min. The results describe the temporal formation of pad roughness with spatial distribution. Therefore, <ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>
+                        <ce:float-anchor refid="fig7"/> shows the schematics of pad roughness change during CMP process using two types of slurry.</ce:para>
+                     <ce:para view="all">The friction signals were measured using both silica-based slurry, and ceria-based slurry in oxide CMP. <ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>(a)<ce:float-anchor refid="fig8"/> shows that the friction force decreases during polishing, in the case of silica-based slurry, because of the viscoelastic behavior of the pad, pad deformation, and the degradation of pad roughness. The friction force also reflects the amount of material removal in oxide CMP (<ce:cross-refs refid="bib6 bib15 bib9">Jeong et al., 2004; Park et al., 2007; Kim et al., 2002</ce:cross-refs>). By contrast, the average friction force increased during polishing using ceria-based slurry as shown in <ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>(b). This means that the spatial formation of pad surface roughness may have happened and the contact condition between pad and wafer can be unstable during CMP, which results in the equipment vibrating.</ce:para>
+                     <ce:para view="all">The proposed model for roughness formation can make the removal rate profile become convex in oxide CMP using ceria-based slurry. As a solution to this problem, an industry can control the process parameters such as adjustment of slurry pH and viscosity, pressure and velocity of CMP equipment carrier, and in situ conditioning. The viscosity adjustment of parameters was interpreted as being a more effective method for improvement of removal rate profile. We especially believe that higher viscosity slurry with organic surfactant as additive can prevent the ceria abrasives to roughen the pad surface even though the oxide removal rate goes down because of it (<ce:cross-refs refid="bib11 bib8 bib3">Lim et al., 2005; Kang et al., 2004; Doi, 2007</ce:cross-refs>).</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusions</ce:section-title>
+                  <ce:para view="all">The oxide CMP process using ceria-based slurry has a problem: a higher material removal rate in wafer center, compared with CMP using silica-based slurry. So, this research includes the effects of pad roughness on the material removal profile. The <ce:italic>R</ce:italic>
+                     <ce:inf loc="post">pk</ce:inf> distribution of pad roughness has a concave shape in conventional silica-based CMP slurry because of pad wear. However, the ceria-based slurry forms the pad roughness, which results in a high removal rate in the wafer center. Therefore, the ceria abrasives affect the spatial and temporal distribution of pad roughness. It is expected that the chemical tooth effect between oxide film and ceria abrasive, and the slurry accumulation in the wafer center will roughen the pad surface. The characteristic of ceria abrasive must be considered for improvement of within wafer non-uniformity.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgement</ce:section-title>
+               <ce:para view="all">This work was supported by a grant-in-aid for the National Core Research Center Program from the Ministry of Science &amp; Technology and the Korea Science &amp; Engineering Foundation (No. R15-2006-022-01003-0).</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="bib1">
+                     <ce:label>Chang et al., 2007</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Seo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Jeong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mathematical modeling of CMP conditioning process</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Microelectron. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>84</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>577</sb:first-page>
+                              <sb:last-page>583</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>Cook, 1990</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Cook</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical processes in glass polishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Non-Crystal. Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>120</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>152</sb:first-page>
+                              <sb:last-page>171</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>Doi, 2007</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Doi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical mechanical polishing and its applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>L.</ce:given-name>
+                                    <ce:surname>Marinescu</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>E.</ce:given-name>
+                                    <ce:surname>Uhlmann</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>T.</ce:given-name>
+                                    <ce:surname>Doi</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Handbook of Lapping and Polishing</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2007</sb:date>
+                              <sb:publisher>
+                                 <sb:name>CRC Press</sb:name>
+                                 <sb:location>Boca Raton</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>Hooper et al., 2002</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Hooper</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Byrne</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Galligan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Pad conditioning in chemical mechanical polishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Process. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>123</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>107</sb:first-page>
+                              <sb:last-page>113</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>Hoshino et al., 2001</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Hoshino</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Kurata</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Terasaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Susa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mechanism of polishing SiO<ce:inf loc="post">2</ce:inf> films by CeO<ce:inf loc="post">2</ce:inf> particles</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Non-Crystal. Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>283</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>129</sb:first-page>
+                              <sb:last-page>136</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>Jeong et al., 2004</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Jeong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Seo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kinoshita</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Monitoring system in CMP process</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>Proc. The 1st Pac-Rim International Conf. on Planarization CMP and Its Application Technology</sb:maintitle>
+                              </sb:title>
+                              <sb:conference>Tokyo, 6 December</sb:conference>
+                              <sb:date>2004</sb:date>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>57</sb:first-page>
+                              <sb:last-page>68</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>Jin et al., 2005</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Jin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.M.</ce:given-name>
+                                 <ce:surname>Keer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A 3D EHL simulation of CMP</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>152</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>G7</sb:first-page>
+                              <sb:last-page>G15</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>Kang et al., 2004</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Katoh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Paik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of molecular weight of surfactant in nano ceria slurry on shallow trench isolation chemical mechanical polishing (CMP)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Jpn J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>43</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>8B</sb:issue-nr>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>L1060</sb:first-page>
+                              <sb:last-page>L1063</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>Kim et al., 2002</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.Y.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.D.</ce:given-name>
+                                 <ce:surname>Jeong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.S.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.J.</ce:given-name>
+                                 <ce:surname>Shin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Friction and thermal phenomena in chemical mechanical polishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Process. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>130–131</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>334</sb:first-page>
+                              <sb:last-page>338</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>Lee et al., 2007</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hwang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Jeong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Investigation of polishing characteristics of shallow trench isolation chemical mechanical planarization with different types of slurries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Microelectron. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>84</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>626</sb:first-page>
+                              <sb:last-page>630</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>Lim et al., 2005</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Yun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.U.</ce:given-name>
+                                 <ce:surname>Yoon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Hong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Cho</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Moon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of ceria slurry pH and Hersey number on CMP of silicon dioxide</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>Proc. CMP for ULSI Multilevel Interconnection Conf. Fremont, 23–25 February</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2005</sb:date>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>488</sb:first-page>
+                              <sb:last-page>493</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>MaGrath and Davis, 2004</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>MaGrath</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Davis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Polishing pad surface characterization in chemical mechanical planarization</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Process. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>153–154</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>666</sb:first-page>
+                              <sb:last-page>673</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>Oliver, 2004</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.R.</ce:given-name>
+                                 <ce:surname>Oliver</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical-mechanical planarization of semiconductor materials</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2004</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer</sb:name>
+                                 <sb:location>Berlin Heidelberg</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>Oliver et al., 2000</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.R.</ce:given-name>
+                                 <ce:surname>Oliver</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.E.</ce:given-name>
+                                 <ce:surname>Schmidt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Robinson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>CMP pad surface roughness and CMP removal rate</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>Proc. Electrochemical Society 198th Meeting</sb:maintitle>
+                              </sb:title>
+                              <sb:conference>Phoenix, 22–27 October</sb:conference>
+                              <sb:date>2000</sb:date>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>77</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>Park et al., 2007</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.H.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.M.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.D.</ce:given-name>
+                                 <ce:surname>Jeong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of pad properties on material removal in chemical mechanical polishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Process. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>187–188</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>73</sb:first-page>
+                              <sb:last-page>76</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>Qin et al., 2004</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Qin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Moudgil</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A chemical mechanical polishing model incorporating both the chemical and mechanical effects</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Thin Solid Films</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>446</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>277</sb:first-page>
+                              <sb:last-page>286</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>Scott Lawing, 2002</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Scott Lawing</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Pad conditioning and pad surface characterization in oxide chemical mechanical polishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>Proc. Materials Research Society Spring Meeting</sb:maintitle>
+                              </sb:title>
+                              <sb:conference>San Francisco, 1–5 April</sb:conference>
+                              <sb:date>2002</sb:date>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>I5.3.1</sb:first-page>
+                              <sb:last-page>I5.3.6</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>Tomozawa, 1997</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Tomozawa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Oxide CMP mechanisms</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Solid State Technol.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>169</sb:first-page>
+                              <sb:last-page>175</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>Wang et al., 1997</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Holland</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Bibby</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Beaudoin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Cale</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Von Mises stress in chemical–mechanical polishing process</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>144</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1121</sb:first-page>
+                              <sb:last-page>1127</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>Yoshida, 2004</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Yoshida</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Pad asperity parameters for CMP process simulation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>Proc. Materials Research Society Spring Meeting, San Francisco, 12–16 April</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2004</sb:date>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>K.8.4.1</sb:first-page>
+                              <sb:last-page>K.8.4.6</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

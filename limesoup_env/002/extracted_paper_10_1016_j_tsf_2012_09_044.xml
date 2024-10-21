@@ -1,0 +1,1615 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0040609012011595</prism:url><dc:identifier>doi:10.1016/j.tsf.2012.09.044</dc:identifier><eid>1-s2.0-S0040609012011595</eid><prism:doi>10.1016/j.tsf.2012.09.044</prism:doi><pii>S0040-6090(12)01159-5</pii><dc:title>High polishing selectivity ceria slurry for formation of top electrode in spin-transfer torque magnetic random access memory </dc:title><prism:publicationName>Thin Solid Films</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>00406090</prism:issn><prism:volume>522</prism:volume><prism:startingPage>212</prism:startingPage><prism:endingPage>216</prism:endingPage><prism:pageRange>212-216</prism:pageRange><dc:format>application/xml</dc:format><prism:coverDate>2012-11-01</prism:coverDate><prism:coverDisplayDate>1 November 2012</prism:coverDisplayDate><prism:copyright>Crown copyright © 2012 Published by Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><prism:issueName>EMRS 2011 symp Q</prism:issueName><dc:creator>Cui, Hao</dc:creator><dc:creator>Lim, Jae-Hyung</dc:creator><dc:creator>Park, Jin-Hyung</dc:creator><dc:creator>Park, Jea-Gun</dc:creator><dc:description>
+                  During the formation of the top electrode (T.E.) in spin-transfer torque magnetic random access memory, a slurry with a high polishing rate of SiO2 and a low polishing rate of metal (T.E. material) is required in the chemical mechanical planarization application area. We used a ceria-based slurry with a polymeric additive to maintain the high polishing rate of SiO2 while it suppresses the polishing rate of the T.E. material, tantalum and ruthenium. We found ruthenium showed a significantly higher selectivity than tantalum in the ceria-based slurry. X-ray photoelectron spectroscopy was used to investigate the adsorption characteristics of the polymeric additive on the T.E. material. Except for the adsorbed polymeric additive, we found that zeta potential of the T.E. material played a critical role in determining the polishing selectivity of SiO2-to-T.E. material.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Spin-transfer torque magnetic random access memory</dcterms:subject><dcterms:subject>Chemical mechanical polishing</dcterms:subject><dcterms:subject>Ruthenium</dcterms:subject><dcterms:subject>Tantalum</dcterms:subject><dcterms:subject>Poly(acrylamide)</dcterms:subject><dcterms:subject>Ceria</dcterms:subject><dcterms:subject>Zeta potential</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0040609012011595" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0040609012011595" rel="scidir"/></coredata><objects><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="340" height="944" size="52239">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609012011595-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="59" height="164" size="4775">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609012011595-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1507" height="4184" size="486529">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609012011595-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="348" height="551" size="43398">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609012011595-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="103" height="163" size="3995">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609012011595-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1541" height="2442" size="375235">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609012011595-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="350" height="839" size="50069">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609012011595-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="68" height="163" size="2826">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609012011595-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1553" height="3722" size="406241">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609012011595-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="493" height="356" size="43977">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609012011595-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="158" size="8092">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609012011595-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2185" height="1580" size="411472">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609012011595-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="616" height="82" size="17369">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609012011595-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="29" size="1600">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609012011595-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2729" height="365" size="160657">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609012011595-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="348" height="264" size="28398">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609012011595-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="216" height="164" size="6585">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609012011595-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1544" height="1172" size="204200">https://api.elsevier.com/content/object/eid/1-s2.0-S0040609012011595-gr6_lrg.jpg?httpAccept=%2A%2F%2A</object></objects><scopus-id>84868544358</scopus-id><scopus-eid>2-s2.0-84868544358</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84868544358" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271603</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291719</xocs:ssid>
+         <xocs:ssid type="subj">291720</xocs:ssid>
+         <xocs:ssid type="subj">291893</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Thin Solid Films</xocs:srctitle>
+      <xocs:normalized-srctitle>THINSOLIDFILMS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20120927">2012-09-27</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20120927">2012-09-27</xocs:available-online-date>
+      <xocs:ew-transaction-id>2012-11-05T18:58:29</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0040609012011595</xocs:eid>
+      <xocs:pii-formatted>S0040-6090(12)01159-5</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0040609012011595</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.tsf.2012.09.044</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0040609012X00233</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T02:53:03.807595-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20121101</xocs:date-search-begin>
+      <xocs:year-nav>2012</xocs:year-nav>
+      <xocs:indexeddate epoch="1348704000">2012-09-27T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confeditor contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings suppl vol volfirst volissue webpdf webpdfpagecount figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref specialabst alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0040-6090</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00406090</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>522</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>522</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 522</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>42</xocs:sort-order>
+      <xocs:first-fp>212</xocs:first-fp>
+      <xocs:last-lp>216</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>212</xocs:first-page>
+         <xocs:last-page>216</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20121101</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1 November 2012</xocs:cover-date-text>
+      <xocs:cover-date-start>2012-11-01</xocs:cover-date-start>
+      <xocs:cover-date-year>2012</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>EMRS 2011 symp Q</ce:title>
+            <ce:editors>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:degrees>Professor</ce:degrees>
+                     <ce:given-name>Peter</ce:given-name>
+                     <ce:surname>Wellmann</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:degrees>Dr.</ce:degrees>
+                     <ce:given-name>Mikael</ce:given-name>
+                     <ce:surname>Syväjärvi</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:degrees>Professor</ce:degrees>
+                     <ce:given-name>Michael</ce:given-name>
+                     <ce:surname>Kneissl</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:given-name>Rongming</ce:given-name>
+                     <ce:surname>Wang</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Regular Articles</xocs:hub-sec-title>
+         <xocs:hub-sec>
+            <xocs:hub-sec-title>B. Surfaces, Interfaces and Colloidal Behaviour</xocs:hub-sec-title>
+         </xocs:hub-sec>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Crown copyright © 2012 Published by Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>HIGHPOLISHINGSELECTIVITYCERIASLURRYFORFORMATIONTOPELECTRODEINSPINTRANSFERTORQUEMAGNETICRANDOMACCESSMEMORY</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>CUI</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>H</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experiment</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Materials</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Chemical mechanical polishing conditions</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Measuring equipment</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="bb0005">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>193</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0010">
+            <xocs:ref-normalized-surname>NAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>49</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROC7THANNUALNONVOLATILEMEMORYTECHNOLOGYSYMPOSIUM</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0015">
+            <xocs:ref-normalized-surname>HUAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3118</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0020">
+            <xocs:ref-normalized-surname>HOSOMI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>459</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0025">
+            <xocs:ref-normalized-surname>DIAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>165209</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0030">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>684</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROCIEEEINTERNATIONALSYMPOSIUMQUALITYELECTRONICDESIGN</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0035">
+            <xocs:ref-normalized-surname>DIAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>232502</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0040">
+            <xocs:ref-normalized-surname>COOK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>152</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0045">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>S197</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0050">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>M5.3.1</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0055">
+            <xocs:ref-normalized-surname>KATOH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1150</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0060">
+            <xocs:ref-normalized-surname>FLEER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>30</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>POLYMERSINTERFACES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0065">
+            <xocs:ref-normalized-surname>YUAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>126</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0070">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>264</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0075">
+            <xocs:ref-normalized-surname>FANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>H97</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0080">
+            <xocs:ref-normalized-surname>BARR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1239</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0085">
+            <xocs:ref-normalized-surname>BEAMSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>188</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>HIGHRESOLUTIONXPSORGANICPOLYMERSSCIENTAESCA300DATABASE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0090">
+            <xocs:ref-normalized-surname>POURBAIX</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1965</xocs:ref-pub-year>
+            <xocs:ref-first-fp>243</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ATLASELECTROCHEMICALEQUILIBRIAINAQUEOUSSOLUTIONS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0095">
+            <xocs:ref-normalized-surname>HUNTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ZETAPOTENTIALINCOLLOIDSCIENCE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bb0100">
+            <xocs:ref-normalized-surname>MAZAHERI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>G233</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>CUIX2012X212</xocs:refkey3>
+         <xocs:refkey4lp>CUIX2012X212X216</xocs:refkey4lp>
+         <xocs:refkey4ai>CUIX2012X212XH</xocs:refkey4ai>
+         <xocs:refkey5>CUIX2012X212X216XH</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0040-6090(12)01159-5</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0040609012011595</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0040609012011595</xocs:eid>
+         <xocs:doi>10.1016/j.tsf.2012.09.044</xocs:doi>
+         <xocs:cid>271603</xocs:cid>
+         <xocs:timestamp>2012-11-05T14:29:30.259777-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2012-11-01</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0040609012011595-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012011595/MAIN/application/pdf/a93bd87a64070e752b22a8f3262b25cc/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012011595/MAIN/application/pdf/a93bd87a64070e752b22a8f3262b25cc/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>762082</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0040609012011595-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012011595/PREVIEW/image/png/3ea753c514660d5a8b3054c5dff59980/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012011595/PREVIEW/image/png/3ea753c514660d5a8b3054c5dff59980/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>59599</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609012011595-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012011595/gr1/DOWNSAMPLED/image/jpeg/4a04b0d4e357e0c64d72c5f3030647e6/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012011595/gr1/DOWNSAMPLED/image/jpeg/4a04b0d4e357e0c64d72c5f3030647e6/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>52239</xocs:filesize>
+               <xocs:pixel-height>944</xocs:pixel-height>
+               <xocs:pixel-width>340</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609012011595-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012011595/gr1/THUMBNAIL/image/gif/a56c1eb87ea5ae2c7b6c9baf075098a0/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012011595/gr1/THUMBNAIL/image/gif/a56c1eb87ea5ae2c7b6c9baf075098a0/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4775</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>59</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609012011595-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012011595/gr1/HIGHRES/image/jpeg/23d0a59431b55289ccd7a6c3aae9a583/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012011595/gr1/HIGHRES/image/jpeg/23d0a59431b55289ccd7a6c3aae9a583/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>486529</xocs:filesize>
+               <xocs:pixel-height>4184</xocs:pixel-height>
+               <xocs:pixel-width>1507</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609012011595-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012011595/gr2/DOWNSAMPLED/image/jpeg/4c1b85dea87338c5d0cafd5802d44316/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012011595/gr2/DOWNSAMPLED/image/jpeg/4c1b85dea87338c5d0cafd5802d44316/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>43398</xocs:filesize>
+               <xocs:pixel-height>551</xocs:pixel-height>
+               <xocs:pixel-width>348</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609012011595-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012011595/gr2/THUMBNAIL/image/gif/9cb0335433370bc8363e768d1a8bff21/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012011595/gr2/THUMBNAIL/image/gif/9cb0335433370bc8363e768d1a8bff21/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3995</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>103</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609012011595-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012011595/gr2/HIGHRES/image/jpeg/f96ee6deb8a9075b87808558727e027a/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012011595/gr2/HIGHRES/image/jpeg/f96ee6deb8a9075b87808558727e027a/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>375235</xocs:filesize>
+               <xocs:pixel-height>2442</xocs:pixel-height>
+               <xocs:pixel-width>1541</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609012011595-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012011595/gr3/DOWNSAMPLED/image/jpeg/214bfa8695abe61fe0a9546eda981559/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012011595/gr3/DOWNSAMPLED/image/jpeg/214bfa8695abe61fe0a9546eda981559/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>50069</xocs:filesize>
+               <xocs:pixel-height>839</xocs:pixel-height>
+               <xocs:pixel-width>350</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609012011595-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012011595/gr3/THUMBNAIL/image/gif/1bba5ae6aabd30a41d45407c8e0f2d56/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012011595/gr3/THUMBNAIL/image/gif/1bba5ae6aabd30a41d45407c8e0f2d56/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2826</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>68</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609012011595-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012011595/gr3/HIGHRES/image/jpeg/79302c25f0b2b1f621dc579bb6b7f408/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012011595/gr3/HIGHRES/image/jpeg/79302c25f0b2b1f621dc579bb6b7f408/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>406241</xocs:filesize>
+               <xocs:pixel-height>3722</xocs:pixel-height>
+               <xocs:pixel-width>1553</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609012011595-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012011595/gr4/DOWNSAMPLED/image/jpeg/5d4ff70af0ed51757327bfa6e54adb32/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012011595/gr4/DOWNSAMPLED/image/jpeg/5d4ff70af0ed51757327bfa6e54adb32/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>43977</xocs:filesize>
+               <xocs:pixel-height>356</xocs:pixel-height>
+               <xocs:pixel-width>493</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609012011595-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012011595/gr4/THUMBNAIL/image/gif/fd824342e29f7695b60af684af5997eb/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012011595/gr4/THUMBNAIL/image/gif/fd824342e29f7695b60af684af5997eb/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8092</xocs:filesize>
+               <xocs:pixel-height>158</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609012011595-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012011595/gr4/HIGHRES/image/jpeg/c20a89f8d2cb4cdaa9fdf26f882a1f9f/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012011595/gr4/HIGHRES/image/jpeg/c20a89f8d2cb4cdaa9fdf26f882a1f9f/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>411472</xocs:filesize>
+               <xocs:pixel-height>1580</xocs:pixel-height>
+               <xocs:pixel-width>2185</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609012011595-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012011595/gr5/DOWNSAMPLED/image/jpeg/193cf9df4f14446b465ab0b51de3867b/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012011595/gr5/DOWNSAMPLED/image/jpeg/193cf9df4f14446b465ab0b51de3867b/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>17369</xocs:filesize>
+               <xocs:pixel-height>82</xocs:pixel-height>
+               <xocs:pixel-width>616</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609012011595-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012011595/gr5/THUMBNAIL/image/gif/65b8ba810c96cb2f22f6934c4fe9411c/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012011595/gr5/THUMBNAIL/image/gif/65b8ba810c96cb2f22f6934c4fe9411c/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1600</xocs:filesize>
+               <xocs:pixel-height>29</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609012011595-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012011595/gr5/HIGHRES/image/jpeg/b9842ade60b117303aa90911b7229ef2/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012011595/gr5/HIGHRES/image/jpeg/b9842ade60b117303aa90911b7229ef2/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>160657</xocs:filesize>
+               <xocs:pixel-height>365</xocs:pixel-height>
+               <xocs:pixel-width>2729</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609012011595-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012011595/gr6/DOWNSAMPLED/image/jpeg/91547ee349c43aeb75ae6f0f4220db92/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012011595/gr6/DOWNSAMPLED/image/jpeg/91547ee349c43aeb75ae6f0f4220db92/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>28398</xocs:filesize>
+               <xocs:pixel-height>264</xocs:pixel-height>
+               <xocs:pixel-width>348</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609012011595-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012011595/gr6/THUMBNAIL/image/gif/82397c0426b6a09774ce5efdf3b33b50/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012011595/gr6/THUMBNAIL/image/gif/82397c0426b6a09774ce5efdf3b33b50/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6585</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>216</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0040609012011595-gr6_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0040609012011595/gr6/HIGHRES/image/jpeg/4cc4dbd09348d12be0e524b37f77de9b/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0040609012011595/gr6/HIGHRES/image/jpeg/4cc4dbd09348d12be0e524b37f77de9b/gr6_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>204200</xocs:filesize>
+               <xocs:pixel-height>1172</xocs:pixel-height>
+               <xocs:pixel-width>1544</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.1" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>TSF</jid>
+            <aid>31034</aid>
+            <ce:pii>S0040-6090(12)01159-5</ce:pii>
+            <ce:doi>10.1016/j.tsf.2012.09.044</ce:doi>
+            <ce:copyright type="crown" year="2012"/>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0015" view="all">Schematic of CMP process in formation of T.E. (a) Isolation by SiO<ce:inf loc="post">2</ce:inf> deposition, (b) T.E. CMP, and (c) bit-line formation. MTJ and T.E. denote magnetic tunnel junction and T.E., respectively.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0020" view="all">X-ray diffraction patterns at two theta mode. (a) Ta film, and (b) Ru film.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0025" view="all">CMP performance of SiO<ce:inf loc="post">2</ce:inf> and Ta films using ceria-based slurry with PAM added. (a) Polishing rate of SiO<ce:inf loc="post">2</ce:inf> film, (b) polishing rate of Ta and Ru films, and (c) polishing selectivity of SiO<ce:inf loc="post">2</ce:inf>-to-Ta or Ru films.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0030" view="all">(a) C 1s spectra of Ta film and (b) N 1s spectra of Ru film dipped in solution (i) without PAM (reference) and with various PAM concentrations of (ii) 0.025<ce:hsp sp="0.25"/>wt%, (iii) 0.1<ce:hsp sp="0.25"/>wt%, and (iv) 0.3<ce:hsp sp="0.25"/>wt%. pH of solution was titrated to 7 with sodium hydroxide. Notation C(1) is carbon in vinyl backbone away from amide group, C(2) is carbon in vinyl backbone adjacent to amide group, and C(3) is carbon in amide group.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="f0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0035" view="all">Schematic illustration of four steps CMP mechanism of bare metal in ceria slurry.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="f0030">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0040" view="all">Zeta potential of SiO<ce:inf loc="post">2</ce:inf>, Ta, Ru films and ceria particle in the slurry.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0005" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp0045" view="all">Mechanical hardness and isoelectric point.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="5">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <colspec colname="col5"/>
+                  <thead>
+                     <row valign="top" rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left">Material</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="left">SiO<inf loc="post">2</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="left">Ta</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="left">Ru</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="left">Ceria</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left">IEP</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">2.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">5.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">2.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="left">3.6</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left">Hardness [GPa]</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">9.05</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">15.25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">14.54</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5"/>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title>High polishing selectivity ceria slurry for formation of top electrode in spin-transfer torque magnetic random access memory</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Hao</ce:given-name>
+                  <ce:surname>Cui</ce:surname>
+                  <ce:cross-ref refid="af0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="af0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Jae-Hyung</ce:given-name>
+                  <ce:surname>Lim</ce:surname>
+                  <ce:cross-ref refid="af0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="af0015">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Jin-Hyung</ce:given-name>
+                  <ce:surname>Park</ce:surname>
+                  <ce:cross-ref refid="af0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Jea-Gun</ce:given-name>
+                  <ce:surname>Park</ce:surname>
+                  <ce:cross-ref refid="af0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="af0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cr0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="af0005">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Advanced Semiconductor Materials and Devices Development Center, Hanyang University, Seoul 133-791, Republic of Korea</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="af0010">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Department of Electronics &amp; Communication Engineering, Hanyang University, Seoul 133-791, Republic of Korea</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="af0015">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Department of Nanoscale Semiconductor Engineering, Hanyang University, Seoul 133-791, Republic of Korea</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cr0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author at: Department of Electronics &amp; Communication Engineering, Hanyang University, Seoul 133-791, Republic of Korea. Tel.: +<ce:hsp sp="0.10"/>82 2 2220 1772; fax: +<ce:hsp sp="0.10"/>82 2 2296 1179.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="2" month="12" year="2011"/>
+            <ce:date-revised day="20" month="9" year="2012"/>
+            <ce:date-accepted day="21" month="9" year="2012"/>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para id="sp0005" view="all">During the formation of the top electrode (T.E.) in spin-transfer torque magnetic random access memory, a slurry with a high polishing rate of SiO<ce:inf loc="post">2</ce:inf> and a low polishing rate of metal (T.E. material) is required in the chemical mechanical planarization application area. We used a ceria-based slurry with a polymeric additive to maintain the high polishing rate of SiO<ce:inf loc="post">2</ce:inf> while it suppresses the polishing rate of the T.E. material, tantalum and ruthenium. We found ruthenium showed a significantly higher selectivity than tantalum in the ceria-based slurry. X-ray photoelectron spectroscopy was used to investigate the adsorption characteristics of the polymeric additive on the T.E. material. Except for the adsorbed polymeric additive, we found that zeta potential of the T.E. material played a critical role in determining the polishing selectivity of SiO<ce:inf loc="post">2</ce:inf>-to-T.E. material.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:abstract class="graphical">
+               <ce:abstract-sec>
+                  <ce:section-title>Highlights</ce:section-title>
+                  <ce:simple-para id="sp0010" view="all">► High selective chemical mechanical planarization (CMP) slurry was investigated. ► The slurry has a high selectivity of SiO<ce:inf loc="post">2</ce:inf>-to-metals like tantalum and ruthenium. ► Spin-transfer-torque magnetic memory requires such high selectivity slurry. ► Surface zeta potential was used to explain CMP mechanism. ► tantalum and ruthenium have different rate-determining steps during CMP.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Spin-transfer torque magnetic random access memory</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Chemical mechanical polishing</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Ruthenium</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Tantalum</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Poly(acrylamide)</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Ceria</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Zeta potential</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para id="p0005" view="all">Beyond the 20-nm technology node, current memories such as dynamic random access memory (DRAM) and NAND flash memory confront inevitable technical limits in terms of manufacturability, yield, and especially scalability <ce:cross-ref refid="bb0005">[1]</ce:cross-ref>. To overcome these technical limits, several kinds of next-generation non-volatile memories have been proposed, including phase-change random access memory, polymer random access memory, resistive random access memory, and spin-transfer torque magnetic random access memory (STT-MRAM).</ce:para>
+                  <ce:para id="p0010" view="all">The conventional magnetic random access memory uses a field-induced writing scheme with two orthogonal current lines (digit and bit). Thus, the half selection problem and large cell size are critical issues in its commercialization <ce:cross-ref refid="bb0010">[2]</ce:cross-ref>. Recently, a concept MRAM using a writing scheme known as the spin-transfer torque (STT) effect has been proposed <ce:cross-refs refid="bb0015 bb0020 bb0025 bb0030">[3–6]</ce:cross-refs>. In this writing scheme, switching of the magnetization direction in the free layer is achieved by the direct injection of spin-polarized current into the magnetic tunnel junction (MTJ), avoiding the half selection problem and allowing a simple cell structure to 6<ce:hsp sp="0.25"/>F<ce:sup loc="post">2</ce:sup>
+                     <ce:hsp sp="0.12"/>~<ce:hsp sp="0.12"/>8<ce:hsp sp="0.25"/>F<ce:sup loc="post">2</ce:sup> without the digit line. Since STT-MRAM was proposed, it has been considered the most promising candidate to replace current memory technologies as a universal memory because it combines the features of fast read and write speed of static random access memory (&lt;<ce:hsp sp="0.10"/>10<ce:hsp sp="0.25"/>ns), high density of DRAM, non-volatility of flash memory, and unlimited endurance <ce:cross-ref refid="bb0035">[7]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0015" view="all">In the manufacturing process of an STT-MRAM cell, chemical mechanical planarization (CMP) is used during the formation of the top electrode (T.E.). <ce:cross-ref refid="f0005">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="f0005"/> shows the process sequence of the T.E. CMP. After patterning the T.E. and underlying MTJ layers, SiO<ce:inf loc="post">2</ce:inf> is deposited to isolate the adjacent cells. Then, the T.E. CMP is applied to remove SiO<ce:inf loc="post">2</ce:inf>. Similar processes, such as bit-line formation, in the conventional DRAM manufacturing process are then done. Metals with high mechanical hardness such as tantalum (Ta) and ruthenium (Ru) are commonly used as T.E. materials because they could act as the electrode as well as a hard mask during pattering of the MTJ layers. Due to the non-uniform polishing rate in the wafer scale, it is often over-polished to completely remove the overburden SiO<ce:inf loc="post">2</ce:inf> until the T.E. is exposed. However, as the design rule is continuously scaled down, this over-polishing may result in the destruction of the underlying MTJ layers because of the limited thickness of the T.E. Thus, a CMP slurry with a high polishing rate of SiO<ce:inf loc="post">2</ce:inf> (&gt;<ce:hsp sp="0.10"/>3000<ce:hsp sp="0.25"/>Å/min) and considerably low polishing rate of the T.E. material (&lt;<ce:hsp sp="0.10"/>30<ce:hsp sp="0.25"/>Å/min) is essential. However, metal CMPs, such as tungsten and aluminum, are targeted at a high polishing rate of metals and low polishing rate of SiO<ce:inf loc="post">2</ce:inf>. The demand and research related to CMP with the high polishing rate of SiO<ce:inf loc="post">2</ce:inf> and the low polishing rate of metal have not been reported.</ce:para>
+                  <ce:para id="p0020" view="all">In this study, tantalum (Ta) and ruthenium (Ru) were used as the T.E. materials to comparatively investigate the CMP performance. We used a ceria-based slurry with a polymeric additive to achieve a high polishing rate of SiO<ce:inf loc="post">2</ce:inf> while it suppresses the polishing rate of the T.E. material under 30<ce:hsp sp="0.25"/>Å/min. The adsorption characteristic of the polymeric additive onto the electrode material was analyzed using X-ray photoelectron spectroscopy (XPS).</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Experiment</ce:section-title>
+                  <ce:section id="s0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title>Materials</ce:section-title>
+                     <ce:para id="p0025" view="all">We deposited 120-nm-thick Ta and Ru films on Si (100) 8-inch wafers with a 100-nm buffered SiO<ce:inf loc="post">2</ce:inf> layer by physical vapor deposition. Due to the poor adhesion property between Ru and SiO<ce:inf loc="post">2</ce:inf>, a thin titanium layer (~<ce:hsp sp="0.10"/>10<ce:hsp sp="0.25"/>nm) was used as the adhesion promoting layer between Ru and SiO<ce:inf loc="post">2</ce:inf>. The SiO<ce:inf loc="post">2</ce:inf> films were deposited by plasma-enhanced chemical vapor deposition of tetra-ethyl-ortho-silicate at 720<ce:hsp sp="0.25"/>°C.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title>Chemical mechanical polishing conditions</ce:section-title>
+                     <ce:para id="p0030" view="all">The slurry used in the experiment was composed of abrasives, a dispersant, a pH titrant, a polymeric additive, and deionized water. The abrasives in the slurry were ceria (K.C. Tech., 5<ce:hsp sp="0.25"/>wt% solution) at a fixed concentration of 0.75<ce:hsp sp="0.25"/>wt%. Ceria was extensively investigated and used as the abrasive particle in the STI CMP area instead of the conventional fumed silica, because of its high polishing rate of SiO<ce:inf loc="post">2</ce:inf> and high selectivity of SiO<ce:inf loc="post">2</ce:inf>-to-Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> 
+                        <ce:cross-refs refid="bb0040 bb0045 bb0050 bb0055">[8–11]</ce:cross-refs>. Poly(acrylamide) (PAM) (Aldrich, MW 10<ce:hsp sp="0.25"/>k, 50<ce:hsp sp="0.25"/>wt% solution) was added as the polymeric additive to suppress the polishing rate of the T.E. material. The principal criterion of selecting the polymeric additive in this case is the low adsorption affinity to SiO<ce:inf loc="post">2</ce:inf>, to avoid the decreasing of the SiO<ce:inf loc="post">2</ce:inf> film. PAM does not adsorb on SiO<ce:inf loc="post">2</ce:inf> from water <ce:cross-ref refid="bb0060">[12]</ce:cross-ref>, and the lone pair electrons of nitrogen atom in the amide group provide a possibility of forming a polymeric complex with the metal surface. Thus, PAM was selected as the polymeric additive in the slurry to suppress the T.E. polishing rate. The pH of the slurry was titrated to approximately 7 with sodium hydroxide.</ce:para>
+                     <ce:para id="p0035" view="all">The Ta, Ru, and SiO<ce:inf loc="post">2</ce:inf> films on the 8-inch wafers were polished using a CMP planarizer (6EC, Strasbaugh, U.S.A.) with an industry standard CMP pad (IC 1000/Suba IV, Rohm and Haas Electronic Materials, U.S.A.). Pad break-in was carried out with a diamond disk for 10<ce:hsp sp="0.25"/>min, and 10 and 3 dummy wafers were polished before and between the experiments, respectively. Ex-situ pad conditioning was carried out after each polishing step. The polishing pressure was 41.4<ce:hsp sp="0.25"/>kPa and the rotation speed of the wafer carrier and table were set to 70<ce:hsp sp="0.25"/>rpm/min. The slurry flow rate was maintained at 100<ce:hsp sp="0.25"/>mL/min and polishing time was fixed at 30<ce:hsp sp="0.25"/>s.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0025" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title>Measuring equipment</ce:section-title>
+                     <ce:para id="p0040" view="all">X-ray diffraction pattern was measured with X-ray diffractometer (D/MAX-2500/PC, RIGAKU, Japan) at two-theta mode. The diffraction was obtained using Cu-Kα radiation (λ<ce:hsp sp="0.12"/>=<ce:hsp sp="0.12"/>0.1542<ce:hsp sp="0.25"/>nm) at a scan rate of 5°<ce:hsp sp="0.12"/>min<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup>. The adsorbed amount of PAM on the Ta and Ru films was obtained using XPS (ESCA 2000, V.G. Microtech, UK) to analyze the binding energy of C 1s and N 1s peak intensity, respectively. Peaks were split into Gaussian/Lorentzian-shaped components using a least-squares fitting algorithm. Zeta potential of the SiO<ce:inf loc="post">2</ce:inf>, Ta, and Ru films was measured with electrokinetic analyzer (SurPASS, Anton Paar, Austria). This equipment measured streaming potential (or current) at the solid/electrolyte interface, and then converted it to the surface zeta potential value. 0.0001<ce:hsp sp="0.25"/>mol/L KCl was used as the base electrolyte. In contrast, the zeta potential of ceria particle was measured by using a conventional electrophoresis method (ELS Z2+, Otuska, Japan).</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0030" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results and discussion</ce:section-title>
+                  <ce:para id="p0045" view="all">The crystal structure and the surface crystal orientation are important in the CMP process and the surface adsorption behavior of organics. <ce:cross-ref refid="f0010">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="f0010"/> shows the typical X-ray diffraction patterns of the as-deposited Ta and Ru films. For the Ta film, the peaks centered at 32.9, 35.0, and 37.5°, which were closed related to that of β-phase Ta (002), (410), and (212) <ce:cross-ref refid="bb0065">[13]</ce:cross-ref>. These results indicate that the as-deposited Ta film is in the metastable tetragonal structure <ce:cross-ref refid="bb0070">[14]</ce:cross-ref>. For the Ru film, four peaks were identified as the diffraction pattern from the hexagonal Ru (100), (002), (101), and (102), respectively <ce:cross-ref refid="bb0075">[15]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0050" view="all">
+                     <ce:cross-ref refid="f0015">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="f0015"/> shows the polishing rate of the SiO<ce:inf loc="post">2</ce:inf>, Ta, and Ru films and the polishing selectivity of SiO<ce:inf loc="post">2</ce:inf>-to-Ta (or Ru) films as a function of PAM concentration. The polishing rate of the SiO<ce:inf loc="post">2</ce:inf> film was almost independent of the PAM concentration. It only slightly decreased from 3250<ce:hsp sp="0.25"/>Å/min without PAM to 3100<ce:hsp sp="0.25"/>Å/min with 0.3<ce:hsp sp="0.25"/>wt% PAM. However, the polishing rate of the Ta film continuously decreased as the PAM concentration in the ceria slurry was increased. It sharply decreased as the PAM concentration increased in the ceria slurry from approximately 1000<ce:hsp sp="0.25"/>Å/min without PAM to 130<ce:hsp sp="0.25"/>Å/min with 0.05<ce:hsp sp="0.25"/>wt% PAM, and gradually decreased to 20<ce:hsp sp="0.25"/>Å/min with 0.3<ce:hsp sp="0.25"/>wt% PAM. As a result, the polishing selectivity of the SiO<ce:inf loc="post">2</ce:inf>-to-Ta films also increased linearly from 3:1 to approximately 150:1 as the PAM concentration increased from 0<ce:hsp sp="0.25"/>wt% to 0.3<ce:hsp sp="0.25"/>wt%, as shown in <ce:cross-ref refid="f0015">Fig. 3</ce:cross-ref>(c). In contrast to the Ta film, the Ru film showed a considerably lower polishing rate of 90<ce:hsp sp="0.25"/>Å/min in the ceria slurry without PAM. Similarly, the polishing rate of the Ru film continuously decreased as the PAM concentration was increased up to 0.05<ce:hsp sp="0.25"/>wt%, and then saturated approximately at 10<ce:hsp sp="0.25"/>Å/min regardless of the PAM concentration. In addition, the absolute magnitude of the Ru polishing rate was totally lower than that of the Ta polishing rate in the tested PAM concentration range. As a result, the polishing selectivity for Ru was also significantly higher than that for Ta.</ce:para>
+                  <ce:para id="p0055" view="all">To understand the dependency of the Ta and Ru polishing rate on the PAM concentration, XPS was used to analyze the adsorbed amount of PAM on the Ta and Ru surfaces. The Ta and Ru wafers were cut into 2<ce:hsp sp="0.12"/>×<ce:hsp sp="0.12"/>2-cm specimens, and then polished with the fumed silica slurry to remove the native oxide layer. After several times of cleaning procedures by hydrofluoric acid and deionized water, the specimens were then dipped in solutions with various PAM concentrations at room temperature for 10<ce:hsp sp="0.25"/>min, and then N<ce:inf loc="post">2</ce:inf> dried and measured by XPS. <ce:cross-ref refid="f0020">Fig. 4</ce:cross-ref>(a) and (b)<ce:float-anchor refid="f0020"/> present the XPS results of the C 1s and N 1s spectra of the Ta and Ru film surfaces after dipping it in the solutions with various PAM concentrations, respectively. The Ta and Ru films dipped in the solution without PAM was used as a reference. The existence of the C 1s peak around 285.00<ce:hsp sp="0.25"/>eV in the reference was due to adventitious carbon contamination during sample manipulation <ce:cross-ref refid="bb0080">[16]</ce:cross-ref>. Poly(acrylamide) has three characteristic C 1s peaks at 285.00 (C(1), backbone carbon away from amide group), 285.33 (C(2), backbone carbon bonded to the amide group), and 288.59<ce:hsp sp="0.25"/>eV (C(3), carbon in the amide group) <ce:cross-ref refid="bb0085">[17]</ce:cross-ref>. The peaks of backbone carbon were not distinguishable from that of the adventitious carbon contamination. However, the carbon peak intensity of the amide group continuously increased as the PAM concentration increased in the solution. This means that the adsorbed amount of PAM on the Ta film surface increased as its concentration was increased in the solution. For the Ru film, it is inevitable to use N 1s spectra instead of C 1s spectra due to the overlapping of C 1s spectra with Ru 3d spectra. From <ce:cross-ref refid="f0020">Fig. 4</ce:cross-ref>(b), we found that there was only a random noise for the reference. However, for the Ru film dipped in the solution containing PAM, a peak around 399.8<ce:hsp sp="0.25"/>eV was observed. This peak was identified as the binding energy of the nitrogen in the amide group in PAM <ce:cross-ref refid="bb0085">[17]</ce:cross-ref>. In addition, we found that the peak intensity was significantly increased for the PAM concentration of 0.025<ce:hsp sp="0.25"/>wt%. However, it only slightly increased as the PAM concentration was increased to 0.1<ce:hsp sp="0.25"/>wt%, and then it almost did not change as the PAM concentration was further increased of the up to 0.3<ce:hsp sp="0.25"/>wt%. This means that the adsorbed amount of PAM on the Ru film was easily saturated even at a relatively lower PAM concentration. This adsorption characteristic was different with that of the Ta film, namely, the adsorption affinity of PAM on the Ru film was higher than that on the Ta film. The role of the adsorbed polymeric layer on the CMP performance is that it prohibits the direct touching between abrasive and the film, resulting in the decreased polishing rate of the film. Therefore, we observed an approximately decreasing trend in the polishing rate the Ta and Ru films as a function of the PAM concentration. However, the polishing rate of the Ru film was easily saturated even at the low PAM concentration due to the high adsorption affinity of PAM on the Ru film. This different adsorption affinity of PAM on the Ta and Ru films may also explain the large magnitude difference of the polishing rate between the Ta and Ru films to some extent. However, this would not be the main factor that determines the magnitude difference of the polishing rate between the Ta and Ru films, because even a larger polishing rate difference between the Ta and Ru films was observed without PAM as compared with those with PAM in the ceria slurry.</ce:para>
+                  <ce:para id="p0060" view="all">Cook gave a mechanistic explanation of glass polishing with the ceria slurry in which chemical aspect was emphasized <ce:cross-ref refid="bb0040">[8]</ce:cross-ref>. In his proposal, surface silica atoms were removed through mechanical abrasion after forming a chemical bridge between the silica and the ceria abrasive particles. This is a general CMP mechanism for an oxide film covered surface. If starting from a bare metal surface, the process could be regarded as four successive steps as shown in <ce:cross-ref refid="f0025">Fig. 5</ce:cross-ref>
+                     <ce:float-anchor refid="f0025"/>: a thin surface oxide layer was formed in aqueous solution through the reaction with dissolved oxygen, and the hydroxyl group was formed in the surface of ceria and the film by hydrolysis reaction with water molecule. Then, a chemical bridge of M<ce:glyph name="sbnd"/>O<ce:glyph name="sbnd"/>Ce was produced when the film and ceria were in contact by the mechanical force. Finally, the surface oxide lump was removed when the ceria abrasive particle moved away from the linkage site with a shear strain as long as the bond strength of the chemical bridge M<ce:glyph name="sbnd"/>O<ce:glyph name="sbnd"/>Ce was strong enough. Each of these four steps has its own reaction rate constant, which depends on various factors including the film property, solution pH and chemistry, and CMP conditions. For the CMP process of an oxide film, we can regard the rate constant k<ce:inf loc="post">1</ce:inf> as the infinite. Also, we can simplify the process as a pure mechanical polishing when all rate constants are considerably low. The polishing rate of the film M was mainly affected by the rate constant of the rate-determining step among those four steps. In our experiment, we observed a significant difference in the polishing rate of the Ta and Ru films in the ceria slurry without PAM, regardless of their similar mechanical hardness, as shown in <ce:cross-ref refid="t0005">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="t0005"/>. This result proves that there is at least one strong rate-determining step for the Ru film during CMP. From Pourbaix diagram, we know that the formation of the surface passive oxide layer was thermodynamically favored for both Ta and Ru <ce:cross-ref refid="bb0090">[18]</ce:cross-ref>. Therefore, it is unlikely that the rate constant k<ce:inf loc="post">1</ce:inf> for oxidation step is the rate-determining step for Ru. The rate constant k<ce:inf loc="post">2</ce:inf> for hydrolysis reaction may be qualitatively estimated from the magnitude of zeta potential and the isoelectric point (IEP). The pH dependence of zeta potential and IEP of SiO<ce:inf loc="post">2</ce:inf>, Ta, Ru, and ceria was shown in <ce:cross-ref refid="f0030">Fig. 6</ce:cross-ref>
+                     <ce:float-anchor refid="f0030"/> and <ce:cross-ref refid="t0005">Table 1</ce:cross-ref>, respectively. The Ru film has an IEP of 2.3, which was close to that of the SiO<ce:inf loc="post">2</ce:inf> film. In contrast, the Ta film has an IEP of 5.5. At pH<ce:hsp sp="0.25"/>7, the Ru film has a large negative zeta potential of approximately −<ce:hsp sp="0.10"/>70<ce:hsp sp="0.25"/>mV, while the Ta film has a considerably lower zeta potential of approximately −<ce:hsp sp="0.10"/>35<ce:hsp sp="0.25"/>mV, respectively. The Ru film has a high negative zeta potential and its IEP was far from the slurry pH of 7, which means that the most of the surface hydroxyl group for Ru was dissociated. Therefore, the rate constant k<ce:inf loc="post">3</ce:inf> for step of forming chemical bridge may be one of the rate-determining steps for Ru CMP in the ceria-based slurry. Except for affecting the rate constant k<ce:inf loc="post">3</ce:inf> for step of forming chemical bridge, the zeta potential may also influence on material removal step. During the CMP process, the electrostatic force between film and abrasive plays an important role in determining the real contact pressure and the number of usable active particles at the surface <ce:cross-refs refid="bb0095 bb0100">[19,20]</ce:cross-refs>. The ceria abrasive particles will subject to a higher electrostatic repulsive force from the Ru film than that from the Ta film due to the higher zeta potential (magnitude). Therefore, the lower contact pressure and less usable abrasive particles involved in the Ru CMP than that of the Ta CMP. However, the real contact pressure and the number of usable active particles have the important effect on the rate constant k<ce:inf loc="post">4</ce:inf> of material removal step. Thus, it is most probable that both of the last two steps of forming chemical bridge and material removal were the rate-determining steps in the Ru CMP process in the ceria-based slurry.</ce:para>
+               </ce:section>
+               <ce:section id="s0035" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusion</ce:section-title>
+                  <ce:para id="p0065" view="all">In summary, the hard top-electrode material such as Ta and Ru are essentially necessary for the application of CMP process beyond 20-nm technology of STT-MRAM. Thus, a high polishing selectivity of SiO<ce:inf loc="post">2</ce:inf>-to-electrode material is required for formation of the top-electrode after isolation process. The addition of PAM in the ceria-based slurry suppressed the polishing rate of both Ta and Ru films by formation of the passive PAM layer on the film surface, but it almost did not affect the polishing rate of SiO<ce:inf loc="post">2</ce:inf> film. Because of the significant rate-determining steps of forming chemical bridge and material removal, Ru shows a significantly lower polishing rate than Ta, namely, Ru has an advantage of high polishing selectivity over Ta even with the high concentration of PAM in the ceria-based slurry. Thus, Ru is the more suitable T.E. material than Ta in view of the CMP process.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgments</ce:section-title>
+               <ce:para id="p0070" view="all">This investigation was financially supported by the Semiconductor Industry Collaborative Project between <ce:grant-sponsor id="gts0010" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Hanyang University</ce:grant-sponsor> and <ce:grant-sponsor id="gts0015" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Samsung Electronics Co. Ltd.</ce:grant-sponsor>, and the <ce:grant-sponsor id="gts0020" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Brain Korea 21 Project in 2011</ce:grant-sponsor>. We also thank Sumco Corp. for helping us with the experiments.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi0005" view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bs0005">
+                  <ce:bib-reference id="bb0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="rf0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.X.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Salahuddin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Roy</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>IEEE Custom Integrated Circ. Conf.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>193</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="rf0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.T.</ce:given-name>
+                                 <ce:surname>Nam</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.C.</ce:given-name>
+                                 <ce:surname>Oh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Jeong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.G.</ce:given-name>
+                                 <ce:surname>Baek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.K.</ce:given-name>
+                                 <ce:surname>Yim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.O.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.S.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U-In</ce:given-name>
+                                 <ce:surname>Chung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.T.</ce:given-name>
+                                 <ce:surname>Moon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>Proc. of the 7th Annual Non-Volatile Memory Technology Symposium</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2006</sb:date>
+                              <sb:publisher>
+                                 <sb:name>NVMTS</sb:name>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>49</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="rf0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Huai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Albert</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Nguyen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Pakala</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Valet</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>84</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3118</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="rf0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Hosomi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yamagishi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Yamamoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Bessho</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Higo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Yamane</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yamada</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Shoji</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Hachino</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Fukumoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Nagao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kano</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Tech. Dig. — Int. Electron Devices Meet.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>459</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="rf0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Diao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Ding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Panchula</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.C.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Huai</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Condens. Matter</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>165209</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="rf0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Dimitrov</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>Proc. of IEEE International Symposium on Quality Electronic Design</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2008</sb:date>
+                              <sb:publisher>
+                                 <sb:name>ISQED</sb:name>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>684</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="rf0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Diao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Apalkov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Pakala</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Ding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Panchula</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Huai</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>232502</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="rf0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.M.</ce:given-name>
+                                 <ce:surname>Cook</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Non-Cryst. Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>120</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>152</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="rf0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Yeo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Paik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Jung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.A.</ce:given-name>
+                                 <ce:surname>Hackley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Korean Phys. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>S197</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="rf0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.U.</ce:given-name>
+                                 <ce:surname>Yoon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Hah</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.T.</ce:given-name>
+                                 <ce:surname>Moon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Res. Soc. Symp. Proc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>671</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>M5.3.1</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="rf0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Katoh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.G.</ce:given-name>
+                                 <ce:surname>Kang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Paik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1150</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="rf0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.J.</ce:given-name>
+                                 <ce:surname>Fleer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Cohen Stuart</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.H.M.</ce:given-name>
+                                 <ce:surname>Scheutjens</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Cosgrove</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Vincent</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>Polymers at Interfaces</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1993</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Chapman &amp; Hall</sb:name>
+                                 <sb:location>London</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>30</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="rf0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.L.</ce:given-name>
+                                 <ce:surname>Yuan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.H.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Prasad</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.M.</ce:given-name>
+                                 <ce:surname>Tan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Thin Solid Films</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>434</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>126</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="rf0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.S.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.Y.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.T.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Thin Solid Films</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>353</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>264</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="rf0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Fang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.Y.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.S.</ce:given-name>
+                                 <ce:surname>Chin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>158</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>H97</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="rf0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.L.</ce:given-name>
+                                 <ce:surname>Barr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Seal</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Vac. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>A13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1239</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="rf0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Beamson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Briggs</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>High Resolution XPS of Organic Polymers: The Scienta ESCA300 Database</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1999</sb:date>
+                              <sb:publisher>
+                                 <sb:name>John Wiley &amp; Sons</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>188</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="rf0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Pourbaix</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>Atlas of Electrochemical Equilibria in Aqueous Solutions</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1965</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Permagon Press</sb:name>
+                                 <sb:location>London</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>243</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="rf0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Hunter</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Zeta Potential in Colloid Science</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1981</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Academic Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="rf0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.R.</ce:given-name>
+                                 <ce:surname>Mazaheri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Ahmadi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>150</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>G233</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

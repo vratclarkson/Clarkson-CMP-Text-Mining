@@ -1,0 +1,1908 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0043164810004205</prism:url><dc:identifier>doi:10.1016/j.wear.2010.11.006</dc:identifier><eid>1-s2.0-S0043164810004205</eid><prism:doi>10.1016/j.wear.2010.11.006</prism:doi><pii>S0043-1648(10)00420-5</pii><dc:title>Chemical effect on the material removal rate in the CMP of silicon wafers </dc:title><prism:publicationName>Wear</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>00431648</prism:issn><prism:volume>270</prism:volume><prism:issueIdentifier>3-4</prism:issueIdentifier><prism:startingPage>312</prism:startingPage><prism:endingPage>316</prism:endingPage><prism:pageRange>312-316</prism:pageRange><prism:number>3-4</prism:number><dc:format>application/xml</dc:format><prism:coverDate>2011-01-12</prism:coverDate><prism:coverDisplayDate>12 January 2011</prism:coverDisplayDate><prism:copyright>Copyright © 2010 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Wang, Y.G.</dc:creator><dc:creator>Zhang, L.C.</dc:creator><dc:creator>Biddut, A.</dc:creator><dc:description>
+                  This paper investigates the effects of oxidizer concentration, pH and slurry flow rate on the material removal rate (MRR) in chemo-mechanical polishing (CMP) of Si (100) wafers. The CMP was carried out in alkaline slurry using alumina and ceria particles with hydrogen peroxide. It was found that the applications of the two particle materials lead to very different results. When using the alumina particles, the MRR initially decreases with increasing the slurry pH value until pH=9. Nevertheless, the application of the ceria particles increases the MRR before the pH of the slurry reaches 10. It was concluded that in the former, the effect was due to the particle agglomeration and the contact angle decrease of the oxidizer slurry with the wafer surface; whereas in the latter it was caused by the particle agglomeration and the modification of trivalent ceria ions. The influence of the slurry flow rate and oxidizer concentration, regardless of the particle type, was found to be similar—a higher flow rate or a higher oxidizer concentration brought about a greater MRR before reaching a plateau. Many of these were interpreted by an adhesive removal mechanism on the molecular scale.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Chemo-mechanical polishing</dcterms:subject><dcterms:subject>Removal rate</dcterms:subject><dcterms:subject>Alumina</dcterms:subject><dcterms:subject>Ceria</dcterms:subject><dcterms:subject>pH</dcterms:subject><dcterms:subject>CMP</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0043164810004205" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0043164810004205" rel="scidir"/></coredata><objects><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="333" height="19" size="1187">https://api.elsevier.com/content/object/eid/1-s2.0-S0043164810004205-si1.gif?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="338" height="243" size="28352">https://api.elsevier.com/content/object/eid/1-s2.0-S0043164810004205-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="157" size="4043">https://api.elsevier.com/content/object/eid/1-s2.0-S0043164810004205-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1497" height="1075" size="116836">https://api.elsevier.com/content/object/eid/1-s2.0-S0043164810004205-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="339" height="258" size="34055">https://api.elsevier.com/content/object/eid/1-s2.0-S0043164810004205-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="215" height="164" size="4724">https://api.elsevier.com/content/object/eid/1-s2.0-S0043164810004205-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1500" height="1143" size="148334">https://api.elsevier.com/content/object/eid/1-s2.0-S0043164810004205-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="339" height="256" size="32711">https://api.elsevier.com/content/object/eid/1-s2.0-S0043164810004205-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="217" height="164" size="4676">https://api.elsevier.com/content/object/eid/1-s2.0-S0043164810004205-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1500" height="1134" size="143606">https://api.elsevier.com/content/object/eid/1-s2.0-S0043164810004205-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="339" height="275" size="26967">https://api.elsevier.com/content/object/eid/1-s2.0-S0043164810004205-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="202" height="164" size="7568">https://api.elsevier.com/content/object/eid/1-s2.0-S0043164810004205-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1500" height="1216" size="133101">https://api.elsevier.com/content/object/eid/1-s2.0-S0043164810004205-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="338" height="254" size="36820">https://api.elsevier.com/content/object/eid/1-s2.0-S0043164810004205-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="218" height="164" size="5432">https://api.elsevier.com/content/object/eid/1-s2.0-S0043164810004205-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1497" height="1127" size="166404">https://api.elsevier.com/content/object/eid/1-s2.0-S0043164810004205-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object></objects><scopus-id>78650679797</scopus-id><scopus-eid>2-s2.0-78650679797</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/78650679797" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271461</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291787</xocs:ssid>
+         <xocs:ssid type="subj">291864</xocs:ssid>
+         <xocs:ssid type="subj">291893</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Wear</xocs:srctitle>
+      <xocs:normalized-srctitle>WEAR</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20101124">2010-11-24</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20101124">2010-11-24</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-12-29T22:22:58</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0043164810004205</xocs:eid>
+      <xocs:pii-formatted>S0043-1648(10)00420-5</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0043164810004205</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.wear.2010.11.006</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0043164810X00138</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T03:01:08.918263-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20110112</xocs:date-search-begin>
+      <xocs:year-nav>2011</xocs:year-nav>
+      <xocs:indexeddate epoch="1290556800">2010-11-24T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref specialabst alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0043-1648</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00431648</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>270</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>270</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>3</xocs:iss-first>
+      <xocs:iss-last>4</xocs:iss-last>
+      <xocs:issue-list>
+         <xocs:issue>3</xocs:issue>
+         <xocs:issue>4</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 270, Issues 3–4</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>23</xocs:sort-order>
+      <xocs:first-fp>312</xocs:first-fp>
+      <xocs:last-lp>316</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>312</xocs:first-page>
+         <xocs:last-page>316</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20110112</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>12 January 2011</xocs:cover-date-text>
+      <xocs:cover-date-start>2011-01-12</xocs:cover-date-start>
+      <xocs:cover-date-year>2011</xocs:cover-date-year>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2010 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>CHEMICALEFFECTMATERIALREMOVALRATEINCMPSILICONWAFERS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>WANG</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>Y</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experiment</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>The effect of flow rate on MRR</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>The effect of oxidizer concentration on MRR</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Effect of pH value on MRR</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Spectroscopy analysis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Removal mechanism</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="bib0005">
+            <xocs:ref-normalized-surname>MURATOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>27</xocs:ref-first-fp>
+            <xocs:ref-last-lp>51</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0010">
+            <xocs:ref-normalized-surname>ZANTYE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>89</xocs:ref-first-fp>
+            <xocs:ref-last-lp>220</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0015">
+            <xocs:ref-normalized-surname>QIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>277</xocs:ref-first-fp>
+            <xocs:ref-last-lp>286</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0020">
+            <xocs:ref-normalized-surname>LUO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>469</xocs:ref-first-fp>
+            <xocs:ref-last-lp>476</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0025">
+            <xocs:ref-normalized-surname>EVANS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>611</xocs:ref-first-fp>
+            <xocs:ref-last-lp>633</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0030">
+            <xocs:ref-normalized-surname>FORSBERG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>319</xocs:ref-first-fp>
+            <xocs:ref-last-lp>326</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0035">
+            <xocs:ref-normalized-surname>CHOI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>G512</xocs:ref-first-fp>
+            <xocs:ref-last-lp>G522</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0040">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>657</xocs:ref-first-fp>
+            <xocs:ref-last-lp>662</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0045">
+            <xocs:ref-normalized-surname>BIELMANN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>401</xocs:ref-first-fp>
+            <xocs:ref-last-lp>403</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0050">
+            <xocs:ref-normalized-surname>ZHOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>232</xocs:ref-first-fp>
+            <xocs:ref-last-lp>238</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0055">
+            <xocs:ref-normalized-surname>BIDDUT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1178</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1181</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0060">
+            <xocs:ref-normalized-surname>ESTRAGNAT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>334</xocs:ref-first-fp>
+            <xocs:ref-last-lp>339</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0065">
+            <xocs:ref-normalized-surname>COOK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>152</xocs:ref-first-fp>
+            <xocs:ref-last-lp>171</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0070">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4951</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4954</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0075">
+            <xocs:ref-normalized-surname>SONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>178</xocs:ref-first-fp>
+            <xocs:ref-last-lp>182</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0080">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5089</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5094</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0085">
+            <xocs:ref-normalized-surname>STEIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>376</xocs:ref-first-fp>
+            <xocs:ref-last-lp>381</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0090">
+            <xocs:ref-normalized-surname>PRASAD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6353</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6358</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0095">
+            <xocs:ref-normalized-surname>LIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>863</xocs:ref-first-fp>
+            <xocs:ref-last-lp>868</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0100">
+            <xocs:ref-normalized-surname>RAMARAJAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>232</xocs:ref-first-fp>
+            <xocs:ref-last-lp>234</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0105">
+            <xocs:ref-normalized-surname>ABIADE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1139</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1145</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0110">
+            <xocs:ref-normalized-surname>BERG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>WETTABILITYSURFACTANTSCIENCESERIES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0115"/>
+         <xocs:ref-info refid="bib0120">
+            <xocs:ref-normalized-surname>SEIDEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3612</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3626</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0125">
+            <xocs:ref-normalized-surname>ILER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CHEMISTRYSILICA</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0130">
+            <xocs:ref-normalized-surname>GILLISS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>61</xocs:ref-first-fp>
+            <xocs:ref-last-lp>67</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0135">
+            <xocs:ref-normalized-surname>MANIVANNAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3764</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3768</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0140">
+            <xocs:ref-normalized-surname>GREENHAUS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1957</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1531</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1534</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib0145">
+            <xocs:ref-normalized-surname>HOSHINO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>129</xocs:ref-first-fp>
+            <xocs:ref-last-lp>136</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>WANGX2011X312</xocs:refkey3>
+         <xocs:refkey4lp>WANGX2011X312X316</xocs:refkey4lp>
+         <xocs:refkey4ai>WANGX2011X312XY</xocs:refkey4ai>
+         <xocs:refkey5>WANGX2011X312X316XY</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0043-1648(10)00420-5</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0043164810004205</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0043164810004205</xocs:eid>
+         <xocs:doi>10.1016/j.wear.2010.11.006</xocs:doi>
+         <xocs:cid>271461</xocs:cid>
+         <xocs:timestamp>2011-01-03T12:02:26.476338-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2011-01-12</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0043164810004205-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043164810004205/MAIN/application/pdf/06e9898562cb8b275d2ebb42baf84e83/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043164810004205/MAIN/application/pdf/06e9898562cb8b275d2ebb42baf84e83/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>408938</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0043164810004205-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043164810004205/PREVIEW/image/png/353c0512ff1e3ddd85afa3c1df7a89b5/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043164810004205/PREVIEW/image/png/353c0512ff1e3ddd85afa3c1df7a89b5/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>62426</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043164810004205-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043164810004205/STRIPIN/image/gif/8c08234e25f6b3436f0939cd7c89ef90/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043164810004205/STRIPIN/image/gif/8c08234e25f6b3436f0939cd7c89ef90/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1187</xocs:filesize>
+               <xocs:pixel-height>19</xocs:pixel-height>
+               <xocs:pixel-width>333</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043164810004205-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043164810004205/gr1/DOWNSAMPLED/image/jpeg/1290b5040990c5be7c7b010ca6521dd3/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043164810004205/gr1/DOWNSAMPLED/image/jpeg/1290b5040990c5be7c7b010ca6521dd3/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>28352</xocs:filesize>
+               <xocs:pixel-height>243</xocs:pixel-height>
+               <xocs:pixel-width>338</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043164810004205-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043164810004205/gr1/THUMBNAIL/image/gif/181d32c8396fbfd47be27cfea13da886/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043164810004205/gr1/THUMBNAIL/image/gif/181d32c8396fbfd47be27cfea13da886/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4043</xocs:filesize>
+               <xocs:pixel-height>157</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043164810004205-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043164810004205/gr1/HIGHRES/image/jpeg/5c43553cf9d64d3acd3eb8c7e26e4429/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043164810004205/gr1/HIGHRES/image/jpeg/5c43553cf9d64d3acd3eb8c7e26e4429/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>116836</xocs:filesize>
+               <xocs:pixel-height>1075</xocs:pixel-height>
+               <xocs:pixel-width>1497</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043164810004205-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043164810004205/gr2/DOWNSAMPLED/image/jpeg/27d5e6a4e6c24306f2aeea8f37caef03/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043164810004205/gr2/DOWNSAMPLED/image/jpeg/27d5e6a4e6c24306f2aeea8f37caef03/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>34055</xocs:filesize>
+               <xocs:pixel-height>258</xocs:pixel-height>
+               <xocs:pixel-width>339</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043164810004205-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043164810004205/gr2/THUMBNAIL/image/gif/0bd551736e08f37dcec0011e000e6d13/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043164810004205/gr2/THUMBNAIL/image/gif/0bd551736e08f37dcec0011e000e6d13/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4724</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>215</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043164810004205-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043164810004205/gr2/HIGHRES/image/jpeg/f41ba3ba533adad7483cc198977b5323/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043164810004205/gr2/HIGHRES/image/jpeg/f41ba3ba533adad7483cc198977b5323/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>148334</xocs:filesize>
+               <xocs:pixel-height>1143</xocs:pixel-height>
+               <xocs:pixel-width>1500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043164810004205-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043164810004205/gr3/DOWNSAMPLED/image/jpeg/6dac866f453099f63cbee037bf9cdbe7/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043164810004205/gr3/DOWNSAMPLED/image/jpeg/6dac866f453099f63cbee037bf9cdbe7/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>32711</xocs:filesize>
+               <xocs:pixel-height>256</xocs:pixel-height>
+               <xocs:pixel-width>339</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043164810004205-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043164810004205/gr3/THUMBNAIL/image/gif/06b487d3f748f2b05e83091fc982ef7a/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043164810004205/gr3/THUMBNAIL/image/gif/06b487d3f748f2b05e83091fc982ef7a/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4676</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>217</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043164810004205-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043164810004205/gr3/HIGHRES/image/jpeg/a4955081d35add0cb20b02532fe6cb64/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043164810004205/gr3/HIGHRES/image/jpeg/a4955081d35add0cb20b02532fe6cb64/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>143606</xocs:filesize>
+               <xocs:pixel-height>1134</xocs:pixel-height>
+               <xocs:pixel-width>1500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043164810004205-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043164810004205/gr4/DOWNSAMPLED/image/jpeg/86055d254308af40160f45a6ff222137/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043164810004205/gr4/DOWNSAMPLED/image/jpeg/86055d254308af40160f45a6ff222137/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>26967</xocs:filesize>
+               <xocs:pixel-height>275</xocs:pixel-height>
+               <xocs:pixel-width>339</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043164810004205-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043164810004205/gr4/THUMBNAIL/image/gif/5d94e8a3714f5e47e574fb6cb1e0a622/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043164810004205/gr4/THUMBNAIL/image/gif/5d94e8a3714f5e47e574fb6cb1e0a622/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7568</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>202</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043164810004205-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043164810004205/gr4/HIGHRES/image/jpeg/c9edf9a5ace9e0600634b8192daab511/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043164810004205/gr4/HIGHRES/image/jpeg/c9edf9a5ace9e0600634b8192daab511/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>133101</xocs:filesize>
+               <xocs:pixel-height>1216</xocs:pixel-height>
+               <xocs:pixel-width>1500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043164810004205-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043164810004205/gr5/DOWNSAMPLED/image/jpeg/614ddb60d0587a7bf9ad859accb3401c/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043164810004205/gr5/DOWNSAMPLED/image/jpeg/614ddb60d0587a7bf9ad859accb3401c/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>36820</xocs:filesize>
+               <xocs:pixel-height>254</xocs:pixel-height>
+               <xocs:pixel-width>338</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043164810004205-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043164810004205/gr5/THUMBNAIL/image/gif/188d94974a8dba7f830132d74394b892/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043164810004205/gr5/THUMBNAIL/image/gif/188d94974a8dba7f830132d74394b892/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5432</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>218</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043164810004205-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043164810004205/gr5/HIGHRES/image/jpeg/78d2fa552067bd63c54a0f35f0eed4b0/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043164810004205/gr5/HIGHRES/image/jpeg/78d2fa552067bd63c54a0f35f0eed4b0/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>166404</xocs:filesize>
+               <xocs:pixel-height>1127</xocs:pixel-height>
+               <xocs:pixel-width>1497</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.1" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>WEA</jid>
+            <aid>99680</aid>
+            <ce:pii>S0043-1648(10)00420-5</ce:pii>
+            <ce:doi>10.1016/j.wear.2010.11.006</ce:doi>
+            <ce:copyright type="full-transfer" year="2010">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="spar0015" view="all">Effect of slurry flow rate on <ce:italic>MRR</ce:italic>. Curve (a): slurry with Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> abrasives, and curve (b): slurry with CeO<ce:inf loc="post">2</ce:inf> abrasives.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="fig0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="spar0020" view="all">Effect of oxidizer concentration on <ce:italic>MRR</ce:italic>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="fig0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="spar0025" view="all">The effect of pH value on <ce:italic>MRR</ce:italic>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="fig0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="spar0030" view="all">Method to avoid the agglomeration of ceria particles in spectroscopy analysis.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="fig0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="spar0035" view="all">Transmittance spectra of ceria slurries in variable chemical conditions. (a) pH<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>7, 0.4% H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>, (b) pH<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>10, 0.4% H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>, (c) pH<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>7, 1% H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>, (d) pH<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>7, 2% H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>, (e) pH<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>11, 0.4% H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title>Chemical effect on the material removal rate in the CMP of silicon wafers</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Y.G.</ce:given-name>
+                  <ce:surname>Wang</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>L.C.</ce:given-name>
+                  <ce:surname>Zhang</ce:surname>
+                  <ce:cross-ref refid="cor0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>A.</ce:given-name>
+                  <ce:surname>Biddut</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>School of Mechanical and Manufacturing Engineering, The University of New South Wales, NSW 2052, Australia</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author. Tel.: +61 2 93856078; fax: +61 2 93857316.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="16" month="5" year="2010"/>
+            <ce:date-revised day="13" month="10" year="2010"/>
+            <ce:date-accepted day="16" month="11" year="2010"/>
+            <ce:abstract class="graphical">
+               <ce:abstract-sec>
+                  <ce:section-title>Research highlights</ce:section-title>
+                  <ce:simple-para id="spar0005" view="all">▶ Effects of oxidizer concentration, pH and slurry flow rate on the material removal rate (MRR) in CMP of Si (1<ce:hsp sp="0.25"/>0<ce:hsp sp="0.25"/>0) wafers were investigated. ▶The applications of the two particle materials including alumina and ceria lead to very different results. ▶ An adhesive removal mechanism on the molecular scale was also addressed.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para id="spar0010" view="all">This paper investigates the effects of oxidizer concentration, pH and slurry flow rate on the material removal rate (MRR) in chemo-mechanical polishing (CMP) of Si (1<ce:hsp sp="0.25"/>0<ce:hsp sp="0.25"/>0) wafers. The CMP was carried out in alkaline slurry using alumina and ceria particles with hydrogen peroxide. It was found that the applications of the two particle materials lead to very different results. When using the alumina particles, the MRR initially decreases with increasing the slurry pH value until pH<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>9. Nevertheless, the application of the ceria particles increases the MRR before the pH of the slurry reaches 10. It was concluded that in the former, the effect was due to the particle agglomeration and the contact angle decrease of the oxidizer slurry with the wafer surface; whereas in the latter it was caused by the particle agglomeration and the modification of trivalent ceria ions. The influence of the slurry flow rate and oxidizer concentration, regardless of the particle type, was found to be similar—a higher flow rate or a higher oxidizer concentration brought about a greater MRR before reaching a plateau. Many of these were interpreted by an adhesive removal mechanism on the molecular scale.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Chemo-mechanical polishing</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Removal rate</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Alumina</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Ceria</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>pH</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>CMP</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para id="par0005" view="all">Due to its global planarization capability, chemo-mechanical polishing (CMP) is currently a main processing method in the fabrication of integrated circuits <ce:cross-refs refid="bib0005 bib0010">[1,2]</ce:cross-refs>. In a CMP process, a rotating wafer is pressed against a rotating polishing pad while slurry, comprising some chemical agents and abrasive particles, is fed into the wafer–pad interaction zone. The coupled chemical–mechanical interactions are believed to be responsible for the material removal in the polishing process <ce:cross-ref refid="bib0015">[3]</ce:cross-ref>. However, some chemicals used in CMP are toxic, which increases production cost, creates disposal issues of the toxic chemicals, and causes pollution. A deep fundamental understanding of the chemical effects in CMP can provide some insight into the process optimization and reduce the usage of chemicals while maintaining a high removal rate.</ce:para>
+                  <ce:para id="par0010" view="all">Many processing factors can significantly influence a CMP process <ce:cross-ref refid="bib0020">[4]</ce:cross-ref>, such as properties of polishing pad, abrasive particles and chemical reagents. In the past years, much effort <ce:cross-refs refid="bib0025 bib0030 bib0035">[5–7]</ce:cross-refs> has been placed to optimize the effect of mechanical parameters on polishing rate, including polishing pressure, speed, pad selection <ce:cross-ref refid="bib0040">[8]</ce:cross-ref>, abrasive size and concentration <ce:cross-refs refid="bib0045 bib0050">[9,10]</ce:cross-refs>, etc. However, the improvement has been incremental and cannot meet the needs of fast growth of IC fabrication.</ce:para>
+                  <ce:para id="par0015" view="all">Although colloidal silica slurries have been widely used in the polishing of silicon wafers, the mechanisms of the material removal rate have not been properly understood yet. Meanwhile, this type of slurry contains lots of toxic chemicals <ce:cross-refs refid="bib0005 bib0010 bib0025">[1,2,5]</ce:cross-refs>. Recently, two types of abrasives, Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> and CeO<ce:inf loc="post">2</ce:inf>, have received much attention in the CMP community due to their appropriate mechanical and chemical properties. Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> abrasives have been used to perform damage-free polishing without using chemicals <ce:cross-ref refid="bib0055">[11]</ce:cross-ref>. The investigation on silicon polishing using Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> abrasives, de-ionized water and SUBA IV pad <ce:cross-ref refid="bib0060">[12]</ce:cross-ref> showed that the material removal rate was low (∼30<ce:hsp sp="0.25"/>nm/min). On the other hand, ceria abrasives were applied to increase the polishing rate of SiO<ce:inf loc="post">2</ce:inf> wafers and optical glass because of the ceria's high chemical reactivity <ce:cross-refs refid="bib0065 bib0070">[13,14]</ce:cross-refs>. Song et al. <ce:cross-ref refid="bib0075">[15]</ce:cross-ref> carried out the CeO<ce:inf loc="post">2</ce:inf> abrasives for silicon wafer polishing at a high platen speed (200<ce:hsp sp="0.25"/>rpm). Nevertheless, the influence of oxidizers was not considered in their study. Furthermore, colloid abrasive SiO<ce:inf loc="post">2</ce:inf> is the commercially used slurry for silicon CMP, yet the surface quality in terms of material removal rate and chemical pollution after CMP are still a big concern <ce:cross-ref refid="bib0080">[16]</ce:cross-ref>. Both experimental and theoretical studies <ce:cross-refs refid="bib0065 bib0070 bib0075 bib0080 bib0085">[13–17]</ce:cross-refs> seem to have indicated that the chemical effects in CMP are dominated by the pH values of the slurry and oxidizer. Various oxidants such as H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>, KIO<ce:inf loc="post">3</ce:inf> and Fe(NO<ce:inf loc="post">3</ce:inf>)<ce:inf loc="post">3</ce:inf> have been used in the CMP of copper, tungsten, SiO<ce:inf loc="post">2</ce:inf> and optical glass <ce:cross-refs refid="bib0090 bib0095">[18,19]</ce:cross-refs>. Among these oxidizing agents, H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> is preferable since it forms harmless decomposition and by-products in the reaction. However, to our knowledge, very little has been done on the investigation into the CMP of silicon wafers using H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> with Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> or CeO<ce:inf loc="post">2</ce:inf> abrasives.</ce:para>
+                  <ce:para id="par0020" view="all">While there are many factors that influence the quality of a CMP process, as briefly discussed above, the aim of this paper is to investigate the chemical effects of oxidizer concentration and pH value on the material removal rate in the CMP of silicon wafers. Two types of abrasive materials, Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> and CeO<ce:inf loc="post">2</ce:inf>, will be used in the polishing slurries with an additive of H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>. The influence of the slurry flow rate will be discussed, with an attempt to reduce the waste quantity of chemicals, such as oxidizers and pH chemicals. Although a desirable CMP process has both a high removal rate and good planarization, the degree of planarity was not considered in the present paper.</ce:para>
+               </ce:section>
+               <ce:section id="sec0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Experiment</ce:section-title>
+                  <ce:para id="par0025" view="all">The polishing experiments were conducted on commercially available (1<ce:hsp sp="0.25"/>0<ce:hsp sp="0.25"/>0) silicon wafers using a PM5 auto-lap precision lapping/polishing machine from Logitech Co. Two types of slurry were made in the laboratory. One contained Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> abrasives (from Logitech Co.) and the other contained CeO<ce:inf loc="post">2</ce:inf> particles (from H.K. Yihel Trading Co.) of a normal diameter 50<ce:hsp sp="0.25"/>nm. In both types of the slurry, de-ionized water and H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> (Analytically pure grade; from Sigma Co.) were used with the abrasive concentration of 2.5% Vol. NaOH and HCl were applied to adjust the pH value. To examine the slurry flow rate effect on the material removal rate, the slurry was delivered at variable flow rates from 20 to 100<ce:hsp sp="0.25"/>ml/min. The sample size for the polishing tests was 20<ce:hsp sp="0.25"/>mm<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>15<ce:hsp sp="0.25"/>mm. The polishing pad, of the diameter 300<ce:hsp sp="0.25"/>mm, was Chemicloth Polishing Cloths, SKU:0CON-352 of Logitech made of urethane <ce:cross-ref refid="bib0040">[8]</ce:cross-ref>. The wafer weight was measured before and after polishing to calculate the weight loss and material removal rate using a precision balance (resolution<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>10<ce:sup loc="post">−5</ce:sup>
+                     <ce:hsp sp="0.25"/>g, Sartφrius (BP 210D) Co.). Each test was repeated three times to verify the reproducibility of the experimental data. A UV/VIS/NIR spectrophotometry (Cary, 5E model) was used to obtain the transmittance spectra of ceria slurries in variable pH values and oxidizer concentrations at room temperature. The quartz analytical box for this purpose (optical prosperities, G380, Proscitech Co.) was made in house.</ce:para>
+               </ce:section>
+               <ce:section id="sec0015" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results and discussion</ce:section-title>
+                  <ce:section id="sec0020" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title>The effect of flow rate on MRR</ce:section-title>
+                     <ce:para id="par0030" view="all">
+                        <ce:cross-ref refid="fig0005">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig0005"/> shows the results using the polishing conditions of pressure<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>20<ce:hsp sp="0.25"/>kPa, oxidizer concentration<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.4% Vol. and slurry pH value<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>7. It is clear that the increase of the slurry flow rate promoted the polishing rate, regardless of the types of the abrasives used. This could be due to the increased wafer–abrasive interaction rate. However, when the slurry flow rate increased to a certain value (70<ce:hsp sp="0.25"/>ml/min in the present case), the material removal rate became stable, indicating that the wafer–abrasive interaction had reached the maximum.</ce:para>
+                     <ce:para id="par0035" view="all">The <ce:italic>MRR</ce:italic> with the Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> slurry is much higher than with the CeO<ce:inf loc="post">2</ce:inf> slurry. This could be due to the aggregation of CeO<ce:inf loc="post">2</ce:inf> particles. In the absence of surfactant agents, the dispersion state of polishing slurry depends mainly on electrostatic means. The iso-electric point (IEP) of Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> slurry pH is about 9–10 <ce:cross-ref refid="bib0100">[20]</ce:cross-ref>. The agglomeration of Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> slurry would not happen at pH<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>7. However, the pH value of the slurry is around the IEP of CeO<ce:inf loc="post">2</ce:inf> (about 6–7) <ce:cross-ref refid="bib0105">[21]</ce:cross-ref>. Thus in the case of CeO<ce:inf loc="post">2</ce:inf> abrasives, the electrostatic interaction of the particles becomes less repulsive. As a result, slurry agglomeration ensues, resulting in an increase in the size of an effective abrasive and, in turn, leading to a decrease in the number of effective abrasives (<ce:italic>N</ce:italic>) because the abrasive concentration in the slurry is a constant. A smaller <ce:italic>N</ce:italic> reduces <ce:italic>MRR</ce:italic>. Although a smaller <ce:italic>N</ce:italic> increases the force on an effective abrasive and thus its greater indentation or scratch depth (thus a larger <ce:italic>MRR</ce:italic>), <ce:italic>MRR</ce:italic> is more sensitive to the number of effective abrasives. Therefore, the more significant agglomeration of CeO<ce:inf loc="post">2</ce:inf> slurry leads to a smaller <ce:italic>MRR</ce:italic> compared with the case using Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> slurry.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0025" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title>The effect of oxidizer concentration on MRR</ce:section-title>
+                     <ce:para id="par0040" view="all">
+                        <ce:cross-ref refid="fig0010">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="fig0010"/> describes the variation of <ce:italic>MRR</ce:italic> with the oxidizer concentration (polishing conditions: pressure<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>20<ce:hsp sp="0.25"/>kPa, slurry flow rate<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>70<ce:hsp sp="0.25"/>ml/min, slurry pH<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>7). Initially, the <ce:italic>MRR</ce:italic> is enhanced by the increase in oxidizer concentration. After reaching the maximum value, the <ce:italic>MRR</ce:italic> decreases. This is the same for both the CeO<ce:inf loc="post">2</ce:inf> and Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> slurries, but the concentration points at the peaks of <ce:italic>MRR</ce:italic> are different, H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.4% Vol. in the case of the Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> slurry and 1.0% Vol. when the CeO<ce:inf loc="post">2</ce:inf> slurry was used. The initial rise in the oxidizer concentration promotes the chemical reaction between Si and H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>, forming soft chemical layers of silicon. At a lower oxidizer concentration, the fraction of reacted Si wafer surface is low. An addition of chemicals increases the fraction, leading to a higher <ce:italic>MRR</ce:italic>. After the saturation stage, more oxidizer concentration will not create more areas of reacted surface; <ce:italic>MRR</ce:italic> can no longer increase.</ce:para>
+                     <ce:para id="par0045" view="all">On the other hand, it is well known that the chemical reaction at a liquid and solid interface depends on their contact angle. A smaller contact angle accounts for a better interfacial wettability, which enhances the chemical reaction at the solid–liquid interface <ce:cross-ref refid="bib0110">[22]</ce:cross-ref>. Using a contact angle meter (DIGIDROP, GBX, France), Lee et al. <ce:cross-ref refid="bib0080">[16]</ce:cross-ref> investigated the relationship between contact angle and oxidizer (NaOH) concentration in silica slurry solution for the CMP of silicon wafers. They found that with the increase of oxidizer concentration, the contact angle would drop initially (thus an enhancement of chemical reaction and a higher <ce:italic>MRR</ce:italic>) but increase shortly (thus a reduced chemical reaction and <ce:italic>MRR</ce:italic>). This is in agreement with the silicon removal rate variation in <ce:cross-ref refid="fig0010">Fig. 2</ce:cross-ref>. However, the contact angle also depends on many other factors such as the surface roughness of a wafer and the pH value of slurry <ce:cross-ref refid="bib0110">[22]</ce:cross-ref>. Therefore, it is reasonable to speculate that Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> and CeO<ce:inf loc="post">2</ce:inf> slurries have different optimal removal oxidizer concentrations of H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>.</ce:para>
+                     <ce:para id="par0050" view="all">
+                        <ce:cross-ref refid="fig0010">Fig. 2</ce:cross-ref> indicates that the removal rate using alumina particle is higher than that of ceria particle as the concentration of H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> is less than 0.4%, which was caused by the electrostatic interactions and aggregation of abrasives as mentioned in Section <ce:cross-ref refid="sec0020">3.1</ce:cross-ref>. However, the further increase in the H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> would modify the chemical activity of ceria particles. It means that the chemical activity of ceria particle plays more important role than the electrostatic interactions force of abrasives to remove the material in CMP as pH exceeds 0.4%, which is well explained in Section <ce:cross-ref refid="sec0035">3.4</ce:cross-ref>. It is noticed that the further consideration of the effect of electrostatic interactions between the wafer and the pad will be benefit for the paper. However, up to now, it is hard to exactly derive the electrostatic interactions among the abrasive, the wafer and the polishing pad, especially between the nano-thin liquid film between the wafer and the pad in CMP.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0030" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title>Effect of pH value on MRR</ce:section-title>
+                     <ce:para id="par0055" view="all">As visualized in <ce:cross-ref refid="fig0015">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="fig0015"/> (polishing conditions: pressure<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>20<ce:hsp sp="0.25"/>kPa, particle size<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>50<ce:hsp sp="0.25"/>nm, concentration of abrasive<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>2.5% Vol., flow rate of slurry<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>70<ce:hsp sp="0.25"/>ml/min, oxidizer concentration<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.4% Vol.), the effect of pH value on <ce:italic>MRR</ce:italic> is much more complicated. The lowest removal rates using Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> and CeO<ce:inf loc="post">2</ce:inf> slurries are at pH 9 and 7, respectively. This could be ascribed to the aggregation of the particles at different pH values as discussed in the previous section.</ce:para>
+                     <ce:para id="par0060" view="all">When using the Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> slurry, <ce:italic>MRR</ce:italic> increased as the pH value became greater than 9. This may be due to the change of the contact angle. Xu <ce:cross-ref refid="bib0115">[23]</ce:cross-ref> investigated the effect of pH value on the contact angle in the CMP of Si (1<ce:hsp sp="0.25"/>0<ce:hsp sp="0.25"/>0) wafers using a contact angle meter (JC 2000A), and the increase in the pH value reduces the contact angle. This accounts for the increase in <ce:italic>MRR</ce:italic> with the increase in pH value. <ce:cross-ref refid="fig0015">Fig. 3</ce:cross-ref> shows that a further increase in pH value beyond 11 does not enhance <ce:italic>MRR</ce:italic>, which could be due to the constant abrasive concentration which limits the frequency of the mechanical interaction between abrasive particles and the wafer surface, as discussed in the previous section.</ce:para>
+                     <ce:para id="par0065" view="all">The sharp increase in the <ce:italic>MRR</ce:italic> in the range of pH values from 10 to 11 for Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> slurry in <ce:cross-ref refid="fig0015">Fig. 3</ce:cross-ref> can be interpreted by the chemical reaction of silicon with the oxidizer. A more detailed break-down of the reaction equations, including the transfer of charge for silicon chemical reaction was proposed by Seidel et al. <ce:cross-ref refid="bib0120">[24]</ce:cross-ref> as follows:<ce:display>
+                           <ce:formula id="eq0005">
+                              <ce:chem>Si<ce:hsp sp="0.25"/>
+                                 <ce:monospace>+</ce:monospace>
+                                 <ce:hsp sp="0.25"/>2OH<ce:sup loc="post">−</ce:sup>
+                                 <ce:hsp sp="0.25"/>→<ce:hsp sp="0.25"/>Si(OH)<ce:inf loc="post">2</ce:inf>
+                                 <ce:sup loc="post">2+</ce:sup>+2e<ce:sup loc="post">−</ce:sup>
+                              </ce:chem>
+                           </ce:formula>
+                        </ce:display>
+                        <ce:display>
+                           <ce:formula id="eq0010">
+                              <ce:chem>Si(OH)<ce:inf loc="post">2</ce:inf>
+                                 <ce:sup loc="post">2+</ce:sup>
+                                 <ce:hsp sp="0.25"/>
+                                 <ce:monospace>+</ce:monospace>
+                                 <ce:hsp sp="0.25"/>2OH<ce:sup loc="post">−</ce:sup>
+                                 <ce:hsp sp="0.25"/>→<ce:hsp sp="0.25"/>Si(OH)<ce:inf loc="post">4</ce:inf>+2e<ce:sup loc="post">−</ce:sup>
+                              </ce:chem>
+                           </ce:formula>
+                        </ce:display>
+                        <ce:display>
+                           <ce:formula id="eq0015">
+                              <ce:chem>4H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>
+                                 <ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>4e<ce:sup loc="post">−</ce:sup>
+                                 <ce:hsp sp="0.25"/>→<ce:hsp sp="0.25"/>4OH<ce:sup loc="post">−</ce:sup>
+                                 <ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>2H<ce:sup loc="post">2</ce:sup>
+                              </ce:chem>
+                           </ce:formula>
+                        </ce:display>
+                     </ce:para>
+                     <ce:para id="par0070" view="all">Seidel et al. <ce:cross-ref refid="bib0120">[24]</ce:cross-ref> also found that the neutral Si(OH)<ce:inf loc="post">4</ce:inf> limited the reaction rate for the silicon etching process. Based on the silicate chemistry <ce:cross-ref refid="bib0125">[25]</ce:cross-ref>, Si(OH)<ce:inf loc="post">4</ce:inf> leaves a solid silicon surface as the pH value exceeds 11–12. The dissolution of Si(OH)<ce:inf loc="post">4</ce:inf> into the slurry enhances the etching process. The following complex is formed by the detachment of two protons:<ce:display>
+                           <ce:formula id="eq0020">
+                              <ce:chem>Si(OH)<ce:inf loc="post">4</ce:inf>
+                                 <ce:hsp sp="0.25"/>→<ce:hsp sp="0.25"/>SiO<ce:inf loc="post">2</ce:inf>(OH)<ce:inf loc="post">2</ce:inf>
+                                 <ce:sup loc="post">2−</ce:sup>+2H<ce:sup loc="post">+</ce:sup>
+                              </ce:chem>
+                           </ce:formula>
+                        </ce:display>
+                        <ce:display>
+                           <ce:formula id="eq0025">
+                              <ce:chem>2H<ce:sup loc="post">+</ce:sup>
+                                 <ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>2OH<ce:sup loc="post">−</ce:sup>
+                                 <ce:hsp sp="0.25"/>→<ce:hsp sp="0.25"/>2H<ce:inf loc="post">2</ce:inf>O</ce:chem>
+                           </ce:formula>
+                        </ce:display>
+                     </ce:para>
+                     <ce:para id="par0075" view="all">Interestingly, the removal rate deteriorates as the pH exceeds 10 in <ce:cross-ref refid="fig0015">Fig. 3</ce:cross-ref>(b), although superior dispersion stage of CeO<ce:inf loc="post">2</ce:inf> abrasive in alkaline solution <ce:cross-ref refid="bib0070">[14]</ce:cross-ref> and acceleration of chemical etching happens at pH 10, which is to improve the material removal rate. This is much different from the Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> slurry in <ce:cross-ref refid="fig0015">Fig. 3</ce:cross-ref>(a). This phenomenon can be caused by the followings. Generally, the performance of CeO<ce:inf loc="post">2</ce:inf> slurry relies on the chemical activity of the abrasive surface. CeO<ce:inf loc="post">2</ce:inf> is known to be thermodynamically unstable in the presence of aqueous and decomposes by evolving oxygen and reduces from tetravalent state to trivalent state <ce:cross-ref refid="bib0130">[26]</ce:cross-ref>. Thus, the surface of ceria particles contains significantly more Ce<ce:sup loc="post">3+</ce:sup> ions than the bulk. When the pH value is increased, more uniform and smaller particles would be obtained due to the increase in the repulsive interaction energy of CeO<ce:inf loc="post">2</ce:inf> abrasive particles. Therefore, the activity of the abrasives is enhanced. It means that the surface of the abrasives becomes easier to be modified due to the smaller particle size. In other words, the stable suspension of abrasive CeO<ce:inf loc="post">2</ce:inf> in hydrogen peroxide slurry at higher pH value may promote the chemical activity of abrasive surface because a smaller particle has a higher surface energy. This reduces the requirement for the amount of H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> to oxidize the Ce<ce:sup loc="post">3+</ce:sup> to Ce<ce:sup loc="post">4+</ce:sup>. It is likely that a smaller amount of H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> is sufficient to modify the surface of CeO<ce:inf loc="post">2</ce:inf> abrasive at higher pH value. More Ce<ce:sup loc="post">3+</ce:sup> on the surface of abrasive in slurry could be beneficial for the CMP process due to the ease of forming a Ce(OH)<ce:inf loc="post">3</ce:inf> hydration layer which would accelerate the process of CMP based on Cook's theory <ce:cross-ref refid="bib0065">[13]</ce:cross-ref>. Therefore, the increase in pH value leads to the increase of the ratio of Ce<ce:sup loc="post">4+</ce:sup> ions to Ce<ce:sup loc="post">3+</ce:sup> ions for the oxidization effect of hydrogen peroxide despite the lower concentration, which contributes to the decrease in <ce:italic>MRR</ce:italic> in <ce:cross-ref refid="fig0015">Fig. 3</ce:cross-ref>(b).</ce:para>
+                     <ce:para id="par0080" view="all">One may have realized that since the H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> can oxidize the Ce<ce:sup loc="post">3+</ce:sup> to Ce<ce:sup loc="post">4+</ce:sup>, resulting in the decrease in <ce:italic>MRR</ce:italic>. Then why is the removal rate the highest at the concentration of H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> 1% in <ce:cross-ref refid="fig0010">Fig. 2</ce:cross-ref>(b)? It is noted that the concentration of H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> in <ce:cross-ref refid="fig0010">Fig. 2</ce:cross-ref>(b) is much higher than that of 0.4% in <ce:cross-ref refid="fig0015">Fig. 3</ce:cross-ref>(b). At a lower pH value, such as pH 7 in <ce:cross-ref refid="fig0010">Fig. 2</ce:cross-ref>(b), although the amount of H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> is 1%, the surface of CeO<ce:inf loc="post">2</ce:inf> may not be modified due to the aggregation of CeO<ce:inf loc="post">2</ce:inf> particles at the lower pH. However, a further increase in H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> as a stronger oxidizer will oxidize the Ce<ce:sup loc="post">3+</ce:sup> to Ce<ce:sup loc="post">4+</ce:sup>, which results in the decrease in <ce:italic>MRR</ce:italic> after the highest <ce:italic>MRR</ce:italic> in <ce:cross-ref refid="fig0010">Fig. 2</ce:cross-ref>(b). This is in agreement with the experimental results of Manivannan et al. <ce:cross-ref refid="bib0135">[27]</ce:cross-ref>. Furthermore, at a higher pH value, the CeO<ce:inf loc="post">2</ce:inf> abrasive particles may be easier to dissolve into the slurry, which will lead to the decrease in the number of effective abrasive and contributes to the decrease in <ce:italic>MRR</ce:italic>.</ce:para>
+                     <ce:para id="par0085" view="all">Based on the above analysis, we can obtain the following conclusions. On one hand, the increase in the pH value (larger than 10) leads to the decrease in <ce:italic>MRR</ce:italic> due to the modification of CeO<ce:inf loc="post">2</ce:inf> abrasive surfaces; while on the other hand, the increase in pH value (larger than 10) will also enhance the <ce:italic>MRR</ce:italic> due to the chemical etching rate of silicon. The coupled balance of the two opposing effects determines the dependence of <ce:italic>MRR</ce:italic> on pH in <ce:cross-ref refid="fig0015">Fig. 3</ce:cross-ref>.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0035" view="all">
+                     <ce:label>3.4</ce:label>
+                     <ce:section-title>Spectroscopy analysis</ce:section-title>
+                     <ce:para id="par0090" view="all">The above analysis could be indirectly supported by spectroscopy. Since the particles are easy to agglomerate at pH<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>7, a dynamic quartz box was made to characterize the ceria slurry, as illustrated in <ce:cross-ref refid="fig0020">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="fig0020"/>. The slurry flows from the bottom to the top in the box to avoid the agglomeration of particles. Only the surfaces transmitted by light were made of quartz, and other surfaces were composed of glass. <ce:cross-ref refid="fig0025">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="fig0025"/> describes the transmittance spectra of ceria slurries in different chemical conditions. The positions of the transmittance of Ce<ce:sup loc="post">3+</ce:sup> and Ce<ce:sup loc="post">4+</ce:sup> ions are different and lie in the regions around 340 and 360<ce:hsp sp="0.25"/>nm, respectively, which are in agreement with the published data <ce:cross-ref refid="bib0140">[28]</ce:cross-ref>.</ce:para>
+                     <ce:para id="par0095" view="all">As can be seen from <ce:cross-ref refid="fig0025">Fig. 5</ce:cross-ref>(a), the Ce<ce:sup loc="post">3+</ce:sup> ions are dominant in the slurry at pH<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>7 with 0.4% H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>. However, with the further increase in H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> to 1% or 2%, the Ce<ce:sup loc="post">3+</ce:sup> ions are oxidized to Ce<ce:sup loc="post">4+</ce:sup> ions as shown in <ce:cross-ref refid="fig0025">Fig. 5</ce:cross-ref>(c) and (d). At pH<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>10, <ce:cross-ref refid="fig0025">Fig. 5</ce:cross-ref>(b), the Ce<ce:sup loc="post">3+</ce:sup> ions mainly exist in the slurry, together with the superior dispersion ability of ceria particles, and the removal rate is the highest, <ce:cross-ref refid="fig0015">Fig. 3</ce:cross-ref>(b). Nevertheless, the additional increase in pH value reduces the requirement to oxidize the Ce<ce:sup loc="post">3+</ce:sup> ions by H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>, <ce:cross-ref refid="fig0025">Fig. 5</ce:cross-ref>(e), which is responsible for the decrease in <ce:italic>MRR</ce:italic> in <ce:cross-ref refid="fig0015">Fig. 3</ce:cross-ref>(b) with the increase in pH value.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0040" view="all">
+                     <ce:label>3.5</ce:label>
+                     <ce:section-title>Removal mechanism</ce:section-title>
+                     <ce:para id="par0100" view="all">Abiade et al. <ce:cross-ref refid="bib0105">[21]</ce:cross-ref> reported that the highest removal rate for silica wafer appears near the isoelectric point of the ceria slurry. However, our current study, as shown in <ce:cross-ref refid="fig0015">Fig. 3</ce:cross-ref>(b), indicated that the lowest polishing rate was around the IEP point of ceria slurry. These inconsistent observations may be caused by the different sizes of the ceria particles used by the two teams. In the case with a larger particle size (0.5<ce:hsp sp="0.25"/>μm) <ce:cross-ref refid="bib0105">[21]</ce:cross-ref>, the material removal rate largely depends on the indentation depths of the particles into the wafer; thus the material removal process is dominated by mechanical factors <ce:cross-ref refid="bib0145">[29]</ce:cross-ref>. In the case with a smaller particle size (50<ce:hsp sp="0.25"/>nm) in the present study, the removal mechanism is mainly the de-bonding of the weak molecules through the chemical activity of ceria particles. The surface modification process for CeO<ce:inf loc="post">2</ce:inf> particles can be described as follows: the dissolved silicon first releases to the slurry solution and then is adsorbed onto the abrasive particles. Therefore, the corrosion product SiO<ce:inf loc="post">2</ce:inf>(OH)<ce:inf loc="post">2</ce:inf>
+                        <ce:sup loc="post">2−</ce:sup> could be complexed by Ce–OH due to the chemical activity of CeO<ce:inf loc="post">2</ce:inf>, i.e.,<ce:display>
+                           <ce:formula id="eq0030">
+                              <mml:math altimg="si1.gif" overflow="scroll">
+                                 <mml:mrow>
+                                    <mml:mtext>Ce</mml:mtext>
+                                    <mml:mo>–</mml:mo>
+                                    <mml:mtext>OH</mml:mtext>
+                                    <mml:mo>+</mml:mo>
+                                    <mml:msub>
+                                       <mml:mtext>SiO</mml:mtext>
+                                       <mml:mn>2</mml:mn>
+                                    </mml:msub>
+                                    <mml:msup>
+                                       <mml:mrow>
+                                          <mml:msub>
+                                             <mml:mrow>
+                                                <mml:mo stretchy="false">(</mml:mo>
+                                                <mml:mtext>OH</mml:mtext>
+                                                <mml:mo stretchy="false">)</mml:mo>
+                                             </mml:mrow>
+                                             <mml:mn>2</mml:mn>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mn>2</mml:mn>
+                                          <mml:mo>−</mml:mo>
+                                       </mml:mrow>
+                                    </mml:msup>
+                                    <mml:mo>→</mml:mo>
+                                    <mml:msup>
+                                       <mml:mrow>
+                                          <mml:mo stretchy="false">[</mml:mo>
+                                          <mml:mtext>Ce</mml:mtext>
+                                          <mml:msub>
+                                             <mml:mrow>
+                                                <mml:mo stretchy="false">(</mml:mo>
+                                                <mml:msub>
+                                                   <mml:mtext>SiO</mml:mtext>
+                                                   <mml:mn>3</mml:mn>
+                                                </mml:msub>
+                                                <mml:mo stretchy="false">)</mml:mo>
+                                             </mml:mrow>
+                                             <mml:mn>3</mml:mn>
+                                          </mml:msub>
+                                          <mml:mo stretchy="false">]</mml:mo>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mn>2</mml:mn>
+                                          <mml:mo>−</mml:mo>
+                                       </mml:mrow>
+                                    </mml:msup>
+                                    <mml:mo>+</mml:mo>
+                                    <mml:msub>
+                                       <mml:mtext>H</mml:mtext>
+                                       <mml:mn>2</mml:mn>
+                                    </mml:msub>
+                                    <mml:mtext>O</mml:mtext>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>
+                     </ce:para>
+                     <ce:para id="par0105" view="all">This leads to the accelerated removal of SiO<ce:inf loc="post">2</ce:inf>(OH)<ce:inf loc="post">2</ce:inf>
+                        <ce:sup loc="post">2−</ce:sup> from silicon surface and promotes the material removal rate.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec0045" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusions</ce:section-title>
+                  <ce:para id="par0110" view="all">This paper has investigated the effects of slurry flow rate, oxidizer concentration and pH value of alumina and ceria slurries on the polishing rate of silicon wafers. The following conclusions can be drawn:<ce:list id="lis0005">
+                        <ce:list-item id="lsti0005">
+                           <ce:label>(a)</ce:label>
+                           <ce:para id="par0115" view="all">The effects of flow rate and oxidizer concentration on <ce:italic>MRR</ce:italic> are similar when using either alumina or ceria slurry, and the optimal slurry flow rate is 70<ce:hsp sp="0.25"/>ml/min. The optimal oxidizer concentrations are 0.4% and 1% for Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> and CeO<ce:inf loc="post">2</ce:inf> slurries, respectively.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="lsti0010">
+                           <ce:label>(b)</ce:label>
+                           <ce:para id="par0120" view="all">Alumina and ceria particles have very different performances the pH value of slurry changes. The best pH values for the two types of particle materials are different, 10 and 11 in the studied conditions (<ce:cross-ref refid="fig0015">Fig. 3</ce:cross-ref>).</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="lsti0015">
+                           <ce:label>(c)</ce:label>
+                           <ce:para id="par0125" view="all">Ceria abrasives are effective for polishing silicon wafers. A good polishing condition for high <ce:italic>MRR</ce:italic> and less chemicals is: pH<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>10, oxidizer concentration<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.4% Vol. and flow rate<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>70<ce:hsp sp="0.25"/>ml/min.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgement</ce:section-title>
+               <ce:para id="par0130" view="all">The authors appreciate the financial support of Australian Research Council to this research.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bibl0005" view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibs0005">
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.A.</ce:given-name>
+                                 <ce:surname>Muratov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.E.</ce:given-name>
+                                 <ce:surname>Fischer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Tribochemical polishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Annu. Rev. Mater. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>30</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>27</sb:first-page>
+                              <sb:last-page>51</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.B.</ce:given-name>
+                                 <ce:surname>Zantye</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.K.</ce:given-name>
+                                 <ce:surname>Sikder</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical mechanical planarization for microelectronics applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. R: Rep.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>45</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>89</sb:first-page>
+                              <sb:last-page>220</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Qin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Moudgil</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A chemical mechanical polishing model incorporating both the chemical and mechanical effects</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Thin Solid Films</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>446</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>277</sb:first-page>
+                              <sb:last-page>286</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.F.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Dornfeld</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of abrasive size distribution in chemical mechanical planarization: modeling and verification</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>IEEE Trans. Semicond. Manuf.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>469</sb:first-page>
+                              <sb:last-page>476</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Evans</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Paul</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Dornfeld</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Material removal mechanisms in lapping and polishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>CIRP Ann. Manuf. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>611</sb:first-page>
+                              <sb:last-page>633</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Forsberg</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of process parameters on material removal rate in chemical mechanical polishing of Si (1<ce:hsp sp="0.25"/>0<ce:hsp sp="0.25"/>0)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Microelectron. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>77</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>319</sb:first-page>
+                              <sb:last-page>326</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.S.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Abiade</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.M.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of slurry particles on silicon dioxide CMP</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>151</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>G512</sb:first-page>
+                              <sb:last-page>G522</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.C.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.Q.</ce:given-name>
+                                 <ce:surname>Biddut</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Dependence of pad performance on its texture in polishing mono-crystalline silicon wafers</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Mech. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>657</sb:first-page>
+                              <sb:last-page>662</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Bielmann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Mahajan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.K.</ce:given-name>
+                                 <ce:surname>Singh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of particle size during tungsten chemical mechanical polishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochem. Solid State Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>401</sb:first-page>
+                              <sb:last-page>403</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Shan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Hight</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Influence of colloidal abrasive size on material removal rate and surface finish in SiO<ce:inf loc="post">2</ce:inf> chemical mechanical polishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Tribol. Trans.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>45</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>232</sb:first-page>
+                              <sb:last-page>238</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.Q.</ce:given-name>
+                                 <ce:surname>Biddut</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.C.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.M.</ce:given-name>
+                                 <ce:surname>Ali</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Damage-free polishing of monocrystalline silicon wafers without chemical additives</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Scr. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>59</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1178</sb:first-page>
+                              <sb:last-page>1181</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Estragnat</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Liang</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Experimental investigation on mechanisms of silicon chemical mechanical polishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electron. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>334</sb:first-page>
+                              <sb:last-page>339</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.M.</ce:given-name>
+                                 <ce:surname>Cook</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical process in glass polishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Non-Cryst. Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>120</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>152</sb:first-page>
+                              <sb:last-page>171</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.L.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.T.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ceria concentration effect on chemical mechanical polishing of optical glass</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Surf. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>253</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4951</sb:first-page>
+                              <sb:last-page>4954</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.L.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.Y.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.W.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrochemical behavior and polishing properties of silicon wafer in alkaline slurry with abrasive CeO<ce:inf loc="post">2</ce:inf>
+                              </sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Trans. Nonferr. Met. Soc. China</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>178</sb:first-page>
+                              <sb:last-page>182</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.Y.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.G.</ce:given-name>
+                                 <ce:surname>Kang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kanemoto</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of alkaline agent in colloidal silica slurry for polycrystalline silicon chemical mechanical polishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Jpn. J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5089</sb:first-page>
+                              <sb:last-page>5094</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Stein</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.L.</ce:given-name>
+                                 <ce:surname>Hetherington</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Cecchi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Investigation of the kinetics of tungsten chemical mechanical polishing in potassium iodate-based slurries—I. Role of alumina and potassium iodate</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>146</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>376</sb:first-page>
+                              <sb:last-page>381</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.N.</ce:given-name>
+                                 <ce:surname>Prasad</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ramanathan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical mechanical planarization of copper in alkaline slurry with uric acid as inhibitor</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6353</sb:first-page>
+                              <sb:last-page>6358</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Lim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of oxidants on the removal of tungsten in CMP process</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Wear</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>257</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>863</sb:first-page>
+                              <sb:last-page>868</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ramarajan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Hariharaputhiran</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of pH and ionic strength on chemical mechanical polishing of tantalum</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochem. Solid State Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>232</sb:first-page>
+                              <sb:last-page>234</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.T.</ce:given-name>
+                                 <ce:surname>Abiade</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.K.</ce:given-name>
+                                 <ce:surname>Singh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of pH on ceria-silica interactions during chemical mechanical polishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1139</sb:first-page>
+                              <sb:last-page>1145</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0110">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Berg</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Wettability Surfactant Science Series</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1993</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Marcel Dekker</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0115">
+                     <ce:label>[23]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>J. Xu, An experimental investigation on solid surface damage caused by nanoparticle impacts, Post-doctor report, Tsinghua University, Beijing, 2005.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0120">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Seidel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Csepregi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Heuberger</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Anistropic etching of crystalline silicon in alkaline solutions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>137</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3612</sb:first-page>
+                              <sb:last-page>3626</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0125">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.K.</ce:given-name>
+                                 <ce:surname>Iler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The Chemistry of Silica</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1979</sb:date>
+                              <sb:publisher>
+                                 <sb:name>John Wiley &amp; Sons, Inc.</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0130">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.R.</ce:given-name>
+                                 <ce:surname>Gilliss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Bentley</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.B.</ce:given-name>
+                                 <ce:surname>Carter</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electron energy-loss spectroscopic study of the surface of ceria abrasives</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Surf. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>241</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>61</sb:first-page>
+                              <sb:last-page>67</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0135">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Manivannan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ramanathan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The effect of hydrogen peroxide on polishing removal rate in CMP with various abrasives</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Surf. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>255</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3764</sb:first-page>
+                              <sb:last-page>3768</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0140">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.L.</ce:given-name>
+                                 <ce:surname>Greenhaus</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.M.</ce:given-name>
+                                 <ce:surname>Feibush</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Gordon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ultraviolet spectrophotometric determination of cerium</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1957</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1531</sb:first-page>
+                              <sb:last-page>1534</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0145">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Hoshino</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Kurata</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Terasaki</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mechanism of polishing of SiO<ce:inf loc="post">2</ce:inf> films by CeO<ce:inf loc="post">2</ce:inf> particles</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Non-Cryst. Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>283</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>129</sb:first-page>
+                              <sb:last-page>136</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

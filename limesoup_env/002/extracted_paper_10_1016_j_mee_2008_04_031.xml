@@ -1,0 +1,1526 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0167931708002347</prism:url><dc:identifier>doi:10.1016/j.mee.2008.04.031</dc:identifier><eid>1-s2.0-S0167931708002347</eid><prism:doi>10.1016/j.mee.2008.04.031</prism:doi><pii>S0167-9317(08)00234-7</pii><dc:title>Role of abrasives in high selectivity STI CMP slurries </dc:title><prism:publicationName>Microelectronic Engineering</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>01679317</prism:issn><prism:volume>85</prism:volume><prism:issueIdentifier>8</prism:issueIdentifier><prism:startingPage>1748</prism:startingPage><prism:endingPage>1753</prism:endingPage><prism:pageRange>1748-1753</prism:pageRange><prism:number>8</prism:number><dc:format>application/xml</dc:format><prism:coverDate>2008-08-31</prism:coverDate><prism:coverDisplayDate>August 2008</prism:coverDisplayDate><prism:copyright>Copyright © 2008 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Manivannan, R.</dc:creator><dc:creator>Ramanathan, S.</dc:creator><dc:description>
+                  In this study chemical mechanical planarization slurries for shallow trench isolation exhibiting high oxide to nitride polish rate selectivity were investigated and it was found that the abrasives play a major role in suppressing the nitride polish rate and enhancing selectivity. When glutamic acid is used as a selectivity enhancing additive, only ceria based slurries exhibit high selectivity while silica based slurries show low selectivity under identical conditions. A mechanism involving active sites on the ceria abrasive and interaction of glutamic acid with the active sites is proposed to explain the role of abrasive in enhancing selectivity.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Chemical mechanical planarization</dcterms:subject><dcterms:subject>Shallow trench isolation</dcterms:subject><dcterms:subject>Glutamic acid</dcterms:subject><dcterms:subject>Ceria</dcterms:subject><dcterms:subject>Silica</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0167931708002347" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0167931708002347" rel="scidir"/></coredata><objects><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="378" height="169" size="10084">https://api.elsevier.com/content/object/eid/1-s2.0-S0167931708002347-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="56" size="1803">https://api.elsevier.com/content/object/eid/1-s2.0-S0167931708002347-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="328" height="229" size="15012">https://api.elsevier.com/content/object/eid/1-s2.0-S0167931708002347-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="87" size="2639">https://api.elsevier.com/content/object/eid/1-s2.0-S0167931708002347-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="368" height="251" size="21356">https://api.elsevier.com/content/object/eid/1-s2.0-S0167931708002347-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="85" size="2777">https://api.elsevier.com/content/object/eid/1-s2.0-S0167931708002347-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="320" height="209" size="15354">https://api.elsevier.com/content/object/eid/1-s2.0-S0167931708002347-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="82" size="2703">https://api.elsevier.com/content/object/eid/1-s2.0-S0167931708002347-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="319" height="213" size="12602">https://api.elsevier.com/content/object/eid/1-s2.0-S0167931708002347-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="83" size="2356">https://api.elsevier.com/content/object/eid/1-s2.0-S0167931708002347-gr5.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>48949116077</scopus-id><scopus-eid>2-s2.0-48949116077</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/48949116077" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271975</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291716</xocs:ssid>
+         <xocs:ssid type="subj">291718</xocs:ssid>
+         <xocs:ssid type="subj">291821</xocs:ssid>
+         <xocs:ssid type="subj">291892</xocs:ssid>
+         <xocs:ssid type="subj">291893</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Microelectronic Engineering</xocs:srctitle>
+      <xocs:normalized-srctitle>MICROELECTRONICENGINEERING</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20080503">2008-05-03</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20080503">2008-05-03</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-10-06T04:46:24</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0167931708002347</xocs:eid>
+      <xocs:pii-formatted>S0167-9317(08)00234-7</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0167931708002347</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.mee.2008.04.031</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0167931708X00061</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T05:08:13.398076-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20080801</xocs:date-search-begin>
+      <xocs:date-search-end>20080831</xocs:date-search-end>
+      <xocs:year-nav>2008</xocs:year-nav>
+      <xocs:indexeddate epoch="1209772800">2008-05-03T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0167-9317</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>01679317</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>85</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>85</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>8</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>8</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 85, Issue 8</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>14</xocs:sort-order>
+      <xocs:first-fp>1748</xocs:first-fp>
+      <xocs:last-lp>1753</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>1748</xocs:first-page>
+         <xocs:last-page>1753</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>200808</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>August 2008</xocs:cover-date-text>
+      <xocs:cover-date-start>2008-08-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2008-08-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2008</xocs:cover-date-year>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2008 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>ROLEABRASIVESINHIGHSELECTIVITYSTICMPSLURRIES</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>MANIVANNAN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>R</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="bib1">
+            <xocs:ref-normalized-surname>STEIGERWALD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CHEMICALMECHANICALPLANARIZATIONMICROELECTRONICMATERIALS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib2">
+            <xocs:ref-normalized-surname>OLIVER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CHEMICALMECHANICALPLANARIZATIONSEMICONDUCTORMATERIALS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3">
+            <xocs:ref-normalized-surname>ZANTYE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>89</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib4"/>
+         <xocs:ref-info refid="bib5"/>
+         <xocs:ref-info refid="bib6"/>
+         <xocs:ref-info refid="bib7">
+            <xocs:ref-normalized-surname>JEONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>480</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib8">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>463</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib9"/>
+         <xocs:ref-info refid="bib10"/>
+         <xocs:ref-info refid="bib11"/>
+         <xocs:ref-info refid="bib12"/>
+         <xocs:ref-info refid="bib13"/>
+         <xocs:ref-info refid="bib14"/>
+         <xocs:ref-info refid="bib15"/>
+         <xocs:ref-info refid="bib16"/>
+         <xocs:ref-info refid="bib17"/>
+         <xocs:ref-info refid="bib18"/>
+         <xocs:ref-info refid="bib19"/>
+         <xocs:ref-info refid="bib20"/>
+         <xocs:ref-info refid="bib21"/>
+         <xocs:ref-info refid="bib22"/>
+         <xocs:ref-info refid="bib23">
+            <xocs:ref-normalized-surname>KATOH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1150</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib24">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2163</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib25"/>
+         <xocs:ref-info refid="bib26"/>
+         <xocs:ref-info refid="bib27"/>
+         <xocs:ref-info refid="bib28">
+            <xocs:ref-normalized-surname>MARTIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>767</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib29">
+            <xocs:ref-normalized-surname>AMERICA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>G327</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib30">
+            <xocs:ref-normalized-surname>CARTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>G218</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib31"/>
+         <xocs:ref-info refid="bib32">
+            <xocs:ref-normalized-surname>OSSEOASARE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>G651</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib33">
+            <xocs:ref-normalized-surname>SUPHANTHARIDA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>G658</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib34">
+            <xocs:ref-normalized-surname>COOK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>152</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib35">
+            <xocs:ref-normalized-surname>LEHNINGER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PRINCIPLESBIOCHEMISTRY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib36">
+            <xocs:ref-normalized-surname>JIANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>59</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib37">
+            <xocs:ref-normalized-surname>ABIADE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>G1001</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib38">
+            <xocs:ref-normalized-surname>KILBOURN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CERIUMAGUIDEROLEINCHEMICALTECHNOLOGY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib39">
+            <xocs:ref-normalized-surname>HOSHINO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>129</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib40">
+            <xocs:ref-normalized-surname>CHANDRASEKARAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib41">
+            <xocs:ref-normalized-surname>HU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3919</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib42">
+            <xocs:ref-normalized-surname>PARK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib43">
+            <xocs:ref-normalized-surname>NAGENDRAPRASAD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>G337</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib44">
+            <xocs:ref-normalized-surname>GILLISS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>61</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>MANIVANNANX2008X1748</xocs:refkey3>
+         <xocs:refkey4lp>MANIVANNANX2008X1748X1753</xocs:refkey4lp>
+         <xocs:refkey4ai>MANIVANNANX2008X1748XR</xocs:refkey4ai>
+         <xocs:refkey5>MANIVANNANX2008X1748X1753XR</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0167-9317(08)00234-7</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0167931708002347</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0167931708002347</xocs:eid>
+         <xocs:doi>10.1016/j.mee.2008.04.031</xocs:doi>
+         <xocs:cid>271975</xocs:cid>
+         <xocs:timestamp>2010-11-08T13:56:48.792252-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2008-08-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2008-08-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0167931708002347-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167931708002347/MAIN/application/pdf/59cc287458b66307024710b8cc5fea37/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167931708002347/MAIN/application/pdf/59cc287458b66307024710b8cc5fea37/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>183792</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0167931708002347-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167931708002347/PREVIEW/image/png/eb8d5f31a8b35568407b8cc20ed2d925/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167931708002347/PREVIEW/image/png/eb8d5f31a8b35568407b8cc20ed2d925/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>82229</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167931708002347-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167931708002347/gr1/DOWNSAMPLED/image/jpeg/19b5537fb830228f842a4169b5f45c49/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167931708002347/gr1/DOWNSAMPLED/image/jpeg/19b5537fb830228f842a4169b5f45c49/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>10084</xocs:filesize>
+               <xocs:pixel-height>169</xocs:pixel-height>
+               <xocs:pixel-width>378</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167931708002347-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167931708002347/gr1/THUMBNAIL/image/gif/dbb5d827f8db49b9b89c4a6bb44ddb85/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167931708002347/gr1/THUMBNAIL/image/gif/dbb5d827f8db49b9b89c4a6bb44ddb85/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1803</xocs:filesize>
+               <xocs:pixel-height>56</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167931708002347-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167931708002347/gr2/DOWNSAMPLED/image/jpeg/e70a0f400f0d86a4a714823fd29a1328/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167931708002347/gr2/DOWNSAMPLED/image/jpeg/e70a0f400f0d86a4a714823fd29a1328/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>15012</xocs:filesize>
+               <xocs:pixel-height>229</xocs:pixel-height>
+               <xocs:pixel-width>328</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167931708002347-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167931708002347/gr2/THUMBNAIL/image/gif/bba6ed946a733e880c6c13596072a1e3/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167931708002347/gr2/THUMBNAIL/image/gif/bba6ed946a733e880c6c13596072a1e3/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2639</xocs:filesize>
+               <xocs:pixel-height>87</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167931708002347-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167931708002347/gr3/DOWNSAMPLED/image/jpeg/43f1b606590e5c9b0ca41cf12839a324/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167931708002347/gr3/DOWNSAMPLED/image/jpeg/43f1b606590e5c9b0ca41cf12839a324/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>21356</xocs:filesize>
+               <xocs:pixel-height>251</xocs:pixel-height>
+               <xocs:pixel-width>368</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167931708002347-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167931708002347/gr3/THUMBNAIL/image/gif/9605cdd558dda4d3758566c2f64f9076/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167931708002347/gr3/THUMBNAIL/image/gif/9605cdd558dda4d3758566c2f64f9076/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2777</xocs:filesize>
+               <xocs:pixel-height>85</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167931708002347-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167931708002347/gr4/DOWNSAMPLED/image/jpeg/e8bdcbfc3951e289cd37a77232a34f56/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167931708002347/gr4/DOWNSAMPLED/image/jpeg/e8bdcbfc3951e289cd37a77232a34f56/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>15354</xocs:filesize>
+               <xocs:pixel-height>209</xocs:pixel-height>
+               <xocs:pixel-width>320</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167931708002347-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167931708002347/gr4/THUMBNAIL/image/gif/9d47446e7f61740f0dd4ef0347b00af1/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167931708002347/gr4/THUMBNAIL/image/gif/9d47446e7f61740f0dd4ef0347b00af1/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2703</xocs:filesize>
+               <xocs:pixel-height>82</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167931708002347-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167931708002347/gr5/DOWNSAMPLED/image/jpeg/b9fbed760f7b763882375324727b1cb2/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167931708002347/gr5/DOWNSAMPLED/image/jpeg/b9fbed760f7b763882375324727b1cb2/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>12602</xocs:filesize>
+               <xocs:pixel-height>213</xocs:pixel-height>
+               <xocs:pixel-width>319</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167931708002347-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167931708002347/gr5/THUMBNAIL/image/gif/888a072d6b94159451192624ffc6f560/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167931708002347/gr5/THUMBNAIL/image/gif/888a072d6b94159451192624ffc6f560/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2356</xocs:filesize>
+               <xocs:pixel-height>83</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.0">
+         <item-info>
+            <jid>MEE</jid>
+            <aid>6067</aid>
+            <ce:pii>S0167-9317(08)00234-7</ce:pii>
+            <ce:doi>10.1016/j.mee.2008.04.031</ce:doi>
+            <ce:copyright type="full-transfer" year="2008">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Structure of glutamic acid.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Polish rates of silicon dioxide and silicon nitride surfaces vs. pH in 0.25<ce:hsp sp="0.25"/>wt% ceria slurry.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Polish rates of silicon dioxide and silicon nitride surfaces vs. pH in 0.25<ce:hsp sp="0.25"/>wt% ceria slurry with 1<ce:hsp sp="0.25"/>wt% glutamic acid. Selectivity vs. pH in the same slurry is shown in the secondary axis.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Polish rates of silicon dioxide and silicon nitride surfaces vs. pH in 5<ce:hsp sp="0.25"/>wt% silica slurry.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Polish rates of silicon dioxide and silicon nitride surfaces vs. pH in 5<ce:hsp sp="0.25"/>wt% silica slurry with 1 wt% glutamic acid.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title>Role of abrasives in high selectivity STI CMP slurries</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>R.</ce:given-name>
+                  <ce:surname>Manivannan</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>S.</ce:given-name>
+                  <ce:surname>Ramanathan</ce:surname>
+                  <ce:cross-ref refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+                  
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Particle Science and Polymer Laboratory, Department of Chemical Engineering, Indian Institute of Technology Madras, Chennai 600036, India</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author. Tel.: +91 44 2257 4171; fax: +91 44 2257 0509.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="6" month="10" year="2007"/>
+            <ce:date-revised day="10" month="4" year="2008"/>
+            <ce:date-accepted day="23" month="4" year="2008"/>
+            <ce:abstract class="author" xml:lang="en"><ce:abstract-sec>
+                  <ce:simple-para view="all">In this study chemical mechanical planarization slurries for shallow trench isolation exhibiting high oxide to nitride polish rate selectivity were investigated and it was found that the abrasives play a major role in suppressing the nitride polish rate and enhancing selectivity. When glutamic acid is used as a selectivity enhancing additive, only ceria based slurries exhibit high selectivity while silica based slurries show low selectivity under identical conditions. A mechanism involving active sites on the ceria abrasive and interaction of glutamic acid with the active sites is proposed to explain the role of abrasive in enhancing selectivity.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Chemical mechanical planarization</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Shallow trench isolation</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Glutamic acid</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Ceria</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Silica</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para view="all">Chemical mechanical planarization (CMP) is an important process in semiconductor chip fabrication <ce:cross-refs refid="bib1 bib2">[1,2]</ce:cross-refs>. In the CMP process, excess material is removed and the surface is planarized by the action of chemical and mechanical forces. Shallow trench isolation (STI) has become a key technology for device isolation in recent times <ce:cross-ref refid="bib3">[3]</ce:cross-ref>. In this method, a shallow trench is made on the silicon wafer between active devices, silicon dioxide is deposited over the trench as well as the active area and the excess silicon dioxide is removed by CMP. The oxide remaining in the shallow trench would isolate the transistors. Transistors isolated by STI show much better performance than those isolated by the conventional local oxidation of silicon (LOCOS) method. In order to achieve good performance, the polish has to stop just when all the excess oxide is cleared. The wafer is over polished to ensure that excess oxide is cleared throughout the wafer. Silicon nitride is used as a stop layer for this purpose. However, slurries consisting of only abrasives tend to polish silica as well as silicon nitride. The ratio of polish rate of oxide to the polish rate of nitride, called selectivity, has to be enhanced to achieve a robust CMP process with sufficient over polish margin. Normally, certain chemicals called additives are added to the slurry to enhance the selectivity. Besides a good, controllable selectivity, the STI CMP slurry should provide a good oxide polish rate and exhibit low pH sensitivity for both oxide and nitride polish rates. A low oxide polish rate is undesirable, even if the slurry provides high selectivity by completely suppressing the nitride polish rate. This is because the excess oxide has to be cleared quickly, to enhance the throughput. Normally polishing is performed based on estimated polish rates although in situ end point techniques are being introduced. Thus the oxide polish rate should not be sensitive to slight changes in pH. STI slurries may be classified as low selectivity slurries (LSS) if the selectivity ratio is less than 10, as medium selectivity slurries (MSS) for a selectivity ratio between 10 and 50 and as high selectivity slurries (HSS) if the selectivity ratio is greater than 50. While this classification is somewhat arbitrary, it can be used to differentiate between slurries of different range of selectivities since the mechanism of action itself may be different for slurries of different classes. High selectivity can be achieved by adding certain chemicals that inhibit nitride polish rate without changing the oxide polish rate significantly.</ce:para>
+                  <ce:para view="all">Most of the information regarding HSS is available in patents and very few research articles are available in public literature. The slurries with enhanced selectivities are based on either silica abrasives or ceria abrasives. Two exceptions are the demonstration of a selectivity of 72 with titania based slurries with <ce:small-caps>l</ce:small-caps>-proline as additive <ce:cross-ref refid="bib4">[4]</ce:cross-ref> and a selectivity of 44 with silicon nitride abrasive based slurry with gluconic acid as additive <ce:cross-ref refid="bib5">[5]</ce:cross-ref>. The details of silica based slurries available in the literature is summarized below. Morrison and Hunt <ce:cross-ref refid="bib6">[6]</ce:cross-ref> reported that slurries with silica and tetra methyl ammonium hydroxide (TMAH) and hydrogen peroxide increase the selectivity to 30 in the pH range of 11.1–11.7. It was also reported that the role of hydrogen peroxide was to bring the pH down from 13 to 11, since the abrasive particles settle at the higher pH. While the exact silica content of the slurry was not reported, based on the slurry components, it can be estimated to be in the range of 10<ce:hsp sp="0.25"/>wt%. The report did not indicate if the increased selectivity is achievable without TMAH or hydrogen peroxide and no mechanism is proposed to explain the inhibition of nitride polish rate.</ce:para>
+                  <ce:para view="all">A high selectivity slurry consisting of silica (25<ce:hsp sp="0.25"/>wt%) and tetramethyl ammonium fluoride (TMAF) and hydrogen peroxide, with the pH adjusted with KOH was used to polish the patterned wafers <ce:cross-refs refid="bib7 bib8">[7,8]</ce:cross-refs> but the exact selectivity and the pH of the slurry was not reported. The addition of tri ethanol amine (TEA) to slurries based on colloidal silica abrasives was reported to increase the selectivity to 23 <ce:cross-ref refid="bib9">[9]</ce:cross-ref>. Aging the slurry for 30 days increased the selectivity to 28. The slurry contained 12<ce:hsp sp="0.25"/>wt% silica and 30<ce:hsp sp="0.25"/>wt% TEA and resulted in an oxide polish rate of 87<ce:hsp sp="0.25"/>nm/min. A higher concentration of TEA resulted in lowering the oxide polish rate and hence was not utilized. The addition of a select group of surfactants lead to slurries with very high selectivities (&gt;100) in the pH range of 2.2 and 3.4 <ce:cross-ref refid="bib10">[10]</ce:cross-ref>. The surfactant should be a sulfate of alcohol or sulfonic acid and its salt or sulfuric acid ether salt. Increasing the pH to values above 4 reduced the selectivity dramatically. The silica content of the slurry varied between 25 and 30<ce:hsp sp="0.25"/>wt%. Grover and Mueller (1998) reported that silica slurries containing 4<ce:hsp sp="0.25"/>wt% solids, and varying concentrations of cerium nitrate and acetic acid leads to a moderate selectivity of 35, when the pH was 4 <ce:cross-ref refid="bib11">[11]</ce:cross-ref>. Since the role of cerium salt and the acid are not clear, these may not be classified as purely silica based or ceria based slurries. Thus it is clear that silica based slurries with suitable additives, exhibit moderate to high selectivities in the acidic pH range. Typical solid content of silica slurries was in the range of 10–20<ce:hsp sp="0.25"/>wt%.</ce:para>
+                  <ce:para view="all">Many ceria based high selectivity slurries have been proposed for STI polishing and the details are summarized below. Ceria based slurries with cerium salt and acetic acid were reported to yield a moderate selectivity of 28 at a pH of 4.2 <ce:cross-refs refid="bib11 bib12">[11,12]</ce:cross-refs>. However, a later report <ce:cross-ref refid="bib13">[13]</ce:cross-ref> mentioned that increasing the pH of the slurries containing ceria, cerium salt and acetic acid from 4 to 5.8 or above reduced the selectivity dramatically from 28 to 1.35 or less. It was also reported <ce:cross-ref refid="bib13">[13]</ce:cross-ref> that slurries containing 4% ceria, 4% silica and ammonium persulfate (APS) as oxidizer shows a high selectivity of over 100 at a pH of 4.5. Without the addition of APS the selectivity was low, but it is not clear if both the ceria and silica abrasives are necessary to maintain the high selectivity. The role of each component in enhancing the selectivity is not clear. Ceria slurries (consisting of solids in the range of 0.5–2<ce:hsp sp="0.25"/>wt%) with carboxylic acids or organic compounds with – SO<ce:inf loc="post">3</ce:inf>H group were reported to enhance the selectivity <ce:cross-ref refid="bib14">[14]</ce:cross-ref>. Various carboxylic acids such as lactic acid, malic acid, tartaric acid have been used as additives and in the pH range of 6.2–8.2 yielding a moderate to high selectivity in the range of 44–64. Additives such as glutamic acid and aspartic acid exhibited selectivity in the range of 100 in the pH range of 3.3. Lauryl benzene sulfonic acid at a pH of 7.5 also yielded a selectivity of 61.</ce:para>
+                  <ce:para view="all">Hosali et al. <ce:cross-ref refid="bib15">[15]</ce:cross-ref> reported that ceria slurries containing solids in the range of 0.45–5<ce:hsp sp="0.25"/>wt% in presence of potassium hydrogen phthalate (KHP) and a suitable surfactant provided an enhanced selectivity of well over 100 in the pH range of 6.5–7. However, the selectivity dropped dramatically when the pH was changed to 7.5 or 4 or 10. The exact role played by KHP or the surfactant is not clear. It was claimed that presence of an organic compound with two or more dissociable protons (such as carboxylic, hydroxyl, sulfonic and phosphonic groups) and a surfactant was necessary to obtain high selectivity <ce:cross-refs refid="bib15 bib16 bib17 bib18">[15–18]</ce:cross-refs>. Kido et al. <ce:cross-ref refid="bib19">[19]</ce:cross-ref> reported that ceria abrasives treated with silane based compounds lead to increased selectivity for slurries containing 1<ce:hsp sp="0.25"/>wt% solids maintained at a pH of 8.8. It was proposed that the silane coupling agent increased the affinity between the pad and the abrasives. It is not clear how that would explain the observed high selectivity. Further addition of a variety of organic acids with pH maintained at 7 or less, lead to selectivities as high as 233. It was mentioned that increasing the pH would increase the nitride polish rate, but no supporting data was provided to quantify the increase.</ce:para>
+                  <ce:para view="all">Ceria based slurries with 1<ce:hsp sp="0.25"/>wt% ceria and amino acids as additives were reported to yield selectivity ratios of well over 100 <ce:cross-refs refid="bib4 bib20 bib21">[4,20,21]</ce:cross-refs>. It was also reported that the suppression of nitride polish rate by <ce:small-caps>l</ce:small-caps>-proline was robust in a wide pH range of 6–10. An enhanced selectivity was also reported when the ceria abrasives were replaced by titania. It was proposed that the association of amino acids with the work surface probably resulted in suppression of nitride polish rate. While many amino acids suppress the nitride polish rate without adversely affecting the oxide polish rate, some amino acids such as <ce:small-caps>l</ce:small-caps>-arginine and <ce:small-caps>l</ce:small-caps>-lysine were reported <ce:cross-ref refid="bib22">[22]</ce:cross-ref> to suppress both nitride and oxide polish rates. In those cases, the additional amine group present in the two amino acids was proposed to suppress of oxide polish rate also. Katoh et al. <ce:cross-ref refid="bib23">[23]</ce:cross-ref> reported that the addition of acrylic acid based surfactants enhances the oxide to nitride selectivity to about 70. They attributed the nitride polish rate suppression to the selective adsorption of the additive onto the nitride surface. The pH of the slurry was not reported. In another report, Kim et al. <ce:cross-ref refid="bib24">[24]</ce:cross-ref> showed that ceria slurries with poly methacrylate acid as additive provides a high selectivity at neutral pH while the selectivity was low at the alkaline and acidic pH range. In the alkaline pH range, both oxide and nitride surfaces exhibited high polish rates while in the acidic pH range, the polish rate was low for both the surfaces.</ce:para>
+                  <ce:para view="all">Edelbach et al. <ce:cross-ref refid="bib25">[25]</ce:cross-ref> reported that ceria based slurries in the presence of organic polyol with three or more hydroxyl groups which do not have any dissociable protons will enhance the selectivity to more than 100. Examples of additives used include mannitol, sorbitol, xylitol, sorbose and dextrin which give selectivity in the range of 29–312. Mannitol based slurries showed good selectivity at a pH of 4 as well as 10. However, the selectivities at intermediate pH values are not reported. Addition of DNA or RNA or their building blocks in presence of three types of surfactants together (cationic, non ionic and anionic) can increase the selectivity of ceria based slurries to a range of 40–50 <ce:cross-refs refid="bib26 bib27">[26,27]</ce:cross-refs>. It is to be noted that the building blocks of DNA or RNA are sugars, phosphates and nucleotide bases which have amino groups. The slurries contained two types of ceria particles with a total solid content of 1.5<ce:hsp sp="0.25"/>wt% and surfactant concentrations of less than 1<ce:hsp sp="0.25"/>wt%. The role and necessity of each component was also not discussed. It was also reported that slurries containing <ce:small-caps>l</ce:small-caps>-proline exhibit a selectivity of 40. The pHs of the slurries was not reported.</ce:para>
+                  <ce:para view="all">A slurry from Hitachi chemicals <ce:cross-refs refid="bib10 bib28">[10,28]</ce:cross-refs> was reported to provide high selectivity but the composition was not given. It is a two component system mixed at the point of use, suggesting that the single component mix was possibly not very effective or may have led to other potential issues such as hard agglomeration and settling. America and Babu <ce:cross-ref refid="bib29">[29]</ce:cross-ref> investigated the effect of proline and other amino acids on STI polish conducted at a pH of 9.7 and reported that high selectivity can be achieved by additives which contain an amino group in the alpha position. It was reported that the amino group should contain at least one hydrogen atom and hydrogen bonding was proposed to be responsible for suppression of nitride polish rate. Adsorption of the additive would interfere with the hydrolysis of the silicon nitride, thereby suppressing the nitride polishing. Two amino acids, arginine and lysine were shown to suppress both oxide and nitride polish rates and it was proposed that they are likely to adsorb onto the oxide surface as well at the pH of 9.7 and hence suppress the oxide polish rate also.</ce:para>
+                  <ce:para view="all">Carter et al. <ce:cross-refs refid="bib30 bib31">[30,31]</ce:cross-refs> reported that ceria based slurries containing 0.5<ce:hsp sp="0.25"/>wt% solids with various organic chemicals, mainly organic acids, maintained at a pH of 5 yielded high selectivity. Interestingly, proline based slurries were reported to yield a low selectivity of 3 at a pH of 5 and malic acid provides a selectivity of 1.1 which is less than even a slurry without any additive. Among the additives which provide higher selectivities, two acids anthranilic acid and pyrrole-2-carboxylic acids were reported to exhibit very high sensitivity to pH. A change in pH of 0.6<ce:hsp sp="0.25"/>units resulted in drastic reduction in selectivity. A third compound, 3-hydroxypicolinic acid showed a moderate drop in selectivity with change in pH. The oxide polish rate though showed more than 50% variation in the pH range of 4.4–5.6. For the other chemicals investigated, the effect of pH was not reported. They proposed that if the additive adsorbs onto both oxide and nitride, then both polish rates would be decreased, while if the additive interferes with the hydrolysis of the nitride surface only, then they would suppress only the nitride polish rate. It was concluded that organic molecules with a p<ce:italic>K</ce:italic>
+                     <ce:inf loc="post">a</ce:inf> value between 3 and 7, with the exception of polyanionics, in slurry of pH 7 or less would enhance the selectivity.</ce:para>
+                  <ce:para view="all">In summary, ceria based slurries typically have less solid content compared to silica based slurries. A variety of additives exhibit very high selectivity values in ceria based slurries while only a limited set of additives yielded high selectivity in silica based slurries. In most of the cases, the selectivity is very sensitive to pH and in other cases, the sensitivity is not reported. The exceptions are the enhanced selectivity reported in the pH range of 6–10 for ceria slurries with <ce:small-caps>l</ce:small-caps>-proline as additive and the slurry with polyols as additives. Most of the reports show that the additives enhance the selectivity with only ceria or only silica. In order to understand the role of abrasives, experiments were conducted in identical conditions with different abrasive particles. Glutamic acid (<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="fig1"/>), which was reported to influence the oxide and nitride polish rates and selectivity <ce:cross-refs refid="bib14 bib30 bib31">[14,30,31]</ce:cross-refs>, was chosen as the additives and the film polish rates were measured in a range of pH.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Experimental</ce:section-title>
+                  <ce:para view="all">Commercial grade ceria particles (DCP-73A, Sodiff Inc., Korea) were used to prepare ceria slurries and fumed silica particles (Cab-o-sil M5, Cabot Sanmar, India) was used to prepare silica slurries. Ceria slurries contained 0.25<ce:hsp sp="0.25"/>wt% solids and silica slurries contained 5<ce:hsp sp="0.25"/>wt% solids. All the experiments were carried out at room temperature. The pH of the slurry was adjusted either by using KOH or HNO<ce:inf loc="post">3</ce:inf> solution. All the chemicals used were of analytical grade. MilliQ water (Millipore) was used for preparing the slurries. The slurries were continuously kept in suspension by using a magnetic stirrer to prevent settling of the abrasive particles. Slurry was fed to the CMP instrument at the centre through a peristaltic pump at a constant flow rate (60<ce:hsp sp="0.25"/>ml/min).</ce:para>
+                  <ce:para view="all">The wafers were polished in bench-top Struers (Labopol – 5 &amp; Laboforce – 3) CMP instrument. LPCVD silicon nitride and thermal silicon dioxide coated wafers (Semi Wafer Inc., Taiwan) were used for the polishing experiments. 1″ square pieces were cut from the wafers and the pieces were used for the polishing experiments since larger samples could not be polished with this setup. A force of 20<ce:hsp sp="0.25"/>N was applied to the wafer and a speed of 100<ce:hsp sp="0.25"/>rpm and 250<ce:hsp sp="0.25"/>rpm was maintained for the turntable and the wafer holder respectively. Stacked pad (SUBA IV from Rodel Inc) was used for the experiments. Initially, the pad was soaked in distilled water for 24<ce:hsp sp="0.25"/>h and conditioned with dummy polish runs. After each run of experiment, the pad was conditioned with a silicon carbide grit paper and cleaned with a nylon brush to ensure consistent pad surface condition. After polishing, the wafers were rinsed and cleaned in the ultrasonication bath with MilliQ water to remove any abrasive particles. Subsequently, the wafers were dried with compressed air. The pre and post-polish thicknesses of the silicon oxide and silicon nitride films were measured using a Filmetrics F20-UV thin film analyzer to determine the polish rate. The thickness was measured at five locations and the average was taken as the representative thickness. The duration of each experimental run was 1<ce:hsp sp="0.25"/>min. The experiments were repeated at least three times and the average value of the polish rates along with the standard deviation is reported.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results and discussion</ce:section-title>
+                  <ce:para view="all">
+                     <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="fig2"/> shows the effect of pH on the polish rate of silica and silicon nitride, for Ceria based slurries without any additive. In most of the cases, the oxide to nitride polish rate selectivity is in the range of 3–7 and hence the slurry is a low selectivity slurry (LSS). At a pH of 3, the nitride polish rates are essentially zero while the oxide polish rate is about 17<ce:hsp sp="0.25"/>nm/min. This does indicate that the selectivity is high. However, the oxide polish rate is very low and hence the slurry at that pH is not suitable for practical STI polishing. The nitride polish rate does not change significantly in the pH range of 7–11 and mostly decreases in the lower pH range. However, the oxide polish rate changes show an increasing trend with pH with two exceptions. The polish rate at a pH of 6 shows a local minimum and at a pH of 7 shows a maximum. It has been proposed that ceria abrasives in water would form surface hydroxyls which will facilitate the removal of silicate ions by adsorption <ce:cross-refs refid="bib32 bib33">[32,33]</ce:cross-refs>. It was predicted that the polish rate of silica will be a maximum if the slurry pH is the same as the point of zero charge (pzc) of the abrasive. The zeta potential of ceria is 6.8 <ce:cross-ref refid="bib34">[34]</ce:cross-ref> and hence, below a pH value of 6.8 ceria will be positively charged and thus the polish rate of silica with ceria abrasives would be a maximum in the pH range of 7–9 <ce:cross-ref refid="bib32">[32]</ce:cross-ref>. The peak observed at a pH of 7 in the current results supports that hypothesis. The oxide polish rate is sensitive to pH particularly near the pH of 7 and hence slurry in that pH range will not be suitable for high volume manufacturing.</ce:para>
+                  <ce:para view="all">
+                     <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="fig3"/> shows the polish rate results as well as selectivity for the same slurry containing 1<ce:hsp sp="0.25"/>wt% glutamic acid. While the blank slurry shows a low selectivity, the slurry with glutamic acid shows a high selectivity of more than 100 the pH range of 5–7. Below a pH of 8, the difference between the pre and post-polish thicknesses of nitride films were the same within the accuracy of the measuring instrument and the polish rate was practically zero. At a pH of 4 or less, both oxide and nitride polishing are suppressed and at a pH of 8 or more, the nitride polish rate increases thereby reducing the selectivity. The results are consistent with those reported in literature <ce:cross-ref refid="bib30">[30]</ce:cross-ref> where slurries with glutamic acid showed a selectivity of 266 at a pH of 5. It differs from another report <ce:cross-ref refid="bib14">[14]</ce:cross-ref> which mentions that with a ceria based slurry of 1<ce:hsp sp="0.25"/>wt% solids and 1<ce:hsp sp="0.25"/>wt% glutamic acid at a pH of 3.3, a selectivity of 91 was observed whereas both oxide and nitride polish rates are suppressed in our experiments at and below the pH of 4. The difference in the solid contents of the slurry might explain the difference between the results. It is also worth noting that the oxide polish rate is more or less the same in this pH range, when the slurry contains glutamic acid. Thus slight changes in pH will not alter the oxide polish rate or selectivity and hence the slurry will be production worthy.</ce:para>
+                  <ce:para view="all">The p<ce:italic>K</ce:italic>
+                     <ce:inf loc="post">a</ce:inf> values of the glutamic acids are 2.19, 4.25 and 9.67 <ce:cross-ref refid="bib35">[35]</ce:cross-ref>. In the pH range of 5–7, both carboxylic groups will be negatively charged while the amino group will be positively charged. Thus the overall charge carried by the amino acid will be negative while the ceria abrasive will carry a slight positive charge in this pH range. Thus glutamic acid may be attracted to ceria particles in this pH range. Below a pH of 4.25, glutamic acid will be neutral while the ceria particles would be positive. Hence the electrostatic forces between the ceria abrasives and glutamic acid should be less. However polish rate results indicate that the oxide polish is completely suppressed at pH of 3 and 4, while it is only marginally reduced in the pH range of 5–7. Thus the forces due to electrical charges on glutamic acid and ceria at different pH values do not explain the effect of glutamic acid.</ce:para>
+                  <ce:para view="all">The polish rate of the work surfaces for silica based slurries is shown in <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+                     <ce:float-anchor refid="fig4"/>. The oxide polish rate shows a local maximum at a pH of 6 while the nitride polish rate shows a local maximum at a pH of 4 and the reasons are not clear. A comparison of <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref> and <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref> shows that silica based slurries provide less polish rate compared to ceria based slurries, even though the solid content is less for the ceria based slurries. The selectivity of silica based slurries is very low compared to that provided by ceria based slurries. In fact, at many pH values (3, 4, 5 and 7), silicon nitride surface is polished at a higher rate than the silica surface. Ceria is known to polish silica <ce:cross-ref refid="bib34">[34]</ce:cross-ref> and silicon nitride very well <ce:cross-ref refid="bib36">[36]</ce:cross-ref> and this is normally explained by ‘chemical interaction’, although in situ frictional force measurement seem to indicate that the effect may be mainly mechanical <ce:cross-ref refid="bib37">[37]</ce:cross-ref>. Three different mechanisms have been proposed to explain the mechanism of oxide polish with silica. Cook <ce:cross-ref refid="bib34">[34]</ce:cross-ref> proposed that silica interacts with water and forms Si–OH bonds, which interact with ceria abrasives and silica is removed as Si(OH)<ce:inf loc="post">4</ce:inf>. Another report <ce:cross-ref refid="bib38">[38]</ce:cross-ref> indicates that redox reaction between Ce(IV) and Ce(III) may facilitate the breaking of silicate lattice and the reaction between Ce(OH)<ce:inf loc="post">4</ce:inf> and SiO<ce:inf loc="post">2</ce:inf> may also enhance the polish rate. Hoshino et al. <ce:cross-ref refid="bib39">[39]</ce:cross-ref> proposed that silica interacts with ceria and is removed as a lump rather than as the monomer Si(OH)<ce:inf loc="post">4</ce:inf>. Thus there is a general consensus on chemical interaction between ceria and silica during CMP, but the exact mechanism has not been established unequivocally. It has been reported <ce:cross-ref refid="bib40">[40]</ce:cross-ref> that ceria based slurries provide higher selectivity than silica based slurries. The proposed hypothesis was that with ceria based slurries, chemical interaction between the abrasives and oxide led to increased oxide polish rates while the nitride polish rate was limited by the conversion of nitride surface layer to oxide. On the other hand, with silica based slurries, the removal mechanism is mainly dissolution and hence the selectivity would be low <ce:cross-ref refid="bib40">[40]</ce:cross-ref>. However, there are published reports showing that moderate to high selectivities can be achieved with silica based slurries with suitable additives <ce:cross-refs refid="bib6 bib7 bib8 bib9 bib10">[6–10]</ce:cross-refs>. Hence it is clear that this hypothesis cannot be applied for slurries with additives.</ce:para>
+                  <ce:para view="all">
+                     <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+                     <ce:float-anchor refid="fig5"/> shows the polish rate of oxide and nitride surfaces with silica slurries containing glutamic acid. The oxide polish rate decreases dramatically when the pH is less than 7. On the other hand, the nitride polish rate decreases moderately when the pH is reduced below 6 and does not go to zero as in the case of ceria based slurries (<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>). It is interesting to note that glutamic acid inhibits the nitride polish rate only for ceria slurries and not for silica slurries. By comparing <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref> with <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>, it can be seen that the selectivity drops from 150 to 4 when the abrasive is changed from ceria to silica for slurries containing glutamic acid. A quantitative match between polish rates for slurries with different abrasives may not be expected due to the difference in the particle size distribution, hardness and zeta potential of the particles and the solid content of the slurry. However, if the abrasive does not play a major role in the inhibition of nitride polish rate, the qualitative trends such as selectivity vs. pH for a given additive is expected to be similar for slurries with same additive and different abrasives.</ce:para>
+                  <ce:para view="all">Silicon nitride polish is believed to occur by a two step mechanism <ce:cross-refs refid="bib36 bib41">[36,41]</ce:cross-refs>. In the first step, silicon nitride reacts with water to form silicon dioxide and in the second step, silicon dioxide is removed by CMP. This would expose the nitride to the solution enabling the repetition of the first step. If any of the additives inhibit the first step by adsorbing strongly on the silicon nitride surface, then the nitride removal will be suppressed. On the other hand, if the additive strongly adsorbs on silicon dioxide also, then the polish rate of oxide is also expected to be suppressed. This hypothesis was used to explain the suppression of nitride polish rate by proline and the suppression of nitride and oxide polish rate by arginine, as reported in literature <ce:cross-ref refid="bib22">[22]</ce:cross-ref>. The enhanced selectivity of ceria slurries with surfactants was also explained by the possibility of additive adsorption <ce:cross-refs refid="bib23 bib24 bib42">[23,24,42]</ce:cross-refs>. For those additives adsorption may play a key role in determining the polish rate selectivity. However, adsorption studies for amino acids <ce:cross-ref refid="bib43">[43]</ce:cross-ref> indicate that proline and arginine adsorb onto the silica and nitride surface to an equal extent, while they influenced the polish rates of these work surfaces differently. Thus it was concluded that adsorption of the amino acids onto the work surfaces is not likely to be the key mechanism. If glutamic acid adsorbs onto the nitride surface and prevents the removal, it would inhibit the nitride polish rate for both silica based and ceria based slurries. Thus, results of the present work also support the conclusion that amino acid adsorption is not likely to be the sole mechanism of polish rate inhibition.</ce:para>
+                  <ce:para view="all">Electron Energy Loss Spectroscopy (EELS) studies indicate that the surface of ceria particles have more of Ce<ce:sup loc="post">3+</ce:sup> ions than the inside of the particles <ce:cross-ref refid="bib44">[44]</ce:cross-ref>. It also showed that presence of fluoride ions seem to stabilize the Ce<ce:sup loc="post">3+</ce:sup> ions. Any impurity such as lanthanum that is present in the ceria was found to be on the surface rather than on the inside. If and how these facts might influence the polishing of silica and silicon nitride is not clear. One possibility is that there are different types of active sites on the surface of ceria particles. One type would facilitate the bonding of ceria with silicon dioxide and the other would facilitate the bonding of ceria with silicon nitride. If the additives adsorb on nitride to prevent the hydrolysis and simultaneously lock or modify the nitride-affinity site on ceria, then nitride surface will not be polished. If the additive adsorbs onto the oxide surface but does not interact with the oxide-affinity site on ceria, one may propose that the interaction between the ceria and silica is weakened but not arrested. It may even be possible that the additive converts the nitride-affinity ceria sites to oxide-affinity ceria sites in which case, an enhanced oxide polish rate may be observed. At pH values lower than 5, the oxide as well as nitride-affinity sites on the ceria may be deactivated. For silica based abrasives, the polishing is mainly mechanical and hence adsorption of the amino acid will not reduce the polish rate unless the adsorption is very strong and the layer is thick. Those additives which do show selectivity with silica based slurries may provide the nitride inhibition by adsorption. However, the adsorption of those additives has to be quantified and polish rates with slurries with the same additives and non-silica abrasives must be measured in order to confirm the hypothesis. For ceria abrasives, the nature of the active sites and the interaction between the additive and those sites is not clear. It is to be noted that the hypothesis of active sites for ceria abrasives is only a proposal and is yet to be confirmed. If the hypothesis is verified and the active sites are identified, it may be possible to tailor the ceria manufacturing process itself to produce high number of oxide active sites and low number of nitride active sites, to obtain highly selective abrasives for STI CMP. Further investigations are on to determine the surface state of ceria that is responsible for the oxide and nitride polish and the inhibition of the polish by the additives.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusions</ce:section-title>
+                  <ce:para view="all">Silicon dioxide and silicon nitride wafers were polished with slurries containing glutamic acid as additive in the pH range of 3–11.<ce:list>
+                        <ce:list-item>
+                           <ce:label>1.</ce:label>
+                           <ce:para view="all">For blank slurries, it is confirmed that ceria based slurries provide high selectivity while silica based slurries provide low selectivity.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:label>2.</ce:label>
+                           <ce:para view="all">When glutamic acid is used as additive, the suppression of nitride polish rate depends on the abrasive used. Ceria based slurries exhibited high selectivity in the pH range of 5–7. Under the same conditions, silica based slurries showed only low selectivity throughout the pH range investigated. In some cases, silica based slurries even exhibited a selectivity of less than 1.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:label>3.</ce:label>
+                           <ce:para view="all">It is proposed that adsorption of glutamic acid is not the key mechanism of nitride polish rate suppression. Previous reports indicate that the conclusion holds true for two other amino acids (proline and arginine) as well.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:label>4.</ce:label>
+                           <ce:para view="all">When glutamic acid is used as additive, the interaction between the additive and the abrasive also plays a major role in enhancing selectivity. It is proposed that ceria abrasives may contain one type of active sites that interact with silica surfaces and another type of active sites that interact with silicon nitride surfaces. The modification of the different active sites by the additives would lead to significant changes in selectivity. This hypothesis is yet to be verified.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgements</ce:section-title>
+               <ce:para view="all">The authors thank the Department of Science and Technology (DST), India for financing this project (SR/S3/CE/57/2005-SERC-ENGG), Sodiff Inc., Korea for donating the ceria abrasives and Molycorp. Inc., USA for providing the report on ceria <ce:cross-ref refid="bib38">[38]</ce:cross-ref>.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Steigerwald</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.P.</ce:given-name>
+                                 <ce:surname>Murarka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Gutmann</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical Mechanical Planarization of Microelectronic Materials</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1997</sb:date>
+                              <sb:publisher>
+                                 <sb:name>John Wiley &amp; Sons</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>p. 2</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.R.</ce:given-name>
+                                 <ce:surname>Oliver</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical Mechanical Planarization of Semiconductor Materials</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2004</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>p. 1</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.B.</ce:given-name>
+                                 <ce:surname>Zantye</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.K.</ce:given-name>
+                                 <ce:surname>Sikder</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. R.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>45</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>89</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>R. Srinivasan, S.V. Babu, W.G. America, Y.-S. Her, US Patent 6,468,910 (2002).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>H. Kodama, S. Suzumura, N. Yokomuchi, S. Miura, H. Otake, A. Kawamura, M. Ito, US Patent 5,733,819 (1998).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>W.R. Morrison, K.P. Hunt, European Patent 0853335 (1998).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.-Y.</ce:given-name>
+                                 <ce:surname>Jeong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-Y.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.-J.</ce:given-name>
+                                 <ce:surname>Seo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Microelectr. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>66</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>480</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.-Y.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.-J.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.-J.</ce:given-name>
+                                 <ce:surname>Seo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Microelectr. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>66</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>463</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>D.F. Canaperi, R. Jagannathan, M. Krishnan, C.O. Morgan, T.M. Wright, US Patent 6,114,249 (2000).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>I. Belov, L. Puppe, G.W. Passing, T.J. Hunt, US Patent 6,964,600 (2005).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>G.S. Grover, B.L. Mueller, US Patent 5,759,917 (1998).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>G.S. Grover,B.L. Mueller, S. Wang, US Patent 6,689,692 (2004).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>G.S. Grover, B.L. Mueller, S. Wang, US Patent 6,984,588 (2006).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>T. Kido, K. Ichikawa US Patent 6,436,835 (2002).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>S.D. Hosali, A.R. Sethuraman, J.-G. Wang, L.M. Cook, US Patent 5,738,800 (1998).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>S.D. Hosali, A.R. Sethuraman, J.-G. Wang, L.M. Cook, US Patent 6,042,741 (2000).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>S.D. Hosali, A.R. Sethuraman, J.-G. Wang, L.M. Cook, M.R. Oliver, US Patent 6,132,637 (2000).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>S.D. Hosali, A.R. Sethuraman, J.-G. Wang, L.M. Cook, M.R. Oliver, US Patent 6,218,305 (2001).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>T. Kido, F. Tsujino, K. Ichikawa, N. Uotani, US Patent 6,299,659 (2001).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>R. Srinivasan, S.V. Babu, W.G. America, Y.-S. Her, US Patent 6,627,107 (2003).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>[21]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>R. Srinivasan, S.V. Babu, W.G. America, Y.-S. Her, US Patent 6,544,892 (2003).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>[22]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>R. Srinivasan, S.V. Babu, W.G. America, Y.-S. Her, US Patent 6,491,843 (2002).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Katoh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.-G.</ce:given-name>
+                                 <ce:surname>Kang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Paik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-G.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Jpn. J. Appl. Phys. Part I</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>42</sb:issue-nr>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1150</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.-Y.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Paik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Katoh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-G.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>9</sb:issue-nr>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2163</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>[25]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>B. Edelbach, E. Oswald, Y.-S. Her, US Patent 6,616,514 (2003).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>[26]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>W.-Q. Xu, S. Hegde, US Patent Application 2005/0028450A (2005).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib27">
+                     <ce:label>[27]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>W.-Q. Xu, S. Hegde, US Patent Application 2005/0136673A (2005).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib28">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Martin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Spinolo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Morin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Bacchetta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Frigerio</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.A.</ce:given-name>
+                                 <ce:surname>Bonner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>McKeever</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Tremolada</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Iyer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Proc. Mater. Res. Soc. Symp.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>767</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib29">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.G.</ce:given-name>
+                                 <ce:surname>America</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.V.</ce:given-name>
+                                 <ce:surname>Babu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochem. Solid-State Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>12</sb:issue-nr>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>G327</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib30">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.W.</ce:given-name>
+                                 <ce:surname>Carter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.P.</ce:given-name>
+                                 <ce:surname>Johns</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochem. Solid-State Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>8</sb:issue-nr>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>G218</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib31">
+                     <ce:label>[31]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>P.W. Carter, T.P. Johns, US Patent Application 20040152309 A1 (2004).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib32">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Osseo-Asare</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>149</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>12</sb:issue-nr>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>G651</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib33">
+                     <ce:label>[33]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Suphantharida</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Osseo-Asare</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>151</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>10</sb:issue-nr>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>G658</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib34">
+                     <ce:label>[34]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.M.</ce:given-name>
+                                 <ce:surname>Cook</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Non-Cryst. Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>120</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>152</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib35">
+                     <ce:label>[35]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.L.</ce:given-name>
+                                 <ce:surname>Lehninger</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Principles of Biochemistry</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>second ed.</sb:edition>
+                              <sb:date>1984</sb:date>
+                              <sb:publisher>
+                                 <sb:name>CBS Publishers</sb:name>
+                                 <sb:location>New Delhi</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>p. 107</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib36">
+                     <ce:label>[36]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.O.</ce:given-name>
+                                 <ce:surname>Wood</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Komanduri</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Wear</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>220</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>59</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib37">
+                     <ce:label>[37]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.T.</ce:given-name>
+                                 <ce:surname>Abiade</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Yeruva</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.M.</ce:given-name>
+                                 <ce:surname>Moudgil</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Rajiv K.</ce:given-name>
+                                 <ce:surname>Singh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>153</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>11</sb:issue-nr>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>G1001</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib38">
+                     <ce:label>[38]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.T.</ce:given-name>
+                                 <ce:surname>Kilbourn</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Cerium A Guide to its Role in Chemical Technology</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1992</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Molycorp. Inc.</sb:name>
+                                 <sb:location>Mountainpass, CA, USA</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>p. 25</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib39">
+                     <ce:label>[39]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Hoshino</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Kurata</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Terasaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Susa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Non-Cryst. Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>283</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>129</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib40">
+                     <ce:label>[40]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Chandrasekaran</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Res. Soc. Symp. Proc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>816</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>K 9.2.1</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib41">
+                     <ce:label>[41]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.-Z.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Gutmann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.P.</ce:given-name>
+                                 <ce:surname>Chow</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>145</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>11</sb:issue-nr>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3919</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib42">
+                     <ce:label>[42]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.-G.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Katoh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-H.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Paik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.-D.</ce:given-name>
+                                 <ce:surname>Kwack</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Rare Metals</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib43">
+                     <ce:label>[43]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Nagendra Prasad</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ramanathan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Electrochem. Solid-State. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>G337</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib44">
+                     <ce:label>[44]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.R.</ce:given-name>
+                                 <ce:surname>Gilliss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Bentley</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.B.</ce:given-name>
+                                 <ce:surname>Carter</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Surf. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>241</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>61</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/B9780081001653000097</prism:url><dc:identifier>doi:10.1016/B978-0-08-100165-3.00009-7</dc:identifier><eid>3-s2.0-B9780081001653000097</eid><prism:doi>10.1016/B978-0-08-100165-3.00009-7</prism:doi><pii>B978-0-08-100165-3.00009-7</pii><dc:title>9 Abrasive-free and ultra-low abrasive chemical mechanical polishing (CMP) processes </dc:title><prism:publicationName>Advances in Chemical Mechanical Planarization (CMP)</prism:publicationName><prism:aggregationType>EBook</prism:aggregationType><pubType>chp</pubType><prism:isbn>9780081001653</prism:isbn><prism:startingPage>213</prism:startingPage><prism:endingPage>227</prism:endingPage><prism:pageRange>213-227</prism:pageRange><dcterms:isPartOf>urn:isbn:978-0-08-100165-3</dcterms:isPartOf><dc:format>application/xml</dc:format><prism:coverDate>2016-12-31</prism:coverDate><prism:coverDisplayDate>2016</prism:coverDisplayDate><prism:copyright>Copyright © 2016 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Penta, N.K.</dc:creator><dc:description>
+               As the semiconductors industry changes, several novel materials are being introduced into the integration scheme both in the interconnect and transistor regions, and new chemical mechanical polishing/planarization (CMP) steps are being introduced. These novel CMP steps, along with traditional CMP steps such as copper and barrier, require unique slurry requirements for selectivity, purity, and defectivity, further demanding inventions and development of controlled polishing processes. These new requirements, along with the trend toward lower abrasives content and emphasis on the chemo component of CMP instead of mechanical aspects, are reshaping the abrasives industry. Ultra-low abrasive and abrasive-free CMP processes have several advantages for semiconductor wafer processing, such as absence of defects, better pad life, concentratability, and shelf life. In this chapter, several abrasive-free formulations developed for a number of CMP applications are reviewed. The challenges associated with developing abrasive-free CMP processes are also highlighted.
+            </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Abrasive-free</dcterms:subject><dcterms:subject>CMP</dcterms:subject><dcterms:subject>Slurries</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/B9780081001653000097" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/B9780081001653000097" rel="scidir"/></coredata><objects><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="431" height="36" size="1567">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000097-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="375" height="18" size="1255">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000097-si3.gif?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="219" height="15" size="748">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000097-si1.gif?httpAccept=%2A%2F%2A</object><object ref="f09-09-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="405" height="253" size="48399">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000097-f09-09-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f09-09-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="137" size="11690">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000097-f09-09-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f09-04-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="517" height="311" size="63074">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000097-f09-04-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f09-04-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="132" size="13770">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000097-f09-04-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f09-03-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="404" height="300" size="63427">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000097-f09-03-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f09-03-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="162" size="17604">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000097-f09-03-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f09-07-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="393" height="239" size="40703">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000097-f09-07-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f09-07-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="133" size="10372">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000097-f09-07-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f09-11-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="512" height="398" size="60186">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000097-f09-11-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f09-11-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="211" height="164" size="13161">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000097-f09-11-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f09-05-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="524" height="356" size="89779">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000097-f09-05-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f09-05-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="149" size="20780">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000097-f09-05-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f09-02-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="397" height="110" size="28163">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000097-f09-02-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f09-02-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="61" size="8410">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000097-f09-02-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f09-01-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="407" height="611" size="99067">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000097-f09-01-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f09-01-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="109" height="164" size="14886">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000097-f09-01-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f09-10-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="390" height="221" size="53190">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000097-f09-10-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f09-10-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="124" size="15196">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000097-f09-10-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f09-08-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="406" height="257" size="46416">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000097-f09-08-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f09-08-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="139" size="11806">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000097-f09-08-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f09-06-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="401" height="294" size="65094">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000097-f09-06-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f09-06-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="161" size="18468">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000097-f09-06-9780081001653.sml?httpAccept=%2A%2F%2A</object><object ref="f09-12-9780081001653" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="409" height="231" size="52205">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000097-f09-12-9780081001653.jpg?httpAccept=%2A%2F%2A</object><object ref="f09-12-9780081001653" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="124" size="13053">https://api.elsevier.com/content/object/eid/3-s2.0-B9780081001653000097-f09-12-9780081001653.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>84967188684</scopus-id><scopus-eid>2-s2.0-84967188684</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84967188684" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>nonserial</xocs:content-family>
+      <xocs:content-type>BK</xocs:content-type>
+      <xocs:cid>314408</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291892</xocs:ssid>
+         <xocs:ssid type="content">35</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Advances in Chemical Mechanical Planarization (CMP)</xocs:srctitle>
+      <xocs:normalized-srctitle>ADVANCESINCHEMICALMECHANICALPLANARIZATIONCMP</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20160217">2016-02-17</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20160219">2016-02-19</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20160217">2016-02-17</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20160219">2016-02-19</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2016-02-17T09:22:38</xocs:ew-transaction-id>
+      <xocs:eid>3-s2.0-B9780081001653000097</xocs:eid>
+      <xocs:pii-formatted>B978-0-08-100165-3.00009-7</xocs:pii-formatted>
+      <xocs:pii-unformatted>B9780081001653000097</xocs:pii-unformatted>
+      <xocs:doi>10.1016/B978-0-08-100165-3.00009-7</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>3-s2.0-C20140014451</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160223">2016-02-23T01:05:24.718665-05:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20160101</xocs:date-search-begin>
+      <xocs:date-search-end>20161231</xocs:date-search-end>
+      <xocs:year-nav>2016</xocs:year-nav>
+      <xocs:indexeddate epoch="1455705396">2016-02-17T10:36:36.960395Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confeditor contenttype copyright dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate isbn isbns isbnnorm isbnsnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids content subj subheadings tomb webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authkeywords authlast primabst ref figure body mmlmath</xocs:articleinfo>
+      <xocs:isbns>
+         <xocs:isbn-primary-formatted purpose="HARDBOUND">978-0-08-100165-3</xocs:isbn-primary-formatted>
+         <xocs:isbn-primary-unformatted purpose="HARDBOUND">9780081001653</xocs:isbn-primary-unformatted>
+         <xocs:isbn-formatted purpose="ONLINE">978-0-08-100218-6</xocs:isbn-formatted>
+         <xocs:isbn-unformatted purpose="ONLINE">9780081002186</xocs:isbn-unformatted>
+      </xocs:isbns>
+      <xocs:display-name>Advances in Chemical Mechanical Planarization (CMP)</xocs:display-name>
+      <xocs:sort-order>15</xocs:sort-order>
+      <xocs:first-fp>213</xocs:first-fp>
+      <xocs:last-lp>227</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>213</xocs:first-page>
+         <xocs:last-page>227</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-text>2016</xocs:cover-date-text>
+      <xocs:cover-date-start>2016-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2016-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2016</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:editors>
+               <ce:author-group id="augrp0010">
+                  <ce:author id="au1">
+                     <ce:given-name>Suryadevara</ce:given-name>
+                     <ce:surname>Babu</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:hub-sec>
+         <xocs:hub-sec-label>Part One</xocs:hub-sec-label>
+         <xocs:hub-sec-title>CMP of dielectric and metal films</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>chapter</xocs:document-type>
+      <xocs:document-subtype>chp</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2016 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>ABRASIVEFREEULTRALOWABRASIVECHEMICALMECHANICALPOLISHINGCMPPROCESSES</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>PENTA</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>N</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>9.1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>9.2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Abrasive-free slurries for poly-Si CMP</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>9.3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Abrasive-free processes for the Cu damascene CMP process</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>9.4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Abrasive-free formulations and role of abrasives for barrier CMP</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>9.5</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Future trends</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="ref0010">
+            <xocs:ref-normalized-surname>GRUMBINE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>19THINTERNATIONALSYMPOSIUMCHEMICALMECHANICALPLANARIZATIONCMPALBANYNY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="ref0015">
+            <xocs:ref-normalized-surname>PENTA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3502</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3510</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="ref0020">
+            <xocs:ref-normalized-surname>PENTA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4126</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4132</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="ref0025">
+            <xocs:ref-normalized-surname>PENTA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>21</xocs:ref-first-fp>
+            <xocs:ref-last-lp>28</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="ref0030">
+            <xocs:ref-normalized-surname>DANDUVEERA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>114</xocs:ref-first-fp>
+            <xocs:ref-last-lp>118</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="ref9000">
+            <xocs:ref-normalized-surname>KANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="ref0035">
+            <xocs:ref-normalized-surname>AMANOKURA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="ref0040">
+            <xocs:ref-normalized-surname>KAMIGATA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="ref0045">
+            <xocs:ref-normalized-surname>PANDIJA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>144</xocs:ref-first-fp>
+            <xocs:ref-last-lp>151</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="ref0050">
+            <xocs:ref-normalized-surname>PANDIJA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ABRASIVEFREESLURRIESFORCOPPERPOLISHING</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="ref0055">
+            <xocs:ref-normalized-surname>PEETHALA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>H271</xocs:ref-first-fp>
+            <xocs:ref-last-lp>H276</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="ref0060">
+            <xocs:ref-normalized-surname>AMANAPU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>P445</xocs:ref-first-fp>
+            <xocs:ref-last-lp>P451</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="ref0065">
+            <xocs:ref-normalized-surname>JANJAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CHEMICALMECHANICALPOLISHINGTANTALUMTANTALUMNITRIDE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>PENTAX2016X213</xocs:refkey3>
+         <xocs:refkey4lp>PENTAX2016X213X227</xocs:refkey4lp>
+         <xocs:refkey4ai>PENTAX2016X213XN</xocs:refkey4ai>
+         <xocs:refkey5>PENTAX2016X213X227XN</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>B978-0-08-100165-3.00009-7</xocs:pii-formatted>
+         <xocs:pii-unformatted>B9780081001653000097</xocs:pii-unformatted>
+         <xocs:eid>3-s2.0-B9780081001653000097</xocs:eid>
+         <xocs:doi>10.1016/B978-0-08-100165-3.00009-7</xocs:doi>
+         <xocs:cid>314408</xocs:cid>
+         <xocs:timestamp>2016-02-19T09:06:01.284922-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2016-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2016-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000097-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000097/MAIN/application/pdf/c355db095377881a000c0fd6c516d003/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000097/MAIN/application/pdf/c355db095377881a000c0fd6c516d003/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1712932</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>15</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>3-s2.0-B9780081001653000097-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000097/PREVIEW/image/png/3ab324b73957c693be95aeadfcb55c5d/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000097/PREVIEW/image/png/3ab324b73957c693be95aeadfcb55c5d/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>65957</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000097-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000097/STRIPIN/image/gif/7ba9f4787e50ca114e2980f7dea41dee/si2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000097/STRIPIN/image/gif/7ba9f4787e50ca114e2980f7dea41dee/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1567</xocs:filesize>
+               <xocs:pixel-height>36</xocs:pixel-height>
+               <xocs:pixel-width>431</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000097-si3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000097/STRIPIN/image/gif/0300f1a7c1121d063856b67b9a5d57ec/si3.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000097/STRIPIN/image/gif/0300f1a7c1121d063856b67b9a5d57ec/si3.gif</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1255</xocs:filesize>
+               <xocs:pixel-height>18</xocs:pixel-height>
+               <xocs:pixel-width>375</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000097-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000097/STRIPIN/image/gif/814ee47010d0e4d56fb8d964e4783aa5/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000097/STRIPIN/image/gif/814ee47010d0e4d56fb8d964e4783aa5/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>748</xocs:filesize>
+               <xocs:pixel-height>15</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000097-f09-09-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000097/f09-09-9780081001653/DOWNSAMPLED/image/jpeg/5cbb604609a0206531f4d80164831cb6/f09-09-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000097/f09-09-9780081001653/DOWNSAMPLED/image/jpeg/5cbb604609a0206531f4d80164831cb6/f09-09-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f09-09-9780081001653</xocs:file-basename>
+               <xocs:filename>f09-09-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>48399</xocs:filesize>
+               <xocs:pixel-height>253</xocs:pixel-height>
+               <xocs:pixel-width>405</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000097-f09-09-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000097/f09-09-9780081001653/THUMBNAIL/image/gif/20999b3ca0f8463bf227c0c927d9d6dd/f09-09-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000097/f09-09-9780081001653/THUMBNAIL/image/gif/20999b3ca0f8463bf227c0c927d9d6dd/f09-09-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f09-09-9780081001653</xocs:file-basename>
+               <xocs:filename>f09-09-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11690</xocs:filesize>
+               <xocs:pixel-height>137</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000097-f09-04-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000097/f09-04-9780081001653/DOWNSAMPLED/image/jpeg/b1b4872f96a60a391f538815b1c6061c/f09-04-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000097/f09-04-9780081001653/DOWNSAMPLED/image/jpeg/b1b4872f96a60a391f538815b1c6061c/f09-04-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f09-04-9780081001653</xocs:file-basename>
+               <xocs:filename>f09-04-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>63074</xocs:filesize>
+               <xocs:pixel-height>311</xocs:pixel-height>
+               <xocs:pixel-width>517</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000097-f09-04-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000097/f09-04-9780081001653/THUMBNAIL/image/gif/1a7cedb059cc43063ca2896c631c4b47/f09-04-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000097/f09-04-9780081001653/THUMBNAIL/image/gif/1a7cedb059cc43063ca2896c631c4b47/f09-04-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f09-04-9780081001653</xocs:file-basename>
+               <xocs:filename>f09-04-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>13770</xocs:filesize>
+               <xocs:pixel-height>132</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000097-f09-03-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000097/f09-03-9780081001653/DOWNSAMPLED/image/jpeg/c24450f69a2e966d94d8522471629dee/f09-03-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000097/f09-03-9780081001653/DOWNSAMPLED/image/jpeg/c24450f69a2e966d94d8522471629dee/f09-03-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f09-03-9780081001653</xocs:file-basename>
+               <xocs:filename>f09-03-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>63427</xocs:filesize>
+               <xocs:pixel-height>300</xocs:pixel-height>
+               <xocs:pixel-width>404</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000097-f09-03-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000097/f09-03-9780081001653/THUMBNAIL/image/gif/18282ea7d4c508914b0291733c14db01/f09-03-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000097/f09-03-9780081001653/THUMBNAIL/image/gif/18282ea7d4c508914b0291733c14db01/f09-03-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f09-03-9780081001653</xocs:file-basename>
+               <xocs:filename>f09-03-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>17604</xocs:filesize>
+               <xocs:pixel-height>162</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000097-f09-07-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000097/f09-07-9780081001653/DOWNSAMPLED/image/jpeg/7e1d8d90beba0157ac62394d940e1182/f09-07-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000097/f09-07-9780081001653/DOWNSAMPLED/image/jpeg/7e1d8d90beba0157ac62394d940e1182/f09-07-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f09-07-9780081001653</xocs:file-basename>
+               <xocs:filename>f09-07-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>40703</xocs:filesize>
+               <xocs:pixel-height>239</xocs:pixel-height>
+               <xocs:pixel-width>393</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000097-f09-07-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000097/f09-07-9780081001653/THUMBNAIL/image/gif/234846ad00830c499f47f0decebccc28/f09-07-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000097/f09-07-9780081001653/THUMBNAIL/image/gif/234846ad00830c499f47f0decebccc28/f09-07-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f09-07-9780081001653</xocs:file-basename>
+               <xocs:filename>f09-07-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10372</xocs:filesize>
+               <xocs:pixel-height>133</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000097-f09-11-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000097/f09-11-9780081001653/DOWNSAMPLED/image/jpeg/d9659f73871b77fe51e177925b7081fa/f09-11-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000097/f09-11-9780081001653/DOWNSAMPLED/image/jpeg/d9659f73871b77fe51e177925b7081fa/f09-11-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f09-11-9780081001653</xocs:file-basename>
+               <xocs:filename>f09-11-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>60186</xocs:filesize>
+               <xocs:pixel-height>398</xocs:pixel-height>
+               <xocs:pixel-width>512</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000097-f09-11-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000097/f09-11-9780081001653/THUMBNAIL/image/gif/d38152007e8eb476aab418aa359d6b97/f09-11-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000097/f09-11-9780081001653/THUMBNAIL/image/gif/d38152007e8eb476aab418aa359d6b97/f09-11-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f09-11-9780081001653</xocs:file-basename>
+               <xocs:filename>f09-11-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>13161</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>211</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000097-f09-05-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000097/f09-05-9780081001653/DOWNSAMPLED/image/jpeg/cf5a4507eec7ec4cc89b5ee054eee3c5/f09-05-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000097/f09-05-9780081001653/DOWNSAMPLED/image/jpeg/cf5a4507eec7ec4cc89b5ee054eee3c5/f09-05-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f09-05-9780081001653</xocs:file-basename>
+               <xocs:filename>f09-05-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>89779</xocs:filesize>
+               <xocs:pixel-height>356</xocs:pixel-height>
+               <xocs:pixel-width>524</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000097-f09-05-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000097/f09-05-9780081001653/THUMBNAIL/image/gif/7dc189ed99fbb0fce252cf39a783967e/f09-05-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000097/f09-05-9780081001653/THUMBNAIL/image/gif/7dc189ed99fbb0fce252cf39a783967e/f09-05-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f09-05-9780081001653</xocs:file-basename>
+               <xocs:filename>f09-05-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>20780</xocs:filesize>
+               <xocs:pixel-height>149</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000097-f09-02-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000097/f09-02-9780081001653/DOWNSAMPLED/image/jpeg/8c7b455dd51acd9fbeedf0369d01fdb2/f09-02-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000097/f09-02-9780081001653/DOWNSAMPLED/image/jpeg/8c7b455dd51acd9fbeedf0369d01fdb2/f09-02-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f09-02-9780081001653</xocs:file-basename>
+               <xocs:filename>f09-02-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>28163</xocs:filesize>
+               <xocs:pixel-height>110</xocs:pixel-height>
+               <xocs:pixel-width>397</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000097-f09-02-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000097/f09-02-9780081001653/THUMBNAIL/image/gif/69ebc3f2e90d35e0de5823a39acd88b1/f09-02-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000097/f09-02-9780081001653/THUMBNAIL/image/gif/69ebc3f2e90d35e0de5823a39acd88b1/f09-02-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f09-02-9780081001653</xocs:file-basename>
+               <xocs:filename>f09-02-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8410</xocs:filesize>
+               <xocs:pixel-height>61</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000097-f09-01-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000097/f09-01-9780081001653/DOWNSAMPLED/image/jpeg/36ac9e45f35d5d5ab7a0ab04da6feea8/f09-01-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000097/f09-01-9780081001653/DOWNSAMPLED/image/jpeg/36ac9e45f35d5d5ab7a0ab04da6feea8/f09-01-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f09-01-9780081001653</xocs:file-basename>
+               <xocs:filename>f09-01-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>99067</xocs:filesize>
+               <xocs:pixel-height>611</xocs:pixel-height>
+               <xocs:pixel-width>407</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000097-f09-01-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000097/f09-01-9780081001653/THUMBNAIL/image/gif/d3798f15b695075a1c2059973eb16f5c/f09-01-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000097/f09-01-9780081001653/THUMBNAIL/image/gif/d3798f15b695075a1c2059973eb16f5c/f09-01-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f09-01-9780081001653</xocs:file-basename>
+               <xocs:filename>f09-01-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>14886</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>109</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000097-f09-10-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000097/f09-10-9780081001653/DOWNSAMPLED/image/jpeg/f6470dbba305ac73b49d24e3db147538/f09-10-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000097/f09-10-9780081001653/DOWNSAMPLED/image/jpeg/f6470dbba305ac73b49d24e3db147538/f09-10-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f09-10-9780081001653</xocs:file-basename>
+               <xocs:filename>f09-10-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>53190</xocs:filesize>
+               <xocs:pixel-height>221</xocs:pixel-height>
+               <xocs:pixel-width>390</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000097-f09-10-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000097/f09-10-9780081001653/THUMBNAIL/image/gif/341a9bd066752c16482ecae0eda4c43f/f09-10-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000097/f09-10-9780081001653/THUMBNAIL/image/gif/341a9bd066752c16482ecae0eda4c43f/f09-10-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f09-10-9780081001653</xocs:file-basename>
+               <xocs:filename>f09-10-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>15196</xocs:filesize>
+               <xocs:pixel-height>124</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000097-f09-08-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000097/f09-08-9780081001653/DOWNSAMPLED/image/jpeg/90be48df89ecfcabc1a52ef23a619f7b/f09-08-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000097/f09-08-9780081001653/DOWNSAMPLED/image/jpeg/90be48df89ecfcabc1a52ef23a619f7b/f09-08-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f09-08-9780081001653</xocs:file-basename>
+               <xocs:filename>f09-08-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>46416</xocs:filesize>
+               <xocs:pixel-height>257</xocs:pixel-height>
+               <xocs:pixel-width>406</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000097-f09-08-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000097/f09-08-9780081001653/THUMBNAIL/image/gif/b90a8abcad907c880b4389998738e1f4/f09-08-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000097/f09-08-9780081001653/THUMBNAIL/image/gif/b90a8abcad907c880b4389998738e1f4/f09-08-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f09-08-9780081001653</xocs:file-basename>
+               <xocs:filename>f09-08-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11806</xocs:filesize>
+               <xocs:pixel-height>139</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000097-f09-06-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000097/f09-06-9780081001653/DOWNSAMPLED/image/jpeg/52840544b053f2fb1b02537aee188011/f09-06-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000097/f09-06-9780081001653/DOWNSAMPLED/image/jpeg/52840544b053f2fb1b02537aee188011/f09-06-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f09-06-9780081001653</xocs:file-basename>
+               <xocs:filename>f09-06-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>65094</xocs:filesize>
+               <xocs:pixel-height>294</xocs:pixel-height>
+               <xocs:pixel-width>401</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000097-f09-06-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000097/f09-06-9780081001653/THUMBNAIL/image/gif/1ad1080cf2d6a68f88afc8413dea1cd6/f09-06-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000097/f09-06-9780081001653/THUMBNAIL/image/gif/1ad1080cf2d6a68f88afc8413dea1cd6/f09-06-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f09-06-9780081001653</xocs:file-basename>
+               <xocs:filename>f09-06-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>18468</xocs:filesize>
+               <xocs:pixel-height>161</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000097-f09-12-9780081001653.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000097/f09-12-9780081001653/DOWNSAMPLED/image/jpeg/e8189e3a8e976cec7ce2d0654949e217/f09-12-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000097/f09-12-9780081001653/DOWNSAMPLED/image/jpeg/e8189e3a8e976cec7ce2d0654949e217/f09-12-9780081001653.jpg</xocs:ucs-locator>
+               <xocs:file-basename>f09-12-9780081001653</xocs:file-basename>
+               <xocs:filename>f09-12-9780081001653.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>52205</xocs:filesize>
+               <xocs:pixel-height>231</xocs:pixel-height>
+               <xocs:pixel-width>409</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>3-s2.0-B9780081001653000097-f09-12-9780081001653.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:B9780081001653000097/f09-12-9780081001653/THUMBNAIL/image/gif/26fbd9dba75b74a0418eead2d524cf14/f09-12-9780081001653.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:B9780081001653000097/f09-12-9780081001653/THUMBNAIL/image/gif/26fbd9dba75b74a0418eead2d524cf14/f09-12-9780081001653.sml</xocs:ucs-locator>
+               <xocs:file-basename>f09-12-9780081001653</xocs:file-basename>
+               <xocs:filename>f09-12-9780081001653.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>13053</xocs:filesize>
+               <xocs:pixel-height>124</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:nonserial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <chapter xmlns="http://www.elsevier.com/xml/bk/dtd" version="5.4" id="c0009" docsubtype="chp" xml:lang="en">
+         <info>
+            <ce:pii>B978-0-08-100165-3.00009-7</ce:pii>
+            <ce:doi>10.1016/B978-0-08-100165-3.00009-7</ce:doi>
+            <ce:isbn>978-0-08-100165-3</ce:isbn>
+            <ce:copyright type="full-transfer" year="2016">Elsevier Ltd</ce:copyright>
+         </info>
+         <ce:floats>
+            <ce:figure id="f0010">
+               <ce:label>Figure 9.1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="fspara0010" view="all">Removal rates (RR) of poly-Si films on (a) IC1000 pad and (b) Politex pad, respectively, as a function of pH using abrasive-free solutions and ceria/silica dispersions with and without 250<ce:hsp sp="0.25"/>ppm PDADMAC <ce:cross-ref refid="bib4" id="crossref0010">[4]</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f09-01-9780081001653" id="link1"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Figure 9.2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="fspara0015" view="all">Schematic view of PDADMAC binding sequence to poly-Si in an aqueous solution of PDADMAC.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f09-02-9780081001653" id="link2"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Figure 9.3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="fspara0020" view="all">Removal rates of poly-Si film as a function of pH on an IC1000 pad using pH-adjusted deionized (DI) water and aqueous solutions containing 250<ce:hsp sp="0.25"/>ppm of the polyelectrolytes <ce:cross-ref refid="bib2" id="crossref0015">[2]</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f09-03-9780081001653" id="link3"/>
+            </ce:figure>
+            <ce:figure id="f0025">
+               <ce:label>Figure 9.4</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="fspara0025" view="all">Schematic for the removal mechanism of undoped and doped poly-Si films in the presence of α-amine comprising additives <ce:cross-ref refid="bib5" id="crossref0020">[5]</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f09-04-9780081001653" id="link4"/>
+            </ce:figure>
+            <ce:figure id="f0030">
+               <ce:label>Figure 9.5</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="fspara0030" view="all">Comparison of conventional copper damascene CMP with the abrasive-free process <ce:cross-refs refid="bib7 bib8" id="crossrefs0010">[7,8]</ce:cross-refs>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f09-05-9780081001653" id="link5"/>
+            </ce:figure>
+            <ce:figure id="f0035">
+               <ce:label>Figure 9.6</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="fspara0035" view="all">Copper polish rates measured in slurry solutions of 0.065<ce:hsp sp="0.25"/>M oxalic acid and different concentrations of H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> with (shaded bars) and without (unshaded bars) 3<ce:hsp sp="0.25"/>wt% colloidal silica abrasives at pH 3.0 <ce:cross-ref refid="bib9" id="crossref0025">[9]</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f09-06-9780081001653" id="link6"/>
+            </ce:figure>
+            <ce:figure id="f0040">
+               <ce:label>Figure 9.7</ce:label>
+               <ce:caption id="cap0040">
+                  <ce:simple-para id="fspara0040" view="all">Copper disk polish rates as functions of pH, measured in (a) abrasive-free solutions and (b) abrasive-containing (3<ce:hsp sp="0.25"/>wt% colloidal silica) solutions of 0.065<ce:hsp sp="0.25"/>mol/dm<ce:sup loc="post">3</ce:sup> oxalic acid<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>5<ce:hsp sp="0.25"/>wt% H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> 
+                     <ce:cross-ref refid="bib10" id="crossref0030">[10]</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f09-07-9780081001653" id="link7"/>
+            </ce:figure>
+            <ce:figure id="f0045">
+               <ce:label>Figure 9.8</ce:label>
+               <ce:caption id="cap0045">
+                  <ce:simple-para id="fspara0045" view="all">Open-circuit potential curves of Cu in 0.065<ce:hsp sp="0.25"/>mol/dm<ce:sup loc="post">3</ce:sup> oxalic acid<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>5<ce:hsp sp="0.25"/>wt% H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>-based solutions at pH 1.4, 3.0, and 8.0. No abrasives added in the solution <ce:cross-ref refid="bib10" id="crossref0035">[10]</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f09-08-9780081001653" id="link8"/>
+            </ce:figure>
+            <ce:figure id="f0050">
+               <ce:label>Figure 9.9</ce:label>
+               <ce:caption id="cap0050">
+                  <ce:simple-para id="fspara0050" view="all">Open-circuit potential (OCP) curves during a polish–stop–polish cycle in 0.065<ce:hsp sp="0.25"/>mol/dm<ce:sup loc="post">3</ce:sup> oxalic acid<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>5<ce:hsp sp="0.25"/>wt% H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> with the addition of 3<ce:hsp sp="0.25"/>wt% colloidal silica at pH values 1.5, 3.0, and 8.0.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f09-09-9780081001653" id="link9"/>
+            </ce:figure>
+            <ce:figure id="f0055">
+               <ce:label>Figure 9.10</ce:label>
+               <ce:caption id="cap0055">
+                  <ce:simple-para id="fspara0055" view="all">Ru removal rates as a function of the abrasive wt% with 0.015 and 0.1<ce:hsp sp="0.25"/>M KIO<ce:inf loc="post">4</ce:inf> at pH 9 <ce:cross-ref refid="bib11" id="crossref0040">[11]</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f09-10-9780081001653" id="link10"/>
+            </ce:figure>
+            <ce:figure id="f0060">
+               <ce:label>Figure 9.11</ce:label>
+               <ce:caption id="cap0060">
+                  <ce:simple-para id="fspara0060" view="all">Effect of guanidine carbonate on the removal rates of both types of Ru films using 5<ce:hsp sp="0.25"/>wt% silica slurries with and without hydrogen peroxide at pH 9 <ce:cross-ref refid="bib12" id="crossref0045">[12]</ce:cross-ref>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f09-11-9780081001653" id="link11"/>
+            </ce:figure>
+            <ce:figure id="f0065">
+               <ce:label>Figure 9.12</ce:label>
+               <ce:caption id="cap0065">
+                  <ce:simple-para id="fspara0065" view="all">Ta disk polish rates as a function of solid content of abrasives at 6.3 and 2<ce:hsp sp="0.25"/>psi when the slurry contains 5<ce:hsp sp="0.25"/>wt% H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> and 0.13<ce:hsp sp="0.25"/>M oxalic acid at pH 3.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="f09-12-9780081001653" id="link12"/>
+            </ce:figure>
+         </ce:floats>
+         <ce:label>9</ce:label>
+         <ce:title id="title0010">Abrasive-free and ultra-low abrasive chemical mechanical polishing (CMP) processes</ce:title>
+         <ce:author-group id="augrp0010">
+            <ce:author id="au1">
+               <ce:given-name>N.K.</ce:given-name>
+               <ce:surname>Penta</ce:surname>
+            </ce:author>
+            <ce:affiliation id="aff1">
+               <ce:textfn id="textf0010">Dow Electronic Materials, Delaware, USA</ce:textfn>
+               <sa:affiliation>
+                  <sa:organization>Dow Electronic Materials</sa:organization>
+                  <sa:city>Delaware</sa:city>
+                  <sa:country>USA</sa:country>
+               </sa:affiliation>
+            </ce:affiliation>
+         </ce:author-group>
+         <ce:abstract xml:lang="en" view="extended" id="abs0010" class="author"><ce:abstract-sec id="abssec0010" view="all">
+               <ce:simple-para id="abspara0010" view="all">As the semiconductors industry changes, several novel materials are being introduced into the integration scheme both in the interconnect and transistor regions, and new chemical mechanical polishing/planarization (CMP) steps are being introduced. These novel CMP steps, along with traditional CMP steps such as copper and barrier, require unique slurry requirements for selectivity, purity, and defectivity, further demanding inventions and development of controlled polishing processes. These new requirements, along with the trend toward lower abrasives content and emphasis on the chemo component of CMP instead of mechanical aspects, are reshaping the abrasives industry. Ultra-low abrasive and abrasive-free CMP processes have several advantages for semiconductor wafer processing, such as absence of defects, better pad life, concentratability, and shelf life. In this chapter, several abrasive-free formulations developed for a number of CMP applications are reviewed. The challenges associated with developing abrasive-free CMP processes are also highlighted.</ce:simple-para>
+            </ce:abstract-sec></ce:abstract>
+         <ce:keywords xml:lang="en" view="extended" id="kwrds0010" class="keyword">
+            <ce:section-title id="cesectitle0015">Keywords</ce:section-title>
+            <ce:keyword id="kwrd0010">
+               <ce:text>Abrasive-free</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0015">
+               <ce:text>CMP</ce:text>
+            </ce:keyword>
+            <ce:keyword id="kwrd0020">
+               <ce:text>Slurries</ce:text>
+            </ce:keyword>
+         </ce:keywords>
+         <ce:sections>
+            <ce:section id="s0010" view="all">
+               <ce:label>9.1</ce:label>
+               <ce:section-title id="cesectitle0020">Introduction</ce:section-title>
+               <ce:para id="p0010" view="all">Chemical mechanical polishing (CMP) was first introduced into semiconductor manufacturing by IBM. It has now been transformed into an indispensable technology for modern semiconductor fabrication and large-scale wafer processing. CMP currently exists as a viable technology to create flat surfaces and achieve global planarization on topographies resulting from patterning (deposition, lithography, and etch). It is hard to achieve global planarization with any other technique, such as lithography, because of depth of focus loss and etch back. The latter technique results only in location planarization. It is a unique process that over the years has enabled chip makers to build multilayer interconnects, continuously drive the technology nodes to shrink to smaller dimensions, and incorporate billions of transistors.</ce:para>
+               <ce:para id="p0015" view="all">CMP, as the name implies, uses synergetic effects of chemical and mechanical interactions for polishing and planarizing surfaces. During this process, a semiconductor substrate is pressed against a polyurethane pad under applied downforce while both pad and substrate are rotated at high shear rates and the slurry is dispensed between pad and substrate. The grooves, pores, and texture of the pad enable uniform transportation of slurry between the wafer and the pad. Material removal occurs at the pad–abrasive contact. The process parameters, such as equipment and consumables (pad, backing film, conditioners, and slurry), are used to optimize CMP performances such as material removal rate, planarization, dishing, roughness, uniformity, and defectivity. One of the critical consumables that directly affect the CMP process and yield is slurry, which is typically a water dispersion containing colloidal nano-abrasives, soluble chemicals (polymers, surfactants, oxidizers, inhibitors, passivators, complexing agents), and pH adjusting agents. Slight changes in slurry properties due to contamination, trace metals, chemical degradation, abrasive content, or applied shear can change polish performance and impact yield. Correlation of slurry property measurements with evaluations of wafer polish rate, planarity, and defect provides insight into the root cause of degradation in polishing. The slurry is intended to cause material removal at the wafer–abrasive–pad contact through either controlled chemical etching accelerated by mechanical action or simply a mechanical wear of the substrate caused by the abrasives. Slurries require abrasives of different particle sizes and morphology. Colloidal silica abrasives are used for most applications because of their low cost of ownership, ease of manufacturing, and ease of handling. Ceria slurries are<ce:anchor id="p214"/> used for shallow trench isolation CMP over silica slurries because of their superior planarization capability and anility to stop on underlying nitride film with minimal dishing, which leads to a perfect flat surface.</ce:para>
+               <ce:para id="p0020" view="all">Most often abrasives are added to increase the polishing throughput; but they pose several disadvantages. During polishing, abrasives often cause scratches on the wafer that damage the electrical connections and device performance. These scratches can range from several angstroms to macroscratches. Hence, it is recommended to use additives that minimize scratches or eliminate the use of particles by developing abrasive-free slurries. There are numerous advantages with abrasive-free slurries. No extra effort is needed to stabilize the abrasive dispersion in these formulations. They do not require filtration or continuous mixing in the supply tank. Also, it is not essential to maintain a minimum flow velocity in the global distribution loop in order to avoid particle agglomeration.</ce:para>
+               <ce:para id="p0025" view="all">However, for several applications, it is impracticable to use completely abrasive-free formulations. Several attempts have been made to reduce solids content as low as possible. For example, conventional dielectric slurries contain 30<ce:hsp sp="0.25"/>wt% solids, which are later reduced to 12<ce:hsp sp="0.25"/>wt% solids. Recently, Cabot developed silica slurries that contain only 2<ce:hsp sp="0.25"/>wt% solids without sacrificing the polishing rates by using specially engineered silica particles <ce:cross-ref refid="bib1" id="crossref0050">[1]</ce:cross-ref>.</ce:para>
+               <ce:para id="p0030" view="all">In this chapter, the author investigates and discusses several abrasive-free formulations developed for different CMP applications. Learning how these formulation technologies were designed would help to solve CMP problems that are dynamically changing as the semiconductor industry grows. Even though developing abrasive-free formulations is an ongoing process and most of the CMP applications are still adding abrasives, the challenges associated with developing abrasive-free slurries are discussed.</ce:para>
+            </ce:section>
+            <ce:section id="s0015" view="all">
+               <ce:label>9.2</ce:label>
+               <ce:section-title id="cesectitle0025">Abrasive-free slurries for poly-Si CMP</ce:section-title>
+               <ce:para id="p0035" view="all">Polysilicon (poly-Si) films have been widely used as gate electrodes and interconnections in metal–oxide–semiconductor circuits, as a floating gate in negative-AND flash cells, as a sacrificial layer in the metal gate replacement technique during the fabrication of high-K metal gate metal–oxide–semiconductor field-effect transistor (MOSFET) devices, and as a structural element for movable parts in microelectromechanical systems because of their compatibility with subsequent high temperature processing, their excellent interface with thermal SiO<ce:inf loc="post">2</ce:inf>, their higher reliability than Al gate materials, and their ability to be deposited conformally over steep topographies. The shrinkage of devices below 45<ce:hsp sp="0.25"/>nm requires more stringent and newer CMP processes including poly-Si CMP during the development of 3D nonplanar fin field-effect transistor structures that were proposed to replace classical planar single gate MOSFET devices for reducing short channel effects and facilitating further scaling.</ce:para>
+               <ce:para id="p0040" view="all">Penta et al. <ce:cross-refs refid="bib2 bib3 bib4" id="crossrefs0015">[2–4]</ce:cross-refs> developed abrasive-free formulations using cationic and nonionic polymer additives at very low concentrations (250<ce:hsp sp="0.25"/>ppm) for polishing and planarizing poly-Si films. Even though corrosion rates in the presence of these polymers are negligible, the polycrystalline silicon material removal rates were as high as 600<ce:hsp sp="0.25"/>nm/min as shown in <ce:cross-ref refid="f0010" id="crossref0055">Figure 9.1(a) and (b)</ce:cross-ref>
+                  <ce:float-anchor refid="f0010"/>. The same polymer solutions that gave very high rates<ce:anchor id="p215"/> on IC1010 pads resulted in very low rates on the softer Politex™ pad—Politex is a trademark of Dow Chemical Company or its affiliates. They proposed that the polymer bridging with IC1010 pads is stronger than that on Politex pads due to a difference in the functional groups of the pad surfaces. Also, the surface texture of the Politex pad is softer than that of the IC1010 pad resulting in lower rates. These results suggest that a combination of pad and formulation can lead to tunable CMP of poly-Si films even without any abrasives. It is interesting to note that an addition of ceria particles did not boost the poly-Si removal rates in the presence of poly (diallyldimethylammonium chloride) (PDADMAC), indicating the significance of the polymer-driven removal mechanism.<ce:anchor id="p216"/>
+               </ce:para>
+               <ce:para id="p0045" view="all">The adsorption of the polymers onto poly-Si surfaces is driven by either electrostatic attraction or chemical interaction as shown in <ce:cross-ref refid="f0015" id="crossref0060">Figure 9.2</ce:cross-ref>
+                  <ce:float-anchor refid="f0015"/>. It is proposed here that, initially, the hydroxyl or chloride ions induce polarization between adjacent surface silicon atoms followed by the binding of the positively charged nitrogen atom of PDADMAC to the negative dipole through ion–dipole interactions as described between the pad and the polymer and between the Si surface and the polymer. A possible mode for this binding is the so-called bridging attraction that can occur between the poly-Si surface and the IC1000™ pad. IC1000 is a trademark of Dow Chemical Company or its affiliates. In the bridging attraction, molecules adsorbed on one surface attract the other surface, if there is a free adsorption spot in their proximity on the other surface. Hence, during CMP, PDADMAC molecules bound to the poly-Si surface are pulled by the IC1000 pad with the help of a bridging attraction.</ce:para>
+               <ce:para id="p0050" view="all">
+                  <ce:cross-ref refid="f0020" id="crossref0065">Figure 9.3</ce:cross-ref>
+                  <ce:float-anchor refid="f0020"/> shows the removal rate of poly-Si films using abrasive-free formulations containing various polymer compounds. A correlation between the charge density of<ce:anchor id="p217"/> the polymers and polishing rates was also discovered. As the positive charge density of the polymer increased, greater removal rates were observed due to stronger bridging of the polymer between the Si surfaces and the polishing pad. Therefore, since the charge densities exhibited by each polymer can be categorized in the sequence as follows:<ce:display>
+                     <ce:formula id="fd1">
+                        <ce:chem>PDADMAC/PDEE/PAAm/PEI<ce:hsp sp="0.25"/>&gt;<ce:hsp sp="0.25"/>PAA-DADMAC<ce:hsp sp="0.25"/>&gt;<ce:hsp sp="0.25"/>PAA,</ce:chem>
+                     </ce:formula>
+                  </ce:display>
+               </ce:para>
+               <ce:para id="p0055" view="all">It is also suggested that the pull-off forces and, hence, the strength of the bridging interaction between the pad and the film surfaces caused by these polymers also follow the same sequence.</ce:para>
+               <ce:para id="p0060" view="all">Dandu et al. <ce:cross-ref refid="bib5" id="crossref0070">[5]</ce:cross-ref> developed abrasive-free formulations using amine and amino acids compounds. The mechanism for the poly-Si removal rate enhancement relied upon the addition of α-amines or amino acids as described in <ce:cross-ref refid="f0025" id="crossref0075">Figure 9.4</ce:cross-ref>
+                  <ce:float-anchor refid="f0025"/>. The additives adsorb on the poly-Si surfaces, polarize and weaken the underlying Si–Si, and accelerate the formation of suboxide, both leading to high material removal.</ce:para>
+               <ce:para id="p0065" view="all">Kang et al. <ce:cross-ref refid="bib6" id="crossref0080">[6]</ce:cross-ref> studied the effect of slurry pH during polishing of silicon wafer and polycrystalline silicon films using abrasive-free and silica slurries to understand and compare the polishing mechanism of silicon. They noticed that the poly-Si CMP process was strongly influenced by mechanical factors; however, bare silicon wafer polishing was influenced more by chemical effects.<ce:anchor id="p218"/>
+               </ce:para>
+            </ce:section>
+            <ce:section id="s0020" view="all">
+               <ce:label>9.3</ce:label>
+               <ce:section-title id="cesectitle0030">Abrasive-free processes for the Cu damascene CMP process</ce:section-title>
+               <ce:para id="p0070" view="all">CMP is well established primarily for planarization of Cu/SiO<ce:inf loc="post">2</ce:inf> systems. However, recently, the dielectric insulator that separates the interconnector metal (Cu) lines was replaced by low-k dielectric material to improve the speed and achieve higher performance of a microelectronic device by reducing the resistance–capacitance (RC) delay in the interconnects between the transistors. Examples of low-k materials are SiCOH-based materials and Black Diamond dielectric—Black Diamond™ is a trademark of Applied Materials. The introduction of low-k dielectric materials as the interlayer dielectric presented a large number of new challenges for the successful integration of Cu/low-k materials. The low-k materials are mechanically weak and may contain significant levels of porosity. As such, these low-k materials are permeable, and are susceptible to both chemical and mechanical damage. Thus, there is a need for a gentler CMP process with low downforce, low relative velocity, soft pad, and slurry with no abrasive content. In other words, the mechanical forces should be reduced and chemical actions of the slurry should be increased. There is considerable interest in developing abrasive-free formulations for Cu CMP that could help to further improve across-wafer uniformity of planarization, defect density, etc. This requires a better understanding of the role of different chemical constituents and pH of the Cu CMP slurry. A comparison of a conventional CMP process with the abrasive-free CMP process is shown in <ce:cross-ref refid="f0030" id="crossref0085">Figure 9.5</ce:cross-ref>
+                  <ce:float-anchor refid="f0030"/> 
+                  <ce:cross-refs refid="bib7 bib8" id="crossrefs0020">[7,8]</ce:cross-refs>.<ce:anchor id="p219"/>
+               </ce:para>
+               <ce:para id="p0075" view="all">The abrasive-free slurry approach relies on modification of the Cu-oxide layer to a copper complex layer with different chemical and mechanical properties that facilitate removal without assistance from abrasives. The abrasive-free polishing solutions are complex, and optimization requires understanding the impact of each component (oxidizer, complexing agent, corrosion inhibitor, and pH adjustor) on the Cu-complex formation and defectivity.</ce:para>
+               <ce:para id="p0080" view="all">Several abrasive-free formulations were developed for planarizing and clearing copper films and stop on the underlying barrier films with minimal dishing and erosion.</ce:para>
+               <ce:para id="p0085" view="all">For example, US Patent 65612883 (Kondo) describes an abrasive-free polishing solution comprising an oxidizer (hydrogen peroxide), a substance that renders a metal oxide water soluble known as a complexing agent (organic acids, mainly hydroxycarboxylic acids, such as citric acid, etc.), a thickener, and water. This composition is suitable for polishing the metal film at a high removal rate with suppressed scratching, delamination, dishing, and erosion. The thickeners are the compounds having a carboxyl group and a phosphate group, and especially polymers such as polyacrylic acid, polymethacrylic acid, and polyvinylpyrrolidone, etc. They proposed that these polymers initially adsorb on the surface of the copper films and protect both convex and concave parts of the metal films. The convex part of the metal film is preferentially mechanically polished by the polishing pad removing the protective polymer film and exposing the metal film. The metal film exposed to the polishing solution is oxidized by the oxidizer and, subsequently, the oxide layer is dissolved after complexion with oxide water-soluble compounds. The portion where thickness of the oxide layer has decreased is again exposed to the oxidizer, which results in an increase in thickness of the oxide layer. While these reactions repeat, the CMP process progresses. These repeated reactions of oxidation/water solubilization progresses more rapidly in convex areas than those in the concave part, which is protected by the polymer film. As a result, the removal rate is higher in the convex part than that in the concave part, so that planarization progresses and eventually dishing is controlled at the end of the polishing.</ce:para>
+               <ce:para id="p0090" view="all">US Patent 6562719 (Kondo) further describes the use of ethanol, isopropyl alcohol, ethylene glycol, and methyl ethyl ketone in abrasive-free polishing compositions that do not contain abrasive. These compounds were added to increase the solubility of benzotriazole (BTA), an inhibitor.</ce:para>
+               <ce:para id="p0095" view="all">US Patent 6632259 (Ghosh and Weinstein) describes the use of an abrasive-free formulation containing metal oxidizer, inhibitor, complexing agent, and engineered copolymers. The copolymers were derived from a mixture comprising acrylic acid monomer and methacylic acid monomer at a mole ratio of acrylic acid monomer to methacrylic acid monomer of about 1:20 to about 20:1. These compositions provide enhanced removal (3000–5000<ce:hsp sp="0.25"/>Å/min) and clearing of overburden copper metal while minimizing the removal of copolymers from recessed areas through contact-mediated reactions between the polishing pad surface and the substrate surface during CMP, and thus minimizing the dishing. Also, the use of nonabrasive composition eliminates erosion. The engineered copolymer molecules comprise a first moiety having at least one hydrophilic functional group such as carboxyl, hydroxyl, halogen, phosphonate, phosphate, sulfonate, sulfate, nitro, and the like and a second moiety that is less<ce:anchor id="p220"/> hydrophilic than the first moiety. The second moiety can comprise one or more hydrophobic functional groups. The first moiety of the engineered copolymer molecules binds with the substrate surface (preferably coordinate covalent bonds). The second moiety of the engineered copolymer molecules often provides structural rigidity to the engineered copolymer molecules and can also enable interaction of the engineered copolymer molecules with the polishing pad surface.</ce:para>
+               <ce:para id="p0100" view="all">US Patent 7086935 (Wang) describes the use of an abrasive-free copper formulation containing a water miscible organic solvent (alcohol and ketones), water-soluble cellulose modified with carboxylic acid functionality (carboxy methyl cellulose), an acrylic acid/methacrylic acid copolymer, BTA, hydrogen peroxide (oxidizer), optional phosphorous-containing compounds and complexing agents, and water for patterned wafers. The advantage of the phosphorous-containing compounds is to increase the polish rate at the low polishing downforces even at a trace amount of addition. The formulation taught and described by Wang is capable of removing and clearing copper with improved dishing control (∼300<ce:hsp sp="0.25"/>Å) as well as rapid polish rates (∼2000<ce:hsp sp="0.25"/>Å/min) without dropping the polishing throughput significantly. However, this formulation produced green Cu-BTA compound precipitates on the polishing pad and wafer. These precipitates require a post-polishing cleaning of the polishing pad to avoid a decrease in polishing removal rate associated with the gum-like precipitate; they also require a post-polishing cleaning of the wafer to avoid any defect creation. Such additional cleaning steps require strong and costly cleaning compounds and have an associated “cost of ownership” arising from the delayed wafer throughput.</ce:para>
+               <ce:para id="p0105" view="all">US Patent 8540893 (Ghosh et al.) describes an abrasive-free copper formulation that would provide significant copper removal rates, with metal clearing and low dishing while minimizing precipitation. The formulation contains a copolymer of poly(ethylene glycol)methyl ether (meth)acrylate and 1-vinylimidazole, a water-soluble acid, along with an oxidizer (H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>), inhibitor for copper interconnect metal (BTA), water-soluble modified cellulose (carboxymethylcellulose), optional complexing agent and phosphorous compounds, and balanced water. The composition has an acidic pH. The water-soluble acid compound reduces the green staining associated with the Cu-BTA precipitate.</ce:para>
+               <ce:para id="p0110" view="all">US Patent 8440097 describes an abrasive-free formulation that is stable, concentratable (&gt;8×) and cellulose free, comprising an azole inhibitor (BTA), an alkali metal-organic surfactant, hydrotrope, a phosphorus-containing agent, an oxidizer, optional water-soluble nonsaccharide polymer, optional complexing agent, and water. The concentratability mainly depends on the solubility limits of BTA in water. The alkali metal surfactants and hydrotropes help increase the solubility of the BTA and Cu-BTA precipitates that form during polishing.</ce:para>
+               <ce:para id="p0115" view="all">Pandija et al. <ce:cross-refs refid="bib9 bib10" id="crossrefs0025">[9,10]</ce:cross-refs> studied aqueous solutions of oxalic acid (OA) and hydrogen peroxide as possible abrasive-free formulations for CMP of Cu and showed that the addition of colloidal silica abrasive particles has no measurable effects on the polish rates of Cu as shown in <ce:cross-ref refid="f0035" id="crossref0090">Figure 9.6</ce:cross-ref>
+                  <ce:float-anchor refid="f0035"/>. The OA functions as a complexing agent that dissolves the copper oxides formed on the copper surface in the presence of an oxidizer, H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>. The complexing agent was very active at very low pH values due to favorable electrochemical reactions.<ce:anchor id="p221"/>
+               </ce:para>
+               <ce:para id="p0120" view="all">The data suggest that chemical rather than mechanical effects dominate the removal of Cu surface layers in this system. The Cu removal efficiency of this slurry can be controlled by adjusting its acidity and H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> content.</ce:para>
+               <ce:para id="p0125" view="all">
+                  <ce:cross-ref refid="f0040" id="crossref0095">Figure 9.7</ce:cross-ref>
+                  <ce:float-anchor refid="f0040"/> shows the comparison of polish rates of Cu in abrasive-free and abrasive-containing (3<ce:hsp sp="0.25"/>wt% colloidal silica, ∼50<ce:hsp sp="0.25"/>nm) solutions of 0.065<ce:hsp sp="0.25"/>mol/dm<ce:sup loc="post">3</ce:sup> OA<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>5<ce:hsp sp="0.25"/>wt% H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> as a function of pH. The polish rates with and without the abrasive particles were similar at pH<ce:hsp sp="0.25"/>≥<ce:hsp sp="0.25"/>3, but the rates were significantly different in the presence and absence<ce:anchor id="p222"/> of abrasive at lower pH values. Such a removal rate dependence on pH and the abrasive's effects was clearly explained by the open-circuit potential (OCP) data under polishing and no polishing conditions (<ce:cross-ref refid="f0045" id="crossref0100">Figure 9.8</ce:cross-ref>
+                  <ce:float-anchor refid="f0045"/>).</ce:para>
+               <ce:para id="p0130" view="all">
+                  <ce:cross-ref refid="f0045" id="crossref0105">Figure 9.8</ce:cross-ref> shows the OCP curves during a polish–stop–polish cycle of 3<ce:hsp sp="0.25"/>min each in 0.065<ce:hsp sp="0.25"/>mol/dm<ce:sup loc="post">3</ce:sup> OA<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>5<ce:hsp sp="0.25"/>wt% H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> at pH values 1.4, 3.0, and 8.0. In the case of natural pH (1.4), the abrupt increase in the OCP value of copper indicated a rapid growth of a surface-modified film once polishing stopped. This film could not be easily abraded by the polishing pad and required some mechanical action from abrasives to continue polishing. This is evident from the large difference in the polish rates at natural pH with and without abrasives (<ce:cross-ref refid="f0040" id="crossref0110">Figure 9.7</ce:cross-ref>). At pH 3.0, the smaller increase in the OCP potential when the polishing was stopped implied a thinner modified surface film on copper, while the drastic drop after polishing recommenced suggests a rapid and easy removal of this film from the surface. No significant change was observed in the OCP values for copper in the slurry at pH 8.0 during polishing as well as static conditions. This suggests that a modified film was always present on the surface of copper and the film formation rate was higher than the film removal rate. Moreover, the modified film on the surface of copper at pH 8.0 may be hard and less reactive and may not be removed completely during polishing. The very low polish rate of copper with the solution at pH 8.0 (<ce:cross-ref refid="f0040" id="crossref0115">Figure 9.7</ce:cross-ref>) supports this argument.</ce:para>
+               <ce:para id="p0135" view="all">
+                  <ce:cross-ref refid="f0050" id="crossref0120">Figure 9.9</ce:cross-ref>
+                  <ce:float-anchor refid="f0050"/> shows the OCP curves during a polish–stop– polish cycle in 0.065<ce:hsp sp="0.25"/>mol/dm<ce:sup loc="post">3</ce:sup> OA<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>5<ce:hsp sp="0.25"/>wt% H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> with the addition of 3<ce:hsp sp="0.25"/>wt% colloidal silica at pH values 1.5, 3.0, and 8.0. At both pH 1.5 and pH 3.0, the increase in the OCP value was nearly the same when the polishing was stopped. This implies the presence of a similar type of modified surface film on copper substrate that can be easily abraded by the mechanical action of the pad and the abrasives. No significant change was observed in the OCP values for copper in the slurry at pH 8.0 similar to what was observed in <ce:cross-ref refid="f0045" id="crossref0125">Figure 9.8</ce:cross-ref>.<ce:anchor id="p223"/>
+               </ce:para>
+            </ce:section>
+            <ce:section id="s0025" view="all">
+               <ce:label>9.4</ce:label>
+               <ce:section-title id="cesectitle0035">Abrasive-free formulations and role of abrasives for barrier CMP</ce:section-title>
+               <ce:para id="p0140" view="all">Tantalum (Ta) and tantalum nitride (TaN) are particularly suitable materials for use in the damascene process as adhesion-promoting and/or diffusion barrier layers for copper-based devices. However, the properties of Ta and of TaN differ from those of copper, being considerably more chemically inert, such that abrasive-free polishing compositions useful for the polishing of copper are often unsuitable for the removal of underlying Ta and TaN. Hence, independent chemistries are often developed to clear Ta/TaN without further dishing of interconnect metal (Cu) or dielectric loss.</ce:para>
+               <ce:para id="p0145" view="all">US Patent 7491252 describes a CMP solution for removing a Ta barrier material comprising oxidizer, inhibitor for a nonferrous metal, complexing agent for the nonferrous metal, Ta removal agent selected from formamidine, formamidine salts, formamidine derivatives, guanidine derivatives, and/or guanidine salts. This CMP solution polishes Ta barrier materials at very high rates (∼2000<ce:hsp sp="0.25"/>Å/min) with reduced dielectric erosion and reduced dishing, erosion, and scratching of the metal interconnect. It can also remove Ta barrier materials without peeling low-k dielectric layers from semiconductor wafers.</ce:para>
+               <ce:para id="p0150" view="all">US Patents 7241725 and 7767581 describe abrasive-free polishing fluids for removing Ta-containing barrier layers. The polishing fluid contains inhibitor for reducing the removal of an interconnect metal, oxidizing agent, complexing agent, and mainly nitrogen-containing compounds having at least two nitrogen atoms comprising imine and hydrazine compounds. For example, the imine compounds were chosen from 1,3-diphenyl guanidine, guanidine hydrochloride, tetramethylguanidine, formamidine acetate, or acetamidine hydrochloride, and the hydrazine compounds were chosen from carbohydrazide, acetic hydrazide, semicarbazide hydrochloride, or<ce:anchor id="p224"/> formic hydrazide. These compounds were shown to accelerate the Ta/TaN material removal rate (∼2000<ce:hsp sp="0.25"/>Å/min) but do not polish either dielectric or interconnect metal, thus helping erosion and dishing control. It is not understood how these nitrogen-containing compounds were able to accelerate the Ta rates.</ce:para>
+               <ce:para id="p0155" view="all">US Patent 8551202 from Cabot Microelectronics describes ultra-low abrasive-containing slurry formulation (0.25%) for accelerating Ta removal rates. The slurry contains iodate ion, a nitrogen-containing compound comprising nitrogen-containing 4-20C heterocycle or 1-20C alkylamine, and a liquid carrier comprising water. The pH of the polishing composition is 1–5. Iodate ions function as oxidizing agents. The author found that the removal rates of Ta and Cu are greater for the compositions comprising a nitrogen-containing compound and iodate ions and further showed that there is synergism between iodate and nitrogen-containing compounds, such as BTA, for enhancing Ta removal rates. However, the synergy further needs to be investigated to understand the reaction mechanism at the Ta and Cu surfaces. Similar rates of enhancement of both copper and tantalum metals were observed in the presence of 9,10-anthraquinone-1,5-disulfonic acid and potassium iodate as described in US Patent 8529680.</ce:para>
+               <ce:para id="p0160" view="all">Brown et al. <ce:cross-ref refid="bib11" id="crossref0130">[11]</ce:cross-ref> developed a slurry formulation containing potassium periodate, an oxidizer, and silica abrasives for polishing ruthenium (Ru) films at pH 9. Using silica slurries (1–5<ce:hsp sp="0.25"/>wt%) without any oxidizer, the polish rates of Ru films were close to 0<ce:hsp sp="0.25"/>nm/min suggesting that the mechanical action from abrasives was not strong enough to abrade the Ru surface due to its relative hardness compared to silica abrasives. Also, using an abrasive-free solution of potassium periodate (0.01–0.1<ce:hsp sp="0.25"/>M), the removal rates were also quite low despite the electrochemical reactions at Ru surface.</ce:para>
+               <ce:para id="p0165" view="all">Potassium periodate oxidizes the Ru surface into Ru oxides, such as RuO<ce:inf loc="post">4</ce:inf>, RuO<ce:inf loc="post">4</ce:inf>
+                  <ce:sup loc="post">−</ce:sup>, and RuO<ce:inf loc="post">4</ce:inf>
+                  <ce:sup loc="post">2−</ce:sup>, as shown in the reaction equations below:<ce:display>
+                     <ce:formula id="fd2">
+                        <mml:math altimg="si1.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:mtext>Ru</mml:mtext>
+                              <mml:mo>+</mml:mo>
+                              <mml:msup>
+                                 <mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mo>[</mml:mo>
+                                       <mml:mrow>
+                                          <mml:msub>
+                                             <mml:mrow>
+                                                <mml:mtext>IO</mml:mtext>
+                                             </mml:mrow>
+                                             <mml:mn>4</mml:mn>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                       <mml:mo>]</mml:mo>
+                                    </mml:mrow>
+                                 </mml:mrow>
+                                 <mml:mo>−</mml:mo>
+                              </mml:msup>
+                              <mml:mo>=</mml:mo>
+                              <mml:msub>
+                                 <mml:mrow>
+                                    <mml:mtext>RuO</mml:mtext>
+                                 </mml:mrow>
+                                 <mml:mn>4</mml:mn>
+                              </mml:msub>
+                              <mml:mo>+</mml:mo>
+                              <mml:msup>
+                                 <mml:mtext>I</mml:mtext>
+                                 <mml:mo>−</mml:mo>
+                              </mml:msup>
+                              <mml:mrow>
+                                 <mml:mo>(</mml:mo>
+                                 <mml:mrow>
+                                    <mml:mtext>pH</mml:mtext>
+                                    <mml:mo>≤</mml:mo>
+                                    <mml:mn>7</mml:mn>
+                                 </mml:mrow>
+                                 <mml:mo>)</mml:mo>
+                              </mml:mrow>
+                           </mml:mrow>
+                        </mml:math>
+                     </ce:formula>
+                  </ce:display>
+                  <ce:display>
+                     <ce:formula id="fd3">
+                        <mml:math altimg="si2.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:mi mathvariant="normal">Ru</mml:mi>
+                              <mml:mo>+</mml:mo>
+                              <mml:msup>
+                                 <mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mo>[</mml:mo>
+                                       <mml:mrow>
+                                          <mml:mi mathvariant="normal">I</mml:mi>
+                                          <mml:msub>
+                                             <mml:mi mathvariant="normal">O</mml:mi>
+                                             <mml:mn>4</mml:mn>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                       <mml:mo>]</mml:mo>
+                                    </mml:mrow>
+                                 </mml:mrow>
+                                 <mml:mo>−</mml:mo>
+                              </mml:msup>
+                              <mml:mo>+</mml:mo>
+                              <mml:mn>2</mml:mn>
+                              <mml:mi mathvariant="normal">O</mml:mi>
+                              <mml:msup>
+                                 <mml:mi mathvariant="normal">H</mml:mi>
+                                 <mml:mo>−</mml:mo>
+                              </mml:msup>
+                              <mml:mo>=</mml:mo>
+                              <mml:msup>
+                                 <mml:mrow>
+                                    <mml:mo>[</mml:mo>
+                                    <mml:mi mathvariant="normal">Ru</mml:mi>
+                                    <mml:msub>
+                                       <mml:mi mathvariant="normal">O</mml:mi>
+                                       <mml:mn>4</mml:mn>
+                                    </mml:msub>
+                                    <mml:mo>]</mml:mo>
+                                 </mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mn>2</mml:mn>
+                                    <mml:mo>−</mml:mo>
+                                 </mml:mrow>
+                              </mml:msup>
+                              <mml:mo>+</mml:mo>
+                              <mml:msub>
+                                 <mml:mi mathvariant="normal">H</mml:mi>
+                                 <mml:mn>2</mml:mn>
+                              </mml:msub>
+                              <mml:mi mathvariant="normal">O</mml:mi>
+                              <mml:mo>+</mml:mo>
+                              <mml:mrow>
+                                 <mml:mo>(</mml:mo>
+                                 <mml:mrow>
+                                    <mml:mfrac>
+                                       <mml:mn>1</mml:mn>
+                                       <mml:mn>2</mml:mn>
+                                    </mml:mfrac>
+                                 </mml:mrow>
+                                 <mml:mo>)</mml:mo>
+                              </mml:mrow>
+                              <mml:msub>
+                                 <mml:mi mathvariant="normal">O</mml:mi>
+                                 <mml:mn>2</mml:mn>
+                              </mml:msub>
+                              <mml:mo>+</mml:mo>
+                              <mml:msup>
+                                 <mml:mi mathvariant="normal">I</mml:mi>
+                                 <mml:mo>−</mml:mo>
+                              </mml:msup>
+                              <mml:mrow>
+                                 <mml:mo>(</mml:mo>
+                                 <mml:mrow>
+                                    <mml:mtext>pH</mml:mtext>
+                                    <mml:mo>∼</mml:mo>
+                                    <mml:mn>8</mml:mn>
+                                    <mml:mspace width="0.25em"/>
+                                    <mml:mi mathvariant="normal">to</mml:mi>
+                                    <mml:mspace width="0.25em"/>
+                                    <mml:mn>14</mml:mn>
+                                 </mml:mrow>
+                                 <mml:mo>)</mml:mo>
+                              </mml:mrow>
+                           </mml:mrow>
+                        </mml:math>
+                     </ce:formula>
+                  </ce:display>
+                  <ce:display>
+                     <ce:formula id="fd4">
+                        <mml:math altimg="si3.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:mn>4</mml:mn>
+                              <mml:msup>
+                                 <mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mo>[</mml:mo>
+                                       <mml:mrow>
+                                          <mml:msub>
+                                             <mml:mrow>
+                                                <mml:mtext>RuO</mml:mtext>
+                                             </mml:mrow>
+                                             <mml:mn>4</mml:mn>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                       <mml:mo>]</mml:mo>
+                                    </mml:mrow>
+                                 </mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mo>−</mml:mo>
+                                 </mml:mrow>
+                              </mml:msup>
+                              <mml:mo>+</mml:mo>
+                              <mml:mn>4</mml:mn>
+                              <mml:msup>
+                                 <mml:mtext>OH</mml:mtext>
+                                 <mml:mo>−</mml:mo>
+                              </mml:msup>
+                              <mml:mo>=</mml:mo>
+                              <mml:mn>4</mml:mn>
+                              <mml:msup>
+                                 <mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mo>[</mml:mo>
+                                       <mml:mrow>
+                                          <mml:msub>
+                                             <mml:mrow>
+                                                <mml:mtext>RuO</mml:mtext>
+                                             </mml:mrow>
+                                             <mml:mn>4</mml:mn>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                       <mml:mo>]</mml:mo>
+                                    </mml:mrow>
+                                 </mml:mrow>
+                                 <mml:mrow>
+                                    <mml:mn>2</mml:mn>
+                                    <mml:mo>−</mml:mo>
+                                 </mml:mrow>
+                              </mml:msup>
+                              <mml:mo>+</mml:mo>
+                              <mml:mn>2</mml:mn>
+                              <mml:msub>
+                                 <mml:mi mathvariant="normal">H</mml:mi>
+                                 <mml:mn>2</mml:mn>
+                              </mml:msub>
+                              <mml:mi mathvariant="normal">O</mml:mi>
+                              <mml:mo>+</mml:mo>
+                              <mml:msub>
+                                 <mml:mtext>O</mml:mtext>
+                                 <mml:mn>2</mml:mn>
+                              </mml:msub>
+                              <mml:mrow>
+                                 <mml:mo>(</mml:mo>
+                                 <mml:mrow>
+                                    <mml:mtext>pH</mml:mtext>
+                                    <mml:mo>∼</mml:mo>
+                                    <mml:mn>8</mml:mn>
+                                    <mml:mspace width="0.25em"/>
+                                    <mml:mtext>to</mml:mtext>
+                                    <mml:mspace width="0.25em"/>
+                                    <mml:mn>14</mml:mn>
+                                 </mml:mrow>
+                                 <mml:mo>)</mml:mo>
+                              </mml:mrow>
+                           </mml:mrow>
+                        </mml:math>
+                     </ce:formula>
+                  </ce:display>
+               </ce:para>
+               <ce:para id="p0170" view="all">However, the addition of silica abrasives to a potassium periodate-containing solution increased the polish rates (as shown in <ce:cross-ref refid="f0055" id="crossref0135">Figure 9.10</ce:cross-ref>
+                  <ce:float-anchor refid="f0055"/>), which indicates that Ru and per-Ru oxides formed at this pH were easily removed by the mechanical action of the abrasives, but hard enough to be removed by the polishing pad. These results suggest that weakening of the film surface by the additives in the abrasive-free solutions was very critical for material removal by the polishing pad alone.</ce:para>
+               <ce:para id="p0175" view="all">Similarly, Amanapu et al. <ce:cross-ref refid="bib12" id="crossref0140">[12]</ce:cross-ref> developed slurry formulation containing hydrogen peroxide (oxidizer), guanidine carbonate (complexing agent), and silica abrasives for polishing Ru films at pH 9. The removal rates of Ru, TiN, and Ta/TaN films are shown in <ce:cross-ref refid="f0060" id="crossref0145">Figure 9.11</ce:cross-ref>
+                  <ce:float-anchor refid="f0060"/>. The removal rates of Ru films are very low even in the presence of an oxidizer and silica abrasives. However, an addition of guanidine carbonate<ce:anchor id="p225"/> enhanced the removal rates of Ru films. It is argued that guanidine carbonate forms complexes with the Ru oxides and weakens the surface, which can be easily polished by the mechanical action of abrasives but, again, can be hard to remove by the polishing pad itself.<ce:anchor id="p226"/>
+               </ce:para>
+               <ce:para id="p0180" view="all">Similar abrasive effects were also observed in the development of slurry formulations for Ta CMP. Janjam et al. <ce:cross-ref refid="bib13" id="crossref0150">[13]</ce:cross-ref> investigated formulations containing OA as a complexing agent along with hydrogen peroxide as an oxidizer and silica abrasives in the acidic pH. The removal rates are shown in <ce:cross-ref refid="f0065" id="crossref0155">Figure 9.12</ce:cross-ref>
+                  <ce:float-anchor refid="f0065"/>. The removal rate of Ta without OA and hydrogen peroxide are low using silica slurries whereas the removal rates of Ta disks using abrasive-free solutions containing OA and hydrogen peroxide are also low at both downforces 2 and 6.3<ce:hsp sp="0.25"/>psi. Addition of silica abrasives to OA and H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> enhanced the Ta rates at both downforces, indicating that the chemically promoted polishing of Ta through the formation of soluble/weakly soluble Ta–oxalate complexes followed by mechanical removal of the structurally weakened layers was weak, but not weak enough to be removed by the polishing pad alone.</ce:para>
+               <ce:para id="p0185" view="all">It is proposed that the presence of H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> in the OA slurries increases the amounts of Ta<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">5</ce:inf> present on the sample surface. These oxidation steps could involve multiple steps with the net reaction having the form 2Ta<ce:inf loc="post">2</ce:inf>N<ce:hsp sp="0.25"/>+ 5H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf> ↔ Ta<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">5</ce:inf>
+                  <ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>5H<ce:inf loc="post">2</ce:inf>O<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>2TaN. These Ta oxides would serve as catalytic sites for the disintegration of H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>, and unstable species generated in this process could generate Ta(OH)<ce:inf loc="post">5</ce:inf> from Ta<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">5</ce:inf> on the Ta surface. The formation of Ta(OH)<ce:inf loc="post">5</ce:inf> would lead to further production of weak Ta–oxalate complexes and hence would boost the sample polish rates under these conditions.</ce:para>
+               <ce:para id="p0190" view="all">These studies suggest that similar bridging mechanisms exploited during CMP of poly-Si film or surface-weakening mechanisms using appropriate complexing agents during Cu CMP could be useful to enable abrasive-free CMP processes in these applications.</ce:para>
+            </ce:section>
+            <ce:section id="s0030" view="all">
+               <ce:label>9.5</ce:label>
+               <ce:section-title id="cesectitle0040">Future trends</ce:section-title>
+               <ce:para id="p0195" view="all">There has always been constant interest and effort in developing abrasive-free slurries for almost all the CMP applications due to their nonuse of abrasives and potentiality to eliminate any defects and scratches. Even though the defectivity from scratches was acceptable in older technology nodes, it will be detrimental to the device performance<ce:anchor id="p227"/> and also reduces the device yield exponentially as the transistor size shrinks. Using abrasive-free aqueous solutions during CMP can eliminate contaminants, mobile ions, and various defects, scratches, and structural damage to the surface that can be caused by abrasives, and at the same time potentially lower the cost of ownership.</ce:para>
+            </ce:section>
+         </ce:sections>
+         <ce:bibliography id="cebib0010" view="all">
+            <ce:section-title id="s0035">References</ce:section-title>
+            <ce:bibliography-sec id="cebibsec0010" view="all">
+               <ce:bib-reference id="bib1">
+                  <ce:label>[1]</ce:label>
+                  <sb:reference id="ref0010">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>S.</ce:given-name>
+                              <ce:surname>Grumbine</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>M.</ce:given-name>
+                              <ce:surname>Cavanaugh</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>M.</ce:given-name>
+                              <ce:surname>Willhoff</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>E.</ce:given-name>
+                              <ce:surname>Shen</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:edited-book>
+                           <sb:title>
+                              <sb:maintitle>19th International Symposium on Chemical–Mechanical Planarization (CMP), Albany, NY</sb:maintitle>
+                           </sb:title>
+                           <sb:date>2014</sb:date>
+                        </sb:edited-book>
+                     </sb:host>
+                  </sb:reference>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib2">
+                  <ce:label>[2]</ce:label>
+                  <sb:reference id="ref0015">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>N.K.</ce:given-name>
+                              <ce:surname>Penta</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>P.R.</ce:given-name>
+                              <ce:surname>Dandu Veera</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>S.V.</ce:given-name>
+                              <ce:surname>Babu</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Role of Poly(diallyldimethylammonium chloride) in selective polishing of polysilicon over silicon dioxide and silicon nitride films</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Langmuir</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>27</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2011</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>3502</sb:first-page>
+                           <sb:last-page>3510</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib3">
+                  <ce:label>[3]</ce:label>
+                  <sb:reference id="ref0020">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>N.K.</ce:given-name>
+                              <ce:surname>Penta</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>P.R.</ce:given-name>
+                              <ce:surname>Dandu Veera</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>S.V.</ce:given-name>
+                              <ce:surname>Babu</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Charge density and pH effects on polycation adsorption on poly-Si, SiO<ce:inf loc="post">2</ce:inf>, and Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> films and impact on removal during chemical mechanical polishing</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>ACS Appl. Mater. Interfaces</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>3</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2011</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>4126</sb:first-page>
+                           <sb:last-page>4132</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib4">
+                  <ce:label>[4]</ce:label>
+                  <sb:reference id="ref0025">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>N.K.</ce:given-name>
+                              <ce:surname>Penta</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>J.B.</ce:given-name>
+                              <ce:surname>Matovu</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>P.R.</ce:given-name>
+                              <ce:surname>Dandu Veera</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>S.</ce:given-name>
+                              <ce:surname>Krishnan</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>S.V.</ce:given-name>
+                              <ce:surname>Babu</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Role of polycation adsorption in poly-Si, SiO<ce:inf loc="post">2</ce:inf> and Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> removal during chemical mechanical polishing: effect of polishing pad surface chemistry, colloids and surfaces A</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Physicochem. Eng. Aspects</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>388</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2011</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>21</sb:first-page>
+                           <sb:last-page>28</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib5">
+                  <ce:label>[5]</ce:label>
+                  <sb:reference id="ref0030">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>P.R.</ce:given-name>
+                              <ce:surname>Dandu Veera</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>N.K.</ce:given-name>
+                              <ce:surname>Penta</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>B.C.</ce:given-name>
+                              <ce:surname>Peethala</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>S.V.</ce:given-name>
+                              <ce:surname>Babu</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>J. Colloid Interface Sci.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>348</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2010</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>114</sb:first-page>
+                           <sb:last-page>118</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib6">
+                  <ce:label>[6]</ce:label>
+                  <sb:reference id="ref9000">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>Y-J.</ce:given-name>
+                              <ce:surname>Kang</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>B-K.</ce:given-name>
+                              <ce:surname>Kang</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>J-G.</ce:given-name>
+                              <ce:surname>Park</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>Y-K.</ce:given-name>
+                              <ce:surname>Hong</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>S-Y.</ce:given-name>
+                              <ce:surname>Han</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>S-K.</ce:given-name>
+                              <ce:surname>Yun</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>B-U.</ce:given-name>
+                              <ce:surname>Yoon</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>C-K.</ce:given-name>
+                              <ce:surname>Hong</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Effect of Slurry PH on Poly Silicon CMP, International Conference on Planarization/CMP Technology</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Dresden, Germany</sb:maintitle>
+                              </sb:title>
+                           </sb:series>
+                           <sb:date>2007</sb:date>
+                        </sb:issue>
+                     </sb:host>
+                  </sb:reference>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib7">
+                  <ce:label>[7]</ce:label>
+                  <sb:reference id="ref0035">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>J.</ce:given-name>
+                              <ce:surname>Amanokura</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>Y.</ce:given-name>
+                              <ce:surname>Kamigata</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>M.</ce:given-name>
+                              <ce:surname>Habiro</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>H.</ce:given-name>
+                              <ce:surname>Suzuki</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>M.</ce:given-name>
+                              <ce:surname>Hanazono</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Mat. Res. Soc. Symp. Proc.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>732 E</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2002</sb:date>
+                        </sb:issue>
+                     </sb:host>
+                     <sb:comment>I 1.2.1</sb:comment>
+                  </sb:reference>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib8">
+                  <ce:label>[8]</ce:label>
+                  <sb:reference id="ref0040">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>Y.</ce:given-name>
+                              <ce:surname>Kamigata</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>Y.</ce:given-name>
+                              <ce:surname>Kurata</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>K.</ce:given-name>
+                              <ce:surname>Masuda</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>J.</ce:given-name>
+                              <ce:surname>Amanokura</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>M.</ce:given-name>
+                              <ce:surname>Yoshida</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>M.</ce:given-name>
+                              <ce:surname>Hanazono</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Mat. Res. Soc. Symp. Proc.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>671</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2001</sb:date>
+                        </sb:issue>
+                     </sb:host>
+                     <sb:comment>M 1.3.1</sb:comment>
+                  </sb:reference>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib9">
+                  <ce:label>[9]</ce:label>
+                  <sb:reference id="ref0045">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>S.</ce:given-name>
+                              <ce:surname>Pandija</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>D.</ce:given-name>
+                              <ce:surname>Roy</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>S.V.</ce:given-name>
+                              <ce:surname>Babu</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Chemical mechanical planarization of copper using abrasive-free solutions of oxalic acid and hydrogen peroxide</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>Mater. Chem. Phys.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>102</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2007</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>144</sb:first-page>
+                           <sb:last-page>151</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib10">
+                  <ce:label>[10]</ce:label>
+                  <sb:reference id="ref0050">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>S.</ce:given-name>
+                              <ce:surname>Pandija</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Abrasive Free Slurries for Copper Polishing</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:comment>Master thesis</sb:comment>
+                     <sb:host>
+                        <sb:book class="report">
+                           <sb:date>2005</sb:date>
+                           <sb:publisher>
+                              <sb:name>Clarkson University</sb:name>
+                           </sb:publisher>
+                        </sb:book>
+                     </sb:host>
+                  </sb:reference>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib11">
+                  <ce:label>[11]</ce:label>
+                  <sb:reference id="ref0055">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>B.C.</ce:given-name>
+                              <ce:surname>Peethala</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>S.V.</ce:given-name>
+                              <ce:surname>Babu</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Ruthenium polishing using potassium periodate as the oxidizer and silica abrasives</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>J. Electrochemical Soc.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>158</sb:volume-nr>
+                           </sb:series>
+                           <sb:date>2011</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>H271</sb:first-page>
+                           <sb:last-page>H276</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib12">
+                  <ce:label>[12]</ce:label>
+                  <sb:reference id="ref0060">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>H.P.</ce:given-name>
+                              <ce:surname>Amanapu</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>K.V.</ce:given-name>
+                              <ce:surname>Sagi</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>L.G.</ce:given-name>
+                              <ce:surname>Teugels</ce:surname>
+                           </sb:author>
+                           <sb:author>
+                              <ce:given-name>S.V.</ce:given-name>
+                              <ce:surname>Babu</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Role of guanidine carbonate and crystal orientation on chemical mechanical polishing of ruthenium films</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:host>
+                        <sb:issue>
+                           <sb:series>
+                              <sb:title>
+                                 <sb:maintitle>ECS J. Solid State Sci. Technol.</sb:maintitle>
+                              </sb:title>
+                              <sb:volume-nr>2</sb:volume-nr>
+                           </sb:series>
+                           <sb:issue-nr>11</sb:issue-nr>
+                           <sb:date>2013</sb:date>
+                        </sb:issue>
+                        <sb:pages>
+                           <sb:first-page>P445</sb:first-page>
+                           <sb:last-page>P451</sb:last-page>
+                        </sb:pages>
+                     </sb:host>
+                  </sb:reference>
+               </ce:bib-reference>
+               <ce:bib-reference id="bib13">
+                  <ce:label>[13]</ce:label>
+                  <sb:reference id="ref0065">
+                     <sb:contribution langtype="en">
+                        <sb:authors>
+                           <sb:author>
+                              <ce:given-name>S.</ce:given-name>
+                              <ce:surname>Janjam</ce:surname>
+                           </sb:author>
+                        </sb:authors>
+                        <sb:title>
+                           <sb:maintitle>Chemical Mechanical Polishing of Tantalum and Tantalum Nitride</sb:maintitle>
+                        </sb:title>
+                     </sb:contribution>
+                     <sb:comment>PhD thesis</sb:comment>
+                     <sb:host>
+                        <sb:book class="report">
+                           <sb:date>2009</sb:date>
+                           <sb:publisher>
+                              <sb:name>Clarkson University</sb:name>
+                              <sb:location>Potsdam, NY</sb:location>
+                           </sb:publisher>
+                        </sb:book>
+                     </sb:host>
+                  </sb:reference>
+               </ce:bib-reference>
+            </ce:bibliography-sec>
+         </ce:bibliography>
+      </chapter>
+   </xocs:nonserial-item></xocs:doc></originalText></full-text-retrieval-response>

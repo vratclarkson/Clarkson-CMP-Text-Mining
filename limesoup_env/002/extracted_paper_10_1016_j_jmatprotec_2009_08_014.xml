@@ -1,0 +1,1932 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0924013609003045</prism:url><dc:identifier>doi:10.1016/j.jmatprotec.2009.08.014</dc:identifier><eid>1-s2.0-S0924013609003045</eid><prism:doi>10.1016/j.jmatprotec.2009.08.014</prism:doi><pii>S0924-0136(09)00304-5</pii><dc:title>Computer-based monitoring of the polishing processes using LabView </dc:title><prism:publicationName>Journal of Materials Processing Technology</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>09240136</prism:issn><prism:volume>209</prism:volume><prism:issueIdentifier>20</prism:issueIdentifier><prism:startingPage>6039</prism:startingPage><prism:endingPage>6047</prism:endingPage><prism:pageRange>6039-6047</prism:pageRange><prism:number>20</prism:number><dc:format>application/xml</dc:format><prism:coverDate>2009-11-19</prism:coverDate><prism:coverDisplayDate>19 November 2009</prism:coverDisplayDate><prism:copyright>Copyright © 2009 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><prism:issueName>Special Issue: 1st International Conference on Abrasive Processes</prism:issueName><dc:creator>Klocke, F.</dc:creator><dc:creator>Dambon, O.</dc:creator><dc:creator>Schneider, U.</dc:creator><dc:creator>Zunke, R.</dc:creator><dc:creator>Waechter, D.</dc:creator><dc:description>
+                  Despite of an extensive scientific research regarding the polishing technologies of a variety of materials, the mechanisms and interactions of the single components in the process are still not fully understood. In order to facilitate the research activities in the field of polishing the usage of computer-based data acquisition and analysis is recommended. A high data rate provides the researcher an appropriate density of information which can be used to enhance the evaluation of stated hypothesis. This is normally based on various inspection methods which only take place after the processing of the sample, e.g. white light interferometry and scanning electron microscopy. A solution for further elaborating the scientific insight on the removal mechanisms and relevant interactions during the process and enhancing the process stability and reproducibility is the monitoring of the significant chemical, mechanical and thermal indicators. Therefore, a variety of sensors and measurement devices are installed and used to gather data during the process duration (e.g. pH value, conductivity, polishing work, coefficient of friction). The amount of different devices and high data rates requires a computer-based tool to realise an adequate online process monitoring. Thus, a monitoring tool based on the LabView environment was implemented which enables the researcher to use the whole opportunities of computer-based data processing. Examples of the functionality are given for the validation of the polishing behaviour of silicon nitride.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Polishing</dcterms:subject><dcterms:subject>Process monitoring</dcterms:subject><dcterms:subject>Silicon nitride</dcterms:subject><dcterms:subject>Material removal mechanisms</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0924013609003045" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0924013609003045" rel="scidir"/></coredata><objects><object ref="si9" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="345" height="35" size="1434">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013609003045-si9.gif?httpAccept=%2A%2F%2A</object><object ref="si8" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="108" height="34" size="470">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013609003045-si8.gif?httpAccept=%2A%2F%2A</object><object ref="si7" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="13" height="10" size="127">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013609003045-si7.gif?httpAccept=%2A%2F%2A</object><object ref="si6" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="108" height="33" size="542">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013609003045-si6.gif?httpAccept=%2A%2F%2A</object><object ref="si5" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="214" height="33" size="857">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013609003045-si5.gif?httpAccept=%2A%2F%2A</object><object ref="si4" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="22" height="10" size="159">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013609003045-si4.gif?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="265" height="72" size="1743">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013609003045-si3.gif?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="192" height="15" size="616">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013609003045-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="105" height="36" size="610">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013609003045-si1.gif?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="591" height="305" size="79672">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013609003045-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="113" size="9333">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013609003045-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="652" height="405" size="86406">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013609003045-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="136" size="9863">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013609003045-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="600" height="225" size="33690">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013609003045-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="82" size="5133">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013609003045-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="602" height="211" size="44423">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013609003045-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="77" size="6069">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013609003045-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="386" height="171" size="21605">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013609003045-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="97" size="4786">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013609003045-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr9" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="387" height="163" size="21310">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013609003045-gr9.jpg?httpAccept=%2A%2F%2A</object><object ref="gr9" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="92" size="4326">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013609003045-gr9.sml?httpAccept=%2A%2F%2A</object><object ref="gr10" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="386" height="169" size="24221">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013609003045-gr10.jpg?httpAccept=%2A%2F%2A</object><object ref="gr10" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="96" size="4832">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013609003045-gr10.sml?httpAccept=%2A%2F%2A</object><object ref="gr11" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="386" height="168" size="23987">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013609003045-gr11.jpg?httpAccept=%2A%2F%2A</object><object ref="gr11" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="96" size="6182">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013609003045-gr11.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="546" height="512" size="111741">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013609003045-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="175" height="164" size="10989">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013609003045-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="339" height="275" size="33967">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013609003045-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="202" height="164" size="7837">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013609003045-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr8" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="305" height="154" size="24190">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013609003045-gr8.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="111" size="6262">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013609003045-gr8.sml?httpAccept=%2A%2F%2A</object><object ref="gr12" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="565" height="199" size="33190">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013609003045-gr12.jpg?httpAccept=%2A%2F%2A</object><object ref="gr12" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="77" size="4588">https://api.elsevier.com/content/object/eid/1-s2.0-S0924013609003045-gr12.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>71749101425</scopus-id><scopus-eid>2-s2.0-71749101425</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/71749101425" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271356</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291778</xocs:ssid>
+         <xocs:ssid type="subj">291787</xocs:ssid>
+         <xocs:ssid type="subj">291885</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Journal of Materials Processing Technology</xocs:srctitle>
+      <xocs:normalized-srctitle>JOURNALMATERIALSPROCESSINGTECHNOLOGY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20090819">2009-08-19</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20090819">2009-08-19</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-11-09T23:57:02</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0924013609003045</xocs:eid>
+      <xocs:pii-formatted>S0924-0136(09)00304-5</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0924013609003045</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.jmatprotec.2009.08.014</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0924013609X00154</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150515">2015-05-15T03:01:12.916829-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20091119</xocs:date-search-begin>
+      <xocs:year-nav>2009</xocs:year-nav>
+      <xocs:indexeddate epoch="1250640000">2009-08-19T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confeditor contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype subheadings vol volfirst volissue webpdf webpdfpagecount figure body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0924-0136</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>09240136</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>209</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>209</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>20</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>20</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 209, Issue 20</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>3</xocs:sort-order>
+      <xocs:first-fp>6039</xocs:first-fp>
+      <xocs:last-lp>6047</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>6039</xocs:first-page>
+         <xocs:last-page>6047</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20091119</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>19 November 2009</xocs:cover-date-text>
+      <xocs:cover-date-start>2009-11-19</xocs:cover-date-start>
+      <xocs:cover-date-year>2009</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>Special Issue: 1st International Conference on Abrasive Processes</ce:title>
+            <ce:editors>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:given-name>John</ce:given-name>
+                     <ce:surname>Williams</ce:surname>
+                  </ce:author>
+                  <ce:affiliation>
+                     <ce:textfn>Department of Engineering, University of Cambridge, Trumpington Street, Cambridge, CB2 1PZ, England, United Kingdom</ce:textfn>
+                  </ce:affiliation>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2009 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>COMPUTERBASEDMONITORINGPOLISHINGPROCESSESUSINGLABVIEW</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>KLOCKE</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>F</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Published approaches to monitor polishing operations</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Flexible and mobile monitoring of the polishing process</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Design and implementation of the computer-based monitoring system</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>4.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Measured and derived indicators for monitoring the slurry condition</xocs:item-toc-section-title>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>4.1.1</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Slurry temperature</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>4.1.2</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>pH value of the slurry</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>4.1.3</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Electrical conductivity of the slurry</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>4.1.4</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Calculation of the zeta potential of the particles in the slurry</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>4.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Measured and derived indicators for the monitoring of the polishing process as a tribological system</xocs:item-toc-section-title>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>4.2.1</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Determining the polishing power and deriving the specific energy</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>4.2.2</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Calculating the coefficient of friction</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>4.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Implementation of the system and graphical user interface</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>5</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental setup for the evaluation of the proposed monitoring system</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>5.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Machine tool used for the implementation of the monitoring system</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>5.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Materials and polishing systems</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>5.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Experimental procedure</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>5.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Hypothesis for material removal mechanisms</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>6</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>6.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Short-term experiments of polishing silicon nitride with ceria</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>6.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Long-term experiments of polishing silicon nitride with ceria</xocs:item-toc-section-title>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>6.2.1</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Monitoring the time-dependent evolution of the pH value</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>6.2.2</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Monitoring the time-dependent evolution of the electrical conductivity</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>6.2.3</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Monitoring the process based on coefficient of friction and polishing power</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>7</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="bib1"/>
+         <xocs:ref-info refid="bib2"/>
+         <xocs:ref-info refid="bib3"/>
+         <xocs:ref-info refid="bib4"/>
+         <xocs:ref-info refid="bib5">
+            <xocs:ref-normalized-surname>DELGADO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1753</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1805</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib6">
+            <xocs:ref-normalized-surname>EVANS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>611</xocs:ref-first-fp>
+            <xocs:ref-last-lp>633</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib7"/>
+         <xocs:ref-info refid="bib8"/>
+         <xocs:ref-info refid="bib9">
+            <xocs:ref-normalized-surname>HU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3919</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3925</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib10">
+            <xocs:ref-normalized-surname>HUNTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>205</xocs:ref-first-fp>
+            <xocs:ref-last-lp>214</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib11">
+            <xocs:ref-normalized-surname>JIANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>267</xocs:ref-first-fp>
+            <xocs:ref-last-lp>278</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib12">
+            <xocs:ref-normalized-surname>JIANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>14</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib13">
+            <xocs:ref-normalized-surname>KLOCKE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5</xocs:ref-first-fp>
+            <xocs:ref-last-lp>10</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib14">
+            <xocs:ref-normalized-surname>KLOCKE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1794</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1803</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib15"/>
+         <xocs:ref-info refid="bib16"/>
+         <xocs:ref-info refid="bib17">
+            <xocs:ref-normalized-surname>KOJIMA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>293</xocs:ref-first-fp>
+            <xocs:ref-last-lp>299</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib18">
+            <xocs:ref-normalized-surname>MATSUZAKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>438</xocs:ref-first-fp>
+            <xocs:ref-last-lp>441</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib19">
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>CHEMICALMECHANICALPLANARIZATIONSEMICONDUCTORMATERIALS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib20">
+            <xocs:ref-normalized-surname>PARK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5849</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5853</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib21">
+            <xocs:ref-normalized-surname>PRESTON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1927</xocs:ref-pub-year>
+            <xocs:ref-first-fp>214</xocs:ref-first-fp>
+            <xocs:ref-last-lp>219</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib22"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>KLOCKEX2009X6039</xocs:refkey3>
+         <xocs:refkey4lp>KLOCKEX2009X6039X6047</xocs:refkey4lp>
+         <xocs:refkey4ai>KLOCKEX2009X6039XF</xocs:refkey4ai>
+         <xocs:refkey5>KLOCKEX2009X6039X6047XF</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0924-0136(09)00304-5</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0924013609003045</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0924013609003045</xocs:eid>
+         <xocs:doi>10.1016/j.jmatprotec.2009.08.014</xocs:doi>
+         <xocs:cid>271356</xocs:cid>
+         <xocs:timestamp>2010-12-17T21:49:31.800299-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2009-11-19</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0924013609003045-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013609003045/MAIN/application/pdf/86103dad6f675d00744a77a4ed5a5855/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013609003045/MAIN/application/pdf/86103dad6f675d00744a77a4ed5a5855/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1675653</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>9</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0924013609003045-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013609003045/PREVIEW/image/png/294325bcfb915cef5ec4af03dbc05e56/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013609003045/PREVIEW/image/png/294325bcfb915cef5ec4af03dbc05e56/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>60587</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013609003045-si9.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013609003045/STRIPIN/image/gif/14e31d9b1f9b10f9b8b79932a129cd26/si9.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013609003045/STRIPIN/image/gif/14e31d9b1f9b10f9b8b79932a129cd26/si9.gif</xocs:ucs-locator>
+               <xocs:file-basename>si9</xocs:file-basename>
+               <xocs:filename>si9.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1434</xocs:filesize>
+               <xocs:pixel-height>35</xocs:pixel-height>
+               <xocs:pixel-width>345</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013609003045-si8.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013609003045/STRIPIN/image/gif/9dd41de7fe3e2bdd9370932975363a00/si8.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013609003045/STRIPIN/image/gif/9dd41de7fe3e2bdd9370932975363a00/si8.gif</xocs:ucs-locator>
+               <xocs:file-basename>si8</xocs:file-basename>
+               <xocs:filename>si8.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>470</xocs:filesize>
+               <xocs:pixel-height>34</xocs:pixel-height>
+               <xocs:pixel-width>108</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013609003045-si7.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013609003045/STRIPIN/image/gif/6459dfea787fd63e9e0d1869e1dd54e8/si7.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013609003045/STRIPIN/image/gif/6459dfea787fd63e9e0d1869e1dd54e8/si7.gif</xocs:ucs-locator>
+               <xocs:file-basename>si7</xocs:file-basename>
+               <xocs:filename>si7.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>127</xocs:filesize>
+               <xocs:pixel-height>10</xocs:pixel-height>
+               <xocs:pixel-width>13</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013609003045-si6.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013609003045/STRIPIN/image/gif/a4aae2c1922e4e99016b6e00b79dfa27/si6.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013609003045/STRIPIN/image/gif/a4aae2c1922e4e99016b6e00b79dfa27/si6.gif</xocs:ucs-locator>
+               <xocs:file-basename>si6</xocs:file-basename>
+               <xocs:filename>si6.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>542</xocs:filesize>
+               <xocs:pixel-height>33</xocs:pixel-height>
+               <xocs:pixel-width>108</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013609003045-si5.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013609003045/STRIPIN/image/gif/ee5645cf6506d32300d5a4cf8701b79d/si5.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013609003045/STRIPIN/image/gif/ee5645cf6506d32300d5a4cf8701b79d/si5.gif</xocs:ucs-locator>
+               <xocs:file-basename>si5</xocs:file-basename>
+               <xocs:filename>si5.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>857</xocs:filesize>
+               <xocs:pixel-height>33</xocs:pixel-height>
+               <xocs:pixel-width>214</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013609003045-si4.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013609003045/STRIPIN/image/gif/547b48944431d0bbc1dc5f1c65face00/si4.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013609003045/STRIPIN/image/gif/547b48944431d0bbc1dc5f1c65face00/si4.gif</xocs:ucs-locator>
+               <xocs:file-basename>si4</xocs:file-basename>
+               <xocs:filename>si4.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>159</xocs:filesize>
+               <xocs:pixel-height>10</xocs:pixel-height>
+               <xocs:pixel-width>22</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013609003045-si3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013609003045/STRIPIN/image/gif/2d06e0b1b83d4670bd04a541feb71db4/si3.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013609003045/STRIPIN/image/gif/2d06e0b1b83d4670bd04a541feb71db4/si3.gif</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1743</xocs:filesize>
+               <xocs:pixel-height>72</xocs:pixel-height>
+               <xocs:pixel-width>265</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013609003045-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013609003045/STRIPIN/image/gif/1238f41413fe9f482129b75e5b4c2fdf/si2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013609003045/STRIPIN/image/gif/1238f41413fe9f482129b75e5b4c2fdf/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>616</xocs:filesize>
+               <xocs:pixel-height>15</xocs:pixel-height>
+               <xocs:pixel-width>192</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013609003045-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013609003045/STRIPIN/image/gif/b5dc2e5717af74afc853fcb3fadd8aaf/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013609003045/STRIPIN/image/gif/b5dc2e5717af74afc853fcb3fadd8aaf/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>610</xocs:filesize>
+               <xocs:pixel-height>36</xocs:pixel-height>
+               <xocs:pixel-width>105</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013609003045-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013609003045/gr2/DOWNSAMPLED/image/jpeg/9f7bafb3134adaa31c6ed1971700f4d1/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013609003045/gr2/DOWNSAMPLED/image/jpeg/9f7bafb3134adaa31c6ed1971700f4d1/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>79672</xocs:filesize>
+               <xocs:pixel-height>305</xocs:pixel-height>
+               <xocs:pixel-width>591</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013609003045-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013609003045/gr2/THUMBNAIL/image/gif/903b84d5e6a2554a1ea356967c871023/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013609003045/gr2/THUMBNAIL/image/gif/903b84d5e6a2554a1ea356967c871023/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9333</xocs:filesize>
+               <xocs:pixel-height>113</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013609003045-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013609003045/gr4/DOWNSAMPLED/image/jpeg/b70177bdfa243169638ce8a3cc0daaa5/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013609003045/gr4/DOWNSAMPLED/image/jpeg/b70177bdfa243169638ce8a3cc0daaa5/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>86406</xocs:filesize>
+               <xocs:pixel-height>405</xocs:pixel-height>
+               <xocs:pixel-width>652</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013609003045-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013609003045/gr4/THUMBNAIL/image/gif/101133b53781432bb9bfb0169a514053/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013609003045/gr4/THUMBNAIL/image/gif/101133b53781432bb9bfb0169a514053/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9863</xocs:filesize>
+               <xocs:pixel-height>136</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013609003045-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013609003045/gr5/DOWNSAMPLED/image/jpeg/9299d8e50760825375f153bd575bd114/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013609003045/gr5/DOWNSAMPLED/image/jpeg/9299d8e50760825375f153bd575bd114/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>33690</xocs:filesize>
+               <xocs:pixel-height>225</xocs:pixel-height>
+               <xocs:pixel-width>600</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013609003045-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013609003045/gr5/THUMBNAIL/image/gif/34c90bc61370a2a33a2ce36d637b929f/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013609003045/gr5/THUMBNAIL/image/gif/34c90bc61370a2a33a2ce36d637b929f/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5133</xocs:filesize>
+               <xocs:pixel-height>82</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013609003045-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013609003045/gr6/DOWNSAMPLED/image/jpeg/368231c269236480b905b01b2d770ed2/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013609003045/gr6/DOWNSAMPLED/image/jpeg/368231c269236480b905b01b2d770ed2/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>44423</xocs:filesize>
+               <xocs:pixel-height>211</xocs:pixel-height>
+               <xocs:pixel-width>602</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013609003045-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013609003045/gr6/THUMBNAIL/image/gif/20b651877c18cfeececc5f3a9e9d8ebf/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013609003045/gr6/THUMBNAIL/image/gif/20b651877c18cfeececc5f3a9e9d8ebf/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6069</xocs:filesize>
+               <xocs:pixel-height>77</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013609003045-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013609003045/gr7/DOWNSAMPLED/image/jpeg/c6a3010f9cbc29cd91076ab65939ea21/gr7.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013609003045/gr7/DOWNSAMPLED/image/jpeg/c6a3010f9cbc29cd91076ab65939ea21/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>21605</xocs:filesize>
+               <xocs:pixel-height>171</xocs:pixel-height>
+               <xocs:pixel-width>386</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013609003045-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013609003045/gr7/THUMBNAIL/image/gif/34f98d7d6e3ef69a037fd98e7e7dc21b/gr7.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013609003045/gr7/THUMBNAIL/image/gif/34f98d7d6e3ef69a037fd98e7e7dc21b/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4786</xocs:filesize>
+               <xocs:pixel-height>97</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013609003045-gr9.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013609003045/gr9/DOWNSAMPLED/image/jpeg/71714c25fa98b7b8ba092b21e7eef8be/gr9.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013609003045/gr9/DOWNSAMPLED/image/jpeg/71714c25fa98b7b8ba092b21e7eef8be/gr9.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>21310</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>387</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013609003045-gr9.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013609003045/gr9/THUMBNAIL/image/gif/ad79d1b0789a9e84808193c6144d5e10/gr9.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013609003045/gr9/THUMBNAIL/image/gif/ad79d1b0789a9e84808193c6144d5e10/gr9.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4326</xocs:filesize>
+               <xocs:pixel-height>92</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013609003045-gr10.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013609003045/gr10/DOWNSAMPLED/image/jpeg/2d5f01a3bb241879091ab4c3aae0ad7b/gr10.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013609003045/gr10/DOWNSAMPLED/image/jpeg/2d5f01a3bb241879091ab4c3aae0ad7b/gr10.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr10</xocs:file-basename>
+               <xocs:filename>gr10.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>24221</xocs:filesize>
+               <xocs:pixel-height>169</xocs:pixel-height>
+               <xocs:pixel-width>386</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013609003045-gr10.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013609003045/gr10/THUMBNAIL/image/gif/1970726772ec316bcfcc4cb3eacc1ef8/gr10.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013609003045/gr10/THUMBNAIL/image/gif/1970726772ec316bcfcc4cb3eacc1ef8/gr10.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr10</xocs:file-basename>
+               <xocs:filename>gr10.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4832</xocs:filesize>
+               <xocs:pixel-height>96</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013609003045-gr11.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013609003045/gr11/DOWNSAMPLED/image/jpeg/6fe5635b73e85663b5481d14b6feac33/gr11.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013609003045/gr11/DOWNSAMPLED/image/jpeg/6fe5635b73e85663b5481d14b6feac33/gr11.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr11</xocs:file-basename>
+               <xocs:filename>gr11.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>23987</xocs:filesize>
+               <xocs:pixel-height>168</xocs:pixel-height>
+               <xocs:pixel-width>386</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013609003045-gr11.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013609003045/gr11/THUMBNAIL/image/gif/f57a884454e2e1cb00344400f74463ab/gr11.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013609003045/gr11/THUMBNAIL/image/gif/f57a884454e2e1cb00344400f74463ab/gr11.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr11</xocs:file-basename>
+               <xocs:filename>gr11.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6182</xocs:filesize>
+               <xocs:pixel-height>96</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013609003045-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013609003045/gr1/DOWNSAMPLED/image/jpeg/817b0ea2219eea63c47be3e74d76b1dd/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013609003045/gr1/DOWNSAMPLED/image/jpeg/817b0ea2219eea63c47be3e74d76b1dd/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>111741</xocs:filesize>
+               <xocs:pixel-height>512</xocs:pixel-height>
+               <xocs:pixel-width>546</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013609003045-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013609003045/gr1/THUMBNAIL/image/gif/1909ec1d3bbfea1c973fbe0797440e40/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013609003045/gr1/THUMBNAIL/image/gif/1909ec1d3bbfea1c973fbe0797440e40/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10989</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>175</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013609003045-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013609003045/gr3/DOWNSAMPLED/image/jpeg/f77872402ec4d61509b4b8da5eb1b6be/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013609003045/gr3/DOWNSAMPLED/image/jpeg/f77872402ec4d61509b4b8da5eb1b6be/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>33967</xocs:filesize>
+               <xocs:pixel-height>275</xocs:pixel-height>
+               <xocs:pixel-width>339</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013609003045-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013609003045/gr3/THUMBNAIL/image/gif/60f3ba3253acde0385fc80f849fdb48c/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013609003045/gr3/THUMBNAIL/image/gif/60f3ba3253acde0385fc80f849fdb48c/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7837</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>202</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013609003045-gr8.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013609003045/gr8/DOWNSAMPLED/image/jpeg/9d9455fbcb1fc3944201375db62e64cb/gr8.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013609003045/gr8/DOWNSAMPLED/image/jpeg/9d9455fbcb1fc3944201375db62e64cb/gr8.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>24190</xocs:filesize>
+               <xocs:pixel-height>154</xocs:pixel-height>
+               <xocs:pixel-width>305</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013609003045-gr8.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013609003045/gr8/THUMBNAIL/image/gif/e32ba33f44bfae39d33bdd2c799f7ab5/gr8.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013609003045/gr8/THUMBNAIL/image/gif/e32ba33f44bfae39d33bdd2c799f7ab5/gr8.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6262</xocs:filesize>
+               <xocs:pixel-height>111</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013609003045-gr12.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013609003045/gr12/DOWNSAMPLED/image/jpeg/f72701b3d13dfa670bc5b3ef361bfd1c/gr12.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013609003045/gr12/DOWNSAMPLED/image/jpeg/f72701b3d13dfa670bc5b3ef361bfd1c/gr12.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr12</xocs:file-basename>
+               <xocs:filename>gr12.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>33190</xocs:filesize>
+               <xocs:pixel-height>199</xocs:pixel-height>
+               <xocs:pixel-width>565</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0924013609003045-gr12.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0924013609003045/gr12/THUMBNAIL/image/gif/6b89a38110871ade63ca83698a5c85fe/gr12.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0924013609003045/gr12/THUMBNAIL/image/gif/6b89a38110871ade63ca83698a5c85fe/gr12.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr12</xocs:file-basename>
+               <xocs:filename>gr12.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4588</xocs:filesize>
+               <xocs:pixel-height>77</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.1" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>PROTEC</jid>
+            <aid>12678</aid>
+            <ce:pii>S0924-0136(09)00304-5</ce:pii>
+            <ce:doi>10.1016/j.jmatprotec.2009.08.014</ce:doi>
+            <ce:copyright type="full-transfer" year="2009">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Approach to a computer-based data acquisition and analysis of the polishing processes.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Overview of the great variety of influencing parameters in polishing (<ce:cross-ref refid="bib8">Hambücker, 2001</ce:cross-ref>).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Overview of the monitored indicators and the placement of the according measurement devices.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Graphical user interface of the monitoring system based on LabView (excerpt).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Detailed showing all measured material removal rates and the according standard deviations (left graph), main effect diagrams for the material removal rate to evaluate the dependency on the machining parameters (right graph).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="fig6">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Influence of the machining parameters on the resulting surface roughness in terms of arithmetic average of the roughness profile <ce:italic>Ra</ce:italic> (left graph) and maximum roughness <ce:italic>Rt</ce:italic> (right graph).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6"/>
+            </ce:figure>
+            <ce:figure id="fig7">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Time-dependent evolution of the pH value and correlation with the calculated hydroxide concentration in the long-term experiments.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr7"/>
+            </ce:figure>
+            <ce:figure id="fig8">
+               <ce:label>Fig. 8</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">pH sensitivity of the material removal rate in polishing silicon nitride with ceria slurry.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr8"/>
+            </ce:figure>
+            <ce:figure id="fig9">
+               <ce:label>Fig. 9</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Time-dependent evolution of the electrical conductivity and amount of removed material in the long-term experiments.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr9"/>
+            </ce:figure>
+            <ce:figure id="fig10">
+               <ce:label>Fig. 10</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Correlation of the material removal rate and the online calculated coefficient of friction.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr10"/>
+            </ce:figure>
+            <ce:figure id="fig11">
+               <ce:label>Fig. 11</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Evolution of the polishing work and specific energy.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr11"/>
+            </ce:figure>
+            <ce:figure id="fig12">
+               <ce:label>Fig. 12</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Using the monitored polishing work to describe the influence of concentration of polishing agent in the slurry on the amount of removed material (left graph) and deriving the process efficiency by analysis of the specific polishing energy (right graph).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr12"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title>Computer-based monitoring of the polishing processes using LabView</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>F.</ce:given-name>
+                  <ce:surname>Klocke</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>O.</ce:given-name>
+                  <ce:surname>Dambon</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>U.</ce:given-name>
+                  <ce:surname>Schneider</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>R.</ce:given-name>
+                  <ce:surname>Zunke</ce:surname>
+                  <ce:cross-ref refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>D.</ce:given-name>
+                  <ce:surname>Waechter</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Department of Process Technology, Fraunhofer Institute for Production Technology IPT, Aachen, Germany</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author at: Fraunhofer IPT, Steinbachstr. 17, 52074 Aachen, Germany. Tel.: +49 241 8904 137; fax: +49 241 8904 6137.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">Despite of an extensive scientific research regarding the polishing technologies of a variety of materials, the mechanisms and interactions of the single components in the process are still not fully understood. In order to facilitate the research activities in the field of polishing the usage of computer-based data acquisition and analysis is recommended. A high data rate provides the researcher an appropriate density of information which can be used to enhance the evaluation of stated hypothesis. This is normally based on various inspection methods which only take place after the processing of the sample, e.g. white light interferometry and scanning electron microscopy. A solution for further elaborating the scientific insight on the removal mechanisms and relevant interactions during the process and enhancing the process stability and reproducibility is the monitoring of the significant chemical, mechanical and thermal indicators. Therefore, a variety of sensors and measurement devices are installed and used to gather data during the process duration (e.g. pH value, conductivity, polishing work, coefficient of friction). The amount of different devices and high data rates requires a computer-based tool to realise an adequate online process monitoring. Thus, a monitoring tool based on the LabView environment was implemented which enables the researcher to use the whole opportunities of computer-based data processing. Examples of the functionality are given for the validation of the polishing behaviour of silicon nitride.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Polishing</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Process monitoring</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Silicon nitride</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Material removal mechanisms</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para view="all">Polishing is the most frequently used technology if high surface qualities in terms of low roughness, minimised subsurface damage and high form accuracies are demanded. It is an essential step in optics manufacturing and of increased usage in die and mould making, e.g. for applications in massive forming and injection moulding. And is one of the enabling technologies in semiconductor manufacturing where polishing is also referred to as chemical–mechanical planarisation (CMP), and numerous research activities were conducted in order to enhance the understanding of the interactions based on the online monitoring of the process. The progress of researchers in the field of CMP technology has brought the scientific insight and the on it optimisation of machinery and process to an advanced level (<ce:cross-ref refid="bib19">Oliver, 2004</ce:cross-ref>). Particularly in comparison to the polishing technologies used for glass, advanced ceramics and steel. In these fields the process can still be described as a black box and stability, reproducibility as well as efficient processing is not necessarily given.</ce:para>
+                  <ce:para view="all">Following this argumentation it is as well of interest to monitor the processing of glass, advanced ceramics or polishing operations for any other material. The fundamental understanding forms a necessary basis for any convenient process optimisation. Reliable data about the polishing process is needed either for the enhancement of the scientific insight or for improvements of the process stability in industrial applications. It is not sufficient to gather data manually because of high efforts and inaccuracy as well as non-uniform timing if periodical data is needed. Additionally, the manual monitoring of a high amount of measured process parameters is not feasible. Particularly the monitoring in industrial applications requires an online data acquisition and processing to realise a standardised monitoring and to ensure the reliability of the data. Online gathered data enables the operator or an automatic control system to react on recent process disturbances for minimising rejects. The monitoring system also realises an exoneration of the operator. A computer-based data acquisition allows the online calculation and visualisation of various process indicators and the identification of failures with implemented warning signals. Thereby, an assistance of the operator is given so that he can take immediate action in case of any aberration of the process. Furthermore, the data is gathered and stored in a standardised approach which allows the analysis by the means of statistical methodology, i.e. process analysis by design of experiments (DoE).</ce:para>
+               </ce:section>
+               <ce:section id="sec2" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Published approaches to monitor polishing operations</ce:section-title>
+                  <ce:para view="all">Several research projects were already undertaken to enable the scientist to monitor the significant indicators of the polishing process. Especially in CMP many researchers worked on a monitoring solution which was investigated either to collect important online data for monitoring in real time and analysis of the process condition or to enable the detection of the endpoint or even both objectives. The indicators where derived from different point of views which could be mechanical, thermal, chemical or even acoustical ones. The knowledge in the field of CMP monitoring can be used as a basis to elaborate a solution for other polishing processes.</ce:para>
+                  <ce:para view="all">In order to provide a short overview of the state of the art in monitoring of CMP processes some publications are highlighted in the following. One example for already available solutions is the “CMP Slurry Monitor” by Colloidal Dynamics 2000 (<ce:cross-ref refid="bib3">Colloidal Dynamics, 2000</ce:cross-ref>). This system as well as the system which was published by <ce:cross-ref refid="bib10">Hunter (2001)</ce:cross-ref> present the capability of monitoring pH, temperature, conductivity, particle sizes, zeta potential, slurry pressure and concentration of particles in the polishing slurry. <ce:cross-ref refid="bib18">Matsuzaki et al. (2002)</ce:cross-ref> published a CMP machine which measures additionally the torque of the spindles and derives the fluid film thickness. <ce:cross-ref refid="bib19">Oliver (2004)</ce:cross-ref> covers the field of the so called endpointing. The purpose of endpointing is to detect the finish of the process by various methods. One way is the measurement of motor currents which was already published in a patent by <ce:cross-ref refid="bib22">Sandhu et al. (1991)</ce:cross-ref>. More recent research results by <ce:cross-ref refid="bib7">Gitis et al. (2001)</ce:cross-ref> are based on the direct monitoring of the coefficient of friction. Another way of endpointing was developed by <ce:cross-ref refid="bib17">Kojima et al. (2000)</ce:cross-ref> and uses the monitoring of acoustic emissions to characteristic signals for the different process conditions. Due to the advances in CMP research the technology cannot be any more characterised by “black arts” but is a stable and predictive process (<ce:cross-ref refid="bib19">Oliver, 2004</ce:cross-ref>). The progress in the field of CMP from research to industrial usage shows clearly that the process monitoring of polishing operations was successful and useful and that the transfer to other polishing applications should be considered.</ce:para>
+                  <ce:para view="all">As a matter of fact the various polishing technologies differ greatly in detail due to the nano-scale characteristics of process interactions and mechanisms. Therefore, many of the approaches in CMP are not applicable for other applications. However, some aspects can be transferred to support the investigations of other polishing processes where stability is still an issue or where the knowledge is still insufficient to fully understand the process.</ce:para>
+                  <ce:para view="all">First results for the process monitoring of polishing of optic components were published by <ce:cross-ref refid="bib8">Hambücker (2001)</ce:cross-ref>. Hambücker highlighted the importance of several indicators of the slurry condition in order to examine the interactions and specify the according material removal mechanisms in chemo-mechanical polishing of glass. <ce:cross-refs refid="bib13 bib14">Klocke et al. (2005a,b)</ce:cross-refs> used a similar approach to investigate the polishing process of silicon and calcium fluoride and emphasised the importance of a well chosen polishing system due to the complex interactions between polishing pad, polishing agent, polishing slurry and workpiece surface. These interactions can result in various mechanical and chemical reactions depending on the material properties and the chemical reactivity of the involved materials. On every important objective of polishing is the integrity of the surface layer which can be characterised by minimised defects and cracks or even micro dislocations. These can be induced by the mechanical and chemical conditions in the working gap of the process. Dambon investigated the abrasive mechanisms of steel polishing using diamond slurries and used the specific energy derived from the determined polishing work in relation to the amount of removed material to amplify the differences in mechanisms of polishing steel with various hardness. In order to remove a similar amount of material the steel with low hardness tended to consume much more energy as the hardened steel. <ce:cross-ref refid="bib4">Dambon (2005)</ce:cross-ref> was able to prove that these observations were due to micro ploughing and a surface near plastification of the soft steel instead of micro cutting which dominated the processing of the hardened steels (<ce:cross-refs refid="bib13 bib14">Klocke et al., 2005a,b</ce:cross-refs>).</ce:para>
+                  <ce:para view="all">The above mentioned investigations on process interactions and removal mechanisms where based on manually gathered data which featured the disadvantages mentioned in Section <ce:cross-ref refid="sec1">1</ce:cross-ref>. Nevertheless, the results showed the importance of several indicators in order to investigate the process at the highest stage. In summary it can be stated that the computer-based monitoring of the process enables the scientist to gain insights on the running process and its condition. Additionally, it allows a convenient process analysis based on a high data density and comparability of the standardised acquired and stored data.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Flexible and mobile monitoring of the polishing process</ce:section-title>
+                  <ce:para view="all">In this paper, an approach to a computer-based monitoring of the polishing process is described. The objective is the monitoring and online calculation of mechanical, chemical, thermal indicators of the process which allows the examination of the polishing behaviour of various materials. The approach can be used to gain an insight on the process interactions and different influencing parameters and to monitor the stability of any conventional polishing process. It is intended to be used in research activities as well as in industrial environments where specific questions on removal mechanisms are to be clarified. The approach was implemented in the well known programming environment called LabView. This software provides powerful capabilities of data acquisition and online calculations as well as online data analysis. The environment can be configured to read data from any sensor or bus and does allow the online calculation and visualisation of the acquired and computed data. The concept of the monitoring system is based on high mobility and flexibility. Therefore, all measurement devices were chosen to allow the adaption on different polishing machinery and can easily be used not only in laboratory environments but also in industrial ones.</ce:para>
+                  <ce:para view="all">The overall objective is the elaboration of standardised data acquisition and storage to provide a broad data basis for technological investigations. <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="fig1"/> explains the approach which includes three important steps: online data acquisition and visualisation, insertion of offline gathered data and data analysis based on principals following statistical methodology. Thus, the continuously acquired data is supplemented by discontinuously acquired data to provide a holistic data basis of the polishing process and to document the process consistently. The discontinuously gathered data does include important indicators such as weight loss of the workpiece after the machining operation to derive the amount of removed material and results of optical surface measurements to evaluate the influences of parameters on the resulting surface quality. The total amount of collected data can easily be imported in a software solution which allows the analysis by statistical means. The consistent usage of computer-based data acquisition, calculation and analysis is used as an approach to support the investigations of technological aspects of the polishing process.</ce:para>
+               </ce:section>
+               <ce:section id="sec3" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Design and implementation of the computer-based monitoring system</ce:section-title>
+                  <ce:para view="all">The polishing process is influenced by a great variety of parameters (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="fig2"/>). In order to establish a monitoring with reasonable efforts the main influencing parameters and most significant indicators have to be ascertained. In this context, the material properties of the workpiece and the polishing machine are considered as fixed. The main parameters are the polishing system consisting of polishing tool, polishing agent and polishing slurry, as well as the machining parameters, e.g. pressure and relative velocity.</ce:para>
+                  <ce:section view="all">
+                     <ce:label>4.1</ce:label>
+                     <ce:section-title>Measured and derived indicators for monitoring the slurry condition</ce:section-title>
+                     <ce:para view="all">
+                        <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="fig3"/> provides an overview about the installed measurement devices. On the one hand, the proposed monitoring system focuses on the description of the slurry condition, due to the significant influence on the performance of the polishing process and, additionally, because the reflow of used slurry can carry information about the mechanisms and interactions in the working gap. The monitoring system measures important physical and chemical properties of the slurry, such as pH, electrical conductivity, and zeta-potential. The slurry temperature is measured before and after the process as the slurry is constantly pumped into the working gap between polishing tool and workpiece surface. On the other hand, in order to gather an insight in the energetic characteristics of the process the power of the spindles is measured by the monitoring system. It is used to derive the process work and the energy in relation to the amount of material removal in a qualitative manner. The data also allows the online calculation of the coefficient of friction and herewith a qualitative consideration of the tribological condition in the working gap of the polishing process.</ce:para>
+                     <ce:section view="all">
+                        <ce:label>4.1.1</ce:label>
+                        <ce:section-title>Slurry temperature</ce:section-title>
+                        <ce:para view="all">The slurry temperature is measured both in the inflow and in the reflow with conventional thermo couples. This enables not only the measuring of the absolute temperature but the calculation of the temperature difference, which indicates the heat development in the working gap.</ce:para>
+                     </ce:section>
+                     <ce:section view="all">
+                        <ce:label>4.1.2</ce:label>
+                        <ce:section-title>pH value of the slurry</ce:section-title>
+                        <ce:para view="all">The pH value is defined as the negative logarithm of the concentration of hydrogen ions and describes the acid or alkaline effect of a liquid. A change of the pH indicates chemical reactions with the formation of hydronium or hydroxide ions. The pH influences among others chemical reactions, solution processes and the surface charge of particles and forms a widely discussed property of polishing slurries for chemo-mechanical polishing. In this application a glass membrane based pH electrode with liquid electrolyte is used.</ce:para>
+                     </ce:section>
+                     <ce:section view="all">
+                        <ce:label>4.1.3</ce:label>
+                        <ce:section-title>Electrical conductivity of the slurry</ce:section-title>
+                        <ce:para view="all">The electrical conductivity describes the ability of a material to conduct electricity. The conductivity of solutions is based on the movement of electrical charged particles, such as ions and depends on the type of the solved ions and its relevant amount. Given no change in the existing type of ions in a solution, a change in conductivity can be taken as indicator for changes of the ions concentration.</ce:para>
+                     </ce:section>
+                     <ce:section view="all">
+                        <ce:label>4.1.4</ce:label>
+                        <ce:section-title>Calculation of the zeta potential of the particles in the slurry</ce:section-title>
+                        <ce:para view="all">The zeta potential characterises the physical stability of slurries. Stability means that the particle size distribution does not change during a specified time interval. Therefore, agglomeration and sedimentation form two driving mechanisms of instability of a slurry.</ce:para>
+                        <ce:para view="all">Particularly in CMP where slurries with preferably small particle sizes are used, large particles in the slurry are frequently accountable for microscratches (<ce:cross-ref refid="bib1">Aytes et al., 2003</ce:cross-ref>). Park stated aggregation of slurry particles as a source of large particles (<ce:cross-ref refid="bib20">Park et al., 1998</ce:cross-ref>).</ce:para>
+                        <ce:para view="all">The zeta potential cannot be measured directly, but must be calculated. The integrated device measures the electro-kinetic sonic amplitude. The calculation of the zeta potential was programmed in LabView, using Eq. <ce:cross-ref refid="eq1">(1)</ce:cross-ref> (<ce:cross-ref refid="bib5">Delgado et al., 2005</ce:cross-ref>), where ESA represents the measured electro-kinetic sonic amplitude, <ce:italic>ϕ</ce:italic> the volume fracture of particle, Δ<ce:italic>ρ</ce:italic> the difference of density between particle material and polishing liquid, <ce:italic>c</ce:italic> the velocity of sound and <ce:italic>ω</ce:italic> the frequency:<ce:display>
+                              <ce:formula id="eq1">
+                                 <ce:label>(1)</ce:label>
+                                 <mml:math altimg="si1.gif" overflow="scroll">
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mi>μ</mml:mi>
+                                          <mml:mi>d</mml:mi>
+                                       </mml:msub>
+                                       <mml:mo stretchy="false">(</mml:mo>
+                                       <mml:mi>w</mml:mi>
+                                       <mml:mo stretchy="false">)</mml:mo>
+                                       <mml:mo>=</mml:mo>
+                                       <mml:mfrac>
+                                          <mml:mrow>
+                                             <mml:mtext>ESA</mml:mtext>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mi>ϕ</mml:mi>
+                                             <mml:mstyle mathvariant="normal">
+                                                <mml:mi>Δ</mml:mi>
+                                             </mml:mstyle>
+                                             <mml:mi>ρ</mml:mi>
+                                             <mml:mi>c</mml:mi>
+                                          </mml:mrow>
+                                       </mml:mfrac>
+                                    </mml:mrow>
+                                 </mml:math>
+                              </ce:formula>
+                           </ce:display>
+                        </ce:para>
+                     </ce:section>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>4.2</ce:label>
+                     <ce:section-title>Measured and derived indicators for the monitoring of the polishing process as a tribological system</ce:section-title>
+                     <ce:para view="all">The main objective of the integrated power measurement is to gain a qualitative view inside the energetic processes taking place in the working gap. The employed polishing work can be calculated by an integration of the polishing power over the time. The overall amount of energy can be employed in different actions in the working gap. On the one hand, some of the energy is used for the mechanical interactions between the polishing agent and the workpiece surface, for example for plastic deformation or chip formation. On the other hand, the energy which is brought into the process could be transferred to heat and as well be needed for activating chemical reactions. These considerations show that the monitoring of the power of the spindles and the derivation of the polishing power contributes to the process understanding. In particular, the relationship between material removal and polishing power is of interest for the process analysis to characterise the tribological condition in the working gap of the polishing process.</ce:para>
+                     <ce:para view="all">In the proposed monitoring system the performance of electric drives of tool and workpiece spindle are measured separately by capturing the currents and voltages at the frequency converters.</ce:para>
+                     <ce:section view="all">
+                        <ce:label>4.2.1</ce:label>
+                        <ce:section-title>Determining the polishing power and deriving the specific energy</ce:section-title>
+                        <ce:para view="all">The polishing power is calculated by adding the two measured powers of the spindles minus the both idle powers measured without contact between workpiece and tool (Eq. <ce:cross-ref refid="eq2">(2)</ce:cross-ref>).<ce:display>
+                              <ce:formula id="eq2">
+                                 <ce:label>(2)</ce:label>
+                                 <mml:math altimg="si2.gif" overflow="scroll">
+                                    <mml:mrow>
+                                       <mml:mi>p</mml:mi>
+                                       <mml:mo>=</mml:mo>
+                                       <mml:msub>
+                                          <mml:mi>p</mml:mi>
+                                          <mml:mrow>
+                                             <mml:mtext>tool</mml:mtext>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                       <mml:mo>+</mml:mo>
+                                       <mml:msub>
+                                          <mml:mi>p</mml:mi>
+                                          <mml:mrow>
+                                             <mml:mtext>workpiece</mml:mtext>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                       <mml:mo>−</mml:mo>
+                                       <mml:msub>
+                                          <mml:mi>p</mml:mi>
+                                          <mml:mrow>
+                                             <mml:mtext>idle</mml:mtext>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                 </mml:math>
+                              </ce:formula>
+                           </ce:display>
+                        </ce:para>
+                        <ce:para view="all">The integration of the polishing power is resulting in the polishing work using Eq. <ce:cross-ref refid="eq3">(3)</ce:cross-ref>. The integration is approximated by the following summation, because the analogue measured power is firstly converted to a digital signal.<ce:display>
+                              <ce:formula id="eq3">
+                                 <ce:label>(3)</ce:label>
+                                 <mml:math altimg="si3.gif" overflow="scroll">
+                                    <mml:mrow>
+                                       <mml:mi>W</mml:mi>
+                                       <mml:mo>=</mml:mo>
+                                       <mml:mo>∫</mml:mo>
+                                       <mml:mrow>
+                                          <mml:mi>p</mml:mi>
+                                          <mml:mtext> </mml:mtext>
+                                          <mml:mi>d</mml:mi>
+                                          <mml:mi>t</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mtext>   </mml:mtext>
+                                       <mml:mo stretchy="false">(</mml:mo>
+                                       <mml:mtext>ideal</mml:mtext>
+                                       <mml:mtext> </mml:mtext>
+                                       <mml:mtext>relation</mml:mtext>
+                                       <mml:mo stretchy="false">)</mml:mo>
+                                       <mml:mo>,</mml:mo>
+                                       <mml:mtext>   </mml:mtext>
+                                       <mml:mi>W</mml:mi>
+                                       <mml:mo>=</mml:mo>
+                                       <mml:mo>∑</mml:mo>
+                                       <mml:mrow>
+                                          <mml:mi>p</mml:mi>
+                                          <mml:mo>⋅</mml:mo>
+                                          <mml:mstyle mathvariant="normal">
+                                             <mml:mi>Δ</mml:mi>
+                                          </mml:mstyle>
+                                          <mml:mi>t</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mtext>   </mml:mtext>
+                                       <mml:mo stretchy="false">(</mml:mo>
+                                       <mml:mtext>approximated</mml:mtext>
+                                       <mml:mtext> </mml:mtext>
+                                       <mml:mtext>formula</mml:mtext>
+                                       <mml:mo stretchy="false">)</mml:mo>
+                                    </mml:mrow>
+                                 </mml:math>
+                              </ce:formula>
+                           </ce:display>
+                        </ce:para>
+                        <ce:para view="all">A normalisation of the polishing work by dividing through the volume of removed material allows to compare polishing processes regarding the different energetic efforts and efficiency. As already mentioned in Section <ce:cross-ref refid="sec2">2</ce:cross-ref>, the normalised value is called specific energy.</ce:para>
+                     </ce:section>
+                     <ce:section view="all">
+                        <ce:label>4.2.2</ce:label>
+                        <ce:section-title>Calculating the coefficient of friction</ce:section-title>
+                        <ce:para view="all">The elements of the polishing system, e.g. polishing pad, workpiece and polishing slurry, and the resulting interactions can be regarded analogically as a tribological system (<ce:cross-ref refid="bib4">Dambon, 2005</ce:cross-ref>). This assumption suggests the calculation of the coefficient of friction which describes the tribological condition in the working gap of the polishing process. The coefficient of friction is defined as the quotient of friction force (<ce:italic>F</ce:italic>
+                           <ce:inf loc="post">r</ce:inf>) and normal force (<ce:italic>F</ce:italic>
+                           <ce:inf loc="post">n</ce:inf>). It is assumed that frictional interactions cause the complete measured polishing power. In Eq. <ce:cross-ref refid="eq4">(4)</ce:cross-ref> 
+                           <ce:italic>p</ce:italic>
+                           <ce:inf loc="post">polishing</ce:inf> represents the polishing power, <mml:math altimg="si4.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:msub>
+                                    <mml:mi>v</mml:mi>
+                                    <mml:mrow>
+                                       <mml:mtext>rel</mml:mtext>
+                                    </mml:mrow>
+                                 </mml:msub>
+                              </mml:mrow>
+                           </mml:math> the relative velocity which is the velocity between workpiece and tool, <ce:italic>p</ce:italic> the load (pressure) and <ce:italic>A</ce:italic>
+                           <ce:inf loc="post">f</ce:inf> the area carrying the load in the working gap.<ce:display>
+                              <ce:formula id="eq4">
+                                 <ce:label>(4)</ce:label>
+                                 <mml:math altimg="si5.gif" overflow="scroll">
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mi>F</mml:mi>
+                                          <mml:mtext>r</mml:mtext>
+                                       </mml:msub>
+                                       <mml:mo>=</mml:mo>
+                                       <mml:mfrac>
+                                          <mml:mrow>
+                                             <mml:msub>
+                                                <mml:mi>p</mml:mi>
+                                                <mml:mrow>
+                                                   <mml:mtext>polishing</mml:mtext>
+                                                </mml:mrow>
+                                             </mml:msub>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:msub>
+                                                <mml:mi>v</mml:mi>
+                                                <mml:mrow>
+                                                   <mml:mtext>rel</mml:mtext>
+                                                </mml:mrow>
+                                             </mml:msub>
+                                          </mml:mrow>
+                                       </mml:mfrac>
+                                       <mml:mtext>   </mml:mtext>
+                                       <mml:mtext>and</mml:mtext>
+                                       <mml:mtext>   </mml:mtext>
+                                       <mml:msub>
+                                          <mml:mi>F</mml:mi>
+                                          <mml:mtext>n</mml:mtext>
+                                       </mml:msub>
+                                       <mml:mo>=</mml:mo>
+                                       <mml:mi>p</mml:mi>
+                                       <mml:mo>⋅</mml:mo>
+                                       <mml:msub>
+                                          <mml:mi>A</mml:mi>
+                                          <mml:mtext>f</mml:mtext>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                 </mml:math>
+                              </ce:formula>
+                           </ce:display>
+                        </ce:para>
+                        <ce:para view="all">This results in Eq. <ce:cross-ref refid="eq5">(5)</ce:cross-ref> which is used for the calculation of the coefficient of friction in the proposed monitoring system.<ce:display>
+                              <ce:formula id="eq5">
+                                 <ce:label>(5)</ce:label>
+                                 <mml:math altimg="si6.gif" overflow="scroll">
+                                    <mml:mrow>
+                                       <mml:mi>μ</mml:mi>
+                                       <mml:mo>=</mml:mo>
+                                       <mml:mfrac>
+                                          <mml:mrow>
+                                             <mml:msub>
+                                                <mml:mi>p</mml:mi>
+                                                <mml:mrow>
+                                                   <mml:mtext>polishing</mml:mtext>
+                                                </mml:mrow>
+                                             </mml:msub>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mi>p</mml:mi>
+                                             <mml:mo>⋅</mml:mo>
+                                             <mml:msub>
+                                                <mml:mi>A</mml:mi>
+                                                <mml:mtext>f</mml:mtext>
+                                             </mml:msub>
+                                             <mml:mo>⋅</mml:mo>
+                                             <mml:msub>
+                                                <mml:mi>v</mml:mi>
+                                                <mml:mrow>
+                                                   <mml:mtext>rel</mml:mtext>
+                                                </mml:mrow>
+                                             </mml:msub>
+                                          </mml:mrow>
+                                       </mml:mfrac>
+                                    </mml:mrow>
+                                 </mml:math>
+                              </ce:formula>
+                           </ce:display>
+                        </ce:para>
+                        <ce:para view="all">Additionally to the measured and calculated parameters, the monitoring system calculates online several statistical values for each run. This includes the average values and standard deviations as well as minima and maxima of the indicators.</ce:para>
+                     </ce:section>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>4.3</ce:label>
+                     <ce:section-title>Implementation of the system and graphical user interface</ce:section-title>
+                     <ce:para view="all">The complete implementation of the monitoring system is based on a finite state machine with the following main states: user input, initialising of the system and the measurement devices, control of devices, measurement (including visualisation, calculation and data recording), end of measurement (input of discontinuous data), stop (after last measurement, further calculation and result sheet writing). A complex graphical user interface (GUI) facilitates the operation by users. At the start of the programme a pop-up menu appears for the input of all required data by the user. On the first tab of this menu the user has to enter general data (user, name of experiment), specifications of the polishing system and process parameter. Based on these data the monitoring systems loads all required data, such as idle power of spindles, density of the workpiece material, viscosity of the slurry etc, from a database. If necessary, the user can edit the data. <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="fig4"/> shows the graphical user interface. The graphs reveal the online development of temperature difference, pH value, electrical conductivity, zeta potential and power and the graphs of the last two runs in order to examine the reproducibility of the process.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>5</ce:label>
+                  <ce:section-title>Experimental setup for the evaluation of the proposed monitoring system</ce:section-title>
+                  <ce:para view="all">The practicability of the approach is validated by investigations of the polishing behaviour of silicon nitride which is primarily used in adverse environments and applications, due to its extraordinary hardness, corrosion resistance, low thermal expansion, high thermal shock resistance and low weight. Example applications are bearing components and moulds and dies for sheet metal forming or replication of optics. To ensure a high quality of the products in the terms of tribological and optical functionality a high surface quality and integrity has to be maintained by polishing operations. Beside of its numerous applications the material removal mechanisms in polishing of silicon nitride is still not fully understand. Therefore, the computer-based data acquisition and analysis is used to gain scientific insight on the relevant mechanisms and interactions. The important ambition of the ongoing investigations is an efficient design of polishing strategies for a computer controlled polishing process which allows the processing of free formed geometries of complex ceramics geometries as shown by <ce:cross-ref refid="bib16">Klocke et al. (2008)</ce:cross-ref>.</ce:para>
+                  <ce:section view="all">
+                     <ce:label>5.1</ce:label>
+                     <ce:section-title>Machine tool used for the implementation of the monitoring system</ce:section-title>
+                     <ce:para view="all">The investigations were carried out on a Satisloh Synchrospeed SL120 polishing machine. This machine is suitable for polishing planar and spherical lenses and is widely used in the manufacturing of precision optics. The use of this equipment ensures that any undesirable influences arising from kinematic instabilities are avoided because it is state-of-the-art and featuring a high stability. The polishing slurry circulates in a closed loop. The slurry tank has a volume of 5<ce:hsp sp="0.25"/>l and the temperature is controlled by a heating/cooling device.</ce:para>
+                     <ce:para view="all">The investigations include the inspection of the polished surfaces by optical measurement systems, i.e. white light interferometer and laser interferometer, and scanning electron microscopy. The material removal rate is quantified by weight measurements. The special synchrospeed kinematic allows the assumption of a homogeneous material removal on the complete surface. Therefore, the amount of removed material can also be expressed in a height difference, calculated on the basis of the weight loss after each process step.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>5.2</ce:label>
+                     <ce:section-title>Materials and polishing systems</ce:section-title>
+                     <ce:para view="all">In order to illustrate the capabilities of the computer-based monitoring it is used to investigate the polishing behaviour of hot isostatically pressed silicon nitride.</ce:para>
+                     <ce:para view="all">The objective is to elaborate scientific understanding of the process interactions. Based on this knowledge, the optimisation of the material removal rate, the surface quality and the form accuracy can be realised. Therefore, fundamental investigations of polishing the silicon-based ceramics are undertaken and evaluated. The specimen were ground by using diamond grinding wheels with a cup grinding kinematic. The polishing system consists of polyurethane-based polishing foils as tools and ceria slurry based on deionised water (concentration 60<ce:hsp sp="0.25"/>g/l).</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>5.3</ce:label>
+                     <ce:section-title>Experimental procedure</ce:section-title>
+                     <ce:para view="all">For the purpose of investigating the influences of input parameters on the response of the output parameters, i.e. material removal rate and surface quality, short-term experiments were conducted. Each sample was polished for 20<ce:hsp sp="0.25"/>min divided into three steps of 5, 5, and 10<ce:hsp sp="0.25"/>min. After each single step, the amount of material removal was measured by determining the weight loss. After 20<ce:hsp sp="0.25"/>min the surface quality and form accuracy was measured as well. The polyurethane foam was dressed to provide a fresh surface to the following process step. Every specimen was polished for 60<ce:hsp sp="0.25"/>min in total in order to proof stability and reproducibility of the process. In order to extend the knowledge about the polishing behaviour long-term experiments are realised with several steps (20<ce:hsp sp="0.25"/>min each) up to a total polishing time of 8<ce:hsp sp="0.25"/>h.</ce:para>
+                     <ce:para view="all">The short-term experiments are conducted to identify the influences of input parameters, e.g. pressure, velocity and concentration of polishing agents in the slurry. The long-term experiments deliver the basis to elaborate an understanding of, e.g. the life time of the slurry and the stability of the process.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec4" view="all">
+                     <ce:label>5.4</ce:label>
+                     <ce:section-title>Hypothesis for material removal mechanisms</ce:section-title>
+                     <ce:para view="all">In general, the material removal mechanism in lapping and polishing range from pure mechanical character, e.g. abrasion, erosion and fatigue, and pure chemical character, e.g. chemical reactions such as oxidation or dissolution of the material (<ce:cross-ref refid="bib6">Evans et al., 2003</ce:cross-ref>). Particularly due to the hardness of advanced ceramics, abrasive polishing with diamonds represents a widely applied polishing technique (<ce:cross-ref refid="bib2">Chinn, 2002</ce:cross-ref>).</ce:para>
+                     <ce:para view="all">Former investigations (<ce:cross-ref refid="bib15">Klocke et al., 2007</ce:cross-ref>) revealed satisfying results using ceria and diamond based slurries for the finishing of silicon nitride samples. Material removal rates of up 0.3<ce:hsp sp="0.25"/>μm/min were achieved. Both polishing slurries realised highly reproducible surface qualities in the range of several nanometers. However, ceria slurry tended to result in a more efficient polishing operation than the one with diamond slurry due to less machining efforts. The best results with ceria slurry were achieved with the same pressure as with diamond slurry but with less revolutions, and certainly less costs for the polishing agent.</ce:para>
+                     <ce:para view="all">Following the argumentation by <ce:cross-ref refid="bib11">Jiang and Komanduri (1998)</ce:cross-ref> the high efficiency of polishing silicon nitride with ceria slurry is based on an interaction of chemical and mechanical removal mechanisms. The mechanism can be explained by hydrolysis of the silicon nitride surface in aqueous solutions where ceria acts as a catalyst under the influence of high pressure and tribological interactions in the working gap and the combination with the so called chemical tooth ability of ceria (<ce:cross-ref refid="bib9">Hu et al., 1998</ce:cross-ref>) Whereas, the removal mechanisms in polishing advanced ceramics using diamond slurry is assumed to be an abrasive process.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>6</ce:label>
+                  <ce:section-title>Results and discussion</ce:section-title>
+                  <ce:para view="all">This section provides examples, in which the monitoring system was applied to enhance the scientific insight on material removal mechanisms in polishing of advanced ceramics.</ce:para>
+                  <ce:section view="all">
+                     <ce:label>6.1</ce:label>
+                     <ce:section-title>Short-term experiments of polishing silicon nitride with ceria</ce:section-title>
+                     <ce:para view="all">To verify the stated hypothesis, experiments of polishing silicon nitride with ceria slurry were conducted. The computer-based monitoring system was used to gain information about the influence of significant input parameters on the response of the indicators defined in Section <ce:cross-ref refid="sec3">4</ce:cross-ref>.</ce:para>
+                     <ce:para view="all">Taking the Preston Hypothesis (<ce:cross-ref refid="bib21">Preston, 1927</ce:cross-ref>) for granted an increase of the material removal rate should easily be realised by increasing the pressure <ce:italic>p</ce:italic> and the relative velocity <mml:math altimg="si7.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:msub>
+                                 <mml:mi>v</mml:mi>
+                                 <mml:mtext>r</mml:mtext>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math> as the main machining parameters. In Eq. <ce:cross-ref refid="eq6">(6)</ce:cross-ref> d<ce:italic>z</ce:italic> represents the removed height and d<ce:italic>t</ce:italic> the time interval. The Preston coefficient <ce:italic>K</ce:italic>
+                        <ce:inf loc="post">P</ce:inf> stands for various other influences on the process which include the material properties, the surface quality of the prior machining operation, material properties of the polishing agent and the polishing pad as well as other influencing parameters as indicated in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>.<ce:display>
+                           <ce:formula id="eq6">
+                              <ce:label>(6)</ce:label>
+                              <mml:math altimg="si8.gif" overflow="scroll">
+                                 <mml:mrow>
+                                    <mml:mfrac>
+                                       <mml:mrow>
+                                          <mml:mtext>d</mml:mtext>
+                                          <mml:mi>z</mml:mi>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mtext>d</mml:mtext>
+                                          <mml:mi>t</mml:mi>
+                                       </mml:mrow>
+                                    </mml:mfrac>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:msub>
+                                       <mml:mi>K</mml:mi>
+                                       <mml:mtext>P</mml:mtext>
+                                    </mml:msub>
+                                    <mml:mo>⋅</mml:mo>
+                                    <mml:mi>p</mml:mi>
+                                    <mml:mo>⋅</mml:mo>
+                                    <mml:msub>
+                                       <mml:mi>v</mml:mi>
+                                       <mml:mi>r</mml:mi>
+                                    </mml:msub>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>
+                     </ce:para>
+                     <ce:para view="all">The short-term experiments revealed that the pressure features the most significant influence on the material removal rate. Following the DoE methodology, one of the first diagrams of interest for the statistical analysis of experimental results is the diagram of the so called main effects. The left graph in <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="fig5"/> shows the data which is the basis for the highly aggregated main effect diagrams. The right graph of <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref> shows the main effect diagram of the machining parameters pressure and relative velocity on the material removal. The significance of the parameter pressure is clearly revealed by the high slope of the curve which nearly features linearity. However, the increase of the relative velocity shows the tendency to influence the surface quality of the silicon nitride sample. The pattern of the main effect diagram can be logically found in the detailed data given in the left graph. Additionally, <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref> (left graph) points out the usual slide variations of polishing results and the according standard deviations of the single experimental data sets.</ce:para>
+                     <ce:para view="all">
+                        <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+                        <ce:float-anchor refid="fig6"/> shows two graphs to emphasise the average resulting surface quality in terms of the roughness parameters <ce:italic>Ra</ce:italic> (left graph) and <ce:italic>Rt</ce:italic> (right graph) in dependence of the main machining parameters. The surface quality of the polished samples is very high, featuring <ce:italic>Ra</ce:italic> values lower than 5<ce:hsp sp="0.25"/>nm for all resulting surfaces and <ce:italic>Rt</ce:italic> values mostly around 50<ce:hsp sp="0.25"/>nm. This is due to the chemo-mechanical character of the material removal mechanism (<ce:cross-ref refid="bib15">Klocke et al., 2007</ce:cross-ref>). The analysis of the <ce:italic>Ra</ce:italic> graph shows that the lowest, i.e. best, values were achieved by high pressure and low relative speed. The <ce:italic>Rt</ce:italic> graph which shows the maximum distance between a measured depth and a measured height of the surface roughness leads to the same result. Beside of two values which have to be labelled as outliers all resulting <ce:italic>Rt</ce:italic> values follow an anticipated pattern and stay within the usual variation which is common for the roughness parameter <ce:italic>Rt</ce:italic> due to its high sensitivity. The combined interpretation of <ce:cross-refs refid="fig5 fig6">Figs. 5 and 6</ce:cross-refs> arises that high removal rates and low roughness for polishing of silicon nitride with ceria can be achieved by high pressure and low relative speeds. Therefore, this combination of parameters was chosen for the long-term experiments discussed in the following section.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>6.2</ce:label>
+                     <ce:section-title>Long-term experiments of polishing silicon nitride with ceria</ce:section-title>
+                     <ce:para view="all">Due to circulation of the slurry the monitoring of time-dependent changes of chemical and physical properties enables the researcher to draw conclusions on the removal mechanisms. For a better understanding a long-term experiment was conducted with an overall polishing time of 8<ce:hsp sp="0.25"/>h. The process was stopped every 20<ce:hsp sp="0.25"/>min to determine the removal rate by measuring the weight loss. The proposed monitoring system facilitates the survey of, e.g. pH and the electrical conductivity as important indicators of the slurry condition and its influence on the material removal rate. Any changes of the slurry condition are observed by the before mentioned indicators and enable the researcher to draw online conclusions on mechanisms and interactions as well as the process stability. The monitoring difference between the temperature of slurry inflow and outflow should show constant values. If not the researcher will be alerted that, e.g. the volume flow rate of slurry inflow has decreased which causes instabilities of the running process and renders the results that are not useful.</ce:para>
+                     <ce:section view="all">
+                        <ce:label>6.2.1</ce:label>
+                        <ce:section-title>Monitoring the time-dependent evolution of the pH value</ce:section-title>
+                        <ce:para view="all">An indicator of the hydrolysis of silicon nitride stated as a mechanism in Section <ce:cross-ref refid="sec4">5.4</ce:cross-ref> is given by the observed increase of the pH value (<ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>
+                           <ce:float-anchor refid="fig7"/>). <ce:cross-ref refid="bib12">Jiang and Komanduri (2001)</ce:cross-ref> discussed several stoichiometric calculations of possible chemical reactions. Dependent on the environmental conditions it is assumed that nitrogen respectively ammonia is a reaction product which leads to the increase of the pH value. In order to determine a second indicator for the validity of the hypothesis, samples of the slurry were extracted periodically during the long-term experiments. With these samples measurements of the concentration of ammonium hydroxide were undertaken using photometric detection. The results revealed an increase of the concentration of ammonium hydroxide from 0.1<ce:hsp sp="0.25"/>mg/l at the beginning of the long-term experiments up to 13<ce:hsp sp="0.25"/>mg/l after 8<ce:hsp sp="0.25"/>h. Thus the validity of the hypothesis stated in Section <ce:cross-ref refid="sec4">5.4</ce:cross-ref> was affirmed. The pH graph in <ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref> shows three times a slide decrease, i.e. at the duration of 120, 200, and 380<ce:hsp sp="0.25"/>min. At these time steps the long-term experiments had to be stopped for a while. For the determination of the reasons for the described decrease ongoing research is needed. Additionally, the hydroxide concentration was calculated based on the monitored pH with the equilibrium constant of water (Eq. <ce:cross-ref refid="eq7">(7)</ce:cross-ref>). The second graph in <ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref> shows the anticipated linear trend with three clearly visible interrupts. It can be recognised that the hydroxide concentration increases quite rapidly in the first 300<ce:hsp sp="0.25"/>min of the long-term experiments. After that point, a slide transition of the increase can be seen and it decelerates because the hydroxide concentration approaches the saturation of hydroxide in ceria slurry. These findings could not have been detected in such a distinct way by solely analysing the pH graph.<ce:display>
+                              <ce:formula id="eq7">
+                                 <ce:label>(7)</ce:label>
+                                 <mml:math altimg="si9.gif" overflow="scroll">
+                                    <mml:mrow>
+                                       <mml:mi>c</mml:mi>
+                                       <mml:mo stretchy="false">(</mml:mo>
+                                       <mml:mtext>O</mml:mtext>
+                                       <mml:msup>
+                                          <mml:mtext>H</mml:mtext>
+                                          <mml:mo>−</mml:mo>
+                                       </mml:msup>
+                                       <mml:mo stretchy="false">)</mml:mo>
+                                       <mml:mo>=</mml:mo>
+                                       <mml:mfrac>
+                                          <mml:mrow>
+                                             <mml:msub>
+                                                <mml:mi>K</mml:mi>
+                                                <mml:mtext>w</mml:mtext>
+                                             </mml:msub>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:msup>
+                                                <mml:mrow>
+                                                   <mml:mn>10</mml:mn>
+                                                </mml:mrow>
+                                                <mml:mrow>
+                                                   <mml:mo>−</mml:mo>
+                                                   <mml:mtext>pH</mml:mtext>
+                                                </mml:mrow>
+                                             </mml:msup>
+                                          </mml:mrow>
+                                       </mml:mfrac>
+                                       <mml:mo>,</mml:mo>
+                                       <mml:mtext> </mml:mtext>
+                                       <mml:msub>
+                                          <mml:mi>K</mml:mi>
+                                          <mml:mtext>w</mml:mtext>
+                                       </mml:msub>
+                                       <mml:mtext> equilibrium</mml:mtext>
+                                       <mml:mtext> </mml:mtext>
+                                       <mml:mtext>constant</mml:mtext>
+                                       <mml:mtext> </mml:mtext>
+                                       <mml:mtext>of</mml:mtext>
+                                       <mml:mtext> </mml:mtext>
+                                       <mml:mtext>water</mml:mtext>
+                                    </mml:mrow>
+                                 </mml:math>
+                              </ce:formula>
+                           </ce:display>
+                        </ce:para>
+                        <ce:para view="all">Furthermore, the investigations confirmed the pH sensitivity of the material removal rate. Experiments with identical process parameters but a variation of the pH value from acidic (pH around 3) to alkaline (pH around 12) demonstrate that the material removal rate decreases in acidic as well as in alkaline environment (<ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>
+                           <ce:float-anchor refid="fig8"/>). These results correlate with the results of the above described investigations where high removal rates were realised with a pH value range from 5.5 to 8.5.</ce:para>
+                     </ce:section>
+                     <ce:section view="all">
+                        <ce:label>6.2.2</ce:label>
+                        <ce:section-title>Monitoring the time-dependent evolution of the electrical conductivity</ce:section-title>
+                        <ce:para view="all">A further clue on the hydrolysis is given by the increase of the electrical conductivity, shown in <ce:cross-ref refid="fig9">Fig. 9</ce:cross-ref>
+                           <ce:float-anchor refid="fig9"/>. The increase indicates the formation of ions, e.g. ammonium hydroxide. The second graph shows the weight loss of the sample. The correlation between the increase of conductivity and the amount of removed material support the hypothesis that the material removal is partly driven by chemical reactions. The results argue for the validity of the hypothesis on the chemo-mechanical mechanisms which was stated in Section <ce:cross-ref refid="sec4">5.4</ce:cross-ref>.</ce:para>
+                     </ce:section>
+                     <ce:section view="all">
+                        <ce:label>6.2.3</ce:label>
+                        <ce:section-title>Monitoring the process based on coefficient of friction and polishing power</ce:section-title>
+                        <ce:para view="all">In <ce:cross-ref refid="fig10">Fig. 10</ce:cross-ref>
+                           <ce:float-anchor refid="fig10"/> the time-related evolution of the material removal rate and the coefficient of friction is given. The graphs clearly show a correlation which allows to draw the conclusion that the operator can achieve a first impression on the material removal rate during the running process by observing the results of the online calculated coefficient of friction. During a single polishing step a stable process accounts for a stable value of the coefficient of friction. Any aberrations in the graphs indicate aberrations of the running process and thus missing stability. By analysing the data of the long-term experiments in <ce:cross-ref refid="fig10">Fig. 10</ce:cross-ref> the researcher learns that the height of the graph of the coefficient of friction already gives an impression of the trend of the material removal rate in the currently running step. Thus it is possible to preview the process results before any weight measurements were taken to quantify the amount of removed material. Alternatively, observing the monitored polishing power allows the same conclusions. The sole difference is that the coefficient of friction which is calculated as shown in Eq. <ce:cross-ref refid="eq5">(5)</ce:cross-ref> also takes into account the area of contact between tool and workpiece. Thus it is possible to compare several investigations with different workpiece geometries because the value of the coefficient of friction is normalised compared to the value of the polishing power.</ce:para>
+                        <ce:para view="all">In addition to the monitoring of the slurry condition the system is also applied to investigate the energetic coherences in the working gap. Hambücker already mentioned a linear correlation between the employed polishing work and the amount of removed material for the chemical–mechanical polishing of different glass types and thereby concluded that the process is generally reproducible (<ce:cross-ref refid="bib8">Hambücker, 2001</ce:cross-ref>). The long-term experiment confirms the linear correlation, as shown in <ce:cross-ref refid="fig11">Fig. 11</ce:cross-ref>
+                           <ce:float-anchor refid="fig11"/>. This indicates, that no significant change in the energetic coherences took place.</ce:para>
+                        <ce:para view="all">The comparison of different data sets regarding the polishing work enables further conclusions. As an example the energetic efficiency of different concentrations of ceria slurries is given in <ce:cross-ref refid="fig12">Fig. 12</ce:cross-ref>
+                           <ce:float-anchor refid="fig12"/>. No other experimental conditions were changed. In the left graph of <ce:cross-ref refid="fig12">Fig. 12</ce:cross-ref> it is shown that increasing the concentration of polishing agent induces an increase of the amount of removed material. Nevertheless, the increase does not feature a linear behaviour. The gain of doubling the concentration of ceria from 30 to 60<ce:hsp sp="0.25"/>g/l is much higher than the gain of 60–120 and to 180<ce:hsp sp="0.25"/>g/l, respectively. The graph on the right in <ce:cross-ref refid="fig12">Fig. 12</ce:cross-ref> analyses the specific energy of the different concentrations. A low value is favourable but keeping in mind that doubling the concentration also means doubling the price of the slurry, the concentration of 120 and 180<ce:hsp sp="0.25"/>g/l is regarded as not efficient. The costs of the slurry are doubled but as the amount of removed of material is increased by half the time needed for polishing decreases by one third. The drawn conclusion is that 60<ce:hsp sp="0.25"/>g/l does lead to an overall acceptable performance regarding material removal rate and costs for the slurry.</ce:para>
+                     </ce:section>
+                  </ce:section>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>7</ce:label>
+                  <ce:section-title>Conclusion</ce:section-title>
+                  <ce:para view="all">In order to elaborate a scientific insight regarding the process interactions in polishing a computer-based data acquisition and analysis was realised. The application is programmed in the well known LabView programming environment. The monitoring system integrates numerous measurement devices and calculations in order to facilitate the investigations and to indicate the process stability and reproducibility. The monitored indicators are polishing power resp. work, pH value, conductivity, zeta potential and temperature of the slurry. The online calculated indicators are coefficient of friction, the specific energy, and average values of the monitored indicators for statistical analyses on a higher aggregation level. This monitoring system can detect disturbances of process stability, which allows early identification or even the prevention of rejects in an industrial production.</ce:para>
+                  <ce:para view="all">The functionality of the presented system was verified by investigations of the polishing behaviour of silicon nitride. Therefore, the majority of indicators were exemplary discussed in the paper.</ce:para>
+                  <ce:para view="all">The monitoring system can be used for a great variety of materials. Future work will implement a process control, e.g. for online adjustment of the pH value in order to ensure the best performance regarding material removal rate and resulting surface quality in pH sensitive processes. Due to the mobility of the system it can be used in industrial environments and easily adapted to various polishing machinery. Beside the usage in ongoing research activities, the presented approach has already been used in industrial applications to support the understanding of specific questions on the interactions in serial production.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgements</ce:section-title>
+               <ce:para view="all">We sincerely thank the <ce:grant-sponsor xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">German Research Foundation (DFG)</ce:grant-sponsor> for financial support of the Collaborative Research Center SFB/TR4 (RWTH Aachen and University Bremen (Germany), Oklahoma State University at Stillwater (USA)).</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="bib1">
+                     <ce:label>Aytes et al., 2003</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Aytes, S.D., Armstrong, J.S., Mortensen, K.A., Russell, C.W., et al., 2003. Experimental investigation of the mechanism for CMP micro-scratch formation. In: University/Government/Industry Microelectronics Symposium. Proceedings of the 15th Biennial, pp. 107–109.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>Chinn, 2002</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Chinn, R.E., 2002. Ceramography. ASM International, Materials Park.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>Colloidal Dynamics, 2000</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Colloidal Dynamics Ltd., 2000. The CMP Slurry Monitor. Australia.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>Dambon, 2005</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Dambon, O., 2005. Das Polieren von Stahl für den Werkzeug- und Formenbau. Ph.D. thesis. RWTH Aachen, Germany.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>Delgado et al., 2005</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.V.</ce:given-name>
+                                 <ce:surname>Delgado</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Gonzalez-Caballero</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Hunter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.K.</ce:given-name>
+                                 <ce:surname>Koopal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lyklema</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Measurement and interpretation of electrokinetic phenomena</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Pure Appl. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>77</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1753</sb:first-page>
+                              <sb:last-page>1805</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>Evans et al., 2003</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Evans</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Paul</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Dornfeld</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Lucca</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Byrne</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Tricard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Klocke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Dambon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.A.</ce:given-name>
+                                 <ce:surname>Mullany</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Material removal mechanisms in lapping and polishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>CIRP Ann.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>611</sb:first-page>
+                              <sb:last-page>633</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>Gitis et al., 2001</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Gitis, N., Vinogrado, M., Gao, C., 2001. Quantitative evaluation of CMP processes and materials using a CMP test with multiple sensors. In: Proceedings of the Second International Conference on Microelectronics and Interfaces. American Vacuum Society, Santa Clara.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>Hambücker, 2001</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Hambücker, S., 2001. Technologie der Politur sphärischer Optiken mit Hilfe der Synchrospeed-Kinematik. Ph.D. thesis. RWTH Aachen, Germany.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>Hu et al., 1998</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.Z.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Gutmann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.P.</ce:given-name>
+                                 <ce:surname>Chow</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Silicon nitride chemical–mechanical polishing mechanisms</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Electrochem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>145</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3919</sb:first-page>
+                              <sb:last-page>3925</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>Hunter, 2001</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Hunter</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Measuring zeta potential in concentrated industrial slurries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Colloids Surf. A: Physicochem. Eng. Aspects</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>195</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>205</sb:first-page>
+                              <sb:last-page>214</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>Jiang and Komanduri, 1998</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Komanduri</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>On the finishing of Si<ce:inf loc="post">3</ce:inf>N<ce:inf loc="post">4</ce:inf> balls for bearing applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Wear</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>215</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>267</sb:first-page>
+                              <sb:last-page>278</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>Jiang and Komanduri, 2001</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Komanduri</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical mechanical polishing in magnetic float polishing of advanced ceramic and glass</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Key Eng. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>202–203</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>14</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>Klocke et al., 2005a</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Klocke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Dambon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Schneider</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Removal mechanisms in fine polishing calcium fluoride and silicon</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Prod. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5</sb:first-page>
+                              <sb:last-page>10</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>Klocke et al., 2005b</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Klocke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Dambon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.G.</ce:given-name>
+                                 <ce:surname>Capudi Filho</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Influence of the polishing process on the near-surface zone of hardened and unhardened steel</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Wear</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>258</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1794</sb:first-page>
+                              <sb:last-page>1803</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>Klocke et al., 2007</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Klocke, F., Zunke, R., Dambon, O., 2007. Chemo-mechanical polishing of silicon nitride. In: Proceedings of 7th euspen International Conference. Bremen, Germany, pp. 356–359.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>Klocke et al., 2008</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Klocke, F., Brecher, C., Zunke, R., Tuecks, R., 2008. Finishing complex surfaces with zonal polishing tools. In: Mitsuishi, M., Ueda, K., Kimura, F. (Eds.), Manufacturing Systems and Technologies for the New Frontier. The 41st CIRP Conference on Manufacturing Systems. Tokyo, pp. 445–448.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>Kojima et al., 2000</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kojima</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Miyajima</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Akaboshi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Yogo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ishimoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Okuda</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Application of CMP process monitor to Cu polishing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>IEEE Trans. Semicond. Manuf.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>293</sb:first-page>
+                              <sb:last-page>299</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>Matsuzaki et al., 2002</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Matsuzaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Tanzawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Igarashi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Suzuki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Tokushige</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Development of data logging system for chemical mechanical polishing and its application for process control</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>IEEE Trans. Semicond. Manuf.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>438</sb:first-page>
+                              <sb:last-page>441</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>Oliver, 2004</ce:label>
+                     <sb:reference>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>M.R.</ce:given-name>
+                                    <ce:surname>Oliver</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Chemical–Mechanical Planarization of Semiconductor Materials</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2004</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer</sb:name>
+                                 <sb:location>Berlin</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>Park et al., 1998</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Hang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Chung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Control of microscratches in chemical–mechanical polishing process for shallow trench isolation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Jpn. J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5849</sb:first-page>
+                              <sb:last-page>5853</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>Preston, 1927</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.W.</ce:given-name>
+                                 <ce:surname>Preston</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The theory and design of plate glass polishing machines</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Soc. Glass Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1927</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>214</sb:first-page>
+                              <sb:last-page>219</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>Sandhu et al., 1991</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Sandhu, G., Schultz, L., Doan, T., July 1991. US Patent 5,036,015.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>
