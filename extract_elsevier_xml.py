@@ -3,26 +3,19 @@ import sys
 from lxml import etree
 
 def extract_elsevier_xml(xml_content):
-    # Define namespaces
-    namespaces = {
-        'prism': 'http://prismstandard.org/namespaces/basic/2.0/',
-        'dc': 'http://purl.org/dc/elements/1.1/',
-        'ce': 'http://www.elsevier.com/xml/common/dtd',
-        'xocs': 'http://www.elsevier.com/xml/xocs/dtd'
-    }
-
     # Parse the XML content
     parser = etree.XMLParser(recover=True)
     root = etree.fromstring(xml_content.encode('utf-8'), parser=parser)
     
+    # Get the actual namespaces from the XML
+    namespaces = root.nsmap
+    
     print(f"Root tag: {root.tag}", file=sys.stderr)
-    print(f"Root children: {[child.tag for child in root]}", file=sys.stderr)
+    print(f"Namespaces: {namespaces}", file=sys.stderr)
     
     # Extract journal, doi, and title
     coredata = root.find('coredata')
     print(f"Coredata found: {coredata is not None}", file=sys.stderr)
-    if coredata is not None:
-        print(f"Coredata children: {[child.tag for child in coredata]}", file=sys.stderr)
     
     journal = coredata.find('prism:publicationName', namespaces) if coredata is not None else None
     doi = coredata.find('prism:doi', namespaces) if coredata is not None else None
@@ -43,10 +36,6 @@ def extract_elsevier_xml(xml_content):
     # Extract sections
     sections = root.findall('.//ce:section', namespaces)
     print(f"Number of sections found: {len(sections)}", file=sys.stderr)
-
-    # Print full XML structure
-    print("\nFull XML structure:", file=sys.stderr)
-    print(etree.tostring(root, pretty_print=True).decode('utf-8'), file=sys.stderr)
 
     # Organize the extracted information into a JSON structure
     json_data = {

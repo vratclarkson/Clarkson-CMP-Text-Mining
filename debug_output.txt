@@ -1,70 +1,24 @@
 XML content read successfully
 Root tag: full-text-retrieval-response
-Root children: ['coredata', 'originalText']
+Namespaces: {}
 Coredata found: True
-Coredata children: ['prism:doi', 'dc:title', 'prism:publicationName']
-Journal element found: False
-DOI element found: False
-Title element found: False
-Number of keywords found: 0
-Abstract found: False
-Number of sections found: 0
+An error occurred: prefix 'prism' not found in prefix map
+Traceback (most recent call last):
+  File "src\\lxml\\_elementpath.py", line 84, in lxml._elementpath.xpath_tokenizer
+KeyError
 
-Full XML structure:
-<full-text-retrieval-response>
-  <coredata>
-    <prism:doi>10.1016/j.apsusc.2015.03.170</prism:doi>
-    <dc:title>Synthesis and characterization of cerium oxide nanoparticles: A mechanistic study</dc:title>
-    <prism:publicationName>Applied Surface Science</prism:publicationName>
-  </coredata>
-  <originalText>
-    <xocs:doc>
-      <xocs:serial-item>
-        <article>
-          <head>
-            <ce:abstract>
-              <ce:abstract-sec>
-                <ce:simple-para>Cerium oxide nanoparticles were synthesized using a simple precipitation method. The effects of reaction parameters such as cerium precursor concentration, ammonia concentration, and reaction temperature on the size and morphology of the nanoparticles were investigated.</ce:simple-para>
-              </ce:abstract-sec>
-            </ce:abstract>
-            <ce:keywords>
-              <ce:keyword>Cerium oxide</ce:keyword>
-              <ce:keyword>Nanoparticles</ce:keyword>
-              <ce:keyword>Precipitation method</ce:keyword>
-            </ce:keywords>
-          </head>
-          <body>
-            <ce:sections>
-              <ce:section>
-                <ce:section-title>Introduction</ce:section-title>
-                <ce:para>Cerium oxide nanoparticles have attracted significant attention due to their unique properties and potential applications in various fields.</ce:para>
-              </ce:section>
-              <ce:section>
-                <ce:section-title>Experimental</ce:section-title>
-                <ce:para>Cerium nitrate hexahydrate and ammonia solution were used as precursors. The synthesis was carried out at different temperatures and concentrations.</ce:para>
-              </ce:section>
-              <ce:section>
-                <ce:section-title>Results and Discussion</ce:section-title>
-                <ce:para>The synthesized nanoparticles were characterized using XRD, TEM, and FTIR. The results showed that the reaction parameters significantly influenced the size and morphology of the nanoparticles.</ce:para>
-              </ce:section>
-              <ce:section>
-                <ce:section-title>Conclusion</ce:section-title>
-                <ce:para>A simple and effective method for synthesizing cerium oxide nanoparticles was demonstrated. The study provides insights into the mechanistic aspects of nanoparticle formation.</ce:para>
-              </ce:section>
-            </ce:sections>
-          </body>
-        </article>
-      </xocs:serial-item>
-    </xocs:doc>
-  </originalText>
-</full-text-retrieval-response>
+During handling of the above exception, another exception occurred:
 
-Extraction complete. Results saved in 'extracted_paper_01.json'
-
-Extracted Data:
-Journal: None
-DOI: None
-Title: None
-Keywords: []
-Abstract: None...
-Number of sections: 0
+Traceback (most recent call last):
+  File "C:\Users\ravit\Documents\Cerium_Oxide_Mining\Clarkson-CMP-Text-Mining\extract_elsevier_xml.py", line 75, in main
+    json_data = extract_elsevier_xml(xml_content)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ravit\Documents\Cerium_Oxide_Mining\Clarkson-CMP-Text-Mining\extract_elsevier_xml.py", line 20, in extract_elsevier_xml
+    journal = coredata.find('prism:publicationName', namespaces) if coredata is not None else None
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "src\\lxml\\etree.pyx", line 1573, in lxml.etree._Element.find
+  File "src\\lxml\\_elementpath.py", line 319, in lxml._elementpath.find
+  File "src\\lxml\\_elementpath.py", line 308, in lxml._elementpath.iterfind
+  File "src\\lxml\\_elementpath.py", line 285, in lxml._elementpath._build_path_iterator
+  File "src\\lxml\\_elementpath.py", line 87, in xpath_tokenizer
+SyntaxError: prefix 'prism' not found in prefix map
